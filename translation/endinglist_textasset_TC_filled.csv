@@ -1,0 +1,55 @@
+﻿Index,Chapter,Ending,Unknown,JP_ID,JP_Title,JP_Description,EN2_ID,EN2_Title,EN2_Description,KO_ID,KO_Title,KO_Description,TC_ID,TC_Title,TC_Description,Translator_Notes,Status
+0,1,0,0,ED No.1,クリアエンド,首を吊って死んだ世以子。残された直美の運命は？,ED No.1,Chapter Clear,"Seiko hangs herself, leaving Naomi behind.",ED No.1,챕터 클리어,목을 매고 죽어있는 세이코. 남겨져 버린 나오미의 운명은?,ED No.1,通關結局,世以子上吊身亡。被留下的直美命運將會如何？,,Translated
+1,1,1,0,ED No.2,バッドエンド１,霊に操られ、自らハサミで舌を切断して死亡。,ED No.2,Wrong End 1,Possessed by spirits; severed own tongue with scissors.,ED No.2,배드 엔딩 1,유령에 조종당해 스스로 가위로 혀를 잘라 사망.,ED No.2,壞結局１,受到怨靈操控，以剪刀傷害自己後身亡。,,Translated
+2,1,2,0,ED No.3,バッドエンド２,黒い霧のような霊に襲われ死亡。,ED No.3,Wrong End 2,Attacked and enveloped by black mist-like spirit.,ED No.3,배드 엔딩 2,검은 안개와 같은 유령의 습격에 사망.,ED No.3,壞結局２,遭到如黑霧般的怨靈襲擊而身亡。,,Translated
+3,1,3,0,ED No.4,バッドエンド３,犠牲者の手記を最後まで読んだことにより黒化して死亡。,ED No.4,Wrong End 3,Read Victim's Memoirs to completion and succumbed to Darkening.,ED No.4,배드 엔딩 3,희생자의 수기를 끝까지 읽고 흑화하여 사망.,ED No.4,壞結局３,讀完《犧牲者手記》後黑化身亡。,,Translated
+4,2,0,0,ED No.1,クリアエンド,繭の凄惨な死。犯人の懺悔は偽りか？,ED No.1,Chapter Clear,Mayu dies a gruesome death. Was the killer's repentance a lie?,ED No.1,챕터 클리어,마유의 처참한 죽음. 범인의 참회는 거짓?,ED No.1,通關結局,繭慘遭殺害。犯人的懺悔難道是謊言？,,Translated
+5,2,1,0,ED No.2,バッドエンド１,生き埋めにされて死亡。,ED No.2,Wrong End 1,Buried alive.,ED No.2,배드 엔딩 1,생매장 당해 사망.,ED No.2,壞結局１,遭到活埋而身亡。,,Translated
+6,2,2,0,ED No.3,バッドエンド２,ワイヤートラップにより、体を切断されて死亡。,ED No.3,Wrong End 2,Body bisected by wire trap.,ED No.3,배드 엔딩 2,와이어 트랩에 몸이 절단당하여 사망.,ED No.3,壞結局２,遭鋼絲陷阱重創而身亡。,,Translated
+7,2,3,0,ED No.4,バッドエンド３,あゆみに階段から突き落とされて死亡。,ED No.4,Wrong End 3,Pushed down stairs by Ayumi; died from multiple impact wounds.,ED No.4,배드 엔딩 3,아유미의 밀침에 의해 계단으로부터 추락하여 사망.,ED No.4,壞結局３,被あゆみ推下樓梯而身亡。,,Translated
+8,2,4,0,ED No.5,バッドエンド４,犠牲者の手記を最後まで読んでしまい、あゆみを殺害。,ED No.5,Wrong End 4,Read Victim's Memoirs to completion and killed Ayumi.,ED No.5,배드 엔딩 4,희생자의 수기를 끝까지 읽고 아유미를 살해.,ED No.5,壞結局４,讀完《犧牲者手記》後殺害了あゆみ。,,Translated
+9,3,0,0,ED No.1,クリアエンド,由香とはぐれた哲志の前に現れた冴之木七星。彼女は何者か？,ED No.1,Chapter Clear,"After being separated from Yuka, Satoshi runs into Naho Saenoki. Just who is she?",ED No.1,챕터 클리어,유카와 갈라진 사토시 앞에 나타난 사에노키 나호. 그녀는 누구?,ED No.1,通關結局,與由香走散後，哲志遇見了冴之木七星。她究竟是誰？,,Translated
+10,3,1,0,ED No.2,バッドエンド１,霊に呪われ、２階から落下し死亡。,ED No.2,Wrong End 1,Cursed by spirit; fell from second floor and died.,ED No.2,배드 엔딩 1,유령의 저주로 2층으로부터 추락하여 사망.,ED No.2,壞結局１,受到怨靈詛咒，從二樓墜落身亡。,,Translated
+11,3,2,0,ED No.3,バッドエンド２,霊に目をえぐられ死亡。,ED No.3,Wrong End 2,Eyes dug out of skull by spirit.,ED No.3,배드 엔딩 2,유령이 눈을 도려내어 사망.,ED No.3,壞結局２,遭怨靈襲擊而身亡。,,Translated
+12,3,3,0,ED No.4,バッドエンド３,犠牲者の手記を読むうちに、心を蝕まれ死亡。,ED No.4,Wrong End 3,Read Victim's Memoirs; soul was taken over by despair and rotted away.,ED No.4,배드 엔딩 3,희생자의 수기를 읽던 중에 마음을 침식당해 사망.,ED No.4,壞結局３,閱讀《犧牲者手記》時，心靈遭到侵蝕而身亡。,,Translated
+13,3,4,0,ED No.5,バッドエンド４,毒により体力を奪われて死亡。,ED No.5,Wrong End 4,Succumbed to poison and collapsed.,ED No.5,배드 엔딩 4,독에 의해 체력을 빼앗겨 사망.,ED No.5,壞結局４,受到毒素侵蝕，體力耗盡而身亡。,,Translated
+14,4,0,0,ED No.1,クリアエンド,現世に戻った良樹とあゆみだったが…,ED No.1,Chapter Clear,"Yoshiki and Ayumi return to the real world, yet...",ED No.1,챕터 클리어,"이승으로 돌아온 요시키와 아유미, 허나...",ED No.1,通關結局,良樹與あゆみ回到了現世，然而……,,Translated
+15,4,1,0,ED No.2,バッドエンド１,子供の霊に襲われて死亡。,ED No.2,Wrong End 1,Attacked and killed by child spirit.,ED No.2,배드 엔딩 1,어린 유령에 습격당해 사망.,ED No.2,壞結局１,遭到孩童怨靈襲擊而身亡。,,Translated
+16,4,2,0,ED No.3,バッドエンド２,ハサミで胸を突かれ、失血死。,ED No.3,Wrong End 2,Scissor plunged into chest; bled out.,ED No.3,배드 엔딩 2,가위에 가슴이 찔려 실혈사.,ED No.3,壞結局２,被剪刀刺中胸口，失血身亡。,,Translated
+17,4,3,0,ED No.4,バッドエンド３,排水溝に吸い込まれて死亡。,ED No.4,Wrong End 3,Sucked into pool drain; body shredded.,ED No.4,배드 엔딩 3,배수구에 빨려 들어가 사망.,ED No.4,壞結局３,被吸入排水口而身亡。,,Translated
+18,4,4,0,ED No.5,バッドエンド４,よどんだ水の中で溺死。,ED No.5,Wrong End 4,"Drowned in murky, stagnant water.",ED No.5,배드 엔딩 4,고인 물속에서 익사.,ED No.5,壞結局４,在混濁的積水中溺斃。,,Translated
+19,4,5,0,ED No.6,エクストラエンド,生徒のために…結衣の最後。,ED No.6,Extra End,"Ms. Yui's final moments, devoted to the very end.",ED No.6,엑스트라 엔딩,학생들을 위하여...유이의 최후.,ED No.6,額外結局,為了學生……結衣最後的結局。,,Translated
+20,5,0,0,ED No.1,トゥルーエンド,悲しみの終焉。,ED No.1,True End,The tragedy comes to an end.,ED No.1,트루 엔딩,슬픔의 끝.,ED No.1,真結局,悲傷迎來終結。,,Translated
+21,5,1,0,ED No.2,エクストラエンド,由香と直美がいない世界に戻る。,ED No.2,Extra End,Returned to a world without Yuka or Naomi.,ED No.2,엑스트라 엔딩,유카와 나오미가 없는 세계로 귀환.,ED No.2,額外結局,回到一個沒有由香與直美的世界。,,Translated
+22,5,2,0,ED No.3,バッドエンド２,人体模型に襲われて焼死。,ED No.3,Wrong End 2,Burned to death by anatomical model.,ED No.3,배드 엔딩 2,인체모형에 습격당해 불에 타 사망.,ED No.3,壞結局２,遭人體模型襲擊並被燒死。,,Translated
+23,5,3,0,ED No.4,バッドエンド３,一人だけ生き残り逆打ちができずに脱出できなくなる。,ED No.4,Wrong End 3,Rendered unable to escape due to presence of only one survivor.,ED No.4,배드 엔딩 3,홀로 생존하여 저주를 해제하지 못한 채 탈출에 실패하게 된다.,ED No.4,壞結局３,只剩一人生還，無法進行逆打而失去逃生機會。,,Translated
+24,5,4,0,ED No.5,バッドエンド４,狂った直美に襲われる。,ED No.5,Wrong End 4,Attacked and killed by Darkened Naomi.,ED No.5,배드 엔딩 4,미쳐버린 나오미한테 습격당한다.,ED No.5,壞結局４,遭到失控的直美襲擊。,,Translated
+25,5,5,0,ED No.6,バッドエンド５,黒化したあゆみに襲われる。,ED No.6,Wrong End 5,Attacked and killed by Darkened Ayumi.,ED No.6,배드 엔딩 5,흑화한 아유미한테 습격당한다.,ED No.6,壞結局５,遭到黑化的あゆみ襲擊。,,Translated
+26,5,6,0,ED No.7,バッドエンド６,脱出失敗。雪により、永遠に天神小から脱出できなくなる。,ED No.7,Wrong End 6,Unable to escape; trapped in Heavenly Host for all eternity by Yuki.,ED No.7,배드 엔딩 6,탈출 실패. 눈에 갇혀 영원히 텐진초를 빠져나갈 수 없게 된다.,ED No.7,壞結局６,逃脫失敗。受到雪的阻撓，永遠無法離開天神小學校。,,Translated
+27,5,7,0,ED No.8,バッドエンド７,永遠に天神小の悪夢を繰り返す。,ED No.8,Wrong End 7,Doomed to repeat events of Heavenly Host in endless cycle.,ED No.8,배드 엔딩 7,텐진초의 악몽이 영원히 반복된다.,ED No.8,壞結局７,永遠重複天神小學校的惡夢。,,Translated
+28,5,8,0,ED No.9,バッドエンド８,大量の虫が溜まったプールに沈み死亡。,ED No.9,Wrong End 8,Drowned in pool of insects.,ED No.9,배드 엔딩 8,벌레로 꽉 차 있는 풀에 빠져 사망.,ED No.9,壞結局８,沉入聚滿大量蟲子的泳池而身亡。,,Translated
+29,6,0,0,ED No.1,エクストラ１,クリアエンド。還るべき場所への手助けをした。,ED No.1,Extra1,Extra Clear: Helped them return to where they belong.,ED No.1,엑스트라1,클리어 엔딩 있어야 할 곳에 돌아가도록 도와주었다.,ED No.1,額外１,通關結局。幫助對方回到應歸之處。,,Translated
+30,6,1,0,ED No.2,エクストラ１,バッドエンド１。人魂になぶり殺しにされる。,ED No.2,Extra1,Wrong End 1: Tormented by spirits until death.,ED No.2,엑스트라1,배드 엔딩 1: 배드엔딩1. 혼령에 의해 갖은 고통을 받다 죽게 된다.,ED No.2,額外１,壞結局１。遭人魂折磨至死。,,Translated
+31,6,2,0,ED No.3,エクストラ１,バッドエンド２。死ぬまで校舎をさ迷う。,ED No.3,Extra1,Wrong End 2: Wandered halls of school until death.,ED No.3,엑스트라1,배드 엔딩 2: 배드엔딩2. 죽을 때 까지 학교에서 길을 잃고 헤매게 된다.,ED No.3,額外１,壞結局２。在校舍中徘徊直到死亡。,,Translated
+32,6,3,0,ED No.4,エクストラ２,クリアエンド。また会うかも知れない相手。,ED No.4,Extra2,Extra Clear: Maybe we'll meet again.,ED No.4,엑스트라2,클리어 엔딩 다시 만날지도 모르는 상대.,ED No.4,額外２,通關結局。或許還會再次相遇。,,Translated
+33,6,4,0,ED No.5,エクストラ３,クリアエンド。姉は応援している。,ED No.5,Extra3,Extra Clear: A supportive sister.,ED No.5,엑스트라3,클리어 엔딩 언니는 널 지지해주고 있어.,ED No.5,額外３,通關結局。姊姊一直支持著你。,,Translated
+34,6,5,0,ED No.6,エクストラ４,クリアエンド。巨乳好きの性癖。,ED No.6,Extra4,Extra Clear: Big tiddy lover.,ED No.6,엑스트라4,클리어 엔딩 큰 가슴 좋아하는...,ED No.6,額外４,通關結局。喜歡豐滿女性的癖好。,,Translated
+35,6,6,0,ED No.7,エクストラ５,クリアエンド。ガールズトークのひと時。,ED No.7,Extra5,Extra Clear: A real heart-to-heart.,ED No.7,엑스트라5,클리어 엔딩 잠깐의 걸즈토크.,ED No.7,額外５,通關結局。一段女生之間的談心時光。,,Translated
+36,6,7,0,ED No.8,エクストラ６,クリアエンド。気を遣われるのが嫌いな委員長。,ED No.8,Extra6,Extra Clear: The class rep hates being a burden. ,ED No.8,엑스트라6,클리어 엔딩 남에게 염려 끼치는 것이 싫은 회장.,ED No.8,額外６,通關結局。不喜歡別人為自己操心的班長。,,Translated
+37,6,8,0,ED No.9,エクストラ７,クリアエンド。『逆打ち』の方法を試しに行く。,ED No.9,Extra7,Extra Clear: Gave the escape plan a shot.,ED No.9,엑스트라7,"클리어 엔딩 ""저주 해제""의 방법을 시험해 보기로.",ED No.9,額外７,通關結局。前去嘗試「逆打」的方法。,,Translated
+38,6,9,0,ED No.10,エクストラ８,クリアエンド。ゴホウビヲモラウタメニ。,ED No.10,Extra8,Extra Clear: For a reward.,ED No.10,엑스트라8,클리어 엔딩 보상을 받기 위하여.,ED No.10,額外８,通關結局。為了得到獎勵。,,Translated
+39,6,10,0,ED No.11,エクストラ９,クリアエンド。男同士で腕組んで帰宅。,ED No.11,Extra9,Extra Clear: Two boys return home arm in arm.,ED No.11,엑스트라9,클리어 엔딩 사내끼리 함께 귀가.,ED No.11,額外９,通關結局。兩個男生挽著手回家。,,Translated
+40,6,11,0,ED No.12,エクストラ１０,クリアエンド。『香りのビーズ』のヒミツの効果。,ED No.12,Extra10,Extra Clear: The scented beads' secret power.,ED No.12,엑스트라10,"클리어 엔딩 ""향기나는 구슬""의 숨겨진 효과.",ED No.12,額外１０,通關結局。「香味珠子」的祕密效果。,,Translated
+41,6,12,0,ED No.13,エクストラ１１,クリアエンド。辛い状況でも、諦めずに探し求める。,ED No.13,Extra11,"Extra Clear: Never gave up the search, no matter how bad things got.",ED No.13,엑스트라11,클리어 엔딩 힘들어도 포기하지 않고 답을 찾는거야.,ED No.13,額外１１,通關結局。即使處境艱難，也不放棄繼續尋找。,,Translated
+42,6,13,0,ED No.14,エクストラ１２,クリアエンド。世紀の映像を撮り、次の人に繋ぐ。,ED No.14,Extra12,Extra Clear: Recorded the footage of a lifetime for future generations.,ED No.14,엑스트라12,클리어 엔딩 대박 동영상 찍어 사람들에게 보여주는거야.,ED No.14,額外１２,通關結局。拍下世紀影像，留給後來的人。,,Translated
+43,6,14,0,ED No.15,エクストラ１２,バッドエンド１。出口に頭からつっこみ、首を骨折して死亡。,ED No.15,Extra12,Wrong End 1: Flung headlong into exit; neck broken.,ED No.15,엑스트라12,배드 엔딩 1: 배드엔딩1. 출구에 머리를 들이 밀어 목뼈가 부러져 사망.,ED No.15,額外１２,壞結局１。頭部撞上出口，因頸部重傷而身亡。,,Translated
+44,6,15,0,ED No.16,エクストラ１２,バッドエンド２。霊に舌と目を引き抜かれて死亡。,ED No.16,Extra12,Wrong End 2: Tongue and eyes removed by spirit.,ED No.16,엑스트라12,배드 엔딩 2: 배드엔딩2. 유령한테 혀과 눈이 뽑혀 사망.,ED No.16,額外１２,壞結局２。遭怨靈襲擊而身亡。,,Translated
+45,6,16,0,ED No.17,エクストラ１２,バッドエンド３。霊に舌と内臓を引き抜かれて死亡。,ED No.17,Extra12,Wrong End 3: Tongue and entrails removed by spirit.,ED No.17,엑스트라12,배드 엔딩 3: 배드엔딩3. 유령한테 혀와 내장을 빼았겨 사망.,ED No.17,額外１２,壞結局３。遭怨靈襲擊而身亡。,,Translated
+46,6,17,0,ED No.18,エクストラ１２,バッドエンド４。ヨシカズにハンマーで殴打され死亡。,ED No.18,Extra12,Wrong End 4: Struck with hammer by Yoshikazu.,ED No.18,엑스트라12,배드 엔딩 4: 배드엔딩4. 요시카즈의 망치에 구타당하여 사망.,ED No.18,額外１２,壞結局４。遭ヨシカズ以鐵鎚襲擊而身亡。,,Translated
+47,6,18,1,ED No.19,エクストラ１３,クリアエンド。救世主のゲーム機に助けられる。,ED No.19,Extra13,Extra Clear: Saved by your savior's game console.,ED No.19,엑스트라13,클리어 엔딩 구세주의 게임기의 도움을 받는다.,ED No.19,額外１３,通關結局。受到救世主的遊戲機幫助。,,Translated
+48,6,19,1,ED No.20,エクストラ１３,バッドエンド１。人魂たちの怒りを買い、襲われて死亡。,ED No.20,Extra13,Wrong End 1: Earned the ire of the spirits; attacked and killed.,ED No.20,엑스트라13,배드 엔딩 1: 혼령들을 화나게 하여 습격당해 사망.,ED No.20,額外１３,壞結局１。激怒人魂後遭到襲擊而身亡。,,Translated
+49,6,20,1,ED No.21,エクストラ１４,クリアエンド。校舎を彷徨い続ける人殺し。,ED No.21,Extra14,Extra Clear: A murderer who prowls the school's halls.,ED No.21,엑스트라14,클리어 엔딩 계속하여 학교 건물을 떠도는 살인자.,ED No.21,額外１４,通關結局。在校舍中持續徘徊的殺人犯。,,Translated
+50,6,21,1,ED No.22,エクストラ１５,クリアエンド。絶対に生き残ってくれという想い。,ED No.22,Extra15,Extra Clear: Determined to keep her alive.,ED No.22,엑스트라15,클리어 엔딩 꼭 살아남아 있어 달라는 소원.,ED No.22,額外１５,通關結局。希望她無論如何都能活下去。,,Translated
+51,6,22,1,ED No.23,エクストラ１５,バッドエンド１。人魂たちの怒りを買い、襲われて死亡。,ED No.23,Extra15,Wrong End 1: He bought the wrath of the human souls and was attacked and died.,ED No.23,엑스트라15,배드 엔딩 1: 붉은 혼령에 포위당하여 쓰러지는 요시키.,ED No.23,額外１５,壞結局１。激怒人魂後遭到襲擊而身亡。,,Translated
+52,6,23,1,ED No.24,エクストラ１５,バッドエンド２。人魂たちの怒りを買い、襲われて死亡。,ED No.24,Extra15,Wrong End 2: He bought the wrath of the human souls and was attacked and died.,ED No.24,엑스트라15,배드 엔딩 2: 붉은 혼령에 포위당하여 쓰러지는 요시키.,ED No.24,額外１５,壞結局２。激怒人魂後遭到襲擊而身亡。,,Translated
+53,6,24,1,ED No.25,エクストラ１６,クリアエンド。間違いなく伝説の生存者と出会った。,ED No.25,Extra16,Extra Clear: Met that Legendary Survivor.,ED No.25,엑스트라16,클리어 엔딩 틀림없이 전설속의 생존자와 만났어.,ED No.25,額外１６,通關結局。毫無疑問地遇見了傳說中的生還者。,,Translated

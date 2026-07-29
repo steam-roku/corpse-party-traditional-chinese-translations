@@ -1,0 +1,37 @@
+﻿Index,JP_Name,JP_Page1,JP_Page2,JP_Page3,EN2_Name,EN2_Page1,EN2_Page2,EN2_Page3,KO_Name,KO_Page1,KO_Page2,KO_Page3,TC_Name,TC_Page1,TC_Page2,TC_Page3,NameFlag,VoiceNo_low,VoiceNo_high,Timing,VoiceAutoPage,TextSpeed,Button,AutoPage,ExtVoice,Translator_Notes,Status
+0,由香,お兄ちゃ～ん！　見て見てこれ～！, , ,Yuka,Big brooootheer! Lookee what I got!,,,유카,오빠~! 봐봐 이거~!,,,由香,哥哥～！　你看你看這個～！,,,1,205,29,1,0,0,0,0,0,,Translated
+1,由香,すっごいの、甘いの……！　あれ？, , ,Yuka,"It's super-cool, and smells super-sweet! ...Huh?",,,유카,무지 단......! 어라?,,,由香,好厲害的，好香的……！　咦？,,,1,0,0,1,0,0,0,0,0,,Translated
+2,由香,いないんだぁ、なぁんだ。, , ,Yuka,He's not here? Awww...,,,유카,"없네, 뭐야.",,,由香,不在啊，什麼嘛。,,,1,207,29,1,0,0,0,0,0,,Translated
+3,母,由香～？　帰ったの？　ただいまって言いなさい。, , ,Mom,Yuka...?,I didn't know you were back. You should say,something when you get home!,엄마,유카~? 왔니? 다녀왔다고 하렴.,,,母親,由香～？　回來了？　要說我回來了喔。,,,1,161,14,1,0,0,0,0,0,,Translated
+4,由香,ただいま～～！, , ,Yuka,I'm hoooooome!,,,유카,다녀왔어~~!,,,由香,我回來了～～！,,,1,208,29,1,0,0,0,0,0,,Translated
+5,母,由香、あんたベルマーク集めてたよね。, , ,Mom,"Hey, weren't you collecting those promotional UPC",codes with the bell symbol on them?,,엄마,"유카, 너 벨 마크 모으고 있지.",,,母親,由香，妳在收集那個貝爾標誌對吧。,,,1,0,0,1,0,0,0,0,0,,Translated
+6,由香,うん。, , ,Yuka,Uh-huh.,,,유카,응.,,,由香,嗯。,,,1,209,29,1,0,0,0,0,0,,Translated
+7,母,ほら、一杯貰って来たよ。,お隣の佐藤さんが由香ちゃんに、って。, ,Mom,"Well, today's your lucky day. I got a whole bunch of",them from Mrs. Satou next door. She said to give,them to you.,엄마,"자, 잔뜩 받아 왔단다.",옆집 사토 씨가 유카한테 주라고 하더라.,,母親,你看，我幫妳拿了好多回來喔。,隔壁的佐藤太太說要給由香的。,,1,163,14,1,0,0,0,0,0,,Translated
+8,由香,わぁ！, , ,Yuka,Whoa!,,,유카,와아!,,,由香,哇！,,,1,210,29,1,0,0,0,0,0,,Translated
+9,母,良かったね。どうする？　自分で学校持ってく？,お母さんに任せる？, ,Mom,"Pretty good haul, no? So what are you gonna do with","them? Can you take them to school yourself, or would",you prefer I drive them over?,엄마,잘 됐구나. 어떻게 할래? 네가 직접 학교에 가지고 갈래?,아니면 엄마한테 맡길래?,,母親,太好了呢。怎麼辦？　要自己帶去學校？,還是交給媽媽？,,1,164,14,1,0,0,0,0,0,,Translated
+10,由香,由香持ってく！, , ,Yuka,I'll take 'em!,,,유카,유카가 가지고 갈래!,,,由香,由香自己帶去！,,,1,211,29,1,0,0,0,0,0,,Translated
+11,母,そう。褒められておいで……って、,あんたも一杯溜めたのねぇ。何買ってるの？, ,Mom,All right. Looking to hog all the glory for,"yourself, eh? ...Wow, you've got quite a haul",too! What on earth have you been buying?,엄마,그래. 칭찬 받겠네...... 아,너도 많이 모았구나. 뭘 샀니?,,母親,是嗎。去好好被人誇獎吧……,妳也收集了不少呢。買了什麼啊？,,1,165,14,1,0,0,0,0,0,,Translated
+12,由香,ビーズ！, , ,Yuka,Beads!,,,유카,비즈!,,,由香,珠子！,,,1,212,29,1,0,0,0,0,0,,Translated
+13,母,あ～～～　……なるほど。『香りのビーズ』ね。, , ,Mom,"Ohhhh yeeaaah, those scented beads you keep carrying",on about...,,엄마,아~~~ 그래. 『향기 나는 비즈』 말이지.,,,母親,啊～～～　……原來如此。『香氛珠子』啊。,,,1,166,14,1,0,0,0,0,0,,Translated
+14,由香,今ね、新しいの買ってきたの。キャラメル味。, , ,Yuka,"I just bought another bottle, too. It's caramel",flavor!,,유카,오늘 새로운 걸 사왔어. 카라멜 맛.,,,由香,我今天買了新的喔。焦糖口味。,,,1,213,29,1,0,0,0,0,0,,Translated
+15,母,（―味？）,ほ～。今度はどんな効果があるの？, ,Mom,(Flavor...?),I see. And what effect does this one have?,,엄마,(맛?),호오~ 이번 건 어떤 효과가 있는데?,,母親,（―口味？）,哦～。這次有什麼效果啊？,,1,167,14,1,0,0,0,0,0,,Translated
+16,由香,えっと、怪我とか事故とかから守ってくれるの。,あとね、, ,Yuka,"Well, it keeps you safe from injury and harm,","aaaand it does something else, too...",,유카,"으음, 상처나 사고를 막아 줘.",그리고 또,,由香,嗯，可以保護不受傷、不出意外。,還有啊，,,1,214,29,1,0,0,0,0,0,,Translated
+17,母,ふんふん？, , ,Mom,Hmmmm?,,,엄마,흠흠,,,母親,嗯嗯？,,,1,168,14,1,0,0,0,0,0,,Translated
+18,由香,……ないしょ。, , ,Yuka,...I'm not telling!,,,유카,...... 비밀.,,,由香,……秘密。,,,1,215,29,1,0,0,0,0,0,,Translated
+19,母,ぷっ、あらそう～。大事にしなさいね？, , ,Mom,"Heh. A secret, huh? Well, make sure you take good","care of it, then.",,엄마,"풋, 어머 그러니~ 소중히 하려무나.",,,母親,噗，哎呀是嗎～。要好好珍惜喔？,,,1,169,14,1,0,0,0,0,0,,Translated
+20,由香,ん。（こくり）, , ,Yuka,Okay!,,,유카,응. (끄덕),,,由香,嗯。（點頭）,,,1,216,29,1,0,0,0,0,0,,Translated
+21,母,ふふっ……, , ,Mom,Heehee...,,,엄마,후훗......,,,母親,呵呵……,,,1,170,14,1,0,0,0,0,0,,Translated
+22,由香,えへへ……恋愛成就だもん。,あげた人に思いが通じるの。, ,Yuka,Eheheh... The power of love. Make your true,feelings known to that special someone...,,유카,에헤헤...... 연애성취야.,이걸 준 사람과 마음이 통하게 돼.,,由香,嘿嘿……是戀愛成就。,能讓心意傳達給送給的人。,,1,217,29,1,0,0,0,0,0,,Translated
+23,母,あら～～～ホント？, , ,Mom,"Really, now? Is that a fact?!",,,엄마,어머나~~~ 정말?,,,母親,哎呀～～～真的嗎？,,,1,171,14,1,0,0,0,0,0,,Translated
+24,由香,ひゃっ！, , ,Yuka,Eep!,,,유카,꺅!,,,由香,嚇！,,,1,218,29,1,0,0,0,0,0,,Translated
+25,母,あれれ、誰にあげるのかしらね～～クラスの子ぉ？, , ,Mom,"Caught ya' red-handed! So, fess up, who you planning",on giving it to? A friend from class?,,엄마,"어머머, 누구한테 주려는 걸까~~ 같은 반 애?",,,母親,哎呀呀，是要送給誰呢～～同班的男生？,,,1,172,14,1,0,0,0,0,0,,Translated
+26,由香,もう、ないしょ！, , ,Yuka,I'm DEFINITELY not telling!,,,유카,"아, 비밀!",,,由香,就說了，秘密！,,,1,219,29,1,0,0,0,0,0,,Translated
+27,母,うふふふ、はいはい。,……あ、そうそう。由香、あんたねぇ、, ,Mom,"*giggle* All right, I won't push my luck.","...Oh, but Yuka? I've been meaning to talk to you...",,엄마,"우후후후, 그래 그래.","...... 아, 그렇지. 유카, 너 말야",,母親,呵呵呵，好好好。,……啊，對了。由香，妳啊，,,1,173,14,1,0,0,0,0,0,,Translated
+28,母,哲志のベッドに、靴下とかパンツとか置き忘れるの、,やめたほうがいいわよ？, ,Mom,You need to stop leaving your socks and underwear,"on Satoshi's bed, okay?",,엄마,사토시 침대에 양말이나 팬티 놔두고 잊어버리는 거,그만두는 게 좋을걸?,,母親,把襪子或內褲忘在哲志床上，,還是別這樣比較好喔？,,1,174,14,1,0,0,0,0,0,,Translated
+29,由香,う。, , ,Yuka,Oogh...,,,유카,으.,,,由香,嗚。,,,1,220,29,1,0,0,0,0,0,,Translated
+30,母,洗濯物、自分でたたむのは偉いんだけどねぇ。, , ,Mom,I do appreciate you folding the laundry all by,"yourself, without anyone asking...",,엄마,세탁물을 직접 개는 건 장하지만.,,,母親,雖然妳會自己摺衣服是很了不起啦。,,,1,175,14,1,0,0,0,0,0,,Translated
+31,母,お部屋に戻ってしまう前に、そうやって寝ちゃうから,忘れていくのよね～, ,Mom,...but if you forget to take your clothes back to,"your room afterward, it kind of defeats the point,",you know?,엄마,방으로 가기 전에 그래 놓고 자 버리니까,잊어버리는 거야~,,母親,因為妳在放回房間之前，就這樣睡著了,才會忘在那裡啊～,,1,176,14,1,0,0,0,0,0,,Translated
+32,由香,んん～、気をつけるもん……, , ,Yuka,"Oooohhh... Okay, I'll be more careful.",,,유카,으응~ 조심할 거다 뭐......,,,由香,嗯嗯～、我會注意的……,,,1,221,29,1,0,0,0,0,0,,Translated
+33,母,ん。, , ,Mom,"Good, good.",,,엄마,응.,,,母親,嗯。,,,1,177,14,1,0,0,0,0,0,,Translated
+34,母,由香？　……ビーズ。,ＧｏｏｄＬｕｃｋ！, ,Mom,And Yuka? About those beads...,GOOD LUCK.,,엄마,유카? ...... 비즈.,G o o d L u c k !,,母親,由香？　……珠子。,祝妳好運！,,1,178,14,1,0,0,0,0,0,,Translated
+35,由香,……うん！　えへへ。, , ,Yuka,Thanks! Eheheh...,,,유카,응! 에헤헤.,,,由香,……嗯！　嘿嘿。,,,1,222,29,1,0,0,0,0,0,,Translated

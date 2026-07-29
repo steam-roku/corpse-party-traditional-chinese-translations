@@ -1,0 +1,26 @@
+﻿DataRow,Key,Context1,Context2,Slot,JP,EN,KO,TC,Notes,Status
+3,0,Chapter 1,GOA_0000,0,未使用,未使用,未使用,未使用,未使用,Translated
+4,1,Chapter 1,GOA_0000,0,待ってくれ…,"Please, wait...",기다려…,等等我……,未使用？,Translated
+5,2,Chapter 1,SEI_0010,0,世以子：そーっと、そーっと…草葉の陰から…⏎直美：それ、死んでるし⏎森繁：繭……？笑顔だ,Seiko: My spirit will guide your path!,"세이코:살며시, 살며시... 저승으로부터...⏎나오미:저기, 이미 죽어있는데⏎모리시게:마유......? 웃는 얼굴이군",世以子：悄悄地、悄悄地……從草叢後面……⏎直美：妳都已經死了耶。⏎森繁：繭……？妳在笑嗎……,,Translated
+6,3,Chapter 1,SEI_0010B,0,直美：それ、死んでるし,"Naomi: You're not dead, you know...","나오미:저기, 이미 죽어있는데",直美：妳都已經死了耶。,未使用？,Translated
+7,4,Chapter 1,YSE_0004,0,夏休みには、みなさんで遠足に出掛けましょうね。,Let's all go on a field trip together⏎over summer vacation...,"여름 방학이 오면, 모두 함께 소풍을 가도록 해요.",等到暑假時，大家一起去遠足吧。,保健室,Translated
+8,5,Chapter 1,YSE_0005,0,さっちゃん～　迎えに来てくれたの？,Sachi... ⏎Have you come to find me?,삿짱~ 마중을 나온 거니?,小幸～妳來接我了嗎？,保健室,Translated
+9,6,Chapter 3,GOJ_0000,0,千早ちゃん……、なぁなちゃん……⏎無事でいて……⏎不甲斐ない先輩で……、ごめん…,Chihaya... Nana... Please be okay... ⏎I'm sorry I'm so...useless,"치하야짱......, 나아짱......⏎잘있어......⏎부질없는 선배라......, 미안…",千早醬……奈那醬……⏎妳們一定要平安……⏎對不起……我這個沒用的學姊……,死体用。文字表示に移行？,Translated
+10,7,Chapter 3,GOJ_0001,0,かおり、かおり。会いたいよ。,Kaori... Kaori... ⏎I want to see you again...,"카오리......, 카오리......⏎보고싶어......",かおり……かおり。好想見妳……,死体用。文字表示に移行？,Translated
+11,8,Chapter 3,GOK_0000B,0,出～せ～！,Let me out!,나가게 해줘!,放我出去～！,,Translated
+12,9,Chapter 3,GOL_0000,0,こい…と…、恋都…⏎あなたって子は……！,"Koito... Koito! Please, no...!","코이...토..., 코이토...⏎너란 애는 참......!",恋都……恋都……⏎妳這孩子真是的……！,死体用。文字表示に移行？,Translated
+13,10,Chapter 3,YKK_0016,0,かえして……,Gihh it back...,반환......,還給我……,,Translated
+14,11,Chapter 4,GOM_0000,0,…苦しい……⏎…いたい…⏎…頭が…、頭が…！,"- It hurts... ⏎- Make it stop... ⏎- Oh God, my head!",... 어려운 ...... ⏎ ... 아파 ... ⏎ ... 머리가 ... 머리가 ...!,……好痛苦……⏎……好痛……⏎……頭……我的頭……！,,Translated
+15,12,Chapter 4,SAC_0003,0,お母さん…,Mother...,엄마…,媽媽……,,Translated
+16,13,Chapter 4,SAC_0004,0,殺してやる…,I'll kill you...,죽여 주겠어…,我要殺了你……,,Translated
+17,14,Chapter 4,SAC_0007,0,私たちは、先生に殺されたの。,We were killed by an educator...,우리들은 선생님에게 죽임을 당했어.,我們是被老師殺害的。,,Translated
+18,15,Chapter 4,YUI_0126,0,持田君！,Mochida...!,모치다 군!,持田同學！,,Translated
+19,16,Chapter 5,ANN_0000B,0,下校、下校の時刻を過ぎています。⏎まだ残っている生徒は、もう帰れません。,The scho-- The school day is now over. ⏎Any students still in the building...⏎...may never go home again...,"하교, 하교 시간이 지났습니다.⏎남아 있는 학생은, 집에 갈 수 없습니다.",現在已超過放學時間。⏎仍然留在校內的學生，將無法回家。,下校の鐘,Translated
+20,17,Chapter 5,KIZ_0113,0,殺す。殺すぞ、由香！,"I'm going to kill you... ⏎I'm going to kill you, Yuka! Hey!","죽여 줄거야. 죽여 버리겠어, 유카!",殺了妳……我要殺了妳，由香！,刻命追いかけボイス,Translated
+21,18,Chapter 5,KIZ_0114,0,由香～？,Yuukaa...?,유카~?,由香～？,刻命追いかけボイス,Translated
+22,19,Chapter 5,KIZ_0115,0,いい子だろ？由香。　こっちへおいで。,"Be a good girl, Yuka, and come with me...",착하지? 유카. 이쪽으로 와.,妳是乖孩子吧？由香，過來這裡。,刻命追いかけボイス,Translated
+23,20,Chapter 5,KIZ_0116,0,ど～こ～か～な～,"Come out, come out wherever you are!",어~ 딜~ 까~ 나~,你～在～哪～裡～呢～,刻命追いかけボイス,Translated
+24,21,Chapter 5,SAC_0019,0,こっち。こっちだよ～,This way... ⏎Hurry!,이쪽. 이쪽이야~,這邊、這邊唷～,,Translated
+25,22,Chapter 5,TKM_0017B,0,あいつが悪いんだ,She's the one at fault.,그 녀석 잘못이야,都是那傢伙不好。,,Translated
+26,23,Chapter 5,TKM_0018B,0,あんな事であんなに驚く方がおかしい,She clearly overreacted to the situation!,그거 가지고 그렇게 놀라는 게 이상한 거지,為了那點小事就嚇成那樣才奇怪。,,Translated
+27,END,,,0,,,,,,Translated

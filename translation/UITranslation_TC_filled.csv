@@ -1,0 +1,136 @@
+﻿Index,Prefab,Mode,Root,JP,EN,KO,TC,Notes,Status
+0,TitleMenu,1,AnmRoot/Menu/cursollist_updown_0/fixedlist_fixedtext_x,チャプターセレクト,Chapter Select,챕터 선택,章節選擇,タイトル画面メニュー,Translated
+1,TitleMenu,1,AnmRoot/Menu/cursollist_updown_1/fixedlist_fixedtext_x,中断データからはじめる,Resume,계속하기,從中斷資料繼續,タイトル画面メニュー,Translated
+2,TitleMenu,1,AnmRoot/Menu/cursollist_updown_2/fixedlist_fixedtext_x,エンディングリスト,Ending List,엔딩 리스트,結局一覽,タイトル画面メニュー,Translated
+3,TitleMenu,1,AnmRoot/Menu/cursollist_updown_3/fixedlist_fixedtext_x,名札リスト,Name Tag List,명찰 리스트,名牌一覽,タイトル画面メニュー,Translated
+4,TitleMenu,1,AnmRoot/Menu/cursollist_updown_4/fixedlist_fixedtext_x,コンフィグ,Config,환경 설정,設定,タイトル画面メニュー,Translated
+5,TitleMenu,1,AnmRoot/Menu/cursollist_updown_5/fixedlist_fixedtext_x,言語選択 日本語,Language English,언어 설정 한국어,語言選擇 繁體中文,タイトル画面メニュー,Translated
+6,Config,2,AnmRoot/Header/TMP_Header,コンフィグ,Config,환경 설정,設定,コンフィグ,Translated
+7,Config,2,AnmRoot/Config/Set0/TMP_Set,BGMボリューム,Bgm Volume,배경음,背景音樂音量,コンフィグ,Translated
+8,Config,2,AnmRoot/Config/Set1/TMP_Set,SEボリューム,Sfx Volume,효과음,音效音量,コンフィグ,Translated
+9,Config,2,AnmRoot/Config/Set2/TMP_Set,音声ボリューム,Voice Volume,음성,語音音量,コンフィグ,Translated
+10,Config,2,AnmRoot/Config/Set3/TMP_Set,メッセージスピード,Message Speed,메시지 속도,文字顯示速度,コンフィグ,Translated
+11,Config,2,AnmRoot/Config/Set4/TMP_Set,画面エフェクト,Effect,화면 이펙트,畫面效果,コンフィグ,Translated
+12,Config,2,AnmRoot/Config/Set5/TMP_Set,メッセージスキップ操作,Message Skip,메시지 스킵 기능,文字跳過,コンフィグ,Translated
+13,Config,2,AnmRoot/Config/Set6/TMP_Set,プレイ時間表示,Playtime Paint,플레이 시간 출력,顯示遊玩時間,コンフィグ,Translated
+14,Config,2,AnmRoot/Config/Set7/TMP_Set,操作ボタンガイド,Button Information,버튼 안내,操作按鍵提示,コンフィグ,Translated
+15,Config,2,AnmRoot/Config/Set8/TMP_Set,初期設定に戻す,Initialize,설정 초기화,恢復預設設定,コンフィグ,Translated
+16,Config,2,AnmRoot/Config/Set3/Select/Select0/TMP_Select,遅い,Slow,느림,慢,コンフィグ,Translated
+17,Config,2,AnmRoot/Config/Set3/Select/Select1/TMP_Select,普通,Normal,보통,普通,コンフィグ,Translated
+18,Config,2,AnmRoot/Config/Set3/Select/Select2/TMP_Select,速い,Fast,빠름,快,コンフィグ,Translated
+19,Config,2,AnmRoot/Config/Set3/Select/Select3/TMP_Select,一括,All,직접 출력,全部,コンフィグ,Translated
+20,Config,2,AnmRoot/Config/Set5/Select/Select0/TMP_Select,あり,On,사용,開,コンフィグ,Translated
+21,Config,2,AnmRoot/Config/Set5/Select/Select1/TMP_Select,なし,Off,사용안함,關,コンフィグ,Translated
+22,Config,2,AnmRoot/Config/Set6/Select/Select0/TMP_Select,あり,On,사용,開,コンフィグ,Translated
+23,Config,2,AnmRoot/Config/Set6/Select/Select1/TMP_Select,なし,Off,사용안함,關,コンフィグ,Translated
+24,Config,2,AnmRoot/Config/Set7/Select/Select0/TMP_Select,あり,On,사용,開,コンフィグ,Translated
+25,Config,2,AnmRoot/Config/Set7/Select/Select1/TMP_Select,なし,Off,사용안함,關,コンフィグ,Translated
+26,Config,200,AnmRoot/Config/Set4/Select/TMP_Select,なし,Not set,없음,無,コンフィグ,Translated
+27,Config,201,AnmRoot/Config/Set4/Select/TMP_Select,ロウソク,Candle,촛불,蠟燭,コンフィグ,Translated
+28,Config,202,AnmRoot/Config/Set4/Select/TMP_Select,懐中電灯,Flashlight,손전등,手電筒,コンフィグ,Translated
+29,Config,203,AnmRoot/Config/Set4/Select/TMP_Select,月明り,Moonlight,달빛,月光,コンフィグ,Translated
+30,Config,204,AnmRoot/Config/Set4/Select/TMP_Select,ノイズ,Noise,노이즈,雜訊,コンフィグ,Translated
+31,Config,205,AnmRoot/Config/Set4/Select/TMP_Select,オーブ,Orb,구체,光球,コンフィグ,Translated
+32,Config,206,AnmRoot/Config/Set4/Select/TMP_Select,映写機,Projector,영사기,放映機,コンフィグ,Translated
+33,PauseMenu,3,AnmRoot/Menu/Menu0/TMP_Menu,中断,Temp Save,임시 저장,中斷儲存,ゲーム中中断メニュー,Translated
+34,PauseMenu,3,AnmRoot/Menu/Menu1/TMP_Menu,終了,Quit,게임 종료,結束,ゲーム中中断メニュー,Translated
+35,PauseMenu,3,AnmRoot/Menu/Menu2/TMP_Menu,所持アイテム,Inventory,인벤토리,持有物品,ゲーム中中断メニュー,Translated
+36,PauseMenu,3,AnmRoot/Menu/Menu3/TMP_Menu,バックログ,Backlog,백로그,對話記錄,ゲーム中中断メニュー,Translated
+37,PauseMenu,3,AnmRoot/Menu/Menu4/TMP_Menu,名札リスト,Name Tag List,명찰 리스트,名牌一覽,ゲーム中中断メニュー,Translated
+38,PauseMenu,3,AnmRoot/Menu/Menu5/TMP_Menu,コンフィグ,Config,설정,設定,ゲーム中中断メニュー,Translated
+39,ItemCat,4,AnmRoot/Header/TMP_Header,アイテム,Item,아이템,物品,ゲーム中中断メニューの中のアイテム説明,Translated
+40,ItemList,5,AnmRoot/List/Header/tHeader,アイテム,Item,아이템,物品,ゲーム中右に出るアイテムリスト,Translated
+41,EndingData,6,AnmRoot/Information/tInfo,エンディング,Ending,엔딩,結局,エンディングリスト表示,Translated
+42,NameTagData,7,AnmRoot/Information/tSubhead,死亡原因,Cause of Death,사망원인,死亡原因,死亡原因,Translated
+43,NameTagCatSel,8,AnmRoot/Header/TMP_Header,名札リスト,Name Tag List,명찰 리스트,名牌一覽,学校とチャプター選択,Translated
+44,NameTagCatSel,8,AnmRoot/Tab/Tab0/Tab/TMP_Category,チャプター,Chapter,챕터,章節,Chapter,Translated
+45,NameTagCatSel,8,AnmRoot/Tab/Tab1/Tab/TMP_Category,学校,School,학교,學校,School,Translated
+46,DataSelect,310,AnmRoot/Capture/Language/TMP_Language,日本語,日本語,日本語,日本語,セーブデータ選択言語,Translated
+47,DataSelect,311,AnmRoot/Capture/Language/TMP_Language,English,English,English,English,セーブデータ選択言語,Translated
+48,DataSelect,312,AnmRoot/Capture/Language/TMP_Language,한글,한글,한글,한글,セーブデータ選択言語,Translated
+49,DataContinue,320,AnmRoot/Capture/Language/TMP_Language,日本語,日本語,日本語,日本語,セーブデータ選択言語,Translated
+50,DataContinue,321,AnmRoot/Capture/Language/TMP_Language,English,English,English,English,セーブデータ選択言語,Translated
+51,DataContinue,322,AnmRoot/Capture/Language/TMP_Language,한글,한글,한글,한글,セーブデータ選択言語,Translated
+52,DataSelectEx,330,AnmRoot/Capture/Language/TMP_Language,日本語,日本語,日本語,日本語,セーブデータ選択言語,Translated
+53,DataSelectEx,331,AnmRoot/Capture/Language/TMP_Language,English,English,English,English,セーブデータ選択言語,Translated
+54,DataSelectEx,332,AnmRoot/Capture/Language/TMP_Language,한글,한글,한글,한글,セーブデータ選択言語,Translated
+55,BackLog,9,AnmRoot/Header/tHeader,Back Log,Back Log,백로그,對話記錄,バックログ画面左上,Translated
+56,ArchiveChapterSelect,10,AnmRoot/List/List0/TMP_Chapter,Chapter 1,Chapter 1,챕터 1,第一章,エンディングリストのチャプター選択,Translated
+57,ArchiveChapterSelect,10,AnmRoot/List/List1/TMP_Chapter,Chapter 2,Chapter 2,챕터 2,第二章,エンディングリストのチャプター選択,Translated
+58,ArchiveChapterSelect,10,AnmRoot/List/List2/TMP_Chapter,Chapter 3,Chapter 3,챕터 3,第三章,エンディングリストのチャプター選択,Translated
+59,ArchiveChapterSelect,10,AnmRoot/List/List3/TMP_Chapter,Chapter 4,Chapter 4,챕터 4,第四章,エンディングリストのチャプター選択,Translated
+60,ArchiveChapterSelect,10,AnmRoot/List/List4/TMP_Chapter,Chapter 5,Chapter 5,챕터 5,第五章,エンディングリストのチャプター選択,Translated
+61,ArchiveChapterSelect,10,AnmRoot/List/List5/TMP_Chapter,Extra,Extra,엑스트라 챕터,額外章節,エンディングリストのチャプター選択,Translated
+62,NameTagCatSel,11,AnmRoot/List/List0/TMP_Chapter,Chapter 1,Chapter 1,챕터 1,第一章,死亡リストのチャプター選択,Translated
+63,NameTagCatSel,11,AnmRoot/List/List1/TMP_Chapter,Chapter 2,Chapter 2,챕터 2,第二章,死亡リストのチャプター選択,Translated
+64,NameTagCatSel,11,AnmRoot/List/List2/TMP_Chapter,Chapter 3,Chapter 3,챕터 3,第三章,死亡リストのチャプター選択,Translated
+65,NameTagCatSel,11,AnmRoot/List/List3/TMP_Chapter,Chapter 4,Chapter 4,챕터 4,第四章,死亡リストのチャプター選択,Translated
+66,NameTagCatSel,11,AnmRoot/List/List4/TMP_Chapter,Chapter 5,Chapter 5,챕터 5,第五章,死亡リストのチャプター選択,Translated
+67,NameTagCatSel,11,AnmRoot/List/List5/TMP_Chapter,All,All,모든,全部,死亡リストのチャプター選択,Translated
+68,NameTagSelect,420,AnmRoot/Header/TMP_Chapter,All,All,모든,全部,死亡リストのヘッダー,Translated
+69,NameTagSelect,421,AnmRoot/Header/TMP_Chapter,Chapter 1,Chapter 1,챕터 1,第一章,死亡リストのヘッダー,Translated
+70,NameTagSelect,422,AnmRoot/Header/TMP_Chapter,Chapter 2,Chapter 2,챕터 2,第二章,死亡リストのヘッダー,Translated
+71,NameTagSelect,423,AnmRoot/Header/TMP_Chapter,Chapter 3,Chapter 3,챕터 3,第三章,死亡リストのヘッダー,Translated
+72,NameTagSelect,424,AnmRoot/Header/TMP_Chapter,Chapter 4,Chapter 4,챕터 4,第四章,死亡リストのヘッダー,Translated
+73,NameTagSelect,425,AnmRoot/Header/TMP_Chapter,Chapter 5,Chapter 5,챕터 5,第五章,死亡リストのヘッダー,Translated
+74,EndingSelect,431,AnmRoot/Header/TMP_Chapter,Chapter 1,Chapter 1,챕터 1,第一章,エンディングリストのヘッダー,Translated
+75,EndingSelect,432,AnmRoot/Header/TMP_Chapter,Chapter 2,Chapter 2,챕터 2,第二章,エンディングリストのヘッダー,Translated
+76,EndingSelect,433,AnmRoot/Header/TMP_Chapter,Chapter 3,Chapter 3,챕터 3,第三章,エンディングリストのヘッダー,Translated
+77,EndingSelect,434,AnmRoot/Header/TMP_Chapter,Chapter 4,Chapter 4,챕터 4,第四章,エンディングリストのヘッダー,Translated
+78,EndingSelect,435,AnmRoot/Header/TMP_Chapter,Chapter 5,Chapter 5,챕터 5,第五章,エンディングリストのヘッダー,Translated
+79,EndingSelect,436,AnmRoot/Header/TMP_Chapter,Extra,Extra,엑스트라 챕터,額外章節,エンディングリストのヘッダー,Translated
+80,DataContinue,12,AnmRoot/List/List0/TMP_Name,Chapter 1,Chapter 1,챕터 1,第一章,中断データ選択画面,Translated
+81,DataContinue,12,AnmRoot/List/List1/TMP_Name,Chapter 2,Chapter 2,챕터 2,第二章,中断データ選択画面,Translated
+82,DataContinue,12,AnmRoot/List/List2/TMP_Name,Chapter 3,Chapter 3,챕터 3,第三章,中断データ選択画面,Translated
+83,DataContinue,12,AnmRoot/List/List3/TMP_Name,Chapter 4,Chapter 4,챕터 4,第四章,中断データ選択画面,Translated
+84,DataContinue,12,AnmRoot/List/List4/TMP_Name,Chapter 5,Chapter 5,챕터 5,第五章,中断データ選択画面,Translated
+85,DataContinue,12,AnmRoot/List/List5/TMP_Name,Extra,Extra,엑스트라 챕터,額外章節,中断データ選択画面,Translated
+86,DataChapter,13,AnmRoot/List/List0/TMP_Chapter,Chapter 1,Chapter 1,챕터 1,第一章,新規チャプター選択画面,Translated
+87,DataChapter,13,AnmRoot/List/List1/TMP_Chapter,Chapter 2,Chapter 2,챕터 2,第二章,新規チャプター選択画面,Translated
+88,DataChapter,13,AnmRoot/List/List2/TMP_Chapter,Chapter 3,Chapter 3,챕터 3,第三章,新規チャプター選択画面,Translated
+89,DataChapter,13,AnmRoot/List/List3/TMP_Chapter,Chapter 4,Chapter 4,챕터 4,第四章,新規チャプター選択画面,Translated
+90,DataChapter,13,AnmRoot/List/List4/TMP_Chapter,Chapter 5,Chapter 5,챕터 5,第五章,新規チャプター選択画面,Translated
+91,DataChapter,13,AnmRoot/List/List5/TMP_Chapter,Extra Chapter A,Extra Chapter A,엑스트라 챕터 A,額外章節 A,新規チャプター選択画面,Translated
+92,DataChapter,13,AnmRoot/List/List6/TMP_Chapter,Extra Chapter B,Extra Chapter B,엑스트라 챕터 B,額外章節 B,新規チャプター選択画面,Translated
+93,DataChapter,13,AnmRoot/List/List7/TMP_Chapter,Extra Chapter C,Extra Chapter C,엑스트라 챕터 C,額外章節 C,新規チャプター選択画面,Translated
+94,DataSelectEx,14,AnmRoot/List/List0/TMP_Chapter,Extra1,Extra1,엑스트라 챕터1,額外章節 1,新規チャプター選択画面,Translated
+95,DataSelectEx,14,AnmRoot/List/List1/TMP_Chapter,Extra2,Extra2,엑스트라 챕터2,額外章節 2,新規チャプター選択画面,Translated
+96,DataSelectEx,14,AnmRoot/List/List2/TMP_Chapter,Extra3,Extra3,엑스트라 챕터3,額外章節 3,新規チャプター選択画面,Translated
+97,DataSelectEx,14,AnmRoot/List/List3/TMP_Chapter,Extra4,Extra4,엑스트라 챕터4,額外章節 4,新規チャプター選択画面,Translated
+98,DataSelectEx,14,AnmRoot/List/List4/TMP_Chapter,Extra5,Extra5,엑스트라 챕터5,額外章節 5,新規チャプター選択画面,Translated
+99,DataSelectEx,14,AnmRoot/List/List5/TMP_Chapter,Extra6,Extra6,엑스트라 챕터6,額外章節 6,新規チャプター選択画面,Translated
+100,DataSelectEx,14,AnmRoot/List/List6/TMP_Chapter,Extra7,Extra7,엑스트라 챕터7,額外章節 7,新規チャプター選択画面,Translated
+101,DataSelectEx,14,AnmRoot/List/List7/TMP_Chapter,Extra8,Extra8,엑스트라 챕터8,額外章節 8,新規チャプター選択画面,Translated
+102,DataSelectEx,14,AnmRoot/List/List8/TMP_Chapter,Extra9,Extra9,엑스트라 챕터9,額外章節 9,新規チャプター選択画面,Translated
+103,DataSelectEx,14,AnmRoot/List/List9/TMP_Chapter,Extra10,Extra10,엑스트라 챕터10,額外章節 10,新規チャプター選択画面,Translated
+104,DataSelectEx,15,AnmRoot/List/List0/TMP_Chapter,Extra11,Extra11,엑스트라 챕터11,額外章節 11,新規チャプター選択画面,Translated
+105,DataSelectEx,15,AnmRoot/List/List1/TMP_Chapter,Extra12,Extra12,엑스트라 챕터12,額外章節 12,新規チャプター選択画面,Translated
+106,DataSelectEx,15,AnmRoot/List/List2/TMP_Chapter,Extra13,Extra13,엑스트라 챕터13,額外章節 13,新規チャプター選択画面,Translated
+107,DataSelectEx,15,AnmRoot/List/List3/TMP_Chapter,Extra14,Extra14,엑스트라 챕터14,額外章節 14,新規チャプター選択画面,Translated
+108,DataSelectEx,15,AnmRoot/List/List4/TMP_Chapter,Omake,Omake,덤,附錄,新規チャプター選択画面,Translated
+109,DataSelectEx,16,AnmRoot/List/List0/TMP_Chapter,Extra15,Extra15,엑스트라 챕터15,額外章節 15,新規チャプター選択画面,Translated
+110,DataSelectEx,16,AnmRoot/List/List1/TMP_Chapter,Extra16,Extra16,엑스트라 챕터16,額外章節 16,新規チャプター選択画面,Translated
+111,TitleMenu,1,AnmRoot/Menu/cursollist_updown_6/fixedlist_fixedtext_x,ゲーム終了,Exit Game,게임 종료,結束遊戲,タイトル画面メニュー,Translated
+112,Config,2,AnmRoot/Config/Set9/TMP_Set,PC 設定,PC Settings,PC 설정,PC 設定,コンフィグ,Translated
+113,PCConfig,17,AnmRoot/Header/TMP_Header,PC 設定,PC Settings,PC 설정,PC 設定,PC Config Menu,Translated
+114,PCConfig,17,AnmRoot/Config/Set0/TMP_Set,解像度,Resolution,해상도,解析度,PC Config Menu,Translated
+115,PCConfig,17,AnmRoot/Config/Set1/TMP_Set,ディスプレイモード,Screen Mode,디스플레이 모드,顯示模式,PC Config Menu,Translated
+116,PCConfig,17,AnmRoot/Config/Set2/TMP_Set,垂直同期,Vertical Sync,수직 동기화,垂直同步,PC Config Menu,Translated
+117,PCConfig,17,AnmRoot/Config/Set3/TMP_Set,グラフィック設定を適用,Apply Graphics Settings,그래픽 설정을 적용,套用圖像設定,PC Config Menu,Translated
+118,PCConfig,17,AnmRoot/Config/Set4/TMP_Set,ゲームパッドコンフィグ,Gamepad Configuration,게임 패드 구성 설정,遊戲控制器設定,PC Config Menu,Translated
+119,PCConfig,207,AnmRoot/Config/Set1/Select/TMP_Select,フルスクリーン,Full Screen,전체 화면,全螢幕,PC Config Menu,Translated
+120,PCConfig,208,AnmRoot/Config/Set1/Select/TMP_Select,ボーダレスウィンドウ,Borderless Window,보더리스 창,無邊框視窗,PC Config Menu,Translated
+121,PCConfig,209,AnmRoot/Config/Set1/Select/TMP_Select,最大化されたウィンドウ,Maximized Window,최대화 된 창,最大化視窗,PC Config Menu,Translated
+122,PCConfig,210,AnmRoot/Config/Set1/Select/TMP_Select,ウィンドウ,Windowed,창,視窗模式,PC Config Menu,Translated
+123,PCConfig,17,AnmRoot/Config/Set2/Select/Select0/TMP_Select,オン,On,온,開,PC Config Menu,Translated
+124,PCConfig,17,AnmRoot/Config/Set2/Select/Select1/TMP_Select,オフ,Off,오프,關,PC Config Menu,Translated
+125,PCConfigG,18,AnmRoot/Header/TMP_Header,ゲームパッドコンフィグ設定,Gamepad Configuration,게임 패드 구성 설정,遊戲控制器設定,Gamepad Config Menu,Translated
+126,PCConfigG,18,AnmRoot/Config/Set0/TMP_Set,ボタンアイコンタイプ,Gamepad Button Type,버튼 아이콘 유형 ,控制器按鍵圖示類型,Gamepad Config Menu,Translated
+127,PCConfigG,18,AnmRoot/Config/Set1/TMP_Set,決定,Decide,확인,確定,Gamepad Config Menu,Translated
+128,PCConfigG,18,AnmRoot/Config/Set2/TMP_Set,キャンセル,Cancel,취소,取消,Gamepad Config Menu,Translated
+129,PCConfigG,18,AnmRoot/Config/Set3/TMP_Set,メニュー,Menu,메뉴,選單,Gamepad Config Menu,Translated
+130,PCConfigG,18,AnmRoot/Config/Set4/TMP_Set,スキップ,Skip,스킵,快轉,Gamepad Config Menu,Translated
+131,PCConfigG,18,AnmRoot/Config/Set5/TMP_Set,ウィンドウ表示切り替え,Show/Hide Window,화면 변경,顯示／隱藏視窗,Gamepad Config Menu,Translated
+132,PCConfigG,18,AnmRoot/Config/Set6/TMP_Set,チャプターをやめる,Quit Chapter,장 종료,退出章節,Gamepad Config Menu,Translated
+133,PCConfigG,18,AnmRoot/Config/Set7/TMP_Set,初期設定に戻す,Initialize,설정 초기화,恢復預設設定,Gamepad Config Menu,Translated
+134,,,,,,,,,Untranslated

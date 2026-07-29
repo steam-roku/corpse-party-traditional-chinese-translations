@@ -1,0 +1,20 @@
+﻿DataRow,Key,Context1,Context2,Slot,JP,EN,KO,TC,Notes,Status
+0,0,CharacterName,なし | SAT_AA01.tga | PR00_NON | 01_satoshi,0,,,,,,Untranslated
+1,1,CharacterName,01_satosh_a.bmp | SAT_AA01.tga | PR01_SAT | 01_satoshi,0,持田 哲志,Satoshi Mochida,사토시,持田 哲志,,Untranslated
+2,13,CharacterName,01_satosh_m.bmp | SAT_AA05.tga | PR02_SAT | 01_satoshi,0,哲志たち,Satoshi And Friends,사토시 일행,哲志等人,,Untranslated
+3,16,CharacterName,02_naomi_a.bmp | NAO_AA01.tga | PR03_NAO | 02_naomi,0,中嶋 直美,Naomi Nakashima,나오미,中嶋 直美,,Untranslated
+4,42,CharacterName,03_seiko_a.bmp | SEI_AA01.tga | PR04_SEI | 03_seiko,0,篠原 世以子,Seiko Shinohara,세이코,篠原 世以子,,Untranslated
+5,53,CharacterName,04_ayumi_a.bmp | AYU_AA01.tga | PR05_AYU | 04_ayumi,0,篠崎 あゆみ,Ayumi Shinozaki,아유미,篠崎 あゆみ,,Untranslated
+6,68,CharacterName,05_yoshiki_a.bmp | YOS_AA01.tga | PR06_YOS | 05_yoshiki,0,岸沼 良樹,Yoshiki Kishinuma,요시키,岸沼 良樹,,Untranslated
+7,76,CharacterName,06_yuka_a.bmp | YUK_AA01.tga | PR07_YUK | 06_yuka,0,持田 由香,Yuka Mochida,유카,持田 由香,,Untranslated
+8,96,CharacterName,07_yui_a.bmp | YUI_AA01.tga | PR08_YUI | 07_yui,0,宍戸 結衣,Yui Shishido,유이,宍戸 結衣,,Untranslated
+9,105,CharacterName,08_mayu_a.bmp | MAY_AA01.tga | PR09_MAY | 08_mayu,0,鈴本 繭,Mayu Suzumoto,마유,鈴本 繭,,Untranslated
+10,108,CharacterName,09_kizami_a.bmp | KIZ_AA01.tga | PR10_KIZ | 11_Kizami,0,刻命 裕也,Yuuya Kizami,키자미,刻命 裕也,,Untranslated
+11,111,CharacterName,10_kurosaki_a.bmp | KUR_AA01.tga | PR11_KUR | 80_kurosaki,0,黒崎 健介,Kensuke Kurosaki,쿠로사키,黒崎 健介,,Untranslated
+12,116,CharacterName,11_morishige_a.bmp | MOR_AA01.tga | PR12_MOR | 09_morishige,0,森繁 朔太郎,Sakutaro Morishige,모리시게,森繁 朔太郎,,Untranslated
+13,118,CharacterName,12_chihaya_a.bmp | THI_AA01.tga | PR13_YSE | 98_extrachr03_chihaya,0,山瀬 千早,Chihaya Yamase,치하야,山瀬 千早,,Untranslated
+14,119,CharacterName,14_nana_a.bmp | NAN_AA01.tga | PR14_NAN | 98_extrachr01_nana,0,小笠原 奈那,Nana Ogasawara,나나,小笠原 奈那,,Untranslated
+15,120,CharacterName,15_naru_a.bmp | NAR_AA01.tga | PR15_NAR | 98_extrachr02_amato,0,天戸屋 成,Nari Amatoya,나리,天戸屋 成,,Untranslated
+16,121,CharacterName,16_taguchi_a.bmp | NAR_AA01.tga | PR16_TGT | 60_taguchi,0,田久地 将五,Shougo Taguchi,타구치,田久地 将五,,Untranslated
+17,122,CharacterName,17_ohkawa_a.bmp | NAR_AA01.tga | PR17_OKW | 81_ohkawa,0,大川 智寛,Tomohiro Ohkawa,오오카와,大川 智寛,,Untranslated
+18,123,CharacterName,02_naomi_a.bmp | NAR_AA01.tga | PR18_MIK | 02_naomi,0,白夢 美九,Miku Shirayume,시로유메 미쿠,白夢 美九,,Untranslated

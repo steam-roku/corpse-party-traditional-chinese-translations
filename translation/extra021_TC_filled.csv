@@ -1,0 +1,361 @@
+﻿Index,JP_Name,JP_Page1,JP_Page2,JP_Page3,EN2_Name,EN2_Page1,EN2_Page2,EN2_Page3,KO_Name,KO_Page1,KO_Page2,KO_Page3,TC_Name,TC_Page1,TC_Page2,TC_Page3,NameFlag,VoiceNo_low,VoiceNo_high,Timing,VoiceAutoPage,TextSpeed,Button,AutoPage,ExtVoice,Translator_Notes,Status
+0,七星,田久地さんいつ帰るの？, , ,Naho,"So, when are you leaving again, Taguchi?",,,나호,타구치 씨는 언제 돌아가?,,,七星,田久地先生什麼時候回去？,,,1,235,31,1,0,0,0,0,0,,Translated
+1,田久地,うぐ……ぼ、僕の顔見るたびにそれ言うの、,やめてくれないかな。, ,Taguchi,"Oh, come on! Do you really have to ask me that every",time you see me?,,타구치,"으윽...... 내, 내 얼굴 볼 때마다",그런 걸 묻지 말아줄래.,,田久地,嗚……你、你能不能別每次,看到我的臉都這麼說啊。,,1,161,33,1,0,0,0,0,0,,Translated
+2,七星,だってもう随分時間経ってるでしょう？,ウチに来て。, ,Naho,"Well, I have good reason to. You've been over for",a long time now.,,나호,그게 벌써 오래 됐잖아.,집에 온 지.,,七星,因為已經過了很久了吧？,來我家也。,,1,236,31,1,0,0,0,0,0,,Translated
+3,田久地,まだ１０分経ってないよ！？, , ,Taguchi,I haven't even been here ten minutes!,,,타구치,아직 10분도 안 지났거든!,,,田久地,還沒超過十分鐘吧！？,,,1,162,33,1,0,0,0,0,0,,Translated
+4,鬼碑忌,七星くん、そう田久地くんを虐めないで,くれたまえ。, ,Kibiki,"Naho, please don't be mean to Taguchi.",,,키비키,"나호 군, 너무 타구치 군을",괴롭히지 말게.,,鬼碑忌,七星，別欺負田久地了。,,,1,62,36,1,0,0,0,0,0,,Translated
+5,鬼碑忌,明日も助手として、,僕の取材の手伝いをしてくれる予定なんだ。, ,Kibiki,He's going to be helping me gather data again,"tomorrow, you know.",,키비키,내일도 조수로서,내 취재를 도울 예정이야.,,鬼碑忌,他明天也要以助手的身份,來幫我採訪的。,,1,88,36,1,0,0,0,0,0,,Translated
+6,七星,……先生。でも最近、,うちに来る頻度どんどん高くなってるし、, ,Naho,But he's been coming over soooo often lately!,,,나호,...... 선생님. 그치만 요즘 이 사람,여기 오는 빈도가 점점 높아지고 있는데,,七星,……老師。可是最近他,來我家的頻率越來越高了，,,1,64,36,1,0,0,0,0,0,,Translated
+7,七星,そろそろ厚かましいかな、なんて。,長居しすぎです。, ,Naho,He's basically mooching off of our good will at,"this point. And enough is enough, don't you think?",,나호,"좀 뻔뻔하지 않나, 싶어서요.",너무 오래 있었어요.,,七星,差不多該覺得他厚臉皮了吧。,待太久了。,,1,90,36,1,0,0,0,0,0,,Translated
+8,七星,……普通、自分で空気を読むものなんだけどなぁ。, , ,Naho,"Normally, a house guest will be able to tell when","he's overstayed his welcome, but not Taguchi! He has",no compunctions about staying well past his prime.,나호,...... 보통은 분위기를 읽고 나갈 텐데 말야.,,,七星,……一般來說，應該要自己懂得看氣氛吧。,,,1,238,31,1,0,0,0,0,0,,Translated
+9,田久地,いま来たばっかりなんで！！, , ,Taguchi,I literally just got here!,,,타구치,난 지금 막 왔거든!!,,,田久地,我才剛來不久啊！！,,,1,163,33,1,0,0,0,0,0,,Translated
+10,鬼碑忌,七星くん（笑）, , ,Kibiki,"Naho? That's enough, now. Heh.",,,키비키,나호 군 (웃음),,,鬼碑忌,七星（笑）,,,1,202,31,1,0,0,0,0,0,,Translated
+11,七星,あはははは。, , ,Naho,Hahaha...,,,나호,아하하하하.,,,七星,啊哈哈哈。,,,1,239,31,1,0,0,0,0,0,,Translated
+12,田久地,（いつも僕に酷いことを言う七星ちゃん――,　でも心の奥底には優しさが（多分）あって）,,Taguchi,"(Naho is always so mean to me, but deep down, I know",she's a good person...probably.),,타구치,(언제나 나에게 심한 말을 하는 나호,하지만 마음속에는 상냥함이(아마도) 있어서),,田久地,（七星總是對我說很過分的話――,　但她心底裡其實是溫柔的（大概））,,1,0,0,0,0,0,0,0,0,,Translated
+13,田久地,（こんなやりとりも含めて、,　鬼碑忌先生と彼女との三人での日常は、,,Taguchi,"(And all of my interactions with her, abusive though","they are, are absolutely precious memories to me",now.),타구치,(이런 대화를 포함해,키비키 선생님과 그녀와의 일상은,,田久地,（包含這樣的互動在內，,　和鬼碑忌老師以及她三人的日常，,,1,0,0,0,0,0,0,0,0,,Translated
+14,田久地,　何者にも代え難い、,　大事な大事な記録だったんだ）,,Taguchi,(I wouldn't trade my time with Mr. Kibiki and Naho,for anything. This footage is my rock... It's all,the inspiration I need to get through this.),타구치,그 무엇과도 바꿀 수 없는,매우 소중한 기억이었다),,田久地,　是無可取代的,　非常重要的記錄）,,1,0,0,0,0,0,0,0,0,,Translated
+15,,　モニターに映し出されているのは、,　つんとした表情の冴之木七星。,,,"I paused the video for a moment on Naho's face,",cheeks puffed as she was readying herself to make,some sort of quip I'm sure I didn't deserve.,,모니터에 비친 것은,새침한 표정의 사에노키 나호.,,,　螢幕上顯示的是，,　表情倔強的冴之木七星。,,0,0,0,0,0,0,0,0,0,,Translated
+16,七星,『田久地さん今日の運勢って大凶だったっけ？』, , ,Naho,'So what's your fortune for today?,"Horrible, rotten luck, was it?'",,나호,『타구치 씨의 오늘 운세는 대흉이었던가?』,,,七星,『田久地先生今天的運勢是大凶來著？』,,,1,240,31,1,0,0,0,0,0,,Translated
+17,田久地,『せめて調べてから言ってよ？！　違うよ！』, , ,Taguchi,'You could at least wait till I read it before,planting that suggestion out there! Seriously!',,타구치,『적어도 조사는 좀 하고 말해! 대흉 아니라고!』,,,田久地,『好歹查一下再說吧？！　才不是！』,,,1,164,33,1,0,0,0,0,0,,Translated
+18,田久地,……。ぷっ, , ,Taguchi,...Pff.,,,타구치,...... 풋,,,田久地,……。噗,,,1,165,33,1,0,0,0,0,0,,Translated
+19,,　コト。――カメラを階段に置く。,,,,I set my camera down with a dull thud.,,,,툭. 카메라를 계단에 놓는다.,,,,　咚。――把攝影機放在樓梯上。,,,0,0,0,0,0,0,0,0,0,,Translated
+20,田久地,っはっは……あっはっはっはっはっは……！, , ,Taguchi,Heh... Hahahahahaha!,,,타구치,핫하...... 앗핫핫핫핫하......!,,,田久地,哈哈……啊哈哈哈哈……！,,,1,166,33,1,0,0,0,0,0,,Translated
+21,田久地,はははははははは……！, , ,Taguchi,Hahahahahaha!,,,타구치,하하하하하하하하......!,,,田久地,哈哈哈哈……！,,,1,167,33,1,0,0,0,0,0,,Translated
+22,田久地,ひィー。　……,楽しかったなぁ……, ,Taguchi,Phew... Those were good times.,,,타구치,히이~,즐거웠지......,,田久地,呼～。　……,真開心啊……,,1,168,33,1,0,0,0,0,0,,Translated
+23,田久地,先生は、何処へ行ってしまったんだ……, , ,Taguchi,"Where did you get yourself off to, Mr. Kibiki?",,,타구치,선생님은 어디 간 거야......,,,田久地,老師，您去哪裡了……,,,1,169,33,1,0,0,0,0,0,,Translated
+24,,　ふと、時計に目を落とす。,,,,"I glanced down at my watch almost habitually, though",it was kind of pointless to do so.,,,문득 시계에 눈을 돌린다.,,,,　不經意地，看向時鐘。,,,0,0,0,0,0,0,0,0,0,,Translated
+25,田久地,（時計はやはり止まっている……。けど、,　もう鬼碑忌先生とはぐれてから、まる二日,　くらいは経っているという実感はある）,Taguchi,"(Still frozen in time, huh? Feels like it's been","around...I dunno, maybe two days since we got",separated? So hard to tell in this place...),타구치,(시계는 역시 멈춰 있어...... 하지만,"키비키 선생님과 떨어진 지, 이틀은",지난 것 같아),田久地,（時鐘果然還是停著的……。但是，,　和鬼碑忌老師走散後，大概,　已經過了整整兩天的感覺）,1,0,0,0,0,0,0,0,0,,Translated
+26,,,,,,,,,,,,,,,,,-1,0,0,0,0,0,0,0,0,,Translated
+27,田久地,鬼碑忌先生！　鬼碑忌先生！　今何か……！,今何か居ましたよ！, ,Taguchi,Mr. Kibiki! Mr. Kibiki!,"There was something there...right there, just a few",seconds ago!,타구치,키비키 선생님!  키비키 선생님!  방금 뭔가......!,방금 뭔가 있었어요!,,田久地,鬼碑忌老師！　鬼碑忌老師！　剛才好像有……！,剛才好像有什麼東西在那裡！,,1,170,33,1,0,0,0,0,0,,Translated
+28,鬼碑忌,何処だね！, , ,Kibiki,Where?!,,,키비키,어딘가!,,,鬼碑忌,在哪裡！,,,1,203,31,1,0,0,0,0,0,,Translated
+29,田久地,こっちです！　こっち！, , ,Taguchi,There! Right over there!,,,타구치,여기에요! 여기!,,,田久地,在這裡！　這裡！,,,1,171,33,1,0,0,0,0,0,,Translated
+30,田久地,！, , ,Taguchi,Ahh...!,,,타구치,!,,,田久地,！,,,1,172,33,1,0,0,0,0,0,,Translated
+31,田久地,君！　待て……待ってくれ！, , ,Taguchi,"Hey, you! Wait! Stop!",,,타구치,거기 너!  기다...... 기다려!,,,田久地,喂！　等等……等等我！,,,1,173,33,1,0,0,0,0,0,,Translated
+32,田久地,待っ……, , ,Taguchi,Hold u--,,,타구치,기......,,,田久地,等……,,,1,174,33,1,0,0,0,0,0,,Translated
+33,田久地,ガフッ, , ,Taguchi,--ULGH!!,,,타구치,윽,,,田久地,呃,,,1,175,33,1,0,0,0,0,0,,Translated
+34,鬼碑忌,……大丈夫か！, , ,Kibiki,Are you all right?!,,,키비키,...... 괜찮나!,,,鬼碑忌,……沒事吧！,,,1,204,31,1,0,0,0,0,0,,Translated
+35,田久地,っグ……すみません。,何か踏んで……　カメラ、無事ですか？, ,Taguchi,Oof... I'm really sorry. I stepped on something,and...the camera! Is it all right?!,,타구치,윽...... 죄송합니다.,뭔가 밟아서...... 카메라는 괜찮은가요?,,田久地,……對不起。,好像踩到了什麼……　攝影機，沒事吧？,,1,176,33,1,0,0,0,0,0,,Translated
+36,鬼碑忌,ああ, , ,Kibiki,Seems to be.,,,키비키,그래,,,鬼碑忌,嗯,,,1,205,31,1,0,0,0,0,0,,Translated
+37,田久地,ッ！？　……ウアアアアアーーーッ！！,ウアアアアアーーーッ！！, ,Taguchi,...?,UUWAAAAAAAAGGGGHH!!,AAAAAAAAAAAAGGGGGGGGHHHHHHHHH!!,타구치,윽!?  ...... 우아아아아악~~~!!,우아아아아악~~~!!,,田久地,！？　……嗚啊啊啊啊～～！！,嗚啊啊啊啊～～！！,,1,177,33,1,0,0,0,0,0,,Translated
+38,鬼碑忌,……！？, , ,Kibiki,...?!,,,키비키,......!?,,,鬼碑忌,……！？,,,1,206,31,1,0,0,0,0,0,,Translated
+39,田久地,アアアアアアーーーーッッ！！, , ,Taguchi,AAAAAAHAAAHAAAAAAAAAAAAGGGHHH!!,,,타구치,아아아아아악~~~~!!,,,田久地,啊啊啊啊啊啊～～！！,,,1,178,33,1,0,0,0,0,0,,Translated
+40,鬼碑忌,田久地君！　何処へ行くんだ！, , ,Kibiki,Taguchi! Where are you going?!,,,키비키,타구치 군!  어디 가는 건가!,,,鬼碑忌,田久地君！　你要去哪裡！,,,1,207,31,1,0,0,0,0,0,,Translated
+41,田久地,（あの時――。鬼碑忌先生の背後に青白い,　幽霊のようなものが見えて、,　驚いて逃げ出した僕だが……）,Taguchi,"(Right behind his back, I'd seen a light blue",figure...a ghost. And it scared me out of my wits!,"I just bolted, and didn't look back.)",타구치,(그때. 키비키 선생님의 배후에 창백한,유령 같은 게 보여서,놀라 도망쳤는데......),田久地,（那時候――。我看到鬼碑忌老師背後有蒼白的,　幽靈般的東西，,　嚇得逃跑了……）,1,0,0,0,0,0,0,0,0,,Translated
+42,田久地,（その後、幽霊どころか,　誰にも出会えていない）,,Taguchi,"(It seemed to work, as I hadn't seen a single ghost","since. Unfortunately, I also hadn't seen Mr. Kibiki,",nor any other human beings for that matter.),타구치,"(그 후, 유령은 고사하고",아무도 못 봤다),,田久地,（之後，別說是幽靈了，,　連一個人也沒遇到）,,1,0,0,0,0,0,0,0,0,,Translated
+43,田久地,（おぞましい人の亡骸や、その死体を,　嬲ったような跡など、ぞっとする現場には,　たくさん遭遇しているけれど……）,Taguchi,"(Not any living human beings, anyway. Dead ones were","in plentiful supply, some telling stories of their",gruesome final moments through their injuries.),타구치,"(무서운 사람의 유해와, 그 사체를","가지고 논 듯한 흔적 등, 오싹한 현장은",많이 봐 왔지만......),田久地,（雖然遇到了很多令人毛骨悚然的場景，,　像是駭人的遺體，以及玩弄遺體般的痕跡……）,,1,0,0,0,0,0,0,0,0,,Translated
+44,田久地,（最初は特ダネだと興奮したが、,　そんなものはすぐに消し飛ぶことになる）,,Taguchi,"(At first, I was capturing footage of them all,",excited for this exclusive scoop. But it didn't,take long for the novelty to wear away.),타구치,(처음엔 특종이라며 흥분했지만,그런 건 금방 날아가 버렸다),,田久地,（一開始還因為是獨家新聞而興奮，,　但那種感覺很快就煙消雲散了）,,1,0,0,0,0,0,0,0,0,,Translated
+45,田久地,（すべての窓は開かないし、玄関や非常扉も,　びくともせず。外へ脱出することが,　出来ないと気付いたからだ）,Taguchi,(I began to realize that I was trapped in here. Not,a single window or door to the outside was budging.,It's like they were all just painted on.),타구치,"(모든 창은 안 열리고, 현관과 비상문은",꿈쩍도 안 하고. 밖으로 탈출하는 것이,불가능하다는 것을 알아챘기 때문이다),田久地,（因為我發現所有窗戶都打不開，正門和逃生門也,　紋絲不動。無法逃到外面去。）,,1,0,0,0,0,0,0,0,0,,Translated
+46,田久地,（鬼碑忌先生の気配はおろか、,　自分以外に生きた人の気配を全く感じない、,　冷たい空間――）,Taguchi,"(The air was cold and stagnant, and I was completely","alone. No Mr. Kibiki, no anyone... Just me and a",whole host of increasingly worrisome corpses.),타구치,(키비키 선생님의 기척은커녕,나 이외에 살아있는 사람의 기척이 전혀 느껴지지 않는,차가운 공간),田久地,（連鬼碑忌老師的氣息都沒有，,　完全感受不到自己以外活人的氣息，,　冰冷的空間――）,1,0,0,0,0,0,0,0,0,,Translated
+47,田久地,（僕は、この真っ暗な建物にただ一人、,　ぽつりといるんだ）,,Taguchi,(I almost felt like I was in quarantine or,something.),,타구치,(난 이 새까만 건물에 그저,혼자 있다),,田久地,（我在這棟漆黑的建築裡孤伶伶的，,　只有一個人）,,1,0,0,0,0,0,0,0,0,,Translated
+48,田久地,（想像すると全身の毛が逆立って、,　吐きそうになる）,,Taguchi,(And the more time I took to stop and think about,"my surroundings, the more I felt like I was going",to throw up.),타구치,(상상을 하면 전신의 털이 곤두서고,토를 할 것만 같다),,田久地,（只要一想像，就全身寒毛直豎，,　快要吐出來）,,1,0,0,0,0,0,0,0,0,,Translated
+49,田久地,（背筋に氷の針を刺し込まれたような、悪寒。,　僕は、ここで）,,Taguchi,(All my hairs were standing on end and a chill to,"end all chills ran through my spine, like a thousand",icicles had been jammed into my back.),타구치,(등근육에 얼음 바늘을 찔러 놓은 듯한 오한.,난 여기에서),,田久地,（就像有冰針刺進背脊般的寒意。,　我，要在這裡）,,1,0,0,0,0,0,0,0,0,,Translated
+50,田久地,（――死ぬまでひとりなんだ）,,,Taguchi,(I was going to be caged up in this awful school,until I died. I...was going to die here. Alone.),,타구치,(죽을 때까지 혼자로구나),,,田久地,（――獨自一人直到死去）,,,1,0,0,0,0,0,0,0,0,,Translated
+51,田久地,はぁーー……, , ,Taguchi,*sigh*,,,타구치,하아......,,,田久地,哈啊～～……,,,1,179,33,1,0,0,0,0,0,,Translated
+52,田久地,……なんでこんな所に来ちゃったんだ……, , ,Taguchi,"Why the hell did I agree to come to this place,",anyway?,,타구치,...... 뭐하러 이런 데 온 거지......,,,田久地,……為什麼會來到這種地方呢……,,,1,180,33,1,0,0,0,0,0,,Translated
+53,田久地,唯一の脱出法って言われてた,『逆打ち』の仕方を、なんで先に先生から,教わらなかったんだよ……,Taguchi,And why wasn't I smart enough to ask Mr. Kibiki how,to get back before running off?,,타구치,왜 유일한 탈출법이라고 들은,『역타법』을 선생님한테,배우지 않은 거야......,田久地,為什麼我沒有事先跟老師請教,那個號稱唯一逃脫方法的『逆打』做法呢……,,1,80,36,1,0,0,0,0,0,,Translated
+54,田久地,……僕はどこまで馬鹿なんだ。, , ,Taguchi,"...Seriously, how much of a dumbass does that make",me?!,,타구치,...... 난 진짜 바보인가.,,,田久地,……我到底有多蠢啊。,,,1,106,36,1,0,0,0,0,0,,Translated
+55,,　階段に置いたハンディーカメラを,　もう一度手に取る。,,,I picked up my camera once more.,,,,계단에 둔 핸디 카메라를,다시 한 번 손에 든다.,,,　再次拿起放在樓梯上的手持攝影機。,,,0,0,0,0,0,0,0,0,0,,Translated
+56,田久地,あの時、僕が廊下に投げ出したカメラ、,中に入っていたテープは誰かに抜き取られて,いたけど……見つかってよかった。,Taguchi,Wonder who took the tape out of this thing when,I threw it down and started running. Glad somebody,"did, at least.",타구치,그때 내가 복도에 내던진 카메라,안에 있던 테이프는 누군가가,빼 갔지만...... 찾아서 다행이야.,田久地,那時我扔在走廊上的攝影機，,裡面的錄影帶雖然被某人拿走了,……能找到真是太好了。,1,182,33,1,0,0,0,0,0,,Translated
+57,田久地,おかげで、服のポケットに入れていたテープを,こうして見ることが出来る……, ,Taguchi,Cleared up some space for me to watch these old,movies I had in my shirt pocket. I knew they'd,be good luck to have along!,타구치,덕분에 주머니에 넣어 놓은 테이프를,볼 수 있어......,,田久地,多虧如此，才能這樣觀看,放在衣服口袋裡的錄影帶……,,1,183,33,1,0,0,0,0,0,,Translated
+58,,　ボタンを押して、動画を再生する。,,,,I pressed the button and began waxing nostalgic,over my former abuses once more.,,,버튼을 눌러 영상을 재생한다.,,,,　按下按鈕，播放影片。,,,0,0,0,0,0,0,0,0,0,,Translated
+59,鬼碑忌,『七星くん駄目だ！　そんなもので殴ったら,　田久地くんが死んでしまう』, ,Kibiki,"'Naho, stop! If you hit Taguchi with that, you'll",kill him!',,키비키,『나호 군 그러지 말게! 그런 걸로 때리면,타구치 군이 죽겠어』,,鬼碑忌,『七星，不行！　用那種東西打的話,田久地君會死的』,,1,208,31,1,0,0,0,0,0,,Translated
+60,田久地,『先生ーーっ！』, , ,Taguchi,'Mr. Kibiki! Thank you!', ,,타구치,『선생니임~~!』,,,田久地,『老師～～！』,,,1,184,33,1,0,0,0,0,0,,Translated
+61,七星,『私の付箋シール勝手に使うからでしょ！,　これさやかと亜衣子に貰った、,　大事なものなんだから！』,Naho,"'Well, then tell him not to use my sticker tags",without permission! I got those from Sayaka and,"Aiko, and nobody gets to use them but ME!'",나호,『내 메모지 맘대로 쓰지 말랬지!,이건 사야카랑 아이코가 준,소중한 거란 말야!』,七星,『誰叫他要擅自用我的便條貼！,　這可是さやか和亜衣子給我的,　很重要的東西！』,1,241,31,1,0,0,0,0,0,,Translated
+62,田久地,『土下座するよ！　土下座するから！』, , ,Taguchi,'I'm sorry! I'm so sorry! Look at me; I'm on my,"knees here, begging for your forgiveness!'",,타구치,『엎드릴게! 엎드릴 테니까!』,,,田久地,『我下跪！　我下跪就是了！』,,,1,185,33,1,0,0,0,0,0,,Translated
+63,田久地,…………, , ,Taguchi,...,,,타구치,............,,,田久地,…………,,,1,186,33,1,0,0,0,0,0,,Translated
+64,田久地,（記録は動画に録っておくと、きっと後で、,　切り取られた『いい思い出の時間』になる）,,Taguchi,"(When you commit an event to video, you're able to",relive it at will through rose-colored lenses. It,can turn anything into a fond memory.),타구치,"(기록을 영상으로 찍어 두면, 나중에 반드시",『좋은 추억의 한때』가 된다),,田久地,（把記錄拍成影片的話，之後一定能成為,　被截取的『美好回憶時光』）,,1,0,0,0,0,0,0,0,0,,Translated
+65,田久地,（だから僕は、写真よりも動画が好きだ）,,,Taguchi,(Video just holds so much more power than still,photography...),,타구치,(그래서 난 사진보다 영상이 좋다),,,田久地,（所以我喜歡影片勝過照片）,,,1,0,0,0,0,0,0,0,0,,Translated
+66,田久地,――でも、懐古ばかりしていたら,先には進めないんだよ、ね。, ,Taguchi,...But I'm not gonna get anywhere if I just stand,"here and reminisce all day, am I?",,타구치,하지만 회고만 하고 있으면,앞으로 나아갈 수가 없어.,,田久地,――但是，如果只是一直懷舊的話,是無法前進的呢。,,1,187,33,1,0,0,0,0,0,,Translated
+67,田久地,思い出は、,前に進むためのガソリンでしかないんだ。,頑張って動いてみよう。,Taguchi,Memories are just fuel to help drive us forward.,"And I've gotta keep moving, for as long as I can.",,타구치,추억은,앞으로 나아가기 위한 연료밖에는 되지 못해.,열심히 움직여 보자.,田久地,回憶，不過是推動前進的燃料而已。,努力試著動起來吧。,,1,188,33,1,0,0,0,0,0,,Translated
+68,田久地,脱出して、先生や七星ちゃん達とまた……,楽しく暮らすんだ。, ,Taguchi,I need to get the hell out of here so I can forge,new memories with Mr. Kibiki and Naho. So I can go,back to the way things were before Heavenly Host...,타구치,"탈출해서, 선생님과 나호와......",즐겁게 살아갈 거야.,,田久地,逃出去，和老師、七星他們再次……,快樂地生活。,,1,189,33,1,0,0,0,0,0,,Translated
+69,＊,どこなのー……ッ　ねぇ！,……一人にしないでェーっ……！！, ,*,Where did you go?! Come on! Don't leave me all by,myself!,,＊,어디야~ ...... 저기!,...... 혼자 두지 마~ ......!!,,＊,你在哪裡啊……　喂！,……不要讓我一個人～～！！,,1,103,33,1,0,0,0,0,0,,Translated
+70,田久地,――？！, , ,Taguchi,?!,,,타구치,?!,,,田久地,――？！,,,1,190,33,1,0,0,0,0,0,,Translated
+71,田久地,……人の声！？　女の子の声だ。, , ,Taguchi,That's a person. A girl!,,,타구치,...... 사람 목소리!?  여자 목소린데.,,,田久地,……人的聲音！？　是女孩子的聲音。,,,1,191,33,1,0,0,0,0,0,,Translated
+72,＊,世以子……怖いよ！　どこなのー！！, , ,*,Seiko... I'm scared! Where are you?!,,,＊,세이코...... 무서워!  어딨어~!!,,,＊,世以子……我好害怕！　你在哪裡～～！！,,,1,104,33,1,0,0,0,0,0,,Translated
+73,＊,はぁ、はぁ、ゼイ、ゼイ……ぐすっ……,悪かったわよ、もう酷いこと……,……ぐす、言わないから……,*,*pant* *pant* *huff* *puff*,"...I'm sorry, okay? I... I won't say anything",mean anymore...okay?,＊,"하아, 하아, 허억, 허억...... 훌쩍......","미안해, 이젠 심한 짓......","...... 훌쩍, 안 할 테니까......",＊,哈啊、哈啊、嘶、嘶……吸泣……,是我不好，不會再說過分的話了……,……吸泣、不會再說了……,1,105,33,1,0,0,0,0,0,,Translated
+74,＊,……ここにいるの？, , ,*,...Are you in here?,,,＊,...... 여기 있니?,,,＊,……你在這裡嗎？,,,1,106,33,1,0,0,0,0,0,,Translated
+75,田久地,……人だ……ははっ……！,どう見ても人だ！,やっと生きてる人に出会えた！,Taguchi,A person! Haha! That is one-hundred percent a,living human being! I finally found someone else,alive in this godforsaken place!,타구치,...... 사람이다...... 하핫......!,아무리 봐도 사람이야!,드디어 살아있는 사람을 만났어!,田久地,……是人……哈哈……！,怎麼看都是人！終於遇到活人了！,,1,192,33,1,0,0,0,0,0,,Translated
+76,田久地,（？！）,,,Taguchi,(?!),,,타구치,(?!),,,田久地,（？！）,,,1,0,0,0,0,0,0,0,0,,Translated
+77,＊,せーーーーーーーーーーーーーーーーーー, , ,*,SSSSEEEEEEEEEEEEEEEEEEEEEEE,,,＊,세~~~~~~~~~~~~~~~~~~,,,＊,世～～～～～～～～～～～～～～～～～,,,1,107,33,1,0,0,0,0,0,,Translated
+78,＊,せーーーーーーいいぃぃぃいいいいぃぃぃぃ, , ,*,EEEEEEEEEEEIIIIIIIIIIIIIIII,,,＊,세~~~~~~이이이이이이이이이이이이이,,,＊,世～～～～～～～～～～～～～～～～～,,,1,108,33,1,0,0,0,0,0,,Translated
+79,＊,イイイイイイイイイイィィィィィィイイイィ, , ,*,IIIIIIIIIIIIIIIIIIIIIIIIIII,,,＊,이이이이이이이이이이이이이이이이이이이이,,,＊,～～～～～～～～～～～～～～～～～,,,1,109,33,1,0,0,0,0,0,,Translated
+80,＊,こォォォォオオおおおおォぉォぉォぉォぉォ, , ,*,IIIIIIIIIKKKKKKOOOOOOOOOOOO,,,＊,코오오오오오오오오오오오오오오오오오오오,,,＊,～～～～～～～～～～～～～～～～～～,,,1,110,33,1,0,0,0,0,0,,Translated
+81,＊,＊＊＊％＆＃％＃＃’’’！！！！！！！！, , ,*,OOOOOO*****%&#%##'''!!!!!!!,,,＊,＊＊＊％＆＃％＃＃’’’！！！！！！！！,,,＊,＊＊＊％＆＃％＃＃’’’！！！！！！！！,,,1,111,33,1,0,0,0,0,0,,Translated
+82,田久地,うわぁぁぁぁ……！？, , ,Taguchi,GEH!!,,,타구치,우와아아아아......!?,,,田久地,哇啊啊啊……！？,,,1,193,33,1,0,0,0,0,0,,Translated
+83,田久地,（それはもう、人の声じゃなかった）,,,Taguchi,(That's sure not a human voice anymore...),,,타구치,"(그건 이미, 사람 목소리가 아니었다)",,,田久地,（那已經，不是人類的聲音了）,,,1,0,0,0,0,0,0,0,0,,Translated
+84,田久地,（女の子の大きく開いた口は、,　あごが外れ、人の顔の皮はここまで,　伸びるのかと驚くまでに）,Taguchi,(It's almost like her jaw's completely detached,from her body. I've never seen a person's mouth,open that wide before.),타구치,(소녀의 크게 벌어진 입은,"턱이 빠져, 사람 얼굴 피부가",이렇게 많이 늘어나는구나 싶을 정도로),田久地,（女孩大張的嘴巴，,　下巴脫了臼，讓人驚訝於,　人臉的皮膚竟然能伸展到這種程度）,1,0,0,0,0,0,0,0,0,,Translated
+85,田久地,（ぽかりと開けたその穴を、,　ぐんぐんと開けてゆく）,,Taguchi,(Like a nutcracker or something!),,,타구치,(뻥 뚫린 구멍이,쭉쭉 늘어난다),,田久地,（那個敞開的洞穴，,　不斷地撐開）,,1,0,0,0,0,0,0,0,0,,Translated
+86,田久地,（喉の奥から搾り出されるその声は、,　彼女の声帯を壊さんばかりに）,,Taguchi,(And that voice is like it was pulled up from the,depths of hell. I can't imagine it isn't straining,her vocal chords to the breaking point.),타구치,(목 안에서 쥐어짜낸 그 목소리는,그녀의 성대를 망가뜨리려는 듯),,田久地,（從喉嚨深處擠壓出來的那個聲音，,　簡直要毀壞她的聲帶一般）,,1,0,0,0,0,0,0,0,0,,Translated
+87,田久地,（ぶるぶると振動させた、,　かん高い――もはや音だった）,,Taguchi,"(It's more of a sound than a voice, really. High-",pitched and oscillating...almost mechanical...),,타구치,(성대를 부들부들 진동시키는,으르렁거리는 소리였다),,田久地,（讓聲帶顫抖震動的，,　尖銳的――那已經只能說是聲響了）,,1,0,0,0,0,0,0,0,0,,Translated
+88,田久地,……っ、？！　……う……うぅ……, , ,Taguchi,...?! A-Aaah...,,,타구치,"...... 윽,  ?!  ...... 우...... 우우......",,,田久地,……、？！　……嗚……嗚嗚……,,,1,194,33,1,0,0,0,0,0,,Translated
+89,田久地,なんだ……なんだったんだ今の……？, , ,Taguchi,What... Whaaat the hell did I just see?,,,타구치,방금...... 뭐였지......?,,,田久地,剛才……剛才那是什麼……？,,,1,195,33,1,0,0,0,0,0,,Translated
+90,田久地,うう、もういやだ……帰りたい！, , ,Taguchi,"No, no, no, I can't take this right now.",I just want to go home!,,타구치,"으으, 이젠 싫어...... 집에 갈래!",,,田久地,嗚嗚，已經夠了……我想回家！,,,1,196,33,1,0,0,0,0,0,,Translated
+91,田久地,もしかして、ここは昔のトイレ……？, , ,Taguchi,Ulgh. This used to be a bathroom or something?,,,타구치,"혹시, 여긴 옛날 화장실......?",,,田久地,難道說，這裡是以前的廁所……？,,,1,238,33,1,0,0,0,0,0,,Translated
+92,田久地,……あれは、ハシゴ……上の方に繋がってる。,この臭い、やっぱりトイレだよな。, ,Taguchi,"...Oh, hey, it's a ladder. Seems to lead upstairs",somewhere. Maybe I really am smelling a bathroom,after all.,타구치,"...... 저건, 사다리...... 위쪽과 이어져 있어.",이 냄새는 역시 화장실이야.,,田久地,……那是，梯子……連接到上面。,這個臭味，果然是廁所吧。,,1,239,33,1,0,0,0,0,0,,Translated
+93,田久地,それにしても、用務員室から,トイレの下だなんて。……これ、,盗撮でもしてたんじゃないか？　最低だな。,Taguchi,But what's a ladder to a bathroom doing hidden,behind the janitor's room? Was the custodian here,a voyeur or something?! That's pretty skeezy...,타구치,그나저나 수위실이,화장실 아래라니...... 이거,도촬이라도 하는 거 아냐? 최악인데.,田久地,話說回來，從校工室,到廁所下面啊。……這該不會,是在偷拍吧？　真惡劣。,1,240,33,1,0,0,0,0,0,,Translated
+94,田久地,？, , ,Taguchi,...?,,,타구치,?!,,,田久地,？,,,1,241,33,1,0,0,0,0,0,,Translated
+95,,　梯子を見上げる。,,,,I focused my gaze up to the top of the ladder.,,,,사다리를 올려다 본다.,,,,　仰望梯子。,,,0,0,0,0,0,0,0,0,0,,Translated
+96,田久地,うわぁ！？, , ,Taguchi,Whoa...!,,,타구치,우와아!?,,,田久地,哇啊！？,,,1,242,33,1,0,0,0,0,0,,Translated
+97,,　そこには、さっきの女の子を抱えて上がる,　大男の姿があった。,,,"There, hanging onto one of the top rungs with one","arm, was a large man, his other arm clasped tightly",around the girl I'd seen before.,,거기엔 조금 전 그 여자애를 안아 올린,거한이 있었다.,,,　那裡，有一個用單手抱著剛才那個女孩,　爬上去的魁梧男子的身影。,,0,0,0,0,0,0,0,0,0,,Translated
+98,＊,……ウウウゥゥ,,,*,Ooooolllgh...,,,＊,...... 우우우우우,,,＊,……嗚嗚嗚,,,1,0,0,0,0,0,0,0,0,,Translated
+99,,　大男の動きが止まった。,,,,He stopped moving and seemed to be listening,intently. I...was pretty sure he'd heard me.,,,거한의 움직임이 멈췄다.,,,,　魁梧男子的動作停了下來。,,,0,0,0,0,0,0,0,0,0,,Translated
+100,田久地,うわ……うわ……うわああぁぁぁ！！！, , ,Taguchi,Aaaah... Crap...,,,타구치,우와...... 우와...... 우와아아아아아!!!,,,田久地,哇……哇……哇啊啊啊！！！,,,1,243,33,1,0,0,0,0,0,,Translated
+101,田久地,うわああああ！！！！, , ,Taguchi,Gaaaaaaaahhh!,,,타구치,우와아아아아!!!!,,,田久地,哇啊啊啊啊！！！！,,,1,244,33,1,0,0,0,0,0,,Translated
+102,田久地,（バケモノだ！）,,,Taguchi,(It's a monster!),,,타구치,(괴물이다!),,,田久地,（是怪物！）,,,1,0,0,0,0,0,0,0,0,,Translated
+103,田久地,はぁ！　はぁ！！,何だよあれ！　何なんだ！！, ,Taguchi,*pant* *pant*,What in the name of all that's holy IS that,monstrosity?!,타구치,하아! 하아!!,뭐야 저거!  대체 뭐야!!,,田久地,哈啊！　哈啊！！,那是什麼啊！　到底是什麼！！,,1,247,33,1,0,0,0,0,0,,Translated
+104,,　月　日　　日番　東雲／管乃, , ,,    -  -,                    [Day duty: Shinonome／Kanno],,,  월  일      번째    시노노메/칸노,,,,　月　日　　第　班　東雲／管乃,,,0,0,0,0,0,0,0,0,0,,Translated
+105,田久地,うわぁ！, , ,Taguchi,Aaagh!,,,타구치,우와아!,,,田久地,哇啊！,,,1,200,33,1,0,0,0,0,0,,Translated
+106,田久地,ひいぃッ……！, , ,Taguchi,Eeeeek!,,,타구치,히이익......!,,,田久地,咿～～！,,,1,201,33,1,0,0,0,0,0,,Translated
+107,,　玄関扉はピタリと空間に固定され、,　開きません。,,,The building entrance is frozen in place like,a model. It's not moving the slightest bit.,,,현관문은 공간에 딱 고정되어,열리지 않습니다.,,,　正門像被固定在空間中一樣，無法打開。,,,0,0,0,0,0,0,0,0,0,,Translated
+108,田久地,と、扉ってこれ？！,幻影って……どう見ても本物に見えるけど……！, ,Taguchi,I-Is this the door? I dunno about this...,It looks pretty solid to me!,,타구치,"이, 이게 문인가?!",환영이라니...... 아무리 봐도 진짜로 보이는데.....!,,田久地,這、這就是門嗎？！,幻影……怎麼看都像真的啊……！,,1,204,33,1,0,0,0,0,0,,Translated
+109,,頭から飛び込む,やめる,,,Charge into it,Back away,,,머리를 들이민다,그만둔다,,,用頭撞進去,放棄,,0,255,255,255,255,255,255,255,255,,Translated
+110,田久地,うわ！, , ,Taguchi,Geh!,,,타구치,우와!,,,田久地,哇！,,,1,205,33,1,0,0,0,0,0,,Translated
+111,田久地,うわぁ！, , ,Taguchi,Aaagh!,,,타구치,우와아!,,,田久地,哇啊！,,,1,200,33,1,0,0,0,0,0,,Translated
+112,田久地,ひいぃッ……！, , ,Taguchi,Eeeeek!,,,타구치,히이익......!,,,田久地,咿～～！,,,1,201,33,1,0,0,0,0,0,,Translated
+113,,　玄関扉はピタリと空間に固定され、,　開きません。,,,The building entrance is frozen in place like,a model. It's not moving the slightest bit.,,,현관문은 공간에 딱 고정되어,열리지 않습니다.,,,　正門像被固定在空間中一樣，無法打開。,,,0,0,0,0,0,0,0,0,0,,Translated
+114,田久地,と、扉ってこれ？！,幻影って……どう見ても本物に見えるけど……！, ,Taguchi,I-Is this the door? I dunno about this...,It looks pretty solid to me!,,타구치,"이, 이게 문인가?!",환영이라니...... 아무리 봐도 진짜로 보이는데.....!,,田久地,這、這就是門嗎？！,幻影……怎麼看都像真的啊……！,,1,204,33,1,0,0,0,0,0,,Translated
+115,,頭から飛び込む,やめる,,,Charge into it,Back away,,,머리를 들이민다,그만둔다,,,用頭撞進去,放棄,,0,255,255,255,255,255,255,255,255,,Translated
+116,田久地,うわ！, , ,Taguchi,Geh!,,,타구치,우와!,,,田久地,哇！,,,1,205,33,1,0,0,0,0,0,,Translated
+117,田久地,うわぁ！, , ,Taguchi,Aaagh!,,,타구치,우와아!,,,田久地,哇啊！,,,1,200,33,1,0,0,0,0,0,,Translated
+118,田久地,ひいぃッ……！, , ,Taguchi,Eeeeek!,,,타구치,히이익......!,,,田久地,咿～～！,,,1,201,33,1,0,0,0,0,0,,Translated
+119,,　玄関扉はピタリと空間に固定され、,　開きません。,,,The building entrance is frozen in place like,a model. It's not moving the slightest bit.,,,현관문은 공간에 딱 고정되어,열리지 않습니다.,,,　正門像被固定在空間中一樣，無法打開。,,,0,0,0,0,0,0,0,0,0,,Translated
+120,田久地,と、扉ってこれ？！,幻影って……どう見ても本物に見えるけど……！, ,Taguchi,I-Is this the door? I dunno about this...,It looks pretty solid to me!,,타구치,"이, 이게 문인가?!",환영이라니...... 아무리 봐도 진짜로 보이는데.....!,,田久地,這、這就是門嗎？！,幻影……怎麼看都像真的啊……！,,1,204,33,1,0,0,0,0,0,,Translated
+121,,頭から飛び込む,やめる,,,Charge into it,Back away,,,머리를 들이민다,그만둔다,,,用頭撞進去,放棄,,0,255,255,255,255,255,255,255,255,,Translated
+122,田久地,うわ！, , ,Taguchi,Geh!,,,타구치,우와!,,,田久地,哇！,,,1,205,33,1,0,0,0,0,0,,Translated
+123,,　玄関扉はピタリと空間に固定され、,　開きません。,,,The building entrance is frozen in place like,a model. It's not moving the slightest bit.,,,현관문은 공간에 딱 고정되어,열리지 않습니다.,,,　正門像被固定在空間中一樣，無法打開。,,,0,0,0,0,0,0,0,0,0,,Translated
+124,田久地,と、扉ってこれ？！,幻影って……どう見ても本物に見えるけど……！, ,Taguchi,I-Is this the door? I dunno about this...,It looks pretty solid to me!,,타구치,"이, 이게 문인가?!",환영이라니...... 아무리 봐도 진짜로 보이는데.....!,,田久地,這、這就是門嗎？！,幻影……怎麼看都像真的啊……！,,1,202,33,1,0,0,0,0,0,,Translated
+125,,頭から飛び込む,やめる,,,Charge into it,Back away,,,머리를 들이민다,그만둔다,,,用頭撞進去,放棄,,0,255,255,255,255,255,255,255,255,,Translated
+126,田久地,ッが！, , ,Taguchi,Whoa!,,,타구치,악!,,,田久地,呃！,,,1,203,33,1,0,0,0,0,0,,Translated
+127,,撮っても　撮っても　お前のしにがお,ゆがんでく　くずれてく　ちぎれてく,お前のしにがお,,Keep on recording and recording,After you die your face will warp and crumble,and be torn apart    on camera,,아무리 찍어도 네 죽은 얼굴,일그러진 뭉개진 찢어진,네 죽은 얼굴,,不管怎麼拍　不管怎麼拍　你的死相,扭曲　崩壞　撕裂,你的死相,0,0,0,0,0,0,0,0,0,,Translated
+128,,内への扉は　悪意ある幻影だ,心を強く持ち　頭から飛び込め,,,The door leading inside is a malicious illusion.,Take heart and you can charge right through it.,,,안에 있는 문은  악의가 깃든 환영이다,마음을 굳게 먹고  머리를 들이밀어라,,,通往內部的門是　充滿惡意的幻影,堅定內心　用頭撞進去,,0,0,0,0,0,0,0,0,0,,Translated
+129,田久地,ひィッ！　……ひいいぃぃぃーーーッ！, , ,Taguchi,No... NOOOOO!!,,,타구치,히익!  ...... 히이이이이익~~~!,,,田久地,咿！　……咿～～～～！,,,1,206,33,1,0,0,0,0,0,,Translated
+130,霊,かえひて……エエエェェェェェェェェ！！, , ,Spirit,Gihh it baack!!,,,유령,돌려줘...... 어어어어어어어어어어어!!,,,幽靈,還給我……啊啊啊啊啊啊！！,,,1,221,32,1,0,0,0,0,0,,Translated
+131,霊,ひた！, , ,Spirit,Gohhya!,,,유령,혀!,,,幽靈,舌！,,,1,222,32,1,0,0,0,0,0,,Translated
+132,田久地,グァ！！　……アアァッッ, , ,Taguchi,Ghh! GHHAAH!!,,,타구치,구아!!  ...... 아아아악,,,田久地,呃啊！！　……啊啊,,,1,207,33,1,0,0,0,0,0,,Translated
+133,霊,め！！！, , ,Spirit,Eye!,,,유령,눈!!!,,,幽靈,眼！！！,,,1,223,32,1,0,0,0,0,0,,Translated
+134,田久地,ッ！！！　……ギアアァーーーーーーーッッ！！, , ,Taguchi,...! GhhhaaaaaaAAAAAAAAAAGGGGHHH!!,,,타구치,윽!!!  ...... 그아아아악~~~~~~~!!,,,田久地,！！！　……嘎啊啊啊啊啊啊～～！！,,,1,208,33,1,0,0,0,0,0,,Translated
+135,霊,ガアアウウウウゥゥゥゥ……！！！, , ,Spirit,Graaaaaaaaaahhhhhhh...!,,,유령,가아아우우우우우우우우......!!!,,,幽靈,嘎啊啊嗚嗚嗚嗚嗚……！！！,,,1,224,32,1,0,0,0,0,0,,Translated
+136,田久地,助へてェェェェ！！！, , ,Taguchi,HEEEEEELP MEEEEEE...!!,,,타구치,살려줘어어어어!!!,,,田久地,救救救救我～～～！！！,,,1,209,33,1,0,0,0,0,0,,Translated
+137,霊,ウウウウウウゥゥゥゥゥゥゥ……！！, , ,Spirit,Uuuullllllgggghhh...,,,유령,우우우우우우우우우우우우우......!!,,,幽靈,嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚……！！,,,1,225,32,1,0,0,0,0,0,,Translated
+138,田久地,"……ゴポ,", ,,Taguchi,*splut*,,,타구치,...... 꼬록,,,田久地,……咕嚕,,,1,210,33,1,0,0,0,0,0,,Translated
+139,霊,これ、ちがう……, , ,Spirit,...Doehhn't fit...,,,유령,"이건, 아냐......",,,幽靈,這個、不對……,,,1,226,32,1,0,0,0,0,0,,Translated
+140,田久地,ぉ……ォ……, , ,Taguchi,Ghh..hhhh...,,,타구치,오...... 오......,,,田久地,喔……喔……,,,1,211,33,1,0,0,0,0,0,,Translated
+141,田久地,うわぁ！, , ,Taguchi,Aaagh!,,,타구치,우와아!,,,田久地,哇啊！,,,1,200,33,1,0,0,0,0,0,,Translated
+142,田久地,ひいぃッ……！, , ,Taguchi,Eeeeek!,,,타구치,히이익......!,,,田久地,咿～～！,,,1,201,33,1,0,0,0,0,0,,Translated
+143,,■天神小連絡通紙■, , ,,[Heavenly Host Elementary -,Notice to All Faculty and Students],,,■텐진초 연락 통신■,,,,■天神小連絡通知■,,,0,0,0,1,0,0,0,0,0,,Translated
+144,,　窓の外には、うっそうと繁った,　森の木々が見えます。,,,"Outside the window, so dimly lit as to be almost","imperceptible, looms a sheer wall of dense foliage",stretching as far as the eye can see.,,창밖에는 울창하게 우거진,나무들이 보입니다.,,,　窗外可以看到，茂密繁盛的,　森林樹木。,,0,0,0,0,0,0,0,0,0,,Translated
+145,,　窓の外には、うっそうと繁った,　森の木々が見えます。,,,"Outside the window, so dimly lit as to be almost","imperceptible, looms a sheer wall of dense foliage",stretching as far as the eye can see.,,창밖에는 울창하게 우거진,나무들이 보입니다.,,,　窗外可以看到，茂密繁盛的,　森林樹木。,,0,0,0,0,0,0,0,0,0,,Translated
+146,,　害虫の死骸が、整然と並べられています……,,,,Rows of dead bugs are neatly arranged on each shelf.,,,,해충의 사체가 가지런히 늘어서 있습니다......,,,,　害蟲的屍體，被整齊地排列著……,,,0,0,0,0,0,0,0,0,0,,Translated
+147,,　棚の中には、長く、真っ黒な髪の毛が,　たっぷりと詰め込まれています……,,,"The shelves are filled to overflowing with long,",black hairs.,,,수납장 안에는 길고 새까만 머리카락이,잔뜩 담겨 있습니다......,,,　櫃子裡，塞滿了長長的、漆黑的頭髮……,,,0,0,0,0,0,0,0,0,0,,Translated
+148,,1973　9　18,,,,1973-09-18,,,,1973　9　18,,,,1973　9　18,,,0,0,0,0,0,0,0,0,0,,Translated
+149,田久地,！, , ,Taguchi,...!,,,타구치,!,,,田久地,！,,,1,212,33,1,0,0,0,0,0,,Translated
+150,霊,かえひて……かえひて, , ,Spirit,Gihh it back... Gihh it baaack!,,,유령,돌려줘...... 돌려줘,,,幽靈,還給我……還給我,,,1,227,32,1,0,0,0,0,0,,Translated
+151,田久地,ひいぃッ……！, , ,Taguchi,Gaaaahh!,,,타구치,히이익......!,,,田久地,咿～～！,,,1,213,33,1,0,0,0,0,0,,Translated
+152,田久地,ぐ……っ、しまった。また……！, , ,Taguchi,Ghh... Dammit! Why do I keep doing that?!,,,타구치,윽...... 이런. 또......!,,,田久地,嗚……糟了。又……！,,,1,214,33,1,0,0,0,0,0,,Translated
+153,田久地,……あれっ, , ,Taguchi,...Huh?,,,타구치,...... 어라,,,田久地,……咦,,,1,215,33,1,0,0,0,0,0,,Translated
+154,田久地,……あれ？　そんな！, , ,Taguchi,What? No!,,,타구치,...... 어라?  이럴 수가!,,,田久地,……咦？　怎麼會！,,,1,216,33,1,0,0,0,0,0,,Translated
+155,田久地,嘘だろう？　壊れた, , ,Taguchi,You gotta be kidding me! It's busted?!,,,타구치,거짓말이지?  망가졌어,,,田久地,開玩笑吧？　壞了,,,1,217,33,1,0,0,0,0,0,,Translated
+156,田久地,……, , ,Taguchi,...,,,타구치,......,,,田久地,……,,,1,218,33,1,0,0,0,0,0,,Translated
+157,田久地,そんな……冗談じゃないよ！,……カメラが動かなきゃ、僕は……,何のために、ここにいるんだ！,Taguchi,"No, no, no, please, no... If I can't use my camera,",then what reason do I even have to be here?!,,타구치,무슨...... 농담하지 마!,"...... 카메라를 못 움직이면, 나는......",뭘 위해 여기에 있는 건데!,田久地,怎麼會……別開玩笑了！,……如果攝影機不能動，我……,到底是為了什麼才在這裡！,1,219,33,1,0,0,0,0,0,,Translated
+158,田久地,くそっ……！, , ,Taguchi,Goddammit!,,,타구치,젠장......!,,,田久地,可惡……！,,,1,220,33,1,0,0,0,0,0,,Translated
+159,＊,うわーーーん、うわーーーん, , ,*,*sob* *wail*,,,＊,우왕~~~  우와앙~~~,,,＊,嗚哇～～、嗚哇～～,,,1,84,32,1,0,0,0,0,0,,Translated
+160,＊,直美ぃ～、うわ～ん, , ,*,Naomi... *wail*,,,＊,나오미이~  우와앙~,,,＊,直美～、嗚哇～,,,1,85,32,1,0,0,0,0,0,,Translated
+161,＊,……ばか～, , ,*,...That jerk...,,,＊,...... 바보~,,,＊,……笨蛋～,,,1,86,32,1,0,0,0,0,0,,Translated
+162,田久地,（――また女の子……,　さっきの子と同じ制服だ……）,,Taguchi,"(Another girl. Same uniform as the other one,",from the looks of it...),,타구치,(또 여자......,좀 전에 그 애랑 같은 교복이야......),,田久地,（――又是女孩子……,　和剛才的孩子穿一樣的制服……）,,1,0,0,0,0,0,0,0,0,,Translated
+163,田久地,（……また気が触れてる子だと恐ろしいな……,　隠れて後をつけてみよう）,,Taguchi,"(She could be possessed too, though. I'd better",keep myself hidden and follow her from a distance.),,타구치,(...... 또 미친 애가 나오면 무서운데......,몰래 뒤를 따라가보자),,田久地,（……要是又是個精神錯亂的孩子就可怕了……,　躲起來跟蹤看看吧）,,1,0,0,0,0,0,0,0,0,,Translated
+164,田久地,はぁはぁはぁはぁはぁ。,,,Taguchi,*pant* *pant*,  *huff* *puff*,,타구치,하아하아하아하아하아.,,,田久地,哈啊哈啊哈啊哈啊哈啊。,,,1,0,0,0,0,0,0,0,0,,Translated
+165,田久地,まだ、さっきの子はいるかな？,はぁはぁはぁ。,,Taguchi,Where the heck did she go...?,  *pant* *pant*,,타구치,그 애는 아직 있나?,하아하아하아.,,田久地,剛才那個孩子還在嗎？,哈啊哈啊哈啊。,,1,0,0,0,0,0,0,0,0,,Translated
+166,田久地,（よしっ、いた！）,,,Taguchi,(Aha! There she is!),,,타구치,"(좋아, 있어!)",,,田久地,（好，在那裡！）,,,1,0,0,0,0,0,0,0,0,,Translated
+167,田久地,（カメラ……動いてくれ）,,,Taguchi,"(Come on, you stupid thing... Work!)",,,타구치,(카메라...... 움직여라),,,田久地,（攝影機……動啊）,,,1,0,0,0,0,0,0,0,0,,Translated
+168,田久地,……駄目か……, , ,Taguchi,(...Nothin' doin'. Damn.),,,타구치,...... 안 되나......,,,田久地,……不行嗎……,,,1,221,33,1,0,0,0,0,0,,Translated
+169,田久地,ん？　……, , ,Taguchi,(Hmm?),,,타구치,응?  ......,,,田久地,嗯？　……,,,1,222,33,1,0,0,0,0,0,,Translated
+170,田久地,……なんだ？　やっぱり様子がおかしい。, , ,Taguchi,(What's going on? Something's definitely not,right here...),,타구치,...... 뭐야?  역시 뭔가 이상해.,,,田久地,……什麼啊？　果然情況不對勁。,,,1,223,33,1,0,0,0,0,0,,Translated
+171,＊,……声が聞こえる……, , ,*,I hear you...,,,＊,...... 목소리가 들려......,,,＊,……聽到了聲音……,,,1,87,32,1,0,0,0,0,0,,Translated
+172,＊,……直美……？, , ,*,Naomi...?,,,＊,...... 나오미......?,,,＊,……直美……？,,,1,88,32,1,0,0,0,0,0,,Translated
+173,田久地,（……追おう）,,,Taguchi,(Gotta keep on her tail.),,,타구치,(...... 쫓아가자),,,田久地,（……跟上吧）,,,1,0,0,0,0,0,0,0,0,,Translated
+174,田久地,（なんだあの部屋は……？）,,,Taguchi,(The heck is that room?),,,타구치,(뭐야 저 방은......?),,,田久地,（那是什麼房間……？）,,,1,0,0,0,0,0,0,0,0,,Translated
+175,田久地,プレートがある。用務員室……か。, , ,Taguchi,"Oh, it's labeled. Well, that's handy!","'Custodian's Closet' -- so, the janitor's","office, then.",타구치,플레이트가 있어. 수위실...... 인가.,,,田久地,有牌子。校工室……嗎。,,,1,224,33,1,0,0,0,0,0,,Translated
+176,,　中を覗いてみるが、人の気配は全くしない。,,,,"I took a peek inside, but there was no trace of",any living being. Emphasis on 'living.',,,"안을 들여다봤지만, 사람의 기척은 전혀 없다.",,,,　往裡面看了看，完全沒有人的氣息。,,,0,0,0,0,0,0,0,0,0,,Translated
+177,田久地,……は、入ってみようか……, , ,Taguchi,"W-Well, might as well hop in for a second...",,,타구치,"...... 드, 들어가볼까......",,,田久地,……好、進去看看吧……,,,1,225,33,1,0,0,0,0,0,,Translated
+178,,“一緒に行こうって……,　みんなと約束したのに……”, ,,'I told everyone...that I'd go with them...',,,,“같이 가자고......,모두와 약속했는데......”,,,「明明說好……,　要一起去的……」,,0,0,0,1,0,0,0,0,0,,Translated
+179,,“どうして……僕だけが,　置いて行かれるんだ……”, ,,'So why...have I been left behind...?',,,,“어째서...... 나만을,남기고 가 버린 거야......”,,,「為什麼……只有我,　被留了下來……」,,0,0,0,1,0,0,0,0,0,,Translated
+180,,“……ｸﾙｼｨ,　 ……ｸﾙｼｨよ……”, ,,'...It hurts... It hurts so much...',,,,“...... 괴롭다,괴로워......”,,,「……好痛苦,　 ……好痛苦啊……」,,0,0,0,1,0,0,0,0,0,,Translated
+181,田久地,グァ！！　……, , ,Taguchi,Aaaagh!,,,타구치,으아!!  ......,,,田久地,呃啊！！　……,,,1,245,33,1,0,0,0,0,0,,Translated
+182,田久地,ぉ……ご……, , ,Taguchi,Rrrg...ggghh...,,,타구치,으...... 그으......,,,田久地,喔……嗚……,,,1,246,33,1,0,0,0,0,0,,Translated
+183,田久地,くそっ……、開いてくれ……！,,,Taguchi,"Open up, dammit! OPEN UP!!",,,타구치,젠장...... 열려라......!,,,田久地,可惡……、開啊……！,,,1,0,0,0,0,0,0,0,0,,Translated
+184,田久地,グァ！！　……, , ,Taguchi,GLGH!!,,,타구치,으아!!  ......,,,田久地,呃啊！！　……,,,1,245,33,1,0,0,0,0,0,,Translated
+185,田久地,ぉ……ご……, , ,Taguchi,Rrrg...ggghh...,,,타구치,으...... 그으......,,,田久地,喔……嗚……,,,1,246,33,1,0,0,0,0,0,,Translated
+186,田久地,（もうここに行くのはゴメンだ）,,,Taguchi,(Nuh-uh. I ain't goin' back in there!),,,타구치,(이제 여기 가는 건 사양이야),,,田久地,（我已經不想再去那裡了）,,,1,0,0,0,0,0,0,0,0,,Translated
+187,,　扉は模型のようにガチリと固定されており、,　開ける事が出来ません。,,,The door seems affixed to the wall like a model.,It can't be opened.,,,문은 모형처럼  벽에 딱 고정되어,열 수 없습니다.,,,　門像模型一樣被牢牢固定住，無法打開。,,,0,0,0,0,0,0,0,0,0,,Translated
+188,田久地,グァ！！　……, , ,Taguchi,GLGH!!,,,타구치,으아!!  ......,,,田久地,呃啊！！　……,,,1,245,33,1,0,0,0,0,0,,Translated
+189,田久地,ぉ……ご……, , ,Taguchi,Rrrg...ggghh...,,,타구치,으...... 그으......,,,田久地,喔……嗚……,,,1,246,33,1,0,0,0,0,0,,Translated
+190,田久地,（今はあの子の後を追おう……）,,,Taguchi,(I don't want to let that girl out of my sights,for too long. Let's see what she's up to.),,타구치,(지금은 저 애의 뒤를 쫓자......),,,田久地,（現在先跟上那個孩子吧……）,,,1,0,0,0,0,0,0,0,0,,Translated
+191,,　鍵がかかっています。,,,,It's locked.,,,,잠겨 있습니다.,,,,　門鎖著。,,,0,0,0,0,0,0,0,0,0,,Translated
+192,,【地下室】,　扉は釘で打ちつけてあり、,　開きそうにありません。,,[Basement],The door is nailed shut. It definitely won't be,opening anytime soon.,,【지하실】,문은 못이 박혀,꿈쩍도 하지 않습니다.,,【地下室】,門被釘死了，,似乎打不開。,0,0,0,0,0,0,0,0,0,,Translated
+193,,　何人も立ち入りを禁ず,　　　　　【天神小学校校長：柳堀隆峰】,,,Do not enter under any circumstances.,                    -Principal Takamine Yanagihori,,,누구든 입장을 금한다,        【텐진초등학교 교장：야나기호리 타카미네】,,,　禁止任何人進入,　　　　　【天神小學校長：柳堀隆峰】,,0,0,0,0,0,0,0,0,0,,Translated
+194,,　鍵がかかっています。,,,,It's locked.,,,,잠겨 있습니다.,,,,　門鎖著。,,,0,0,0,0,0,0,0,0,0,,Translated
+195,田久地,玄関か……。ひょっとして、,出られるようになっているかもしれない。,行ってみよう。,Taguchi,"Back at the school entrance, huh? Maybe the doors","will finally let me out. I mean, they've gotta open","sometime, right?",타구치,현관인가...... 잘하면,나갈 수 있게 되어 있을지도 몰라.,가보자.,田久地,玄關嗎……。說不定，,現在變得可以出去了。,去看看。,1,197,33,1,0,0,0,0,0,,Translated
+196,田久地,玄関か……。ひょっとして、,出られるようになっているかもしれない。,行ってみよう。,Taguchi,"Back at the school entrance, huh? Maybe the doors","will finally let me out. I mean, they've gotta open","sometime, right?",타구치,현관인가...... 잘하면,나갈 수 있게 되어 있을지도 몰라.,가보자.,田久地,玄關嗎……。說不定，,現在變得可以出去了。,去看看。,1,197,33,1,0,0,0,0,0,,Translated
+197,田久地,……っく、やっぱり駄目だ、,びくともしないや。, ,Taguchi,...Damn. Not today. How'd I know?,Stupid thing is solid as a brick wall.,,타구치,"...... 큭, 역시 틀렸어",꿈쩍도 안 하네.,,田久地,……可惡，果然不行，,一動也不動。,,1,198,33,1,0,0,0,0,0,,Translated
+198,田久地,そんなに甘くはないか……, , ,Taguchi,Guess that would've been too easy.,,,타구치,그리 쉽지는 않겠는걸......,,,田久地,果然沒那麼簡單嗎……,,,1,199,33,1,0,0,0,0,0,,Translated
+199,田久地,玄関か……。ひょっとして、,出られるようになっているかもしれない。,行ってみよう。,Taguchi,"Back at the school entrance, huh? Maybe the doors","will finally let me out. I mean, they've gotta open","sometime, right?",타구치,현관인가...... 잘하면,나갈 수 있게 되어 있을지도 몰라.,가보자.,田久地,玄關嗎……。說不定，,現在變得可以出去了。,去看看。,1,197,33,1,0,0,0,0,0,,Translated
+200,＊,世～～以子～～～～ォォォォォーーーーー, , ,*,SSSSEEEEEEEEIIIIIIIIIKKKKKKKOOOOOO...,,,＊,세~~이코~~~~오오오오오~~~~~,,,＊,世～～以子～～～～～～～～～～～～,,,1,112,33,1,0,0,0,0,0,,Translated
+201,田久地,！！！！！, , ,Taguchi,!!,,,타구치,!!!!!,,,田久地,！！！！！,,,1,248,33,1,0,0,0,0,0,,Translated
+202,田久地,ッッきゃぁーーーーーッ！！, , ,Taguchi,Aaaaagh!,,,타구치,으아아악~~~~~!!,,,田久地,呀啊啊啊啊～～！！,,,1,249,33,1,0,0,0,0,0,,Translated
+203,,　鍵がかかっています。,,,,It's locked.,,,,잠겨 있습니다.,,,,　門鎖著。,,,0,0,0,0,0,0,0,0,0,,Translated
+204,,【保健室】,　扉に鍵がかかっています。, ,,[Infirmary],The door is locked.,,,【보건실】,문이 잠겨 있습니다.,,,【保健室】,門上鎖了。,,0,0,0,1,0,0,0,0,0,,Translated
+205,田久地,（うわッ……！　ひどい臭いだ……）,,,Taguchi,"Ulgh, what an awful stench!",,,타구치,우왁......!  냄새가 심해......,,,田久地,（哇……！　好臭……）,,,1,0,0,0,0,0,0,0,0,,Translated
+206,,【理科室】,　扉は、模型のようにガチリと壁に固定され,　開ける事が出来ません。,,[Science Lab],"The door seems almost like a model, as if sculpted",onto the wall. There's no way of opening it.,,【과학실】,문은 모형처럼  벽에 딱 고정되어,열 수 없습니다.,,【理科室】,門像模型一樣被牢牢固定在牆上，,無法打開。,0,0,0,1,0,0,0,0,0,,Translated
+207,,　鍵がかかっています。,,,,It's locked.,,,,잠겨 있습니다.,,,,　門鎖著。,,,0,0,0,0,0,0,0,0,0,,Translated
+208,,部外者の闖入は認められておりません, , ,,No outsiders allowed.,,,,관계자 외의 열람은 인정하지 않습니다.,,,,禁止外來者進入,,,0,0,0,1,0,0,0,0,0,,Translated
+209,,直ちに退出して下さい, , ,,Please vacate these premises immediately.,,,,조속히 퇴실해 주시기 바랍니다.,,,,請立即離開,,,0,0,0,1,0,0,0,0,0,,Translated
+210,,カメラを置いて, , ,,Set down your camera.,,,,카메라를 두고,,,,放下攝影機,,,0,0,0,1,0,0,0,0,0,,Translated
+211,,　鍵がかかっています。,,,,It's locked.,,,,잠겨 있습니다.,,,,　門鎖著。,,,0,0,0,0,0,0,0,0,0,,Translated
+212,,部外者の闖入は認められておりません, , ,,No outsiders allowed.,,,,관계자 외의 열람은 인정하지 않습니다.,,,,禁止外來者進入,,,0,0,0,1,0,0,0,0,0,,Translated
+213,,直ちに退出して下さい, , ,,Please vacate these premises immediately.,,,,조속히 퇴실해 주시기 바랍니다.,,,,請立即離開,,,0,0,0,1,0,0,0,0,0,,Translated
+214,,カメラを置いて, , ,,Set down your camera.,,,,카메라를 두고,,,,放下攝影機,,,0,0,0,1,0,0,0,0,0,,Translated
+215,,　肉片が辺りに散乱しています……,,,,There are hunks of some sort of unidentifiable meat,scattered about.,,,고기 조각이 주변에 흩어져 있습니다......,,,,　肉片散落在四周……,,,0,0,0,0,0,0,0,0,0,,Translated
+216,田久地,（まさか、人間のものじゃないよな……）,,,Taguchi,(I really hope this didn't used to be a person...),,,타구치,"(설마, 사람은 아니겠지......)",,,田久地,（該不會，是人類的吧……）,,,1,0,0,0,0,0,0,0,0,,Translated
+217,,　鍵がかかっています。,,,,It's locked.,,,,잠겨 있습니다.,,,,　門鎖著。,,,0,0,0,0,0,0,0,0,0,,Translated
+218,,　隙間があり渡ることが出来ません……,,,,There's a large gap in the floor here.,Crossing over would be far too risky.,,,틈이 있어서 건너갈 수 없습니다......,,,,　有縫隙，無法跨越……,,,0,0,0,0,0,0,0,0,0,,Translated
+219,,階段には　魔が多く潜む,気持ちを引き締めて,足元をしっかり踏みしめよ,,Many devils lurk in the stairwell.,Keep alert and watch your step at all times.,The floors here are not to be trusted.,,계단에는 마가 많이 끼어 있다,마음을 다잡고,힘차게 발을 내딛자,,樓梯間潛藏著許多魔物,繃緊神經，站穩腳步,,0,0,0,0,0,0,0,0,0,,Translated
+220,田久地,うっ……？　なんだ？　寒気がする,,,Taguchi,"Ugh, what's going on? It's really cold here!",,,타구치,윽......?  뭐야?  한기가 느껴져,,,田久地,嗚……？　什麼？　感覺到寒意,,,1,0,0,0,0,0,0,0,0,,Translated
+221,田久地,……っ！　う……,寒い……寒い！,,Taguchi,"...Oh, G-G-God! BRR!! This is ridiculous!",,,타구치,...... 윽!  으......,추워...... 춥다고!,,田久地,……！　嗚……,好冷……好冷！,,1,0,0,0,0,0,0,0,0,,Translated
+222,田久地,凍えそうだ！,,,Taguchi,I-I-I'm gonna f-f-freeze to death!,I've g-g-gotta go b-back!,,타구치,얼어 죽겠다!,,,田久地,快凍僵了！,,,1,0,0,0,0,0,0,0,0,,Translated
+223,田久地,ハァ、ハァ、ううう……, , ,Taguchi,*wheeze* *gasp* Nnnng...,,,타구치,"하아, 하아, 으으으......",,,田久地,哈啊、哈啊、嗚嗚……,,,1,250,33,1,0,0,0,0,0,,Translated
+224,田久地,もうイヤだ！　助けて！,誰かァァーーーー！！, ,Taguchi,"Th-This is enough, now! Somebody, s-save me!",Please!,,타구치,이젠 싫어!  살려줘!,살려줘어어~~~~!!,,田久地,已經受夠了！　救命！,誰來救救我～～～～！！,,1,251,33,1,0,0,0,0,0,,Translated
+225,田久地,……う……ううぅ……, , ,Taguchi,...Nnnngh...ghhh...,,,타구치,...... 으...... 으으으......,,,田久地,……嗚……嗚嗚……,,,1,252,33,1,0,0,0,0,0,,Translated
+226,,　四つん這いに身を起こすが、,,,,I kept trying to pick myself up off the ground...,,,,양팔로 몸을 일으켰지만,,,,　用手腳撐起身體，但是,,,0,0,0,0,0,0,0,0,0,,Translated
+227,,　気力が尽き、また這いつくばる。,,,,...but all my energy was spent. Every time I almost,"made it, I'd just tumble right over again.",,,"기력이 다해서, 다시 엎드린다.",,,,　力氣耗盡，又趴了下去。,,,0,0,0,0,0,0,0,0,0,,Translated
+228,田久地,先生……僕はもうだめです……, , ,Taguchi,Mr. Kibiki... I'm done for.,,,타구치,선생님...... 전 이제 틀렸어요......,,,田久地,老師……我已經不行了……,,,1,253,33,1,0,0,0,0,0,,Translated
+229,田久地,ふ……く……っ、ううぅぅ……, , ,Taguchi,Just gonna...lie down...and wait till it's all,over...,,타구치,후...... 큭...... 우우우우......,,,田久地,呼……可……嗚嗚……,,,1,254,33,1,0,0,0,0,0,,Translated
+230,＊,……弱虫。, , ,*,Coward.,,,＊,...... 겁쟁이.,,,＊,……膽小鬼。,,,1,242,31,1,0,0,0,0,0,,Translated
+231,田久地,……えっ……, , ,Taguchi,...!,,,타구치,...... 어......,,,田久地,……咦……,,,1,255,33,1,0,0,0,0,0,,Translated
+232,七星,田久地さん。, , ,Naho,Taguchi.,,,나호,타구치 씨.,,,七星,田久地先生。,,,1,243,31,1,0,0,0,0,0,,Translated
+233,田久地,君は……君は！,七星ちゃん？！　どうして？, ,Taguchi,N-Naho...? What in the... How are you here?!,,,타구치,너는...... 너는!,나호?! 어째서?,,田久地,妳是……妳是！,七星？！　為什麼？,,1,0,34,1,0,0,0,0,0,,Translated
+234,,　田久地の顔に安堵の色が浮かぶ。,,,,"A sudden feeling of relief washed over me, for the",first time since I'd come here.,,,타구치의 얼굴에 안도의 기색이 떠오른다.,,,,　田久地臉上浮現出安心的神色。,,,0,0,0,0,0,0,0,0,0,,Translated
+235,田久地,……たしか、,君には内緒で……先生と二人で来たのに……, ,Taguchi,Mr. Kibiki and I came to this place without you.,We specifically left you behind and came here in,secret so as not to involve you!,타구치,...... 분명히,너한테는 비밀로 하고...... 선생님과 둘이서 왔는데......,,田久地,……明明，,是瞞著妳……和老師兩個人來的……,,1,1,34,1,0,0,0,0,0,,Translated
+236,七星,……先生とはぐれたのでしょう。, , ,Naho,"...And then you two got separated, right?",,,나호,...... 선생님과 헤어졌죠.,,,七星,……你和老師走散了吧。,,,1,244,31,1,0,0,0,0,0,,Translated
+237,田久地,う、うん、そうなんだ……, , ,Taguchi,"Y-Yeah, we did.",,,타구치,"으, 응, 맞아......",,,田久地,嗯、嗯，是啊……,,,1,2,34,1,0,0,0,0,0,,Translated
+238,七星,この空間は不安定で危険。,あれほど言ったのに……, ,Naho,"This realm is unstable and very, very dangerous.",I warned you both. Very clearly.,,나호,이 공간은 불안정하고 위험하다고.,그렇게 말했는데......,,七星,這個空間不穩定又危險。,我明明那麼說過的……,,1,65,36,1,0,0,0,0,0,,Translated
+239,七星,同じ場所でも別の次元へスレッディング,されると、出会うことはありません。, ,Naho,Two people can exist in the same space but in diff-,"erent dimensions, and never see each other again.",And it's very easy to slip from one to the next.,나호,같은 곳이라도 다른 차원으로 이동하면,만날 수 없어요.,,七星,即使在同一地點，也可能被切換到,不同次元，而無法相遇。,,1,91,36,1,0,0,0,0,0,,Translated
+240,七星,あなたは、,鬼碑忌先生とここへ来た時とは別の次元の,この校舎に迷いこんでいるのです。,Naho,Which is exactly what you did. You're no longer,in the same world as Mr. Kibiki. You've become lost,in another Heavenly Host.,나호,당신은,키비키 선생님과 이곳에 왔을 때와는,다른 차원에 오게 된 겁니다.,七星,你，,已經迷失在和鬼碑忌老師一起來時,不同次元的這棟校舍裡了。,1,246,31,1,0,0,0,0,0,,Translated
+241,七星,この次元は、あなたがここへ来たよりずっと,以前かも知れないし、もしかしたら、,何百年も先かも知れません。,Naho,And this realm is very old. Much older than the one,you entered through. It may have even been here for,"hundreds of years already, in one form or another.",나호,이 차원은 당신이 여기에 오기,훨씬 전부터 있었을지도 모르고,잘하면 몇백 년 전일지도 모릅니다.,七星,這個次元，可能比你們來的時候,還要早得多，甚至,可能是幾百年前。,1,247,31,1,0,0,0,0,0,,Translated
+242,田久地,……本当に？, , ,Taguchi,...For real?,,,타구치,...... 정말?,,,田久地,……真的嗎？,,,1,3,34,1,0,0,0,0,0,,Translated
+243,七星,理解が早いのはあなたの長所ね、,さすがゴシップライター。, ,Naho,"Quick to accept things as ever, I see. It's your one",good point. Exactly the good point you'd hope for,from a gossip writer.,나호,이해가 빠른 것만은 장점이군요,역시 가십 라이터.,,七星,理解得快是你的優點呢，,不愧是八卦記者。,,1,248,31,1,0,0,0,0,0,,Translated
+244,田久地,な、七星ちゃん。,出会えて嬉しいよ……,追いかけて来てくれたんだね？,Taguchi,"Well, it sure is good to see you, Naho!",Did you follow me here?,,타구치,"나, 나호.",만나서 기뻐......,쫓아온 거구나?,田久地,小、七星。,能見到妳真開心……,妳是來追我的吧？,1,81,36,1,0,0,0,0,0,,Translated
+245,田久地,とにかく、一緒にここを出ようよ、,先生を探して……, ,Taguchi,We should track down Mr. Kibiki and get the,hell out of here together!,,타구치,어쨌든 같이 여길 나가자,선생님을 찾고......,,田久地,總之，我們一起離開這裡吧，,去找老師……,,1,107,36,1,0,0,0,0,0,,Translated
+246,,　七星は表情を変えずにおし黙る。,,,,Naho's expression turned stolid. She just stood,"there, staring at me blankly.",,,나호는 표정 하나 바꾸지 않고 입을 닫았다.,,,,　七星面無表情，沉默不語。,,,0,0,0,0,0,0,0,0,0,,Translated
+247,田久地,七星ちゃん……？, , ,Taguchi,Naho...?,,,타구치,나호......?,,,田久地,七星……？,,,1,5,34,1,0,0,0,0,0,,Translated
+248,七星,私はもう……死んでいます。, , ,Naho,I'm already dead.,,,나호,저는 이미...... 죽었습니다.,,,七星,我已經……死了。,,,1,249,31,1,0,0,0,0,0,,Translated
+249,田久地,……ええっ！？, , ,Taguchi,...What?!,,,타구치,...... 뭐어!?,,,田久地,……咦咦！？,,,1,6,34,1,0,0,0,0,0,,Translated
+250,七星,…………, , ,Naho,...,,,나호,............,,,七星,…………,,,1,250,31,1,0,0,0,0,0,,Translated
+251,田久地,そんな……そんな……ッ！！, , ,Taguchi,"No... No, you can't be!",,,타구치,아니...... 그럴 수가......!!,,,田久地,怎麼會……怎麼會……！！,,,1,7,34,1,0,0,0,0,0,,Translated
+252,,　七星の身体を、,　何度もつま先から頭まで眺めなおす田久地。,,,"I looked her up and down several times,","incredulously, as if trying to find some",physical means of verifying her claim.,,나호의 몸을,몇 번이고 머리끝부터 발끝까지 쳐다보는 타구치.,,,　田久地從頭到腳，,　反覆打量著七星的身體。,,0,0,0,0,0,0,0,0,0,,Translated
+253,,　生気のないその体は、,　うっすらとホログラムのように、,　背景にその輪郭を滲ませていた……,,"And, indeed, her body was faintly glowing like","a hologram, its edges blurring into the background.",That probably should've been a tip-off.,,생기가 없는 그 몸은,홀로그램처럼 희미해서,배경에 윤곽을 그리고 있었다......,,　那沒有生機的身體，,　像全像攝影般隱約地，,　將輪廓滲入背景中……,0,0,0,0,0,0,0,0,0,,Translated
+254,田久地,ッ……, , ,Taguchi,...,,,타구치,윽......,,,田久地,……,,,1,8,34,1,0,0,0,0,0,,Translated
+255,七星,先生も、私が校舎を隅々まで,探していますが……　何処にもいません。, ,Naho,"And I've searched high and low for Mr. Kibiki, all",throughout this school. He's nowhere to be found.,,나호,저도 선생님을 찾아 교사 구석구석을,돌아봤지만...... 어디에도 없었어요.,,七星,我也把校舍的每個角落,都找遍了……　但哪裡都沒有。,,1,251,31,1,0,0,0,0,0,,Translated
+256,田久地,七星ちゃんの霊力をもってしても,……駄目なのかい？, ,Taguchi,Even with all your spiritual talents...you still,couldn't find him?,,타구치,나호의 영력으로도,...... 안 되는 거야?,,田久地,連七星的靈力都……,不行嗎？,,1,9,34,1,0,0,0,0,0,,Translated
+257,七星,少なくとも私はもう朽ち果てました。, , ,Naho,My talents died with me. At least partially.,,,나호,적어도 저는 이미 죽었어요.,,,七星,至少我已經腐朽了。,,,1,252,31,1,0,0,0,0,0,,Translated
+258,田久地,う……う……ううう……！,ひどいよ！　どうしてこんな……！, ,Taguchi,"God... No... No, this is too cruel! Why did things",have to wind up like this?!,,타구치,우...... 우...... 우우우......!,너무해!  왜 이렇게......!,,田久地,嗚……嗚……嗚嗚……！,太過分了！　為什麼會變成這樣……！,,1,10,34,1,0,0,0,0,0,,Translated
+259,,　下を向き、うつむく田久地。,,,,"I looked down at my feet as I said this, deflated.",,,,고개를 아래로 숙이는 타구치.,,,,　田久地低下頭，沉默不語。,,,0,0,0,0,0,0,0,0,0,,Translated
+260,七星,霊になって分かりました。,先生の生体エネルギーを感じません。,……もう、亡くなられています。,Naho,"After becoming a spirit, I realized I could sense",life energies. And I'm not sensing Mr. Kibiki's at,all. I'm fairly certain...he's passed on as well.,나호,유령이 되고 나서 알았습니다.,선생님의 생체 에너지가 느껴지지 않습니다.,"...... 이미, 돌아가셨습니다.",七星,變成幽靈後我才明白。,我感覺不到老師的生命能量。,……他已經，過世了。,1,253,31,1,0,0,0,0,0,,Translated
+261,七星,あなただけでも、,逃げ出す方法を探るのです。, ,Naho,"I'll try to find some means of escape, though.",Even if you're the only one who can use it.,,나호,당신만이라도,나갈 방법을 찾아보세요.,,七星,至少你,要找出逃脫的方法。,,1,254,31,1,0,0,0,0,0,,Translated
+262,田久地,……, , ,Taguchi,...,,,타구치,......,,,田久地,……,,,1,11,34,1,0,0,0,0,0,,Translated
+263,七星,そして、記録したものを持ち帰るんです。, , ,Naho,Then you can go back with all the footage you've,recorded.,,나호,그리고 그 기록을 가지고 돌아가는 겁니다.,,,七星,然後，把記錄的東西帶回去。,,,1,255,31,1,0,0,0,0,0,,Translated
+264,田久地,……, , ,Taguchi,...,,,타구치,......,,,田久地,……,,,1,12,34,1,0,0,0,0,0,,Translated
+265,七星,田久地さん！, , ,Naho,Taguchi!,,,나호,타구치 씨!,,,七星,田久地先生！,,,1,0,32,1,0,0,0,0,0,,Translated
+266,田久地,……先生も……七星ちゃんもいない。, , ,Taguchi,...Mr. Kibiki's gone...and so are you...,,,타구치,...... 선생님도...... 나호도 없는,,,田久地,……老師也不在……七星也不在。,,,1,13,34,1,0,0,0,0,0,,Translated
+267,七星,…………, , ,Naho,...,,,나호,............,,,七星,…………,,,1,1,32,1,0,0,0,0,0,,Translated
+268,田久地,……そんな世界に僕だけ帰って、,何があると言うんだ。, ,Taguchi,What point is there in me returning to a world,without you two in it?,,타구치,...... 그런 세계에 나 혼자 돌아가서,뭘 어쩌라는 거야.,,田久地,……只有我回到那樣的世界，,又有什麼意義呢。,,1,14,34,1,0,0,0,0,0,,Translated
+269,田久地,僕にもう、出来ることなんかないよ！,もういいよ、全部どうだっていい！, ,Taguchi,There's nothing left for me! I don't even care,what happens anymore. I've lost the only things,that matter. I might as well die myself!,타구치,난 이제 할 수 있는 게 없다고!,"그만 됐어, 이젠 뭐가 어떻게 되든 상관없어!",,田久地,我已經沒有能做的事了！,算了，一切都無所謂了！,,1,15,34,1,0,0,0,0,0,,Translated
+270,田久地,もう、楽にさせてくれ！！, , ,Taguchi,Just let me rest in peace.,,,타구치,그만 편하게 해줘!!,,,田久地,讓我解脫吧！！,,,1,16,34,1,0,0,0,0,0,,Translated
+271,,　頭を床に擦り付ける田久地。,,,,I was basically in a fetal position at this point.,I didn't care anymore.,,,머리를 바닥에 비벼대는 타구치.,,,,　田久地把頭貼在地板上。,,,0,0,0,0,0,0,0,0,0,,Translated
+272,,　しばらく腕を組んだ姿で見つめていた,　七星の霊だが、やがて、カッと睨みつけると、,,,I just crossed my arms and stared at Naho.,"She was here, but...she wasn't. She was dead.",And...glowering at me...,,당분간 팔짱을 끼고 바라보던,나호 유령은 타구치를 슥 노려보더니,,,　七星靈體雙手抱胸盯著他看了一陣子，,　但最後，她猛然瞪向他，,,0,0,0,0,0,0,0,0,0,,Translated
+273,,　田久地の目の前の床板が弾けた。,,,,...which is right around when the floorboards,around me suddenly split apart.,,,타구치의 눈앞에 있던 바닥재가 튀어올랐다.,,,,　田久地眼前的木板彈開了。,,,0,0,0,0,0,0,0,0,0,,Translated
+274,田久地,！, , ,Taguchi,...!,,,타구치,!,,,田久地,！,,,1,17,34,1,0,0,0,0,0,,Translated
+275,,　弾けた板が、床に落ち軽い音を立てて跳ねる。,,,,"At the sound of wood cracking and splintering,",I leaped to my feet.,,,튀어오른 바닥재가 바닥에 떨어져 가벼운 소리를 냈다.,,,,　彈開的木板落在地上，發出輕微的聲響跳動著。,,,0,0,0,0,0,0,0,0,0,,Translated
+276,七星,――だから弱虫って言ってんだよ！,馬鹿野郎！, ,Naho,"This is what I meant when I said you were a coward,",you dumbass!,,나호,그러니 겁쟁이란 거야!,바보 자식!,,七星,――所以才說你是膽小鬼啊！,笨蛋！,,1,2,32,1,0,0,0,0,0,,Translated
+277,田久地,！　……七星ちゃ, , ,Taguchi,...! N-Naho--,,,타구치,!  ...... 나호,,,田久地,！　……七星,,,1,18,34,1,0,0,0,0,0,,Translated
+278,七星,あなたそれでも私と同じ、先生の助手？！, , ,Naho,"You came here to help out Mr. Kibiki, same as me,",right?!,,나호,그런데도 당신이 나와 같은 선생님의 조수?!,,,七星,你這樣還算是跟我一樣，是老師的助手嗎？！,,,1,3,32,1,0,0,0,0,0,,Translated
+279,七星,死んだ先生が！,あなたを助けようとしてくれているのが、,どうして分からないの？！,Naho,"Well, now he's dead! So he's returning the favor,",trying to help YOU! How have you not noticed?!,,나호,죽은 선생님이!,당신을 구해주려고 하는 걸,왜 모르는 거야?!,七星,死去的老師！,正在努力幫助你，,你為什麼不明白？！,1,4,32,1,0,0,0,0,0,,Translated
+280,,　七星が壁に向かって指をさす。,,,,She pointed to the wall nearby.,,,,나호가 손가락으로 벽을 가리킨다.,,,,　七星指向牆壁。,,,0,0,0,0,0,0,0,0,0,,Translated
+281,,　――そこには血文字が書かれていた。,,,,The wall where bloody letters had previously,appeared out of thin air.,,,거기에는 피로 글자가 적혀 있었다.,,,,　――那裡用血字寫著。,,,0,0,0,0,0,0,0,0,0,,Translated
+282,田久地,あれは……,何度も僕を救ってくれた、言葉。, ,Taguchi,"Come to think of it, there have been a few times",now where messages have appeared like that and,saved my butt.,타구치,저건......,"몇 번이고 날 구해줬던, 말.",,田久地,那是……,好幾次救了我的話語。,,1,19,34,1,0,0,0,0,0,,Translated
+283,七星,筆跡で判らない？,あれは先生が助けてくれているのよ！, ,Naho,And you never put two and two together? You've seen,his handwriting countless times before! It's clearly,him!,나호,이 필적을 보고도 모르겠어?,저건 선생님이 적은 거라고!,,七星,看不出筆跡嗎？,那是老師在幫助你喔！,,1,5,32,1,0,0,0,0,0,,Translated
+284,,　霊体の七星が、,　涙を流しながら強い口調で怒鳴りつける。,,,"Naho was practically shouting at this point, tears",streaming down her ghostly face.,,,영체가 된 나호가,눈물을 흘리며 강한 어조로 화를 낸다.,,,　靈體狀態的七星，,　流著眼淚用強硬的語氣怒吼。,,0,0,0,0,0,0,0,0,0,,Translated
+285,,　そういえば――田久地は、いつも見ていた。,,,,And she was right.,,,,그러고 보니 타구치는 언제나 봐 왔다.,,,,　這麼說來――田久地，總是看著。,,,0,0,0,0,0,0,0,0,0,,Translated
+286,,　鬼碑忌の、この凛とした筆致を。,,,,"I had seen this handwriting before, practically",every day of my working life. Those sophisticated,strokes and distinctive curves were unmistakable.,,"키비키의, 이 의연한 필체를.",,,,　鬼碑忌這剛勁有力的筆跡。,,,0,0,0,0,0,0,0,0,0,,Translated
+287,,　ここから紡ぎ出される、,　温かみある言葉の数々を。,,,They were a living monument to the pen of a great,writer...,,,이제부터 만들어질,따스함이 묻어나는 말들을.,,,　從這裡紡織出來的，,　充滿溫暖的許多話語。,,0,0,0,0,0,0,0,0,0,,Translated
+288,,　心を震わせる壮大な物語を雄弁に伝える、,　その生の原稿を。,,,"...writing his final words for my sake, and using",whatever 'ink' he had at his disposal to do it. It,was moving... It was uplifting... And it was sad...,,마음을 흔들 장대한 이야기를 웅변으로 전하는,생생한 원고를.,,,　雄辯地訴說著令人震撼的壯闊故事，,　那鮮活的原稿。,,0,0,0,0,0,0,0,0,0,,Translated
+289,七星,あなたが生きるのを諦めたら……, , ,Naho,If you give up on living now...,,,나호,당신이 살기를 포기하면......,,,七星,如果你放棄活下去的話……,,,1,6,32,1,0,0,0,0,0,,Translated
+290,七星,先生の気持ちは誰が受け止めるの！, , ,Naho,...then all of Kibiki's efforts will be in vain!,,,나호,선생님의 마음은 누가 받으라는 거야!,,,七星,老師的心意要由誰來承接！,,,1,7,32,1,0,0,0,0,0,,Translated
+291,,　床に転がった壊れていたカメラに、,　勝手に電源が入る。,,,"Suddenly, the busted camera on the floor",switched on.,,,"바닥에 떨어진, 망가진 카메라가",멋대로 켜진다.,,,　掉在地上壞掉的攝影機，,　自己打開了電源。,,0,0,0,0,0,0,0,0,0,,Translated
+292,田久地,…………, , ,Taguchi,...,,,타구치,............,,,田久地,…………,,,1,20,34,1,0,0,0,0,0,,Translated
+293,七星,死んだ私にはもうできない！,あなたがちゃんと繋いでよ！,……田久地さぁん！,Naho,"This is something I can't do, now that I'm dead.","It's all up to you, Taguchi! You need to survive!",,나호,죽은 나는 불가능해!,당신이 이어받아야 한다고!,...... 타구치 씨이!,七星,死去的我已經做不到了！,你要好好地接續下去！,……田久地先生！,1,8,32,1,0,0,0,0,0,,Translated
+294,,　眼鏡を上げ、制服の袖で目をこすり、,　涙を拭きながら訴える七星。,,,Naho had flipped her glasses up and was wiping the,tears from her eyes with the sleeve of her school,uniform as she made her appeal.,,"안경을 벗고, 교복 소매로 눈을 비벼",눈물을 닦으며 호소하는 나호.,,,　七星推起眼鏡，用制服的袖子擦拭眼睛，,　一邊擦眼淚一邊訴說。,,0,0,0,0,0,0,0,0,0,,Translated
+295,田久地,…………, , ,Taguchi,...,,,타구치,............,,,田久地,…………,,,1,21,34,1,0,0,0,0,0,,Translated
+296,田久地,……はは,……先生、カメラまで直してくれた。, ,Taguchi,"Heh... I mean, he even fixed my camera. So clearly,",you're right.,,타구치,...... 하하,"...... 선생님, 카메라까지 고쳐 줬구나.",,田久地,……哈哈,……老師，連攝影機都幫我修好了。,,1,22,34,1,0,0,0,0,0,,Translated
+297,七星,…………, , ,Naho,...,,,나호,............,,,七星,…………,,,1,9,32,1,0,0,0,0,0,,Translated
+298,田久地,僕の使命は……, , ,Taguchi,So I guess my mission now is...,,,타구치,내 사명은......,,,田久地,我的使命是……,,,1,23,34,1,0,0,0,0,0,,Translated
+299,,　カメラを、七星の霊に向ける田久地。,,,,I pointed the now fully operational camera directly,at Naho.,,,카메라를 나호에게 향하는 타구치.,,,,　田久地將攝影機對準七星的靈體。,,,0,0,0,0,0,0,0,0,0,,Translated
+300,七星,！, , ,Naho,...!,,,나호,!,,,七星,！,,,1,10,32,1,0,0,0,0,0,,Translated
+301,田久地,世紀の、映像を撮ることだね。, , ,Taguchi,...to get the scoop of the century!,,,타구치,세기의 영상을 찍는 거였어.,,,田久地,就是拍攝，世紀的影像啊。,,,1,24,34,1,0,0,0,0,0,,Translated
+302,七星,…………, , ,Naho,...,,,나호,............,,,七星,…………,,,1,11,32,1,0,0,0,0,0,,Translated
+303,,　モニター越しの七星の霊が、,　フッと柔らかい表情をする。,,,"Naho's expression, as now captured on film, was","unusually soft and...dare I say, vulnerable?",,,모니터 너머에 있는 나호가,부드러운 표정을 짓는다.,,,　透過螢幕的七星靈體，,　露出了柔和的表情。,,0,0,0,0,0,0,0,0,0,,Translated
+304,田久地,僕は田久地将五。,……鬼碑忌コウ先生の助手であり、,カメラマンだ……,Taguchi,"I am Shougo Taguchi, cameraman for the great",Kou Kibiki.,,타구치,나는 타구치 쇼고.,...... 키비키 코우 선생님의 조수이자,카메라맨이다......,田久地,我是田久地將五。,……是鬼碑忌光老師的助手，,也是攝影師……,1,25,34,1,0,0,0,0,0,,Translated
+305,田久地,先生とはぐれてしまったが……,僕は先生との約束どおり、,何があっても録り続けようと思う。,Taguchi,"I may have been separated from my boss, but","I promised him I'd keep on recording, no matter",what. And I intend to keep that promise.,타구치,선생님과 떨어졌지만......,난 선생님과의 약속대로,무슨 일이 있어도 촬영을 계속하고자 한다.,田久地,雖然和老師走散了……,但我會按照和老師的約定，,無論發生什麼事都繼續拍攝。,1,26,34,1,0,0,0,0,0,,Translated
+306,田久地,最後まで記録し続けて、, , ,Taguchi,I'll keep taping till the bitter end!,,,타구치,끝까지 기록을 남겨,,,田久地,堅持記錄到最後，,,,1,27,34,1,0,0,0,0,0,,Translated
+307,田久地,この事実を、僕の生きた証として残すん……, , ,Taguchi,And these tapes will be the proof of my,accomplishments...the culmination of my,life's work.,타구치,"이 사실을, 내가 살아있었다는 증거로 남긴......",,,田久地,把這個事實，作為我活過的證明留下……,,,1,82,36,1,0,0,0,0,0,,Translated
+308,田久地,！！　何だ！？, , ,Taguchi,...! What the...?,,,타구치,!!  뭐야!?,,,田久地,！！　什麼！？,,,1,108,36,1,0,0,0,0,0,,Translated
+309,田久地,（あの声は……,　さっき泣きながら歩いていた女の子だ！）,,Taguchi,(That's definitely the same voice I heard before.,It's that girl who was walking around crying!),,타구치,(저 목소리는......,좀 전에 울면서 돌아다니던 여자애야!),,田久地,（那個聲音是……,　剛才邊哭邊走的女孩子！）,,1,0,0,0,0,0,0,0,0,,Translated
+310,田久地,追いかけよう！, , ,Taguchi,I've gotta catch up with her!,,,타구치,쫓아가자!,,,田久地,追上去吧！,,,1,29,34,1,0,0,0,0,0,,Translated
+311,田久地,ハァ、ハァ、ハァ……, , ,Taguchi,*pant* *pant* *pant*,,,타구치,"하아, 하아, 하아......",,,田久地,哈啊、哈啊、哈啊……,,,1,30,34,1,0,0,0,0,0,,Translated
+312,田久地,最後まで記録し続けて……,次の人に、未来を――繋げてもらうんだ！, ,Taguchi,I'll continue recording for as long as possible.,"That way, even if I don't make it, I can be a part",of the future for whoever stumbles in here next...,타구치,끝까지 기록을 남겨......,"다음 사람이, 미래를 이어받게 할 거야!",,田久地,繼續記錄到最後……,讓下一個人，去連接――未來！,,1,31,34,1,0,0,0,0,0,,Translated
+313,,　３階への道は塞がれています……, , ,,The stairs beyond this point are piled with rubble.,There's no way through.,,,3층으로 가는 길은 막혀 있습니다......,,,,　通往三樓的路被堵住了……,,,0,0,0,1,0,0,0,0,0,,Translated
+314,,【保健室】,何かに阻まれて、入れません……, ,,[Infirmary],"Some unknown, ethereal force has completely sealed",the room. All attempts to enter are being blocked.,,【보건실】,뭔가에 막혀 들어갈 수 없습니다......,,,【保健室】,被某種東西阻擋，無法進入……,,0,0,0,1,0,0,0,0,0,,Translated
+315,,奥に進む,やめる,,,Check it out,Get away,,,안으로 들어간다,그만둔다,,,往深處前進,放棄,,0,255,255,255,255,255,255,255,255,,Translated
+316,田久地,（いや、ここまで来たんだ奥へ進もう）,,,Taguchi,"(No, I've come too far to turn back now.",Let's do this.),,타구치,"(아니, 여기까지 왔으니 들어가보자)",,,田久地,（不，都來到這裡了就往深處走吧）,,,1,0,0,0,0,0,0,0,0,,Translated
+317,,　そこは小さな洞穴のような、,　狭く暗い洞窟だった。,,,"The back of the closet opened into a damp, dark",grotto. It felt like I was stepping into a natural,cave or something.,,거긴 작은 굴방 같은,좁고 어두운 동굴이었다.,,,　那裡像是個小洞穴般的，,　狹窄而黑暗的洞窟。,,0,0,0,0,0,0,0,0,0,,Translated
+318,田久地,用務員室の奥に、,こんな隠し部屋があるなんて……,っていうか、なんだ？　もの凄い悪臭だ。,Taguchi,The hell is something like this doing behind,the janitor's office? ...And what's that smell?!,"God, it's terrible!",타구치,수위실 안에,이런 숨겨진 방이 있었다니......,"그나저나, 뭐지?  악취가 심한데.",田久地,校工室深處竟然有,這樣的隱藏房間……,話說回來，這是什麼？　臭味非常強烈。,1,237,33,1,0,0,0,0,0,,Translated
+319,世以子,…………, , ,Seiko,...,,,세이코,............,,,世以子,…………,,,1,15,20,1,0,0,0,0,0,,Translated
+320,世以子,直美……大丈夫かな……, , ,Seiko,I hope...Naomi's okay...,,,세이코,나오미...... 괜찮을까......,,,世以子,直美……不知道她還好嗎……,,,1,14,20,1,0,0,0,0,0,,Translated
+321,,　古いストーブがあります。, , ,,It's an old-fashioned space heater.,,,,낡은 난로가 있습니다.,,,,　有舊爐子。,,,0,0,0,0,0,0,0,0,0,,Translated
+322,,　天板に何かが溶けてこびり付いたような,　跡が残っています……, ,,Something sticky seems to have melted all over its,surface. There are stains everywhere.,,,책상 위에 뭔가가 녹아 달라붙은 듯한,자국이 남아 있습니다......,,,　頂板上留下像是什麼東西熔化了,　黏在上面的痕跡……,,0,0,0,1,0,0,0,0,0,,Translated
+323,,　1975年 11月18日,　まで日付が×で消されています……,,,"Every day up through November 18th, 1975 is crossed",off with a big X.,,,1975년 11월 18,까지 날짜가 ×로 지워져 있습니다......,,,　日期被×劃掉，直到1975年11月18日……,,,0,0,0,0,0,0,0,0,0,,Translated
+324,,　棚の中には【宿直日誌】と書かれたノートが,　置かれていますが、カギがかかっていて,　開きません。,,"Inside the cabinet, there's a notebook labeled","'Night Guard Logbook.' Unfortunately, the cabinet",is locked.,,수납장 안에는 【숙직일지】라고 적힌 노트가,"놓여 있지만, 잠겨 있어서",열리지 않습니다.,,　櫃子裡放著一本寫著【值夜日誌】的筆記本，,　但上了鎖，,　無法打開。,0,0,0,0,0,0,0,0,0,,Translated
+325,,　でこぼこのやかんが置いてあります。,,,,"It's an old, beat-up kettle.",,,,찌그러진 주전자가 놓여 있습니다.,,,,　放著一個凹凸不平的水壺。,,,0,0,0,0,0,0,0,0,0,,Translated
+326,田久地,あの子はどこに消えたんだ？,やはりあの襖の中か……,,Taguchi,Now where did that girl disappear to? She had to,have hidden in the closet...,,타구치,그 앤 어디 간 거지?,역시 저 장지문 안인가......,,田久地,那孩子消失到哪裡去了？,果然是在那個紙門裡面嗎……,,1,0,0,0,0,0,0,0,0,,Translated
+327,田久地,あ、開かない……！, ,,Taguchi,"...Ghh, can't open it!",,,타구치,"아, 안 열려......!",,,田久地,啊，打不開……！,,,1,0,0,0,0,0,0,0,0,,Translated
+328,,　流しには、カビの生えた茶葉が,　散乱しています……,,,"There are old, moldy tea leaves floating in the",stagnant water.,,,싱크대에는 곰팡이가 슨 찻잎이,어지럽게 널려 있습니다......,,,　水槽裡，散落著發霉的茶葉……,,,0,0,0,0,0,0,0,0,0,,Translated
+329,,【理科室】,　扉に鍵がかかっています。, ,,[Science Lab],The door is locked.,,,【과학실】,문이 잠겨 있습니다.,,,【理科室】,門上鎖了。,,0,0,0,0,0,0,0,0,0,,Translated
+330,,彼の心は空洞,二つの目は无（む）への入り口,,,The boy's eyes are hollow cavities,that lead into oblivion.,,,그의 마음은 공동,두 눈은 무로 향하는 입구,,,他的心是空洞,雙眼是通往虛無的入口,,0,0,0,0,0,0,0,0,0,,Translated
+331,,心を強く持ち　決して目を合わせるな,,,,Stay strong and avoid the temptation,to look directly at him.,,,마음을 굳게 먹고  절대로 눈을 맞추지 마라,,,,堅定內心　絕對不要與他對視,,,0,0,0,0,0,0,0,0,0,,Translated
+332,霊,見ぃ～つけた……, , ,Spirit,Gooooot'hya...,,,유령,찾~았다......,,,幽靈,找～到你了……,,,1,209,31,1,0,0,0,0,0,,Translated
+333,田久地,ひィッ！？, , ,Taguchi,Geh?!,,,타구치,히익!?,,,田久地,咿！？,,,1,227,33,1,0,0,0,0,0,,Translated
+334,田久地,（か！　身体が……か、金縛り……？！）,,,Taguchi,(No... I can't move! What's going on?!),,,타구치,"(모!  몸이...... 가, 가위......?!)",,,田久地,（身！　身體……被、被鬼壓床……？！）,,,1,0,0,0,0,0,0,0,0,,Translated
+335,霊,もう、はなさない, , ,Spirit,I wohh lehh you go!,,,유령,"이젠, 안 놓칠 거야",,,幽靈,不會再,放開你了,,1,210,31,1,0,0,0,0,0,,Translated
+336,田久地,グァ！！　……アアァッッ, , ,Taguchi,Ngah...haah!,,,타구치,구아!!  ...... 아아아악,,,田久地,呃啊！！　……啊啊,,,1,228,33,1,0,0,0,0,0,,Translated
+337,霊,ひたと……ないぞう, , ,Spirit,I whant...your tongh...anh guts...,,,유령,혀와...... 내장,,,幽靈,要你的……舌頭和內臟,,,1,211,31,1,0,0,0,0,0,,Translated
+338,田久地,ッ！！！　……ギアアァーーーーーーーッ！！,ごぼごぼごぼ, ,Taguchi,...! GhhhaaaaaaAAAAAAAAAAGGGGHHH!!,*sputter*,,타구치,윽!!!  ...... 그아아아악~~~~~~~!!,콸콸콸,,田久地,！！！　……嘎啊啊啊啊啊啊～～！！,咕嚕咕嚕咕嚕,,1,229,33,1,0,0,0,0,0,,Translated
+339,霊,もらうね, , ,Spirit,They're mine!,,,유령,가져갈게,,,幽靈,我收下囉,,,1,212,31,1,0,0,0,0,0,,Translated
+340,田久地,うあェェェェ！！！, , ,Taguchi,Ooolgghh...,,,타구치,우아에에에에!!!,,,田久地,嗚啊啊啊啊！！！,,,1,230,33,1,0,0,0,0,0,,Translated
+341,霊,……ふふふふ……, , ,Spirit,Hee hee hee...,,,유령,...... 후후후후......,,,幽靈,……呵呵呵呵……,,,1,213,31,1,0,0,0,0,0,,Translated
+342,霊,うふふふふ……, , ,Spirit,Hee hee hee...,,,유령,우후후후후......,,,幽靈,呵呵呵呵……,,,1,214,31,1,0,0,0,0,0,,Translated
+343,田久地,誰もいない……,さっきの女の子はどこへ行ったんだ……？, ,Taguchi,Nobody alive in here. So where'd that girl go?,,,타구치,아무도 없어......,그 앤 어디 간 거지......?,,田久地,一個人也沒有……,剛才那個女孩子去哪了……？,,1,231,33,1,0,0,0,0,0,,Translated
+344,田久地,まさか……この中に……？, , ,Taguchi,"She hiding in the closet, maybe?",,,타구치,설마...... 이 안에......?,,,田久地,難道……在這裡面……？,,,1,232,33,1,0,0,0,0,0,,Translated
+345,田久地,…………, , ,Taguchi,...,,,타구치,............,,,田久地,…………,,,1,233,33,1,0,0,0,0,0,,Translated
+346,田久地,何もいないか……ん？,なんだか、,この中から空気の流れを感じる……,Taguchi,Looks empty to me...,"...Er, wait. Are those air currents?",,타구치,아무것도 없나...... 응?,뭔가,이 안에서 공기가 흐르는 게 느껴져......,田久地,什麼也沒有嗎……嗯？,總覺得，,裡面有空氣流動的感覺……,1,234,33,1,0,0,0,0,0,,Translated
+347,,中に入る,入らない,,,Go inside,Back away,,,안으로 들어간다,들어가지 않는다,,,進去,不進去,,0,255,255,255,255,255,255,255,255,,Translated
+348,田久地,奥の壁が……, , ,Taguchi,The wall in the back...isn't solid...,,,타구치,안쪽 벽인가......,,,田久地,裡面的牆壁……,,,1,235,33,1,0,0,0,0,0,,Translated
+349,,　押し入れの奥の壁を押すと、,　簡単にベニヤの板が外れ……,　その更に奥へと続く通路が現れた。,,"With the slightest push, the plywood along the back",wall of the closet fell away to reveal a secret,passageway.,,벽장 안의 벽을 누르니,간단히 베니어판이 빠지고......,안으로 이어진 통로가 나타났다.,,　推了一下壁櫥深處的牆壁，,　合板輕易地脫落……,　出現了通往更深處的通道。,0,0,0,0,0,0,0,0,0,,Translated
+350,田久地,うわ……？, , ,Taguchi,Whoa!,,,타구치,우와......?,,,田久地,哇……？,,,1,236,33,1,0,0,0,0,0,,Translated
+351,田久地,…………, , ,Taguchi,...,,,타구치,............,,,田久地,…………,,,1,233,33,1,0,0,0,0,0,,Translated
+352,田久地,何もいないか……ん？,なんだか、,この中から空気の流れを感じる……,Taguchi,Looks empty to me...,"...Er, wait. Are those air currents?",,타구치,아무것도 없나...... 응?,뭔가,이 안에서 공기가 흐르는 게 느껴져......,田久地,什麼也沒有嗎……嗯？,總覺得，,裡面有空氣流動的感覺……,1,234,33,1,0,0,0,0,0,,Translated
+353,,中に入る,入らない,,,Go inside,Back away,,,안으로 들어간다,들어가지 않는다,,,進去,不進去,,0,255,255,255,255,255,255,255,255,,Translated
+354,田久地,奥の壁が……, , ,Taguchi,The wall in the back...isn't solid...,,,타구치,안쪽 벽인가......,,,田久地,裡面的牆壁……,,,1,235,33,1,0,0,0,0,0,,Translated
+355,,　押し入れの奥の壁を押すと、,　簡単にベニヤの板が外れ……,　その更に奥へと続く通路が現れた。,,"With the slightest push, the plywood along the back",wall of the closet fell away to reveal a secret,passageway.,,벽장 안의 벽을 누르니,간단히 베니어판이 빠지고......,안으로 이어진 통로가 나타났다.,,　推了一下壁櫥深處的牆壁，,　合板輕易地脫落……,　出現了通往更深處的通道。,0,0,0,0,0,0,0,0,0,,Translated
+356,田久地,うわ……？, , ,Taguchi,Whoa!,,,타구치,우와......?,,,田久地,哇……？,,,1,236,33,1,0,0,0,0,0,,Translated
+357,田久地,ぎゃっ！！, , ,Taguchi,Geeh!,,,타구치,악!!,,,田久地,呀！！,,,1,226,33,1,0,0,0,0,0,,Translated
+358,,　何か、橋になるようなものでもあれば……, , ,,If only I had something I could use to cross this...,,,,뭔가 다리가 될 만한 게 있다면......,,,,　如果有什麼可以當作橋的東西的話……,,,0,0,0,0,0,0,0,0,0,,Translated
+359,,　何か、橋になるようなものでもあれば……, , ,,If only I had something I could use to cross this...,,,,뭔가 다리가 될 만한 게 있다면......,,,,　如果有什麼可以當作橋的東西的話……,,,0,0,0,0,0,0,0,0,0,,Translated

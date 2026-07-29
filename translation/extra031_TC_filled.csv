@@ -1,0 +1,1227 @@
+﻿Index,JP_Name,JP_Page1,JP_Page2,JP_Page3,EN2_Name,EN2_Page1,EN2_Page2,EN2_Page3,KO_Name,KO_Page1,KO_Page2,KO_Page3,TC_Name,TC_Page1,TC_Page2,TC_Page3,NameFlag,VoiceNo_low,VoiceNo_high,Timing,VoiceAutoPage,TextSpeed,Button,AutoPage,ExtVoice,Translator_Notes,Status
+0,,美九？　美九！！,まだ起きてるの？, ,,Miku? Miku! Are you still awake?,,,미쿠의 어머니,미쿠? 미쿠!!　아직도 안 잤니?,,,美九的母親,美九？　美九！！,你還醒著嗎？,,0,43,36,1,0,0,0,0,0,,Translated
+1,,配信とかまたバカなことしてないで、,早く寝なさい！　もう１１時よ！, ,,Stop doing your silly livestreams or whatever they,are and go to sleep! It's already 11 PM!,,미쿠의 어머니,또 방송인지 뭔지 바보같은 짓 하지 말고 얼른 자! ,벌써 11시야!,,美九的母親,別再做什麼直播之類的傻事了，,快點睡覺！　已經十一點了！,,0,44,36,1,0,0,0,0,0,,Translated
+2,美九,はぁっ。,もー。声入ったじゃない……, ,Miku,"Seriously, Mom? Everybody watching my stream ",heard you just now!,,미쿠,"아아, 귀찮아. ",엄마 목소리 라이브에 들어가 버렸잖아……,,美九,唉～。,真是的。聲音都錄進去了啦……,,1,16,35,1,0,0,0,0,0,,Translated
+3,美九,言われなくても,終わるとこだったっつーのっ, ,Miku,"I was finishing up anyway, so you didn't need to ",come bother me...,,미쿠,잔소리 안 해도 지금 끝내려 ,하던 참이였다고,,美九,不用你說我也知道，,我正要結束了好嗎～,,1,17,35,1,0,0,0,0,0,,Translated
+4,下の階の母親,明後日は慈愛十字病院の検査の日でしょう？,ちゃんと寝て身体を整えておかないと,ひどい結果が出るわよ？,Miku's Mother,Your checkup at Amare Patriarcha Crucis Hospital is,"in two days! If you don't get enough rest, you're",not going to get the results you want!,미쿠의 어머니,모레가 병원에 검진 받으러 가는 날이잖아? ,수면을 제대로 취하지 않아 검진 결과가 ,엉망으로 나오면 어떡해?,美九的母親,後天是慈愛十字醫院的檢查日吧？,不好好睡覺調整身體的話，,檢查結果會很糟糕喔？,1,45,36,1,0,0,0,0,0,,Translated
+5,美九,あ゛～。もう！,……わかってるよ～！, ,Miku,"Ugh! I KNOOOW, Mom!",,,미쿠,아~됐어!　……알았다니까~！,,,美九,啊～。真是的！,……我知道啦～！,,1,18,35,1,0,0,0,0,0,,Translated
+6,美九,……べー！, , ,Miku,Bleh!,,,미쿠,……으에!,,,美九,……略～,,,1,19,35,1,0,0,0,0,0,,Translated
+7,美九,……馬鹿なこと、とか言わないでよ。,番組登録者数100人でも、周りの配信者が,どんなにまぶしくても、,Miku,"Don't diss what I do... Sure, I only have 100 ","subscribers, but I'm competing with every other ",popular streamer out there.,미쿠,……바보같은 짓이라니. ,"채널 구독자 수 100명 밖에 안되더라도, ",다른 스트리머들이 더 빛날지라도,美九,……別說什麼傻事之類的嘛。,就算頻道訂閱者只有一百人，,就算周圍的直播主再怎麼耀眼，,1,20,35,1,0,0,0,0,0,,Translated
+8,美九,腐らず一生懸命やってんだコッチはぁ～, , ,Miku,I'm working my freaking ass off for this!,,,미쿠,난 줄곧 최선을 다 할테니까~,,,美九,我這邊可是在拼命努力耶～,,,1,21,35,1,0,0,0,0,0,,Translated
+9,美九,……むふっ, , ,Miku,...Hmm-hmm!,,,미쿠,……므흣,,,美九,……嗯哼,,,1,22,35,1,0,0,0,0,0,,Translated
+10,美九,次の配信ネタ何にしよっかなー……？,やっぱりホラーは花形だよねぇ。,視聴者のみんなに喜んでもらいたいな～,Miku,I wonder what I should do for my next stream? ,"Horror seems like the hot thing right now, and",I really want my viewers to have a good time...,미쿠,다음 번 방송 소재는 뭘로 할까……?　,역시 호러가 제일이려나? ,구독자 여러분들에게 사랑받았으면~,美九,下次直播要做什麼主題呢～……？,果然恐怖題材是王道吧。,好想讓觀眾們都開心啊～,1,23,35,1,0,0,0,0,0,,Translated
+11,美九,はぁ。,……眠れん。眠れんぞ, ,Miku,*sigh* ,...I can't sleep. I don't feel sleepy at all.,,미쿠,아아. ,……잠이 안 와. 잘 수가 없어.,,美九,唉。,……睡不著。完全睡不著啊,,1,24,35,1,0,0,0,0,0,,Translated
+12,,本棚には大好きなマンガ本と,推しのライブBlu-rayディスクが並んでいます。, ,,It's stuffed with manga and DVDs of your favorite ,idol's live shows.,,,책장에는 가장 좋아하는 만화책과 라이브 ,블루레이 디스크가 진열돼 있다.,,,書架上擺滿了最喜歡的漫畫書和,偶像的演唱會藍光光碟。,,0,0,0,0,0,0,0,0,0,,Translated
+13,,端にはひっそりと、,怪しげな表紙の【都市伝説大全】の本もあります。, ,,A sketchy-looking book titled 'The Complete Guide to,Urban Legends' is also tucked away in a corner.,,,구석에는 괴상한 커버를 한 [도시전설대전],이란 책이 조용히 놓여 있습니다.,,,角落裡還偷偷放著一本,封面詭異的【都市傳說大全】。,,0,0,0,0,0,0,0,0,0,,Translated
+14,,本棚は、実は奥と手前の２層の並びと,なっており……, ,,This is actually a double-sided bookshelf.,,,,책장은 사실 안쪽과 바깥쪽 두 부분으로 되어……,,,,書架其實是前後兩層的結構……,,,0,0,0,0,0,0,0,0,0,,Translated
+15,,奥には、少し人に見せるのがはばかられる、,厳選された蔵書が安置されています。, ,,The back shelves are for hiding your carefully ,curated 'literature' from prying eyes.,,,안쪽에는 다른 사람에게는 그다지 보여주고 ,싶지 않은 책들이 놓여져 있습니다.,,,內層則收藏著一些,不太方便給人看的精選藏書。,,0,0,0,0,0,0,0,0,0,,Translated
+16,,なお,お母さんには多分見つかっている模様。, ,,Your mom probably knows about those ones already.,,,,"그래도, 어머니한테는 역시나 이미 발견되었겠지.",,,,不過，媽媽大概已經發現了吧。,,,0,0,0,0,0,0,0,0,0,,Translated
+17,美九,そういえば涼香に貸してあげる約束してたなぁ、,この【都市伝説大全】て本, ,Miku,"Oh yeah, I promised Ryoka I'd lend her my book on ",urban legends.,,미쿠,"그러고 보니 이 [도시전설대전], ",료카한테 빌려 준다고 약속했었네.,,美九,說起來，我答應過要借給涼香,這本【都市傳說大全】呢。,,1,25,35,1,0,0,0,0,0,,Translated
+18,美九,はやく自粛期間あけないかなぁ～。,って、あれ？　明日久しぶりの登校日だっけ？, ,Miku,When was this self-quarantine period supposed to ,"end...? Ah, right, school starts again tomorrow.",,미쿠,"빨리 자숙 기간이 해제 되었으면~잠깐, ",어라? 내일이 바로 오랜만의 등교일이잖아?,,美九,自主隔離期間快點結束吧～。,話說回來，明天是久違的上學日嗎？,,1,26,35,1,0,0,0,0,0,,Translated
+19,美九,これこれ！　【都市伝説大全】。,めっちゃ古いものから網羅してあるらしくて,何となく買ったんだよね……！,Miku,There it is! 'The Complete Guide to Urban Legends.',"It covers some stuff that goes waaay back, so I just",had to buy it!,미쿠,이거야 이거! [도시전설대전]. ,엄청 옛날 일부터 전부 기재되어 있어 ,도저히 사지 않을 수가 없었던 그 책……!,美九,就是這個！　【都市傳說大全】。,聽說從非常古老的東西都有收錄，,所以就順手買下來了……！,1,48,35,1,0,0,0,0,0,,Translated
+20,美九,どれどれ……？, , ,Miku,Let's see here...,,,미쿠,어디 봐봐……?,,,美九,讓我看看……？,,,1,49,35,1,0,0,0,0,0,,Translated
+21,,――【幸せのサチコさん】。, , ,,'Sachiko Ever After',,,,――[행복의 사치코 님].,,,,——【幸福的サチコ小姐】。,,,0,0,0,0,0,0,0,0,0,,Translated
+22,,複数名で少女の霊に呼びかけをして,絆を結ぶというおまじないの一種だが、, ,,A ritual performed with multiple people to summon ,the spirit of a young girl that binds them together ,in eternal friendship.,,여러 명의 소녀의 영혼을 불러 ,"인연을 맺는 주술의 일종이나,",,,這是一種由多人召喚少女的靈魂，,締結羈絆的咒語，,,0,0,0,0,0,0,0,0,0,,Translated
+23,,行うと,“異世界の廃校【天神小学校】に飛ばされる“、,“存在が消えてしまう”という逸話もあり、,,But anecdotal reports suggest it sends participants,to the derelict Heavenly Host Elementary School in,another dimension or erases them from existence.,,"""주술을 행하면 """"다른 세계의 페교 [텐진초등학교]로 보내진다"""", ","""""존재 자체가 지워져 버린다"""" 등의 전설이 있으며,""",,,據說實施後會「被傳送到異世界的廢校【天神小學校】」,或「存在會被抹消」等傳聞，,,0,0,0,0,0,0,0,0,0,,Translated
+24,,思春期の児童が行うと暗示にかかりやすく……, , ,,Adolescents who partake in the ritual are ,particularly likely to meet this sad fate. ,,,사춘기의 아이가 주술을 행하면 ,암시에 걸리기 쉬워……,,,思春期的兒童實施時容易受到暗示……,,,0,0,0,0,0,0,0,0,0,,Translated
+25,,古くは【コックリさん】にも通じる、,集団催眠やヒステリーを引き起こす恐れのある,おまじないであるとし、,,"Similar to spirit boards, concern over this charm",possibly causing mass hypnosis and hysteria...,,,옛날의 [분신사바]에 맞먹을 만큼 단체 수면 또는 ,"히스테리를 일으킬 우려가 있는 주술로 여겨져,",,,自古以來與【碟仙】相似，,可能引發集體催眠或歇斯底里的,危險咒語，,0,0,0,0,0,0,0,0,0,,Translated
+26,,各学校で禁止するようにと、,教育委員会から異例の通達が,出されるまでとなった。,,...led the Board of Education to issue an unusual,directive banning anyone from performing it on,school grounds.,,교육위원회는 각 학교들에 금지를 ,하도록 이례적으로 통고까지 내렸었다.,,,因此教育委員會罕見地發出通知，,要求各校禁止實施。,,0,0,0,0,0,0,0,0,0,,Translated
+27,美九,そんなことあったんだ……,ネットのみんなの反応は……？, ,Miku,"Huh, who would've thunk? I wonder what the rest of",the internet has to say about this?,,미쿠,그런 일도 있었네……,네티즌들의 반응은……?,,美九,居然有這種事……,網路上的大家反應如何……？,,1,50,35,1,0,0,0,0,0,,Translated
+28,,気を付けないと、お母さんに,まだ起きていることがバレてしまいます……。, ,,"If you're not careful, your mom will realize you're",still awake...,,,조심하지 않으면 어머니한테 아직도 자지 않은것이 ,들켜 버립니다…….,,,不小心一點的話，,會被媽媽發現你還醒著……。,,0,0,0,0,0,0,0,0,0,,Translated
+29,美九,寝ろ、って話だけどねぇ～……,目が冴えて寝れない時ってあんじゃん？, ,Miku,"'Go to sleep,' she says... But there are times when","you just can't fall asleep, y'know?",,미쿠,잠은 자야 하겠는데 말야~ ,……잠이 안 와서 잘 수가 없을 때가 있잖아여?,,美九,雖然說是要睡覺啦～……,但就是有睡不著的時候嘛？,,1,27,35,1,0,0,0,0,0,,Translated
+30,美九,…………, , ,Miku,...Hmm.,,,미쿠,…………,,,美九,…………,,,1,28,35,1,0,0,0,0,0,,Translated
+31,美九,目が冴えてッ♪,寝れない時って！　あ～んじゃんッ？, ,Miku,"Thewe awe times when you just can't faww asweep, ",y'knyow?,,미쿠,잠이 안 와서♪　,잘 수가 없을 때!　있~잖아여?,,美九,睡不著♪,睡不著的時候！　就～是說嘛？,,1,29,35,1,0,0,0,0,0,,Translated
+32,美九,あ～んじゃんッ？？, , ,Miku,Y'knyow?!,,,미쿠,있~잖아여??,,,美九,就～是說嘛？？,,,1,30,35,1,0,0,0,0,0,,Translated
+33,美九,お、今の可愛いんじゃね？, , ,Miku,"Damn. That was pretty cute, if I do say so myself.",,,미쿠,"오, 방금 이거 귀엽잖아?",,,美九,哦，剛剛那樣挺可愛的嘛？,,,1,31,35,1,0,0,0,0,0,,Translated
+34,美九,うわ！　くつした発見！！,これ一昨日なくしたやつじゃん！, ,Miku,"Oh snap, sock sighted! This is the one I was ",looking for everywhere two days ago!,,미쿠,으왓! 양말 발견!! ,이거 그저께 잃어버린 양말 아냐!,,美九,哇！　發現襪子了！！,這不是我前天弄丟的那隻嗎！,,1,32,35,1,0,0,0,0,0,,Translated
+35,美九,……明日洗濯だしとこ, , ,Miku,...I'll have to wash it tomorrow.,,,미쿠,……내일 세탁 하는걸로.,,,美九,……明天再洗吧,,,1,33,35,1,0,0,0,0,0,,Translated
+36,,もう、くつしたは,ありません……。, ,,No more socks here...,,,,양말 더 이상은 없습니다……。,,,,已經沒有襪子了……。,,,0,0,0,0,0,0,0,0,0,,Translated
+37,美九,……クラスのみんな、元気にしてるかなぁ, , ,Miku,I wonder how everyone from class is doing...,,,미쿠,"……반 친구들, 모두 잘 지내고 있으려나",,,美九,……班上的大家，過得好嗎,,,1,34,35,1,0,0,0,0,0,,Translated
+38,美九,【感染症対策】とかって。,登校自粛はわかるけど、長過ぎね？, ,Miku,I get that we couldn't go to school because of this,"quarantine stuff, but hasn't it been kinda LONG?",,미쿠,"[감염증 대책]이랑, 자숙이랑 이해는 가지만 ",시간이 너무 긴거 아냐?,,美九,什麼【防疫對策】之類的。,不上學是能理解啦，但會不會太久了？,,1,35,35,1,0,0,0,0,0,,Translated
+39,美九,っ～、,暇すぎておならも出るよ、そりゃ, ,Miku,Whew! I'm so bored that I'm passing gas instead of,the time.,,미쿠,으앗~ ,너무 심심해서 방구가 막 나와.,,美九,～,無聊到連屁都放得出來啊，真是的,,1,36,35,1,0,0,0,0,0,,Translated
+40,美九,ん～。やっぱ眠れん。,配信ネタでも、ネットで漁ろ！, ,Miku,"Mm... Yep, I ain't sleeping any time soon. So I'll ",search the internet for livestream ideas instead!,,미쿠,음~ 역시 잠은 무리. ,방송 소재라도 인터넷에서 찾아보자!,,美九,嗯～。果然睡不著。,上網找找直播題材吧！,,1,37,35,1,0,0,0,0,0,,Translated
+41,美九,涼香も寂しがってるだろうなあ～。,ガッコ通ってた時はいっつも,ミクにくっついてたのに,Miku,I bet Ryoka's missing me a lot right about now. ,She was always hanging all over me at school.,,미쿠,료코도 적적하겠다~ 학교 다닐 땐 언제나 ,미쿠한테 붙어 다녔으니까,,美九,涼香一定也很寂寞吧～。,以前上學的時候明明總是黏著小美的,,1,38,35,1,0,0,0,0,0,,Translated
+42,美九,（――新型感染症？　拡散防止のために、,　学校が“先の見えないレベル”で休校期間に,　入ってしまって）,Miku,(I know they closed the school to stop the virus ,"from spreading and all, but...man.)",,미쿠,"""（――신형 감염증? 확산 방지를 위해 학교에선 ","""""끝이 보이지 않는 레벨""""의 휴교령을 내려 버렸으니.）""",,美九,（——新型傳染病？　為了防止擴散，,學校進入了「看不到盡頭」的停課狀態，）,,1,0,0,0,0,0,0,0,0,,Translated
+43,美九,（友達に会うのさえも自粛を強いられて、,　会えない日々が続いたら,　いつの間にか、なんとなーく疎遠に。……はぁ）,Miku,(This forced quarantine has made it so hard to see,my friends. I sorta feel like it's making us drift,apart... *sigh*),미쿠,（친구랑 만나는 것 조차 제한되어 ,이대로 만날 수 없는 날이 길어지면 언젠가는 ,사이가 멀어져 버리겠지……하아.）,美九,（連見朋友都要被限制，,如果一直這樣見不到面，,不知不覺就會漸行漸遠吧……唉）,1,0,0,0,0,0,0,0,0,,Translated
+44,美九,なんかいい都市伝説でもないの？,ほっこり系でもいいよ？, ,Miku,"All right, any good urban legends out there? ","I don't care if they're the warm and fuzzy kind, ",just give me something to work with...,미쿠,뭔가 재밌는 도시전설이라도 없을까? ,따뜻한 이야기라도 그럭저럭 괜찮으니까.,,美九,有沒有什麼好的都市傳說呢？,溫馨類的也可以喔？,,1,39,35,1,0,0,0,0,0,,Translated
+45,美九,おおー、なになに『ふしぎな駅』,『おかしくなるゲーム』……えっ怖そう, ,Miku,"Ooh, what've we got here? 'The Mysterious Station,' ","'The Insanity Game'... Uh, thanks but no thanks.",Those sound scary as hell.,미쿠,"오오, 뭐야뭐야『이상한 역』, ",『이상해 지는 게임』……으잉 무서워,,美九,哦哦～，什麼什麼「奇怪的車站」,「變奇怪的遊戲」……咦好可怕,,1,40,35,1,0,0,0,0,0,,Translated
+46,美九,へぇー、これまでちゃんと調べたこと,なかったけど、今の都市伝説系って,結構ネタもシャープで洗練されてるんだねぇ,Miku,"I hadn't looked too deeply into it before, but the",urban legend genre has lots of really high-quality,narratives these days.,미쿠,"음, 지금까지 별로 관심 가진 적은 없었지만, ","보아하니 요즘 도시전설 장르, ",나름 세련된 느낌이 나잖아.,美九,欸～，雖然之前沒有仔細調查過，,但現在的都市傳說題材,還挺精緻洗練的嘛,1,41,35,1,0,0,0,0,0,,Translated
+47,美九,配信向きかもしれぬ……,ん？　なにこれ？, ,Miku,"Maybe I could use... Wait, what's this one?",,,미쿠,방송 소재로 딱인 듯……어? 이거 뭐지?,,,美九,說不定適合直播……,嗯？　這是什麼？,,1,42,35,1,0,0,0,0,0,,Translated
+48,美九,【全国の中高生行方不明事件】……,【おまじないによる集団失踪】……,【児童７名殺害事件】――,Miku,'Middle schoolers go missing throughout country...' ,'Charm blamed for mass disappearances...' ,'Seven elementary school students murdered...',미쿠,[전국 중고생 행방불명 사건]……,[주술에 의한 단체실종]……,[아동 7명 살해 사건]――,美九,【全國中高中生失蹤事件】……,【因咒語導致的集體失蹤】……,【七名兒童殺害事件】——,1,43,35,1,0,0,0,0,0,,Translated
+49,美九,絆を結ぶおまじない、,【しあわせのサチコさん】……？, ,Miku,"The Eternal Friendship Pact, 'Sachiko Ever After'?",,,미쿠,"인연을 맺는 주술, [행복의 사치코 님]……？",,,美九,締結羈絆的咒語，,【幸福的サチコ小姐】……？,,1,44,35,1,0,0,0,0,0,,Translated
+50,美九,１０年前の記事だね。,あ～、なんか昔ＴＶで観たことある気がする。,７つくらいの時に,Miku,This article's about ten years old. Oh yeah! I think,"I saw something about this charm on TV ages ago, ",back when I was seven or so.,미쿠,10년 전의 기사네. 아~. ,뭔가 옛날에 티비에서 본 듯한 느낌도 드네. ,일곱살 때였나.,美九,是十年前的文章呢。,啊～總覺得以前在電視上看過。,大概七歲左右的時候,1,45,35,1,0,0,0,0,0,,Translated
+51,美九,これ実はおまじないと読むけど、,お呪いって書くんだよね……時間の狂った,謎の校舎に監禁されるってウワサだっけ……,Miku,Seems like less of a 'charm' and more of a 'curse',to me... I've heard rumors that it traps you in some,crazy school where time's all outta whack.,미쿠,이거 주술이라 부르지만 실제론 저주랑 마찬가지……,시간이 엉망으로 된 학교에 학생들이 감금되,었다는 소문……,美九,這個雖然讀作「咒語」，,但寫作「詛咒」呢……據說會被關進,時間錯亂的謎樣校舍裡……,1,46,35,1,0,0,0,0,0,,Translated
+52,美九,詳しく知りたい……,あ。そういえば、これ系詳しく書いてる,本あったな……？,Miku,"I wanna know more... Wait, I could swear I have a",book that describes this in detail.,,미쿠,"자세히 알고싶어……오, 그러고 보니, ",이런 장르에 관한 책이 있었지……？,,美九,好想詳細了解一下……,啊。說起來，我有一本,詳細記載這類事的書……？,1,47,35,1,0,0,0,0,0,,Translated
+53,,『まじで飛べるぞ』, , ,,*It totally sends you somewhere,,,,『진짜로 보내져 버려』,,,,『真的會被傳送走喔』,,,0,0,0,0,0,0,0,0,0,,Translated
+54,,『集団催眠とかじゃない、呪いの天神小は,　本当にある。“天神小事件”で調べてみろ』, ,,*This isn't group hypnosis or anything like that ,The cursed school really exists,"Just search for the ""Heavenly Host Incident""",,"""『단체 수면 같은거 아니라고, ",저주의 텐진초는 실제로 존재 해. ,"""""텐진초사건"""" 검색해 봐.』""",,『這不是集體催眠，詛咒的天神小,　是真實存在的。「去查查天神小事件」』,,0,0,0,0,0,0,0,0,0,,Translated
+55,,『流行ったなぁ笑。,　女子達が先生に隠れてコレやって、,　呪いの学校が見えた！　とか言ってたよ』,,*Oh yeah I remember when that was popular lol,Some school girls did the ritual in secret ,Said they saw the evil school or whatever it was,,『한때 유행했었지 ㅋㅋ. ,여자애들이 선생님 몰래 그 게임 하더니 저주 ,받은 학교가 보이거니 뭐니 했었어.』,,『當時很流行呢笑。,　女生們瞞著老師做這個，,　說看到了詛咒的學校！之類的』,0,0,0,0,0,0,0,0,0,,Translated
+56,,『俺こっそり目あけながらやったんだけど,　一瞬だけ何か見えた気がする。,　成功したから飛ばされなかったんだな』,,"*Didn't close my eyes, just squinted",Think I saw something for a sec,Didn't send me anywhere so I must've done it right,,『나 비록 남 몰래 눈 뜨며 했지만 잠시나마 ,뭔가 보이는 느낌이 났어. 아마도 성공했기에 ,이상한 곳으로 보내져 버리지 않았는 듯.』,,『我偷偷睜著眼睛做了，,　感覺有一瞬間看到了什麼。,　應該是成功了所以沒有被傳送走吧』,0,0,0,0,0,0,0,0,0,,Translated
+57,,『確かにその時の仲間とは一生モノの関係が,　続いてるけど、みんなの書き込み見てると,　失敗したときのリスク高すぎない？』,,*I did it w/ some friends back in the day and we're ,still in touch but damn reading these comments makes,me think you get screwed over for doing it wrong,,『비록 그때의 친구랑은 일생의 인연이 맺어 ,"진다고는 하나, 답글들 보면 만일 실패하면 리스크가 ",너무 감당하기 힘든거 아냐?』,,『確實和當時的朋友保持著一生的,　關係，但看到大家的留言，,　失敗時的風險也太高了吧？』,0,0,0,0,0,0,0,0,0,,Translated
+58,,『異世界の校舎が見えたら終わりってマジ？』, , ,,*wait srsly r u dead if you see that school?,,,,『다른 세계의 학교 건물이 보이면 x된다는거 실화임?』,,,,『看到異世界的校舍就完了是真的嗎？』,,,0,0,0,0,0,0,0,0,0,,Translated
+59,,『保健室は死亡フラグ』, , ,,*nurse's office = you ded,,,,『보건실은 사망 플래그』,,,,『保健室是死亡旗標』,,,0,0,0,0,0,0,0,0,0,,Translated
+60,,『そこから生還した“伝説の生存者”が,　いるらしいよ。,　名前は、聞いた話によると――』,,*Some 'Legendary Survivor' managed to get out alive.,I think their name was--,,,"""『거기에서 살아서 돌아 온 """"전설의 생존자""""가 있다고 하던데. ","이름은 들은 말에 의하면――』""",,,『據說有從那裡生還的「傳說中的生存者」,　存在。,　名字，根據傳聞是——』,0,0,0,0,0,0,0,0,0,,Translated
+61,美九,ふーん？　……１０年前に,結構盛り上がってたんだね……！, ,Miku,Huh! Everyone's getting pretty worked up over,something that happened over a decade ago!,,미쿠,흐음?　……10년 전엔 꽤나 많은 관심을 받았던 ,이야기인데……!,,美九,嗯～？　……十年前,引起了不少話題呢……！,,1,51,35,1,0,0,0,0,0,,Translated
+62,美九,“伝説の生存者”って……なにそれ！,写真まで上がってる。……ふつーの人じゃん、,勝手に上げられて可哀想に……ぷふっ！,Miku,And who the hell's this 'Legendary Survivor'? ,Here's a picture...and it's just some normal dude. ,Laaame. Sucks he got doxed like this though. Haha!,미쿠,"""전설의 생존자""""라니……뭐야! 사진까지 올라와 있잖아. ","……너무 일반인이네, 근데 이렇게 마구 공개되다니, ",불쌍하네……프흣!,美九,「傳說中的生存者」……什麼啊！,連照片都有。不就是個普通人嘛，,被擅自公開真可憐……噗！,1,52,35,1,0,0,0,0,0,,Translated
+63,美九,ん～、今みるとちょっと、レトロな感じも,するけど……逆にロマン、あんじゃない？,今だからこそ、ってやつだよ,Miku,"This whole thing has a kinda retro, almost epic feel","to it. Pretty exciting, especially considering how ",everything else is dullsville right now.,미쿠,"""""음~, 지금 보면 조금 복고 느낌도 나지만……",반대로 로망도 생기잖아? ,"바로 지금에야말로 느낄 수 있는 그런거!""",美九,嗯～，現在看雖然有點,復古的感覺……但反過來說不也很有浪漫嗎？,正因為是現在才有的感覺啊,1,53,35,1,0,0,0,0,0,,Translated
+64,美九,ね、ほかの配信者たち、,誰もこれ実際に試してないよね, ,Miku,"And no other streamer has actually tried doing this, ",right?,,미쿠,"음, 다른 스트리머들, ",이건 실제로 해본 사람이 없네.,,美九,對了，其他的直播主，,沒有人實際試過這個對吧,,1,54,35,1,0,0,0,0,0,,Translated
+65,美九,ちょーど明日は週一の登校日だし！,涼香と一緒にこのおまじないやってみよ！, ,Miku,"Well, what perfect timing! I can try it with Ryoka",when we go back to school tomorrow!,,미쿠,내일은 한주에 한 번의 등교일! ,그럼 료코와 이 주술 해보는 걸로!,,美九,正好明天是每週一次的上學日！,和涼香一起試試這個咒語吧！,,1,55,35,1,0,0,0,0,0,,Translated
+66,美九,っ～。……いーじゃん、これ！,テンション上がって、美九の腸も,調子良くなってきたァ！　腸だけに！,Miku,"Whew, I'm getting all gassed up for this.","Literally, haha!",,미쿠,"음~. ……좋아좋아, 이거!　",텐션 올라가서 미쿠의 대장도 상태가 좋아진거 봐! ,대장인 만큼!,美九,～。……這個不錯嘛！,情緒高漲起來，小美的腸胃,也變好了！　正因為是腸胃！,1,56,35,1,0,0,0,0,0,,Translated
+67,美九,……ん？　　　　　,――うおっ！！, ,Miku,...Huh? OH NO!,,,미쿠,……엥? ――으헥!!,,,美九,……嗯？,——哇！！,,1,57,35,1,0,0,0,0,0,,Translated
+68,美九,うおああぁぁ……,は、配信【ＯＦＦ】にしてなかった……！, ,Miku,"Aw, fuuuck... I didn't turn off my stream!",,,미쿠,"으아아아아악……, 방송 [ＯＦＦ]로 하는 거 까먹었잖아……!",,,美九,哇啊啊……,沒、沒有把直播【關掉】……！,,1,58,35,1,0,0,0,0,0,,Translated
+69,美九,全部、中継してた……！,うおおおお……！！　恥ず、恥ずか……, ,Miku,"That all went out live! Oh my god, oh my goood...!",,,미쿠,"전부 생중계 돼 버렸어……!　으으으으……!!　창피해, 창피해……",,,美九,全部直播出去了……！,嗚啊啊啊……！！　好丟、好丟臉……,,1,59,35,1,0,0,0,0,0,,Translated
+70,美九,うおおぉぉぉ……！！！, , ,Miku,GAHHHHHH!,,,미쿠,아아아아아……!!!,,,美九,嗚啊啊啊啊……！！！,,,1,60,35,1,0,0,0,0,0,,Translated
+71,美九,……でも　　　　,……登録者数、５００人ふえとる……, ,Miku,...Though it did net me another 500 subscribers...,,,미쿠,"……근데 그건 그렇고, ……구독자수 500명을 넘겼는걸……",,,美九,……不過,……訂閱者增加了五百人……,,1,61,35,1,0,0,0,0,0,,Translated
+72,涼香,はぁ楽しいね！　今日の授業が終わって,二回目のチャイム聞いちゃった。,もう５時かな？,Ryoka,"Man, I've missed doing this sooo much! That was the ","second bell since class finished, so I guess it's ",about 5 PM now?,료코,신난다! ,오늘 수업 끝난 후로 두번째로 종이 ,울렸으니 벌써 5시?,涼香,啊真開心！　今天的課結束後,已經聽到第二次鐘聲了。,大概五點了吧？,1,158,32,1,0,0,0,0,0,,Translated
+73,涼香,――久しぶりに顔を見て話せたから,うれしいよ、美九ちゃん, ,Ryoka,"...I'm glad we get to talk face to face again, Miku.",,,료코,"――오랜만에 얼굴 보며 얘기하니까 너무 기뻐, 미쿠",,,涼香,——因為好久沒見到面說話了,好開心啊，美九,,1,159,32,1,0,0,0,0,0,,Translated
+74,美九,ミクも。やっぱ休校中,ずーっと会ってないと、淋しいもんね, ,Miku,Same here. It sucked that we couldn't see each ,other after school got canceled. I missed you.,,미쿠,미쿠도. 휴교 땜에 만날 수 없어 ,너무 허전했었어.,,美九,小美也是。果然停課期間,一直見不到面，會很寂寞呢,,1,62,35,1,0,0,0,0,0,,Translated
+75,涼香,ん～？　でもさ、美九ちゃんはいつも,動画の生配信で視聴者さんと喋ってるから、,淋しくはないんじゃないの？,Ryoka,But you're always talking with your stream ,"viewers, right? How could you have been lonely?",,료코,응~?　하지만 미쿠는 라이브 방송으로 시청자랑 ,얘기 나누고 그랬으니 딱히 허전하진 않았을 것 같은데?,,涼香,嗯～？　但是啊，美九不是一直都,在直播中和觀眾聊天嗎，,應該不會寂寞吧？,1,160,32,1,0,0,0,0,0,,Translated
+76,美九,配信はもちろん楽しいよ？,うちのお客さんは優しい人多いからね。,でもほら、,Miku,"Well, yeah, streaming's fun and all since my viewers",are pretty nice...,,미쿠,"방송은 당연히 즐겁지만 말야, ","비록 나의 고객님들도 친절하시지만, ",그래도 있잖아,美九,直播當然很開心啊？,因為我的觀眾大多都很溫柔。,但是你看，,1,63,35,1,0,0,0,0,0,,Translated
+77,美九,対面しないと摂取できない成分が、,この世にはあるのさ！, ,Miku,But there are some things in this world that you can,only see in person!,,미쿠,이렇게 얼굴 마주하고 있지 않으면 섭취할 수 ,없는 게 세상에는 존재하거든요!,,美九,這世上就是有一些,必須面對面才能攝取到的成分啊！,,1,64,35,1,0,0,0,0,0,,Translated
+78,涼香,ひゃぁ近……！, , ,Ryoka,Eek!,,,료코,"꺄악, 너무 가까워……!",,,涼香,呀太近了……！,,,1,161,32,1,0,0,0,0,0,,Translated
+79,美九,例えば、涼香の笑顔と～……,ミクに向けてくれる気持ち！, ,Miku,Like your smile...or how much you looove me!,,,미쿠,"예를 들면, 료코의 웃는 얼굴과~……미쿠를 향한 마음!",,,美九,比如說，涼香的笑容～……,和對小美的心意！,,1,65,35,1,0,0,0,0,0,,Translated
+80,涼香,……。,ふふ、あはははは㌔, ,Ryoka,Heehee... Ahahaha!㌔,,,료코,"……흐흣, 아하하하㌔",,,涼香,……。,呵呵、啊哈哈哈哈㌔,,1,162,32,1,0,0,0,0,0,,Translated
+81,涼香,じゃ、いっぱい見るよ！,思いが通じるように。じ～～～っ, ,Ryoka,"Then I'll look at you as much as you want, so that ",you understand just how I feel! *staaare*,,료코,"그럼, 마음껏 봐봐! 마음이 느껴 질 때까지~",,,涼香,那我就使勁看囉！,讓心意能傳達給你。盯～～～,,1,163,32,1,0,0,0,0,0,,Translated
+82,美九,あッもっと見て！　いっぱい見て！,涼香成分摂取させて！,尊い！　ありがてェ！　健康になる！！,Miku,"Oh yeah, that's the stuff! Look at me more! I need ",more vitamin Ryoka in my life! So cute! So good!,"If this ain't healthy for you, I don't know what is!",미쿠,"앗, 조금만 더! 더 보고싶어!　",료코의 성분 섭취하게 해줘! 고귀해! 고마워! ,나 건강해 지고있어!!,美九,啊再多看一點！　使勁看！,讓我攝取涼香成分！,太尊貴了！　感謝！　會變健康！！,1,66,35,1,0,0,0,0,0,,Translated
+83,美九,（綺麗に夕陽を反射する、それでいて控えめな,　まつげ。透けるようにきめ細かな白目。整った,　虹彩のしわ、チーク不要の恥じらいほっぺ……）,Miku,(The sun's glinting off her eyelashes. Beautiful!,"Just look at those glistening eyes, the contours of",her irises... And those cheeks are to die for!),미쿠,"（아름다운 석양을 반사하는 조용한 속눈썹, ","속까지 들여다 보이는 맑은 눈망울, ",무지개가 놓인 듯한 쑥스러운 느낌의 볼……）,美九,（美麗地反射著夕陽，卻又低調的,　睫毛。通透細緻的眼白。整齊的,　虹彩紋理，不需腮紅的羞澀臉頰……）,1,0,0,0,0,0,0,0,0,,Translated
+84,,ほっぺ……）,,,,ほっぺ……）,,,,ほっぺ……）,,,,臉頰……）,,,-1,0,0,0,0,0,0,0,0,,Translated
+85,美九,（この娘全然メイクとか服とか、おしゃれに,　無頓着だけど。ほんと素材が美少女だわ……）, ,Miku,"(I know she doesn't care about fashion or makeup,","but damn, she's got all the makings to be a total",hottie.),미쿠,"（이 애, 화장이나 옷차림엔 아예 무관심하지만, ",소재 그 자체가 너무 미소녀란 말야……）,,美九,（這孩子雖然對化妝或衣服,　完全不在意。但真的是天生美少女啊……）,,1,0,0,0,0,0,0,0,0,,Translated
+86,涼香,……。,美九ちゃんも、わたしのことじっと見てる, ,Ryoka,"...Miku, you're staring at me.",,,료코,……미쿠가 날 줄곧 보고있어,,,涼香,……。,美九也在一直看著我呢,,1,164,32,1,0,0,0,0,0,,Translated
+87,美九,あっ、バレた？,可愛いなって思ってさ。ヤだった？, ,Miku,"Oh snap, was it that obvious? I was just thinking ",about how dang cute you are is all. Was that creepy?,,미쿠,"앗, 들켰다? 귀여워서 그래, 부담스러웠어?",,,美九,啊，被發現了？,因為覺得你很可愛啊。討厭嗎？,,1,67,35,1,0,0,0,0,0,,Translated
+88,涼香,いやいや！　そんな、可愛くなんてないけど。,……見てくれるのは、うれしい……し、, ,Ryoka,"M-Me, cute? You know that's not true...but I'm happy",you got to look at me.,,료코,"아니아니! 그냥, 나 어디가 귀엽다고 ",……날 보고있어 줘서 고마워……,,涼香,沒有沒有！　我、我哪有可愛。,……能被你看著，我很開心……,,1,165,32,1,0,0,0,0,0,,Translated
+89,涼香,明日からまた会えなくなるの淋しい, , ,Ryoka,I hate that after today we won't be able to see each,other again...,,료코,내일부터 또 만날 수 없게 된다는게 슬퍼,,,涼香,明天開始又見不到面了，好寂寞,,,1,166,32,1,0,0,0,0,0,,Translated
+90,美九,……じゃんじゃんじゃんじゃんじゃんじゃん♪,じゃんじゃんじゃんじゃんじゃんじゃん♪, ,Miku,Duh-dum duh-dum duh-dum! Duh-dum duh-dum duh-dum!,,,미쿠,……짠짠짠짠짠짠♪　짠짠짠짠짠짠♪,,,美九,……鏘鏘鏘鏘鏘鏘♪,鏘鏘鏘鏘鏘鏘♪,,1,68,35,1,0,0,0,0,0,,Translated
+91,涼香,？, , ,Ryoka,Huh?,,,료코,?,,,涼香,？,,,1,167,32,1,0,0,0,0,0,,Translated
+92,美九,じゃんじゃんじゃんじゃんじゃん、,じゃじゃじゃじゃ～～～～ん♪, ,Miku,Duh-dum duh-dum duh-dum! Ta-daaa!,,,미쿠,"짠짠짠짠짠, 짠짠짠짠~~~~♪",,,美九,鏘鏘鏘鏘鏘、,鏘鏘鏘鏘～～～～♪,,1,69,35,1,0,0,0,0,0,,Translated
+93,涼香,ふわっ……これなに？, , ,Ryoka,Whoa... What is this thing?,,,료코,흐엇……이거 뭔데?,,,涼香,哇……這是什麼？,,,1,168,32,1,0,0,0,0,0,,Translated
+94,美九,むっふっふ――明日から会えなくて切ない、,そんな涼香とミクにピッタリのこの代物！,ネットで見つけたおまじない！,Miku,Heh heh heh! The perfect solution to our problem:,a charm I found on the internet!,,미쿠,므흐흣――내일부터 만날 수 없어 너무 ,슬픈 료코와 미쿠를 위한 대용품! ,인터넷에서 발견한 주술이야!,美九,嗯哼哼——從明天起見不到面很痛苦，,正適合這樣的涼香和小美的這個東西！,在網路上找到的咒語！,1,70,35,1,0,0,0,0,0,,Translated
+95,美九,シアワセのサチコさん！, , ,Miku,Sachiko Ever After!,,,미쿠,행복의 사치코 님!,,,美九,幸福的サチコ小姐！,,,1,71,35,1,0,0,0,0,0,,Translated
+96,涼香,シアワセの……？,さ……ち……？, ,Ryoka,Sachiko...?,,,료코,행복의……?　사……치……?,,,涼香,幸福的……？,幸……子……？,,1,169,32,1,0,0,0,0,0,,Translated
+97,美九,そう、サチコさん。キズナムスビの神様か,なんかかな？……これを親友同士でやるとね、,一生仲良しでいられるんだって。,Miku,Ever After! Sachiko's supposed to be the goddess of,relationships or something. If you complete this ,"ritual with your friends, you stay friends forever!",미쿠,"맞아, 사치코님. 인연을 맺어주는 신?　","……친구랑 이걸 하면 있잖아, ",평생 사이좋게 지낼 수 있대.,美九,對，サチコ小姐。好像是結緣之神,之類的吧？……這個如果是好朋友之間做的話，,據說可以一輩子都保持友好喔。,1,72,35,1,0,0,0,0,0,,Translated
+98,涼香,……, , ,Ryoka,...,,,료코,……,,,涼香,……,,,1,170,32,1,0,0,0,0,0,,Translated
+99,,オカルト方面に詳しい涼香は、,心当たりのありそうな顔をしています……。, ,,"Ryoka was pretty familiar with the occult, and the ",look on her face suggested she might already know ,something about this charm...,,오컬트에 대해 잘 알고 있는 료코는 뭔가 ,와닿는 듯한 얼굴을 하고 있었다…….,,,對靈異方面很了解的涼香，,露出了似乎知道些什麼的表情……。,,0,0,0,0,0,0,0,0,0,,Translated
+100,美九,あ、涼香も聞いたことある？,１０年位前のおまじないだけどね, ,Miku,"Oh! Have you heard about this, Ryoka? It's been ",around for like a decade.,,미쿠,"아 맞다, 료코는 들어 본 적 있어? 비록 ",10년 전의 주술이지만 말야.,,美九,啊，涼香也聽說過嗎？,雖然是十年前左右的咒語,,1,73,35,1,0,0,0,0,0,,Translated
+101,美九,このおまじないが載ってた,元ネタブログも、ずっとデッドリンク,だったみたいなんだけど……,Miku,The link to the blog that talked about it was dead ,for years...,,미쿠,이 주술을 기록한 블로그도 줄곧 깨진 ,링크였는 듯 하지만……,,美九,記載這個咒語的,原始部落格，,好像一直都是死連結……,1,74,35,1,0,0,0,0,0,,Translated
+102,美九,昨日みたら、文字化けはしてたけど、この形代の,画像データが復活してたの！　不思議でしょ？,これはもう、ミクたちでやれって運命じゃない？,Miku,"But I looked it up yesterday, and while they were","a bit corrupted, I found pics of this paper doll! ",It's like fate is TELLING us to do this!,미쿠,"어제 봐봤더니, 글자는 깨져 있었지만 이 인형의 이미지 ","데이터가 회복이 돼 있었어! 신기하지? 이건 뭐 거의, ",미쿠보고 이걸 해보라는 운명적인 뭔가가 아냐?,美九,但昨天一看，雖然文字是亂碼，,這個紙偶的圖片資料卻復活了！　很神奇吧？,這不就是叫小美們來做的命運嗎？,1,75,35,1,0,0,0,0,0,,Translated
+103,,じゃない？,,,,じゃない？,,,,じゃない？,,,,不是嗎？,,,-1,75,35,1,0,0,0,0,0,,Translated
+104,美九,しかも今日ガッコ来るときにさ、,家の前に落ちてたの、この石！　見て！, ,Miku,And check out these stones! I found them in front,of my house on the way to school!,,미쿠,"게다가 오늘 학교로 오기 전, ",집앞에 이 돌이 놓여져 있는게 보였어! 봐봐!,,美九,而且今天來學校的時候，,家門口掉著這個石頭！　你看！,,1,76,35,1,0,0,0,0,0,,Translated
+105,,白い布でくるまれたそれは、,花緑青（はなろくしょう）色に輝く二対の石が,まるで混ざり合うように寄り添っています。,,The stones wrapped in white cloth shine a deep ,"emerald green. In fact, they almost looked like two ",stones that fused together to form one.,,하얀 천에 둘러싸인 돌은 녹청색으로 ,빛나는 두 쌍의 돌이 마치 서로 어우러지듯 하나로 된 ,모습을 하고 있다.,,用白布包裹著的，,是兩對閃耀著翠綠色光芒的石頭,彷彿融合在一起般相互依偎。,0,0,0,0,0,0,0,0,0,,Translated
+106,涼香,わぁ……なんか、すごいね。,見たこともない色のオーラを感じる。,この石。,Ryoka,Wow... Those are amazing. It feels as if they're,shining with some strange new color. Like an aura.,,료코,우와……뭔가 대단한 느낌이 들어. ,"본 적이 없는 색상의 오라가 느껴져, ",이 돌에서.,涼香,哇……感覺好厲害。,感覺到了從未見過顏色的氣場。,從這石頭上。,1,171,32,1,0,0,0,0,0,,Translated
+107,美九,石のほかにね、『涅槃をもってけ？』とかなんとか、,メモが入ってた。捨てたけど, ,Miku,They also had a note asking if I'd reached nirvana ,"yet or something, but I tossed it.",,미쿠,"돌 말고도 있잖아, 『열반을 가지고 가?』 ",뭐 이따위 메모가 들어 있었어. ,이미 버렸지만.,美九,除了石頭之外，還有『帶著涅槃？』,之類的紙條。雖然我丟掉了,,1,77,35,1,0,0,0,0,0,,Translated
+108,美九,噂では、目をつぶってるあいだに,サチコさんのいる古～い小学校に,一瞬だけ体が連れていかれて……,Miku,Rumor has it that while your eyes are closed during,"this ritual, you're transported to the reeeally old",school that Sachiko is in...,미쿠,소문에 따르면 눈을 감고 있을 사이에 사치코 ,님의 예전 초등학교로 잠깐 동안 몸이 끌려 갔다가……,,美九,傳說在閉著眼睛的時候，,身體會被短暫帶到,サチコ小姐所在的古老小學……,1,78,35,1,0,0,0,0,0,,Translated
+109,美九,おまじないが終わるころにはこの校舎に,戻ってるんだって。だから、その間,絶対目をあけちゃいけないの。,Miku,"And once it's complete, you come right back. ",So that's why you gotta keep them closed until then.,,미쿠,주술이 끝나면 이 학교로 돌아온다고 해. ,"그러니까, 그 사이엔 절대로 눈을 떠선 안돼.",,美九,據說在咒語結束時會回到這所校舍。,所以那段時間,絕對不能睜開眼睛。,1,79,35,1,0,0,0,0,0,,Translated
+110,美九,ヤバくない？　小学校ってなんだろ？,霊界か何かかな？,中継したら、再生数うなぎのぼりじゃない？,Miku,Doesn't that sound crazy cool? It's some kind of ,ghost school! People are gonna watch the recording,of our livestream a zillion times!,미쿠,뭔가 굉장하지 않아? 웬 초등학교? ,영혼의 세계라도 되는 거임?　,생중계하면 조회 수 말도 안 되게 올라가는 거 아냐?,美九,很厲害吧？　小學是什麼呢？,靈界之類的嗎？,如果直播的話，播放量豈不是會暴增？,1,80,35,1,0,0,0,0,0,,Translated
+111,涼香,……。,美九ちゃん。これ、あぶなくないかな？,――って、どうして録ってるの？！,Ryoka,"I don't know, Miku. Doesn't that sound kind of...",dangerous? And wait--why are you recording this?!,,료코,"……미쿠, 이거 위험하지 않을까?　","――그건 그렇고, 웬 녹화?!",,涼香,……。,美九。這個，會不會很危險？,——話說回來，為什麼在錄影？！,1,172,32,1,0,0,0,0,0,,Translated
+112,美九,へへへ……だって、やろうと思った矢先に,不審な石が届くとか、こんなおいし……,不思議なことってないよ！,Miku,Heh heh! The stones I found are a sign that fate is,"on our side. It's time for us to get famo-- I mean,",investigate this urban legend!,미쿠,헤헤헷……그니까 마침 해볼려고 하던 참에 ,"수상한 돌까지 나타나고, 이만큼 신나는",……신비한 일이 언제 다시 있겠어!,美九,嘿嘿嘿……因為正想試的時候,就收到了可疑的石頭，,這種天賜良……不，奇妙的事可不多見啊！,1,81,35,1,0,0,0,0,0,,Translated
+113,美九,やろうよ！　『仲良し女子高生二人が,実際にシアワセのサチコさんをやってみた』,……って生配信！,Miku,"C'mon, let's just try it! We'll call the stream ",'Two high school girls try Sachiko Ever After in ,real life! (GONE WRONG?!)',미쿠,해 보자! 『사이 좋은 여고생 둘이서 실제로 행복의 ,사치코 님을 해봤습니다.』……라는 생방송 말야!,,美九,來做吧！　『感情好的兩個女高中生,實際試了幸福的サチコ小姐』,……這樣直播！,1,82,35,1,0,0,0,0,0,,Translated
+114,美九,目をあけちゃ駄目なら、動画で録ってれば,いいんだよ。目を瞑っておまじないをしている,ミクたちに、何が起こるか！,Miku,"And if we can't open our eyes, then we'll record ",a video instead! Easy-peasy! Who knows what'll ,happen to us while we're doing it?,미쿠,눈을 떠선 안된다면 녹화 하면 되잖아. ,눈을 감고 주술을 하고 있는 미쿠랑 료코에게 ,무슨 일이 생기는지!,美九,如果不能睜開眼睛的話，,錄影就好了啊。,閉著眼睛進行咒語的小美們，,1,83,35,1,0,0,0,0,0,,Translated
+115,涼香,ええ？！　わ、わたしは出たくないよ……,インターネットに顔出しなんて, ,Ryoka,"Say what?! N-No way, I don't want to have my face ",out on the internet...,,료코,"어엇?! 나, 난 방송되기 싫은데……",인터넷에 얼굴 보이는건 무리야.,,涼香,欸？！　我、我不想上鏡頭啦……,在網路上露臉什麼的,,1,173,32,1,0,0,0,0,0,,Translated
+116,美九,何言ってるのよ、涼香はもっと自分の可愛さを,世に出さなきゃ、勿体ないよ！,てか国宝の出し渋り！　こりゃ罪だよ！,Miku,Just listen to yourself! You're denying the world ,a chance to see your cuteness! You're hoarding a ,national treasure here--it's practically a crime!,미쿠,무슨 말씀. 료코의 귀여움은 세상에 ,보여주지 않으면 너무 낭비!　,국보를 숨기는건 죄라는 거죠!,美九,說什麼呢，涼香應該讓更多人,看到妳的可愛，太可惜了！,簡直是國寶級的藏私！　這是犯罪啊！,1,84,35,1,0,0,0,0,0,,Translated
+117,涼香,ふえぇぇ？！, , ,Ryoka,Whaaat?!,,,료코,에에엣?!,,,涼香,嗚欸欸？！,,,1,174,32,1,0,0,0,0,0,,Translated
+118,美九,……おねがい！　ミクと一緒にやって！,出演、今回だけでもいいからさ！, ,Miku,"Please, I'm begging you! Do this with me! Just once!",,,미쿠,……부탁해! 미쿠랑 함께 해줘! 이번 한번만 ,출연해 줘도 좋으니까 제발!,,美九,……拜託！　和小美一起做吧！,出演，就這一次也好！,,1,85,35,1,0,0,0,0,0,,Translated
+119,涼香,…………, , ,Ryoka,...,,,료코,…………,,,涼香,…………,,,1,175,32,1,0,0,0,0,0,,Translated
+120,美九,女子高生がただスキを見せてるだけでも、,フォロワー数がどんどん増える世界なんだ。,絶対バズるよこれ！　……おねがい！,Miku,People LOVE watching girls our age let loose! It,gets you followers like nothing else! This video'll ,go viral for sure--so please do this with me!,미쿠,여고생이 잠깐만 빈틈을 보여도 팔로어 수가 ,왕창 늘어나는 세상이야. 절대 인기를 끌 수 있다니까! ,……부탁이야!,美九,女高中生就算只是稍微展現破綻，,追蹤者數都會不斷增加的世界。,這個絕對會爆紅！　……拜託！,1,86,35,1,0,0,0,0,0,,Translated
+121,涼香,スキを……？, , ,Ryoka,Uh... People like watching that stuff?,,,료코,빈틈을……?,,,涼香,破綻……？,,,1,176,32,1,0,0,0,0,0,,Translated
+122,美九,うん、……実証済み……。,いやそれはいいとして、ね？,ここらで面白い配信して、爆発させたいの！,Miku,"Yeah. Trust me, I would know... But that's a story",for another day. So pretty please? I want this,stream to blow up after we do the charm!,미쿠,"응,……그건 내가 이미 검증한 사실……. ","아냐 이 말은 됐고, 응?　",여기서 재밌는 방송 해서 우리 대박 터뜨리자!,美九,嗯、……已經證明過了……。,算了那個不重要，對吧？,我想在這裡做個有趣的直播，讓它爆紅！,1,87,35,1,0,0,0,0,0,,Translated
+123,涼香,……わたしね、,一生懸命な美九ちゃんを見てるの好き, ,Ryoka,"...I love seeing you so excited, Miku.",,,료코,"……나 있잖아, 미쿠가 너무 좋아",,,涼香,……我啊，,喜歡看到美九努力的樣子,,1,177,32,1,0,0,0,0,0,,Translated
+124,涼香,どんな時でもわたしは、,ぜったい美九ちゃんの味方でいたいんだ。,だから……,Ryoka,I always want to support you in whatever you do.,So that's why...,,료코,난 언제나 미쿠랑 같은 편 하고 싶어. ,그러니까……,,涼香,無論什麼時候我都,想站在美九這一邊。,所以……,1,178,32,1,0,0,0,0,0,,Translated
+125,涼香,美九ちゃんがしたいのなら、いいよ？, , ,Ryoka,"If you want to do this, then I'm okay with that.",,,료코,"미쿠가 하고 싶은거라면, 나도 좋아.",,,涼香,如果是美九想做的話，我可以喔？,,,1,179,32,1,0,0,0,0,0,,Translated
+126,美九,あうぅ……！！,涼香、優しい～！,ありがと！　……チューしていい？？,Miku,"Ryoka, you beautiful babe, you! Thank you! I could ","kiss you--in fact, can I?",,미쿠,"꺄악……!!　료코, 너무 따뜻해~!　고마워!　",……뽀뽀 좀 해도 돼??,,美九,啊嗚……！！,涼香、好溫柔～！,謝謝！　……可以親一個嗎？？,1,88,35,1,0,0,0,0,0,,Translated
+127,涼香,ふぇ？！　あ……えと……！, , ,Ryoka,Wha?! I... Um...!,,,료코,그?! 그건……좀……!,,,涼香,欸？！　啊……那個……！,,,1,180,32,1,0,0,0,0,0,,Translated
+128,美九,……なーんてね！,視聴者のみんな、期待した？,チューはもう少しあと！　本編でね♪,Miku,"Just kidding, folks! Did I get your hopes up? You",can look forward to the smooch during the real deal!,,미쿠,"……크큭!　시청자 여러분, 많이 기대 하셨나요?　",뽀뽀는 잠시 후에!　본편으로 들어간 다음에 말이죠♪,,美九,……開玩笑的啦！,觀眾們，期待了嗎？,親親還要再等一下！　正片裡喔♪,1,89,35,1,0,0,0,0,0,,Translated
+129,美九,よっし！　予告編ライブ配信完了！,ありがと涼香！　早速おまじないやってみよ！, ,Miku,"All right, that takes care of the teaser stream!","Thanks a bunch, Ryoka! Let's get this charm started!",,미쿠,좋아! 예고 방송 완료!　,고마워 료코! 얼른 주술 시작해보자!,,美九,好！　預告直播完成！,謝謝涼香！　馬上來試試咒語吧！,,1,90,35,1,0,0,0,0,0,,Translated
+130,涼香,いいよ。美九ちゃんなら, , ,Ryoka,Okay... As long as it's with you.,,,료코,그래. 미쿠라면…,,,涼香,好啊。如果是美九的話,,,1,181,32,1,0,0,0,0,0,,Translated
+131,美九,うん！　え？　なにが？, , ,Miku,"Yeah! Wait, what did you say?",,,미쿠,응! 응? 뭐가?,,,美九,嗯！　欸？　什麼？,,,1,91,35,1,0,0,0,0,0,,Translated
+132,涼香,……ふふっ, , ,Ryoka,...Heehee!,,,료코,……흐흣,,,涼香,……呵呵,,,1,182,32,1,0,0,0,0,0,,Translated
+133,美九・涼香,サチコさんお願いします……, , ,Miku & Ryoka,"Sachiko, we beg of you...",,,미쿠&료코,사치코 님에게 부탁합니다……,,,美九・涼香,サチコ小姐請多指教……,,,1,0,0,0,0,0,0,0,0,,Translated
+134,美九,……まだ目、あけちゃ駄目だよ。,心の中で唱えた？, ,Miku,...No opening your eyes yet. ,Did you say that twice?,,미쿠,……아직 눈 뜨면 안돼. ,마음속으로 주문을 읽었어?,,美九,……還不能睜開眼睛喔。,在心裡念了嗎？,,1,93,35,1,0,0,0,0,0,,Translated
+135,涼香,うん, , ,Ryoka,Uh-huh.,,,료코,응,,,涼香,嗯,,,1,184,32,1,0,0,0,0,0,,Translated
+136,美九,じゃ、いま二人でつかんでる,『サチコさんの切り抜き』を……破くよ！,せーの！,Miku,Then prepare to tear the paper doll! Ready...go!,,,미쿠,"자, 이제 우리가 함께 쥐고 있는 ",『사치코 님의 오려낸 그림』을……찢어!　,하나 둘..!,美九,那，現在兩人抓著的,『サチコ小姐的剪紙』……要撕破了！,預備！,1,94,35,1,0,0,0,0,0,,Translated
+137,涼香,あぁ！, , ,Ryoka,Eek!,,,료코,아앗!,,,涼香,啊！,,,1,185,32,1,0,0,0,0,0,,Translated
+138,美九,……ぶっ！　あっはははは！,指すべった？, ,Miku,Pfft! Ahahaha! Did your fingers slip?,,,미쿠,……직!　아하하하!　손가락 미끄러졌어?,,,美九,……噗！　啊哈哈哈哈哈！,手指滑掉了？,,1,95,35,1,0,0,0,0,0,,Translated
+139,涼香,うん……怖くて,指に汗かいちゃった, ,Ryoka,Yeah... They were a little sweaty because I was so ,nervous.,,료코,응……무서워서 손에 땀이 났어,,,涼香,嗯……因為害怕,手指都出汗了,,1,186,32,1,0,0,0,0,0,,Translated
+140,美九,あははは！　いいよ、,視聴者さんにもウケてる！,……もっかい！　もっかいやろ！　持って！,Miku,"Ahaha! It's all good, our viewers are loving it! ","C'mon, one more time! Grab it tight!",,미쿠,"아하하핫! 괜찮아, 시청자들도 좋아하고 있으니까! ",……다시! 한번 다시 해! 잠깐만!,,美九,啊哈哈哈！　沒關係，,觀眾們也很喜歡！,……再一次！　再來一次！　抓好！,1,96,35,1,0,0,0,0,0,,Translated
+141,涼香,……ぷっ, , ,Ryoka,...Pfft!,,,료코,……피식,,,涼香,……噗,,,1,187,32,1,0,0,0,0,0,,Translated
+142,美九,ぷふふあははは！,っしゃ完了ー！,なかった！　失敗なんてなかったよ！,Miku,"Hahahaha! All righty then, we're good! We didn't ","mess up, I swear!",,미쿠,프하하하하하!　완료!　아니였지! 실패 아니였지!,,,美九,噗哈哈哈！,好完成！,沒事的！　沒有失敗喔！,1,97,35,1,0,0,0,0,0,,Translated
+143,涼香,くすくす、もう～。いいの？,今の、ちゃんとお祈りとかしなかったよ？, ,Ryoka,*giggle* Geez... Are you sure it worked? I wasn't ,even praying that time!,,료코,"크큭, 됐어~ 방금 기도는 제대로 했어?",,,涼香,嘻嘻，真是的～。可以嗎？,剛剛，沒有好好祈禱吧？,,1,188,32,1,0,0,0,0,0,,Translated
+144,美九,結果オーライっしょ。,どうみんな？　周りなんか変わった？, ,Miku,"Yeah, it should be fine! So whaddya think, everyone?",Did you notice anything change?,,미쿠,결과는 마찬가지래요. 여러분 어때요? 주위에 무슨 변화라도 있었나요?,,,美九,結果好就好啦。,怎麼樣各位？　周圍有什麼變化嗎？,,1,98,35,1,0,0,0,0,0,,Translated
+145,美九,ミクたちが目つぶって唱えてる間、,小学校とか見えた？, ,Miku,Did you see that elementary school when we closed ,our eyes?,,미쿠,미쿠랑 눈 감고 주문을 읽을 때 초등학교 따위가 보였나요?,,,美九,小美們閉著眼睛念咒的時候，,有看到小學之類的嗎？,,1,99,35,1,0,0,0,0,0,,Translated
+146,美九,……あれ？, , ,Miku,...Huh?,,,미쿠,……어라?,,,美九,……咦？,,,1,100,35,1,0,0,0,0,0,,Translated
+147,涼香,どうしたの？, , ,Ryoka,What's wrong?,,,료코,왜 그래?,,,涼香,怎麼了？,,,1,189,32,1,0,0,0,0,0,,Translated
+148,美九,配信止まってる。,うっそ……,ええ～？　こんな時に？！,Miku,"The stream stopped! Oh, come ON, you gotta be ","KIDDING me--why now, of all times?!",,미쿠,방송 멈춰버렸어. 장난하나……뭐야~?　하필이면 이 때에?!,,,美九,直播停了。,不會吧……,欸～？　偏偏在這種時候？！,1,101,35,1,0,0,0,0,0,,Translated
+149,涼香,……, , ,Ryoka,...,,,료코,……,,,涼香,……,,,1,190,32,1,0,0,0,0,0,,Translated
+150,美九,ちょっと待ってよ～……、,サーバーの問題かなぁ？,アーカイブは……？　,Miku,Gimme a sec... Did the server go down? Is the video,in my archive...?,,미쿠,조금만 기다려~…… 서버에 문제가 생겼나?　아카이브는……?,,,美九,等一下啦～……,是伺服器的問題嗎？,存檔呢……？,1,102,35,1,0,0,0,0,0,,Translated
+151,美九,あ、残ってる。,撮れてる撮れてる！　良かったー！, ,Miku,"Phew, it's still there! We got it! Thank goodness!",,,미쿠,"오, 있어. 찍혔어 찍혔어! 다행이다!",,,美九,啊，還在。,有拍到有拍到！　太好了！,,1,103,35,1,0,0,0,0,0,,Translated
+152,美九,――っ？, , ,Miku,"Wait, what the--",,,미쿠,――어?,,,美九,——咦？,,,1,104,35,1,0,0,0,0,0,,Translated
+153,涼香,どうしたの？, , ,Ryoka,What's wrong?,,,료코,어떻게 된 거야?,,,涼香,怎麼了？,,,1,191,32,1,0,0,0,0,0,,Translated
+154,美九,……なにこれ？,へんなもの写ってる, ,Miku,What the hell? It recorded something weird...,,,미쿠,……뭐야 이거?　이상한게 찍혔어,,,美九,……這是什麼？,拍到了奇怪的東西,,1,105,35,1,0,0,0,0,0,,Translated
+155,涼香,え……？, , ,Ryoka,Huh...?,,,료코,응……?,,,涼香,欸……？,,,1,192,32,1,0,0,0,0,0,,Translated
+156,美九,うっ……ぷぇっ！, , ,Miku,Urg... Bleaghhh!,,,미쿠,윽……우웩!,,,美九,呃……嘔！,,,1,106,35,1,0,0,0,0,0,,Translated
+157,涼香,美九ちゃん！　大丈……？！, , ,Ryoka,Miku! Are you oka--,,,료코,미쿠!　괜찮……?!,,,涼香,美九！　你還……？！,,,1,193,32,1,0,0,0,0,0,,Translated
+158,美九,うぶ……なに？,なんなの？, ,Miku,Urp... What? What is it?,,,미쿠,으윽……뭐지?　뭐야?,,,美九,嗚……什麼？,怎麼回事？,,1,107,35,1,0,0,0,0,0,,Translated
+159,涼香,そと……廊下……これ、足音……？, , ,Ryoka,It's coming from the hallway... Doesn't it sound,like...footsteps?,,료코,"바깥……복도……이거, 발소리……?",,,涼香,外面……走廊……這個，腳步聲……？,,,1,194,32,1,0,0,0,0,0,,Translated
+160,美九,なんなのよ～……！,誰か来た……, ,Miku,Now what...? Is someone here?,,,미쿠,대체 뭐야~……!　누군가 오고 있어……,,,美九,到底是怎樣啦～……！,有人來了……,,1,108,35,1,0,0,0,0,0,,Translated
+161,涼香,ひ……！, , ,Ryoka,Ah...!,,,료코,흐윽……!,,,涼香,嘶……！,,,1,195,32,1,0,0,0,0,0,,Translated
+162,美九・涼香,きゃああぁぁぁーーーーーー！！！, , ,Miku & Ryoka,Eeeeeeeeek!,,,미쿠&료코,꺄아아아아악------!!!,,,美九・涼香,呀啊啊啊啊啊啊！！！,,,1,0,0,0,0,0,0,0,0,,Translated
+163,,美九のスマホから録画された,動画の日付が、高速で流れてゆきます。, ,,The date on Miku's video was changing faster than,the eye could see.,,,미쿠의 휴대폰에 녹화 된 영상의 날짜가 빠른 속도로 흐르듯 변화하고 있다.,,,,美九手機錄下的,影片日期正高速流逝。,,0,0,0,0,0,0,0,0,0,,Translated
+164,,気を失った美九には、それを知る由もなく,その身体は澱みに堕ちてゆきました……。, ,,"Oblivious as to why, Miku had already lost ",consciousness by the time her body sank into the ,dark abyss...,,정신을 잃은 미쿠는 그걸 알 리가 없는 채 몸은 웅덩이로 추락하고 있었다…….,,,,失去意識的美九無從知曉，,她的身體正墜入深淵……。,,0,0,0,0,0,0,0,0,0,,Translated
+165,,2020／10／10、2020／4／4、,2019／10／10、2018、, ,,10/10/2020,04/04/2020,10/10/2019,,2020/10/10、2020/4/4、,2019/10/10、2018、,,,2020／10／10、2020／4／4、,2019／10／10、2018、,,0,0,0,0,0,0,0,0,0,,Translated
+166,,2017、2016、,2015……2010、2008――, ,,"2017,2016,2015......","2010,2008――",,,2017、2016、2015…….,2010、2008――,,,2017、2016、,2015……2010、2008——,,0,0,0,0,0,0,0,0,0,,Translated
+167,,ちょうどこんな……　雨の降る、放課後だったそうよ……, , ,,ちょうどこんな......　雨の降る、放課後だったそうよ......, , ,,―,,,,正好是這樣……　據說是一個下雨的放學後……,,,0,2,0,1,0,0,0,0,0,,Translated
+168,,その女性の先生が、階段の踊り場から……,転落して亡くなったのは。, ,,その女性の先生が、階段の踊り場から......,転落して亡くなったのは。, ,,―,,,,那位女老師，從樓梯平台……,墜落身亡的。,,0,3,0,1,0,0,0,0,0,,Translated
+169,,――みんな知ってるよね？　私達の学校、,【如月学園】が建てられる前……, ,,――みんな知ってるよね？　私達の学校、,【如月学園】が建てられる前......, ,,―,,,,——大家都知道吧？　在我們的學校，,【如月學園】建成之前……,,0,4,0,1,0,0,0,0,0,,Translated
+170,,この場所にもともと建っていた、【天神小学校】。, , ,,この場所にもともと建っていた、【天神小学校】。, , ,,―,,,,這塊土地上原本存在的【天神小學校】。,,,0,5,0,1,0,0,0,0,0,,Translated
+171,,不幸な事故だったわ……。,当時の校長先生は、学校のことを, ,,不幸な事故だったわ......。,当時の校長先生は、学校のことを, ,,―,,,,那是一場不幸的事故……。,當時的校長，對學校,,0,6,0,1,0,0,0,0,0,,Translated
+172,,まるで我が子のように、大事に思っていた,みたいなんだけど……, ,,まるで我が子のように、大事に思っていた,みたいなんだけど......, ,,―,,,,簡直就像對待自己的孩子一樣珍惜……,,,0,7,0,1,0,0,0,0,0,,Translated
+173,,その事件をきっかけに、廃校が決定しちゃったの。, , ,,その事件をきっかけに、廃校が決定しちゃったの。, , ,,―,,,,但以那件事為契機，學校決定廢校了。,,,0,8,0,1,0,0,0,0,0,,Translated
+174,,それ以来、心を病んでしまった校長先生は……,学校が閉鎖された当日に, ,,それ以来、心を病んでしまった校長先生は......,学校が閉鎖された当日に, ,,―,,,,從那以後，心病了的校長……,在學校關閉的當天,,0,9,0,1,0,0,0,0,0,,Translated
+175,,校舎の屋上から身を投げて、自殺しちゃったんだって。, , ,,校舎の屋上から身を投げて、自殺しちゃったんだって。, , ,,―,,,,從校舍屋頂跳下自殺了。,,,0,10,0,1,0,0,0,0,0,,Translated
+176,良樹,…………。, , ,良樹,............。, , ,良樹,―,,,良樹,…………。,,,1,0,0,1,0,0,0,0,0,,Translated
+177,あゆみ,…………。（ぶるぶる）, , ,あゆみ,............。（ぶるぶる）, , ,あゆみ,―,,,あゆみ,…………。（發抖）,,,1,0,0,1,0,0,0,0,0,,Translated
+178,,棚の中に、プロジェクターのリモコンなどの,教材が詰め込まれています。, ,,棚の中に、プロジェクターのリモコンなどの,教材が詰め込まれています。, ,,―,,,,櫃子裡塞滿了投影機遙控器等,教材。,,0,0,0,0,0,0,0,0,0,,Translated
+179,,１０月２７日,　文化祭当日！　売るぞおしるこ、オメエラ,    　　　　  【日直　野村／水野】,,１０月２７日,　文化祭当日！　売るぞおしるこ、オメエラ,    　　　　  【日直　野村／水野】,,―,,,,10月27日,　文化祭當天！　賣紅豆湯囉各位,【值日　野村／水野】,0,0,0,1,0,0,0,0,0,,Translated
+180,＊,まーだ、残っているの……？, , ,＊,まーだ、残っているの......？, , ,＊,―,,,＊,還、還留在這裡嗎……？,,,1,195,26,1,0,0,0,0,0,,Translated
+181,＊,は　　や　　く　　帰　り　な　さ　い……！, , ,＊,は　　や　　く　　帰　り　な　さ　い......！, , ,＊,―,,,＊,快　　點　　回　　去……！,,,1,196,26,1,0,0,0,0,0,,Translated
+182,哲志,うわあぁーーッ！！, , ,哲志,うわあぁーーッ！！, , ,哲志,―,,,哲志,哇啊啊！！,,,1,0,0,1,0,0,0,2,0,,Translated
+183,結衣,ぷふッ、びっくりした？, , ,結衣,ぷふッ、びっくりした？, , ,結衣,―,,,結衣,噗、嚇到了？,,,1,197,26,1,0,0,0,0,0,,Translated
+184,哲志,ゆ……結衣先生……？！, , ,哲志,ゆ......結衣先生......？！, , ,哲志,―,,,哲志,結……結衣老師……？！,,,1,196,14,1,0,0,0,0,0,,Translated
+185,あゆみ,せんせ～！, , ,あゆみ,せんせ～！, , ,あゆみ,―,,,あゆみ,老師～！,,,1,23,0,1,0,0,0,0,0,,Translated
+186,結衣,篠崎さ～ん！, , ,結衣,篠崎さ～ん！, , ,結衣,―,,,結衣,篠崎～！,,,1,198,26,1,0,0,0,0,0,,Translated
+187,結衣・あゆみ,ヘーイ♪, , ,結衣・あゆみ,ヘーイ♪, , ,結衣&あゆみ,―,,,結衣・あゆみ,嘿～♪,,,1,199,26,1,0,0,0,0,0,,Translated
+188,あゆみ,大成功～！, , ,あゆみ,大成功～！, , ,あゆみ,―,,,あゆみ,大成功～！,,,1,25,0,1,0,0,0,0,0,,Translated
+189,繭・世以子,え～ッ、やられたぁーッ, , ,繭・世以子,え～ッ、やられたぁーッ, , ,繭&世以子,―,,,繭・世以子,欸～、被擺了一道～,,,1,40,19,1,0,0,0,0,0,,Translated
+190,あゆみ,先生、タイミングバッチリ！, , ,あゆみ,先生、タイミングバッチリ！, , ,あゆみ,―,,,あゆみ,老師，時機剛剛好！,,,1,26,0,1,0,0,0,0,0,,Translated
+191,結衣,ふふ、伊達にこの学校のＯＧじゃないからね。,この七不思議については私も詳しいんだよ♪, ,結衣,ふふ、伊達にこの学校のＯＧじゃないからね。,この七不思議については私も詳しいんだよ♪, ,結衣,―,,,結衣,呵呵，畢竟我也是這所學校的校友嘛。,關於這個七大不可思議我也很了解喔♪,,1,200,26,1,0,0,0,0,0,,Translated
+192,良樹,哲志（笑）, , ,良樹,哲志（笑）, , ,良樹,―,,,良樹,哲志（笑）,,,1,198,22,1,0,0,0,0,0,,Translated
+193,繭,あはははは♪　持田君、繁兄（しげに）ぃよりも,リアクション派かも～, ,繭,あはははは♪　持田君、繁兄（しげに）ぃよりも,リアクション派かも～, ,繭,―,,,繭,啊哈哈哈哈♪　持田同學，比繁哥,還要會做反應呢～,,1,239,7,1,0,0,0,0,0,,Translated
+194,森繁,俺もさすがに、その引き出しはないな。, , ,森繁,俺もさすがに、その引き出しはないな。, , ,森繁,―,,,森繁,就算是我也沒那個梗啦。,,,1,115,8,1,0,0,0,0,0,,Translated
+195,あゆみ,うふふん♪　いつも持田君が一番反応してくれるから, , ,あゆみ,うふふん♪　いつも持田君が一番反応してくれるから, , ,あゆみ,―,,,あゆみ,哼哼♪　因為每次都是持田同學反應最大,,,1,27,0,1,0,0,0,0,0,,Translated
+196,あゆみ,怖がらせ甲斐があって、んん♪　たまらん♪, , ,あゆみ,怖がらせ甲斐があって、んん♪　たまらん♪, , ,あゆみ,―,,,あゆみ,嚇人很有價值呢，嗯嗯♪　受不了♪,,,1,28,0,1,0,0,0,0,0,,Translated
+197,哲志,くッ……ホラーマニアの委員長なんて、,聞いたことないよ。, ,哲志,くッ......ホラーマニアの委員長なんて、,聞いたことないよ。, ,哲志,―,,,哲志,可惡……恐怖迷的班長什麼的，,沒聽說過啊。,,1,197,14,1,0,0,0,0,0,,Translated
+198,結衣,ごめんね、持田君♪,でもちょっとキュンとしちゃった♪, ,結衣,ごめんね、持田君♪,でもちょっとキュンとしちゃった♪, ,結衣,―,,,結衣,對不起啦，持田同學♪,不過有點心動了一下♪,,1,201,26,1,0,0,0,0,0,,Translated
+199,哲志,むぐッ……！, , ,哲志,むぐッ......！, , ,哲志,―,,,哲志,唔……！,,,1,198,14,1,0,0,0,0,0,,Translated
+200,結衣,あ、それより。可愛いお客さんが来てるわよ？, , ,結衣,あ、それより。可愛いお客さんが来てるわよ？, , ,結衣,―,,,結衣,啊，對了。有可愛的客人來了喔？,,,1,202,26,1,0,0,0,0,0,,Translated
+201,哲志,え？, , ,哲志,え？, , ,哲志,―,,,哲志,欸？,,,1,199,14,1,0,0,0,0,0,,Translated
+202,結衣,ほら、そんなところにいないで？,こっちにいらっしゃい？ , ,結衣,ほら、そんなところにいないで？,こっちにいらっしゃい？ , ,結衣,―,,,結衣,來，別站在那種地方？,過來這邊吧？,,1,203,26,1,0,0,0,0,0,,Translated
+203,由香,し……しつれいします。, , ,由香,し......しつれいします。, , ,由香,―,,,由香,打……打擾了。,,,1,223,27,1,0,0,0,0,0,,Translated
+204,哲志,由香！　どうしたんだお前？, , ,哲志,由香！　どうしたんだお前？, , ,哲志,―,,,哲志,由香！　你怎麼來了？,,,1,200,14,1,0,0,0,0,0,,Translated
+205,由香,おにいちゃん！（ぱぁっ）, , ,由香,おにいちゃん！（ぱぁっ）, , ,由香,―,,,由香,哥哥！（啪）,,,1,224,27,1,0,0,0,0,0,,Translated
+206,結衣,持田君が傘を忘れているから……って、,わざわざ届けに来てくれたみたいよ♪, ,結衣,持田君が傘を忘れているから......って、,わざわざ届けに来てくれたみたいよ♪, ,結衣,―,,,結衣,說是因為持田同學忘了帶傘……,特地幫你送來了喔♪,,1,204,26,1,0,0,0,0,0,,Translated
+207,哲志,そうなんだ、すまないな由香。, , ,哲志,そうなんだ、すまないな由香。, , ,哲志,―,,,哲志,原來如此，不好意思啊由香。,,,1,201,14,1,0,0,0,0,0,,Translated
+208,由香,えへへ……, , ,由香,えへへ......, , ,由香,―,,,由香,嘿嘿……,,,1,225,27,1,0,0,0,0,0,,Translated
+209,直美,その子、中等部のコ？, , ,直美,その子、中等部のコ？, , ,直美,―,,,直美,那孩子，是初中部的？,,,1,39,10,1,0,0,0,0,0,,Translated
+210,由香,初めまして、おにいちゃんがいつも、, , ,由香,初めまして、おにいちゃんがいつも、, , ,由香,―,,,由香,初次見面，哥哥他總是……,,,1,226,27,1,0,0,0,0,0,,Translated
+211,由香,お世話になってます。（ペコリ）, , ,由香,お世話になってます。（ペコリ）, , ,由香,―,,,由香,受您照顧了。（鞠躬）,,,1,227,27,1,0,0,0,0,0,,Translated
+212,あゆみ・繭,かわいいーっ♪, , ,あゆみ・繭,かわいいーっ♪, , ,あゆみ&繭,―,,,あゆみ・繭,好可愛～♪,,,1,29,0,1,0,0,0,0,0,,Translated
+213,直美,哲志にこんな可愛い妹がいるとは、知らなかったわ。, , ,直美,哲志にこんな可愛い妹がいるとは、知らなかったわ。, , ,直美,―,,,直美,沒想到哲志有這麼可愛的妹妹呢。,,,1,40,10,1,0,0,0,0,0,,Translated
+214,哲志,あれ、そうだっけ？, , ,哲志,あれ、そうだっけ？, , ,哲志,―,,,哲志,咦，是這樣嗎？,,,1,202,14,1,0,0,0,0,0,,Translated
+215,直美,聞いてないわよー, , ,直美,聞いてないわよー, , ,直美,―,,,直美,沒聽說過啊～,,,1,41,10,1,0,0,0,0,0,,Translated
+216,良樹,お兄ちゃんのことが、大好きなんだよなッ？, , ,良樹,お兄ちゃんのことが、大好きなんだよなッ？, , ,良樹,―,,,良樹,你最喜歡哥哥了對吧？,,,1,199,22,1,0,0,0,0,0,,Translated
+217,由香,えへへ、ハイ♪, , ,由香,えへへ、ハイ♪, , ,由香,―,,,由香,嘿嘿，對♪,,,1,228,27,1,0,0,0,0,0,,Translated
+218,あゆみ,おおッ, , ,あゆみ,おおッ, , ,あゆみ,―,,,あゆみ,哦哦,,,1,30,0,1,0,0,0,0,0,,Translated
+219,直美,へー、岸沼とは面識あるんだね。, , ,直美,へー、岸沼とは面識あるんだね。, , ,直美,―,,,直美,嘿～，你認識岸沼啊。,,,1,42,10,1,0,0,0,0,0,,Translated
+220,世以子,直美ィ、ライバル出現だねぇ？, , ,世以子,直美ィ、ライバル出現だねぇ？, , ,世以子,―,,,世以子,直美，出現情敵了呢？,,,1,41,19,1,0,0,0,0,0,,Translated
+221,直美,うん、なに言ってるのかなー？, , ,直美,うん、なに言ってるのかなー？, , ,直美,―,,,直美,嗯，你在說什麼啊？,,,1,43,10,1,0,0,0,0,0,,Translated
+222,直美,この口？　この口？, , ,直美,この口？　この口？, , ,直美,―,,,直美,這張嘴？　這張嘴？,,,1,44,10,1,0,0,0,0,0,,Translated
+223,結衣,はいはーい。みんな、もう７時まわってるわよ。,帰る準備しなさい？, ,結衣,はいはーい。みんな、もう７時まわってるわよ。,帰る準備しなさい？, ,結衣,―,,,結衣,好好好。各位，已經過七點了喔。,準備回家吧？,,1,205,26,1,0,0,0,0,0,,Translated
+224,繭,……っ……, , ,繭,......っ......, , ,繭,―,,,繭,……嗚……,,,1,240,7,1,0,0,0,0,0,,Translated
+225,あゆみ,えー、お汁粉屋の片付けはー？　まだ帰りたくなーい。, , ,あゆみ,えー、お汁粉屋の片付けはー？　まだ帰りたくなーい。, , ,あゆみ,―,,,あゆみ,欸～，紅豆湯攤位的收拾呢？　還不想回去～,,,1,31,0,1,0,0,0,0,0,,Translated
+226,良樹,このまま、明日も文化祭やれそうだよな。, , ,良樹,このまま、明日も文化祭やれそうだよな。, , ,良樹,―,,,良樹,感覺這樣明天也能繼續辦文化祭啊。,,,1,200,22,1,0,0,0,0,0,,Translated
+227,結衣,篠崎さん？　私が来る前に、片付け終わらせておくって,約束だったでしょう？, ,結衣,篠崎さん？　私が来る前に、片付け終わらせておくって,約束だったでしょう？, ,結衣,―,,,結衣,篠崎同學？　在我來之前，,說好要收拾好的對吧？,,1,206,26,1,0,0,0,0,0,,Translated
+228,あゆみ,うみゅ……, , ,あゆみ,うみゅ......, , ,あゆみ,―,,,あゆみ,唔姆……,,,1,32,0,1,0,0,0,0,0,,Translated
+229,結衣,もう遅いから、明日早く来てやりなさい。, , ,結衣,もう遅いから、明日早く来てやりなさい。, , ,結衣,―,,,結衣,已經很晚了，明天早點來做吧。,,,1,207,26,1,0,0,0,0,0,,Translated
+230,あゆみ,はーい。, , ,あゆみ,はーい。, , ,あゆみ,―,,,あゆみ,好～。,,,1,33,0,1,0,0,0,0,0,,Translated
+231,結衣,それじゃ……鈴本さんも、名残惜しいけど……, , ,結衣,それじゃ......鈴本さんも、名残惜しいけど......, , ,結衣,―,,,結衣,那麼……鈴本同學，雖然很捨不得……,,,1,208,26,1,0,0,0,0,0,,Translated
+232,結衣,向こうに行っても、元気でね？, , ,結衣,向こうに行っても、元気でね？, , ,結衣,―,,,結衣,到了那邊也要好好的喔？,,,1,209,26,1,0,0,0,0,0,,Translated
+233,繭,……っ, , ,繭,......っ, , ,繭,―,,,繭,……嗚,,,1,241,7,1,0,0,0,0,0,,Translated
+234,直美・世以子・あゆみ,…………。, , ,直美・世以子・あゆみ,............。, , ,直美&世以子&あゆみ,―,,,直美・世以子・あゆみ,…………。,,,1,45,10,1,0,0,0,0,0,,Translated
+235,繭,……はい……, , ,繭,......はい......, , ,繭,―,,,繭,……好的……,,,1,242,7,1,0,0,0,0,0,,Translated
+236,世以子,すずめちゃん、いなくなると寂しいなぁ……, , ,世以子,すずめちゃん、いなくなると寂しいなぁ......, , ,世以子,―,,,世以子,繭醬要走了好寂寞啊……,,,1,43,19,1,0,0,0,0,0,,Translated
+237,あゆみ,鈴本さんなら、すぐトモダチできるよ、絶対！, , ,あゆみ,鈴本さんなら、すぐトモダチできるよ、絶対！, , ,あゆみ,―,,,あゆみ,鈴本同學的話，一定能馬上交到朋友的，絕對！,,,1,34,0,1,0,0,0,0,0,,Translated
+238,直美,引越しって言っても、そう遠くないしさ。,……冬休みには、みんなで遊びに行くからさ。, ,直美,引越しって言っても、そう遠くないしさ。,......冬休みには、みんなで遊びに行くからさ。, ,直美,―,,,直美,雖然說是搬家，但也不是很遠啦。,……寒假的時候，大家會去找你玩的。,,1,46,10,1,0,0,0,0,0,,Translated
+239,あゆみ,そうだよ！　……すぐまた会えるもの。,私たち、ずっと友達だよ！, ,あゆみ,そうだよ！　......すぐまた会えるもの。,私たち、ずっと友達だよ！, ,あゆみ,―,,,あゆみ,對啊！　……馬上就能再見面的。,我們永遠是朋友喔！,,1,35,0,1,0,0,0,0,0,,Translated
+240,繭,みんな……, , ,繭,みんな......, , ,繭,―,,,繭,大家……,,,1,243,7,1,0,0,0,0,0,,Translated
+241,由香,（お兄ちゃん、あのお姉さん転校しちゃうの？）, , ,由香,（お兄ちゃん、あのお姉さん転校しちゃうの？）, , ,由香,―,,,由香,（哥哥，那位姐姐要轉學了嗎？）,,,1,229,27,1,0,0,0,0,0,,Translated
+242,哲志,（ああ。今日の文化祭が、最後の登校日だったんだ）, , ,哲志,（ああ。今日の文化祭が、最後の登校日だったんだ）, , ,哲志,―,,,哲志,（嗯。今天文化祭是她最後的上學日了）,,,1,203,14,1,0,0,0,0,0,,Translated
+243,由香,（ふぅん……）, , ,由香,（ふぅん......）, , ,由香,―,,,由香,（這樣啊……）,,,1,230,27,1,0,0,0,0,0,,Translated
+244,繭,みんな……、……ありがとう！, , ,繭,みんな......、......ありがとう！, , ,繭,―,,,繭,大家……、……謝謝你們！,,,1,244,7,1,0,0,0,0,0,,Translated
+245,繭,わたし、みんなと会えて……本当によかった……っ, , ,繭,わたし、みんなと会えて......本当によかった......っ, , ,繭,―,,,繭,我能和大家相遇……真的太好了……,,,1,245,7,1,0,0,0,0,0,,Translated
+246,繭,みんなのこと、ずっと忘れない……！, , ,繭,みんなのこと、ずっと忘れない......！, , ,繭,―,,,繭,我永遠不會忘記大家的……！,,,1,246,7,1,0,0,0,0,0,,Translated
+247,森繁,……っ, , ,森繁,......っ, , ,森繁,―,,,森繁,……嗚,,,1,116,8,1,0,0,0,0,0,,Translated
+248,直美,へへっ……（ぐすっ）, , ,直美,へへっ......（ぐすっ）, , ,直美,―,,,直美,嘿嘿……（啜泣）,,,1,47,10,1,0,0,0,0,0,,Translated
+249,世以子,うっうっうっ……　元気でやるんだよ……, , ,世以子,うっうっうっ......　元気でやるんだよ......, , ,世以子,―,,,世以子,嗚嗚嗚……　要好好的啊……,,,1,44,19,1,0,0,0,0,0,,Translated
+250,世以子,うううぅぅ、私はいつまでも見守っているからね……, , ,世以子,うううぅぅ、私はいつまでも見守っているからね......, , ,世以子,―,,,世以子,嗚嗚嗚、我會永遠守護著你的……,,,1,45,19,1,1,0,0,0,0,,Translated
+251,直美,……世以子？　世以子？, , ,直美,......世以子？　世以子？, , ,直美,―,,,直美,……世以子？　世以子？,,,1,48,10,1,0,0,0,0,0,,Translated
+252,森繁,繭？　ほら…… 笑顔だ。, , ,森繁,繭？　ほら...... 笑顔だ。, , ,森繁,―,,,森繁,繭醬？　來……　笑一個。,,,1,0,0,1,0,0,0,0,0,,Translated
+253,繭,……うん（ニコッ）。みんなで、撮って？, , ,繭,......うん（ニコッ）。みんなで、撮って？, , ,繭,―,,,繭,……嗯（微笑）。大家一起拍？,,,1,247,7,1,0,0,0,0,0,,Translated
+254,あゆみ,わぁ、入る入る！, , ,あゆみ,わぁ、入る入る！, , ,あゆみ,―,,,あゆみ,哇，我也要我也要！,,,1,36,0,1,0,0,0,0,0,,Translated
+255,良樹,俺も。, , ,良樹,俺も。, , ,良樹,―,,,良樹,我也要。,,,1,201,22,1,0,0,0,0,0,,Translated
+256,哲志,ははは！　俺も！, , ,哲志,ははは！　俺も！, , ,哲志,―,,,哲志,哈哈哈！　我也要！,,,1,204,14,1,0,0,0,0,0,,Translated
+257,由香,由香も！, , ,由香,由香も！, , ,由香,―,,,由香,由香也要！,,,1,231,27,1,0,0,0,0,0,,Translated
+258,直美・世以子,うふふっ……！, , ,直美・世以子,うふふっ......！, , ,直美&世以子,―,,,直美・世以子,呵呵……！,,,1,49,19,1,0,0,0,0,0,,Translated
+259,由香,お兄ちゃん……, , ,由香,お兄ちゃん......, , ,由香,―,,,由香,哥哥……,,,1,232,27,1,0,0,0,0,0,,Translated
+260,哲志,ん？, , ,哲志,ん？, , ,哲志,―,,,哲志,嗯？,,,1,205,14,1,0,0,0,0,0,,Translated
+261,由香,とっても素敵な人たちだね。, , ,由香,とっても素敵な人たちだね。, , ,由香,―,,,由香,真是群很棒的人呢。,,,1,233,27,1,0,0,0,0,0,,Translated
+262,哲志,……だろ？, , ,哲志,......だろ？, , ,哲志,―,,,哲志,……對吧？,,,1,206,14,1,0,0,0,0,0,,Translated
+263,世以子,（ぷるぷるぷる）, , ,世以子,（ぷるぷるぷる）, , ,世以子,―,,,世以子,（發抖發抖發抖）,,,1,0,0,1,0,0,0,0,0,,Translated
+264,世以子,わー頂戴頂戴。, , ,世以子,わー頂戴頂戴。, , ,世以子,―,,,世以子,哇～給我給我。,,,1,47,19,1,0,0,0,0,0,,Translated
+265,直美,森繁、携帯に送ってー, , ,直美,森繁、携帯に送ってー, , ,直美,―,,,直美,森繁，傳到我手機～,,,1,49,10,1,0,0,0,0,0,,Translated
+266,森繁,ああ、今みんなに転送する。, , ,森繁,ああ、今みんなに転送する。, , ,森繁,―,,,森繁,好，現在轉發給大家。,,,1,118,8,1,0,0,0,0,0,,Translated
+267,あゆみ,先生……あのね……,帰る前に、ひとつお願いがあるの。, ,あゆみ,先生......あのね......,帰る前に、ひとつお願いがあるの。, ,あゆみ,―,,,あゆみ,老師……那個……,在回家之前，有一個請求。,,1,37,0,1,0,0,0,0,0,,Translated
+268,結衣,ん？, , ,結衣,ん？, , ,結衣,―,,,結衣,嗯？,,,1,210,26,1,0,0,0,0,0,,Translated
+269,あゆみ,お別れの前にこれ……やっていい？,――幸せのサチコさん。, ,あゆみ,お別れの前にこれ......やっていい？,――幸せのサチコさん。, ,あゆみ,―,,,あゆみ,在分別之前這個……可以做嗎？,——幸福的サチコ小姐。,,1,38,0,1,0,0,0,0,0,,Translated
+270,直美,な、なにそれ？　またへんな紙人形……, , ,直美,な、なにそれ？　またへんな紙人形......, , ,直美,―,,,直美,什、什麼啊？　又是奇怪的紙人偶……,,,1,50,10,1,0,0,0,0,0,,Translated
+271,あゆみ,うん、これね……,ネットに載ってたおまじないなんだけど。,……これをやるとね、,あゆみ,うん、これね......,ネットに載ってたおまじないなんだけど。,......これをやるとね、,あゆみ,―,,,あゆみ,嗯，這個啊……,是在網路上看到的咒語。,……做了這個的話呢，,1,39,0,1,0,0,0,0,0,,Translated
+272,あゆみ,その場にいたみんなが、ずっと離れずに, , ,あゆみ,その場にいたみんなが、ずっと離れずに, , ,あゆみ,―,,,あゆみ,在場的大家，都能一直不分離，,,,1,40,0,1,0,0,0,0,0,,Translated
+273,あゆみ,いつまでも友達でいられるんだって。, , ,あゆみ,いつまでも友達でいられるんだって。, , ,あゆみ,―,,,あゆみ,永遠做朋友。,,,1,41,0,1,0,0,0,0,0,,Translated
+274,繭,おまじない？, , ,繭,おまじない？, , ,繭,―,,,繭,咒語？,,,1,248,7,1,0,0,0,0,0,,Translated
+275,あゆみ,うん。……おまじない！, , ,あゆみ,うん。......おまじない！, , ,あゆみ,―,,,あゆみ,嗯。……咒語！,,,1,42,0,1,0,0,0,0,0,,Translated
+276,繭,わぁ、やりたい！, , ,繭,わぁ、やりたい！, , ,繭,―,,,繭,哇，我想做！,,,1,249,7,1,0,0,0,0,0,,Translated
+277,結衣,（鈴本さん、,　おまじないとか占いとか好きだものね……）, ,結衣,（鈴本さん、,　おまじないとか占いとか好きだものね......）, ,結衣,―,,,結衣,（鈴本同學，,　很喜歡咒語或占卜之類的呢……）,,1,211,26,1,0,0,0,0,0,,Translated
+278,結衣,（……仕方ないか）, , ,結衣,（......仕方ないか）, , ,結衣,―,,,結衣,（……也沒辦法吧）,,,1,212,26,1,0,0,0,0,0,,Translated
+279,結衣,みんないい？, , ,結衣,みんないい？, , ,結衣,―,,,結衣,大家都好了嗎？,,,1,213,26,1,0,0,0,0,0,,Translated
+280,直美・世以子・由香,はーーい。, , ,直美・世以子・由香,はーーい。, , ,直美&世以子&由香,―,,,直美・世以子・由香,好～～。,,,1,51,10,1,0,0,0,0,0,,Translated
+281,哲志・良樹,うぃーっす。, , ,哲志・良樹,うぃーっす。, , ,哲志&良樹,―,,,哲志・良樹,好～。,,,1,207,14,1,0,0,0,0,0,,Translated
+282,結衣,森繁君もいい？, , ,結衣,森繁君もいい？, , ,結衣,―,,,結衣,森繁同學也可以嗎？,,,1,214,26,1,0,0,0,0,0,,Translated
+283,森繁,あ、はい。, , ,森繁,あ、はい。, , ,森繁,―,,,森繁,啊，好的。,,,1,119,8,1,0,0,0,0,0,,Translated
+284,あゆみ,準備完了！, , ,あゆみ,準備完了！, , ,あゆみ,―,,,あゆみ,準備完成！,,,1,43,0,1,0,0,0,0,0,,Translated
+285,あゆみ,……じゃぁ、みんなでこの紙の,『サチコさん人形』をかこんで……, ,あゆみ,......じゃぁ、みんなでこの紙の,『サチコさん人形』をかこんで......, ,あゆみ,―,,,あゆみ,……那麼，大家一起把這個紙的,『サチコ小姐人偶』圍起來……,,1,44,0,1,0,0,0,0,0,,Translated
+286,あゆみ,『サチコさんお願いします』って心の中で……,えっと、, ,あゆみ,『サチコさんお願いします』って心の中で......,えっと、, ,あゆみ,―,,,あゆみ,在心裡默念『サチコ小姐請多指教』……,那個，,,1,45,0,1,0,0,0,0,0,,Translated
+287,あゆみ,……７、８、……うん、９回唱えてね。, , ,あゆみ,......７、８、......うん、９回唱えてね。, , ,あゆみ,―,,,あゆみ,……７、８、……嗯，念９次喔。,,,1,46,0,1,0,0,0,0,0,,Translated
+288,あゆみ,間違ってもいいから、絶対言い直しちゃだめだよ。, , ,あゆみ,間違ってもいいから、絶対言い直しちゃだめだよ。, , ,あゆみ,―,,,あゆみ,念錯也沒關係，但絕對不能重唸喔。,,,1,47,0,1,0,0,0,0,0,,Translated
+289,あゆみ,唱える回数が、人数より多かったり少なかったりすると……,失敗しちゃうらしいからね。, ,あゆみ,唱える回数が、人数より多かったり少なかったりすると......,失敗しちゃうらしいからね。, ,あゆみ,―,,,あゆみ,因為念的次數如果比人數多或少的話……,好像就會失敗。,,1,48,0,1,0,0,0,0,0,,Translated
+290,哲志,なぁ……篠崎。, , ,哲志,なぁ......篠崎。, , ,哲志,―,,,哲志,喂……篠崎。,,,1,208,14,1,0,0,0,0,0,,Translated
+291,あゆみ,ん？, , ,あゆみ,ん？, , ,あゆみ,―,,,あゆみ,嗯？,,,1,49,0,1,0,0,0,0,0,,Translated
+292,哲志,失敗……すると、どうなるんだ？, , ,哲志,失敗......すると、どうなるんだ？, , ,哲志,―,,,哲志,失敗……的話，會怎樣？,,,1,209,14,1,0,0,0,0,0,,Translated
+293,良樹,なんか、この人形気味悪ィんだけど。, , ,良樹,なんか、この人形気味悪ィんだけど。, , ,良樹,―,,,良樹,總覺得這個人偶有點詭異啊。,,,1,202,22,1,0,0,0,0,0,,Translated
+294,あゆみ,失敗なんて許さないから。気合入れてよね。, , ,あゆみ,失敗なんて許さないから。気合入れてよね。, , ,あゆみ,―,,,あゆみ,我不允許失敗。所以要打起精神來喔。,,,1,50,0,1,0,0,0,0,0,,Translated
+295,哲志,えぇ？　……わ、わかった。, , ,哲志,えぇ？　......わ、わかった。, , ,哲志,―,,,哲志,欸？　……知、知道了。,,,1,210,14,1,0,0,0,0,0,,Translated
+296,あゆみ,それじゃ、いくよ。みんなも心の中で唱えてね？, , ,あゆみ,それじゃ、いくよ。みんなも心の中で唱えてね？, , ,あゆみ,―,,,あゆみ,那麼，要開始了。大家也要在心裡默念喔？,,,1,51,0,1,0,0,0,0,0,,Translated
+297,あゆみ,『サチコさんお願いします』を、９回だよ。, , ,あゆみ,『サチコさんお願いします』を、９回だよ。, , ,あゆみ,―,,,あゆみ,『サチコ小姐請多指教』，９次喔。,,,1,52,0,1,0,0,0,0,0,,Translated
+298,あゆみ,……せーの、はい！, , ,あゆみ,......せーの、はい！, , ,あゆみ,―,,,あゆみ,……預備，開始！,,,1,53,0,1,0,0,0,0,0,,Translated
+299,あゆみ,ふぅ。　……ちゃんと９回、唱えた？, , ,あゆみ,ふぅ。　......ちゃんと９回、唱えた？, , ,あゆみ,―,,,あゆみ,呼。　……都有確實念９次嗎？,,,1,54,0,1,0,0,0,0,0,,Translated
+300,繭,うん！, , ,繭,うん！, , ,繭,―,,,繭,嗯！,,,1,250,7,1,0,0,0,0,0,,Translated
+301,哲志,ああ。, , ,哲志,ああ。, , ,哲志,―,,,哲志,嗯。,,,1,211,14,1,0,0,0,0,0,,Translated
+302,良樹,……やべ、早く進めてくれねーと、心の中で,もう一回言っちまいそうだ。, ,良樹,......やべ、早く進めてくれねーと、心の中で,もう一回言っちまいそうだ。, ,良樹,―,,,良樹,……糟了，不快點進下一個步驟的話，,我心裡又要再念一次了。,,1,203,22,1,0,0,0,0,0,,Translated
+303,あゆみ,うん。じゃぁみんな、手を伸ばして……,このサチコさん人形の、どこでもいいから掴んで？, ,あゆみ,うん。じゃぁみんな、手を伸ばして......,このサチコさん人形の、どこでもいいから掴んで？, ,あゆみ,―,,,あゆみ,嗯。那麼大家，伸出手……,抓住這個サチコ小姐人偶的，隨便哪裡都行？,,1,55,0,1,0,0,0,0,0,,Translated
+304,直美,掴んだよ……？, , ,直美,掴んだよ......？, , ,直美,―,,,直美,抓了喔……？,,,1,52,10,1,0,0,0,0,0,,Translated
+305,結衣,これでいい？, , ,結衣,これでいい？, , ,結衣,―,,,結衣,這樣可以嗎？,,,1,215,26,1,0,0,0,0,0,,Translated
+306,あゆみ,ハイ、じゃぁ爪を使ってしっかり掴んだら、, , ,あゆみ,ハイ、じゃぁ爪を使ってしっかり掴んだら、, , ,あゆみ,―,,,あゆみ,好，那麼用指甲確實抓好後，,,,1,56,0,1,0,0,0,0,0,,Translated
+307,あゆみ,みんなで引っ張って千切っちゃって！,……せーのッ！, ,あゆみ,みんなで引っ張って千切っちゃって！,......せーのッ！, ,あゆみ,―,,,あゆみ,大家一起用力撕破！,……預備！,,1,57,0,1,0,0,0,0,0,,Translated
+308,あゆみ,はいっ！, , ,あゆみ,はいっ！, , ,あゆみ,―,,,あゆみ,好！,,,1,58,0,1,0,0,0,0,0,,Translated
+309,哲志,うわあぁぁっ！, , ,哲志,うわあぁぁっ！, , ,哲志,―,,,哲志,哇啊啊！,,,1,212,14,1,0,0,0,0,0,,Translated
+310,あゆみ,はい、お疲れさま～。みんな、その紙の切れ端を……, , ,あゆみ,はい、お疲れさま～。みんな、その紙の切れ端を......, , ,あゆみ,―,,,あゆみ,好了，辛苦了～。大家，把那個紙片……,,,1,59,0,1,0,0,0,0,0,,Translated
+311,あゆみ,学生証入れとか定期入れとかに挟んで、,ずっと持っててね。, ,あゆみ,学生証入れとか定期入れとかに挟んで、,ずっと持っててね。, ,あゆみ,―,,,あゆみ,夾在學生證套或定期票夾裡，,一直帶著喔。,,1,60,0,1,0,0,0,0,0,,Translated
+312,良樹,ほ～……？　何か意味、あんのか？, , ,良樹,ほ～......？　何か意味、あんのか？, , ,良樹,―,,,良樹,哦～……？　有什麼意義嗎？,,,1,204,22,1,0,0,0,0,0,,Translated
+313,あゆみ,それを持ってる限り、ずーっとみんな……, , ,あゆみ,それを持ってる限り、ずーっとみんな......, , ,あゆみ,―,,,あゆみ,只要帶著那個，大家就能一直……,,,1,61,0,1,0,0,0,0,0,,Translated
+314,あゆみ,友達で、繋がっていられるんだって。,そういうおまじないらしいよ。, ,あゆみ,友達で、繋がっていられるんだって。,そういうおまじないらしいよ。, ,あゆみ,―,,,あゆみ,以朋友的身份聯繫在一起。,好像是這樣的咒語。,,1,62,0,1,0,0,0,0,0,,Translated
+315,直美,へぇ～、いいね、これ！, , ,直美,へぇ～、いいね、これ！, , ,直美,―,,,直美,嘿～，不錯嘛這個！,,,1,53,10,1,0,0,0,0,0,,Translated
+316,世以子,チョー素敵だね～。なくさないようにしなきゃ。, , ,世以子,チョー素敵だね～。なくさないようにしなきゃ。, , ,世以子,―,,,世以子,超棒的～。得小心別弄丟了。,,,1,48,19,1,0,0,0,0,0,,Translated
+317,繭,篠崎さん、ありがとう！　……宝物に、するね。, , ,繭,篠崎さん、ありがとう！　......宝物に、するね。, , ,繭,―,,,繭,篠崎同學，謝謝你！　……我會當成寶物的。,,,1,251,7,1,0,0,0,0,0,,Translated
+318,あゆみ,うん。……ね、きっとまた会おうね、みんなで！, , ,あゆみ,うん。......ね、きっとまた会おうね、みんなで！, , ,あゆみ,―,,,あゆみ,嗯。……我們一定要再見面喔，大家！,,,1,63,0,1,0,0,0,0,0,,Translated
+319,繭,うん！, , ,繭,うん！, , ,繭,―,,,繭,嗯！,,,1,252,7,1,0,0,0,0,0,,Translated
+320,直美・世以子・あゆみ,うふふっ……！, , ,直美・世以子・あゆみ,うふふっ......！, , ,直美&世以子&あゆみ,―,,,直美・世以子・あゆみ,呵呵……！,,,1,54,10,1,0,0,0,0,0,,Translated
+321,結衣,さぁ……じゃ、みんな帰る準備だよ。, , ,結衣,さぁ......じゃ、みんな帰る準備だよ。, , ,結衣,―,,,結衣,好了……那，大家準備回家吧。,,,1,216,26,1,0,0,0,0,0,,Translated
+322,一同,は～い。, , ,一同,は～い。, , ,一同,―,,,眾人,好～。,,,1,55,10,1,0,0,0,0,0,,Translated
+323,直美,きゃっ！？, , ,直美,きゃっ！？, , ,直美,―,,,直美,呀！？,,,1,56,10,1,0,0,0,0,0,,Translated
+324,哲志,っ！？　……地震！？, , ,哲志,っ！？　......地震！？, , ,哲志,―,,,哲志,！？　……地震！？,,,1,213,14,1,0,0,0,0,0,,Translated
+325,森繁,うぁっ！, , ,森繁,うぁっ！, , ,森繁,―,,,森繁,啊！,,,1,120,8,1,0,0,0,0,0,,Translated
+326,直美・世以子・繭・あゆみ,きゃーーーーっ！, , ,直美・世以子・繭・あゆみ,きゃーーーーっ！, , ,直美&世以子&繭&あゆみ,―,,,直美・世以子・繭・あゆみ,呀————！,,,1,57,10,1,0,0,0,0,0,,Translated
+327,良樹,何だ……でかいぞ、おい！, , ,良樹,何だ......でかいぞ、おい！, , ,良樹,―,,,良樹,什麼啊……好大啊，喂！,,,1,205,22,1,0,0,0,0,0,,Translated
+328,由香,お兄ちゃん！, , ,由香,お兄ちゃん！, , ,由香,―,,,由香,哥哥！,,,1,234,27,1,0,0,0,0,0,,Translated
+329,哲志,由香！　つかまってろ……！, , ,哲志,由香！　つかまってろ......！, , ,哲志,―,,,哲志,由香！　抓緊我……！,,,1,214,14,1,0,0,0,0,0,,Translated
+330,結衣,み、みんな落ち着いて！　机で頭を守りなさい！！, , ,結衣,み、みんな落ち着いて！　机で頭を守りなさい！！, , ,結衣,―,,,結衣,大、大家冷靜！　用桌子保護頭！！,,,1,217,26,1,0,0,0,0,0,,Translated
+331,繭,きゃーーっ！, , ,繭,きゃーーっ！, , ,繭,―,,,繭,呀——！,,,1,253,7,1,0,0,0,0,0,,Translated
+332,結衣,早く！, , ,結衣,早く！, , ,結衣,―,,,結衣,快點！,,,1,218,26,1,0,0,0,0,0,,Translated
+333,直美・世以子・あゆみ,きゃぁ！, , ,直美・世以子・あゆみ,きゃぁ！, , ,直美&世以子&あゆみ,―,,,直美・世以子・あゆみ,呀！,,,1,58,10,1,0,0,0,0,0,,Translated
+334,哲志,くっ……！？, , ,哲志,くっ......！？, , ,哲志,―,,,哲志,可惡……！？,,,1,215,14,1,0,0,0,0,0,,Translated
+335,哲志,！　……なにっ？！, , ,哲志,！　......なにっ？！, , ,哲志,―,,,哲志,！　……什麼？！,,,1,216,14,1,0,0,0,0,0,,Translated
+336,あゆみ,ウソでしょ！, , ,あゆみ,ウソでしょ！, , ,あゆみ,―,,,あゆみ,不會吧！,,,1,66,0,1,0,0,0,0,0,,Translated
+337,良樹,マジかよ、おい！, , ,良樹,マジかよ、おい！, , ,良樹,―,,,良樹,真的假的啊，喂！,,,1,206,22,1,0,0,0,0,0,,Translated
+338,哲志,うわっ……！　落ちる！！, , ,哲志,うわっ......！　落ちる！！, , ,哲志,―,,,哲志,哇……！　要掉下去了！！,,,1,217,14,1,1,0,0,0,0,,Translated
+339,由香,お兄ちゃぁん！, , ,由香,お兄ちゃぁん！, , ,由香,―,,,由香,哥哥！,,,1,235,27,1,1,0,0,0,0,,Translated
+340,直美,哲志！！, , ,直美,哲志！！, , ,直美,―,,,直美,哲志！！,,,1,59,10,1,1,0,0,0,0,,Translated
+341,哲志,直美！！, , ,哲志,直美！！, , ,哲志,―,,,哲志,直美！！,,,1,218,14,1,1,0,0,0,0,,Translated
+342,みんな,うわーーーーーーーっ！, , ,みんな,うわーーーーーーーっ！, , ,みんな,―,,,大家,哇——————！,,,1,219,14,1,1,0,0,0,0,,Translated
+343,,・　・　・　・, , ,,・　・　・　・, , ,,―,,,,・　・　・　・,,,0,0,0,1,0,0,0,0,0,,Translated
+344,,……んっ……, , ,,......んっ......, , ,,―,,,,……嗯……,,,0,60,10,1,0,0,0,0,0,,Translated
+345,直美,（グキッ）……あぅっ！, , ,直美,（グキッ）......あぅっ！, , ,直美,―,,,直美,（喀）……啊！,,,1,61,10,1,0,0,0,0,0,,Translated
+346,直美,……痛っ……　痛い……足が……, , ,直美,......痛っ......　痛い......足が......, , ,直美,―,,,直美,……好痛……　好痛……腳……,,,1,62,10,1,0,0,0,0,0,,Translated
+347,直美,……ふぅ、動くけど……捻挫してる……, , ,直美,......ふぅ、動くけど......捻挫してる......, , ,直美,―,,,直美,……呼，雖然能動……但扭傷了……,,,1,63,10,1,0,0,0,0,0,,Translated
+348,直美,あれ？　ここは……どこ……？, , ,直美,あれ？　ここは......どこ......？, , ,直美,―,,,直美,咦？　這裡是……哪裡……？,,,1,64,10,1,0,0,0,0,0,,Translated
+349,直美,家じゃ……ない？, , ,直美,家じゃ......ない？, , ,直美,―,,,直美,不是……家？,,,1,65,10,1,0,0,0,0,0,,Translated
+350,直美,うそ……, , ,直美,うそ......, , ,直美,―,,,直美,不會吧……,,,1,66,10,1,0,0,0,0,0,,Translated
+351,直美,……？, , ,直美,......？, , ,直美,―,,,直美,……？,,,1,67,10,1,0,0,0,0,0,,Translated
+352,直美,暗くてよく見えない……, , ,直美,暗くてよく見えない......, , ,直美,―,,,直美,太暗了看不清……,,,1,68,10,1,0,0,0,0,0,,Translated
+353,直美,え……、これ、学校……？, , ,直美,え......、これ、学校......？, , ,直美,―,,,直美,欸……、這裡、是學校……？,,,1,69,10,1,0,0,0,0,0,,Translated
+354,,昭和４＊年　９月＊８日, , ,,昭和４＊年　９月＊８日, , ,,―,,,,昭和４＊年　９月＊８日,,,0,0,0,1,0,0,0,0,0,,Translated
+355,,所々、チョークが擦れて読めません……, , ,,所々、チョークが擦れて読めません......, , ,,―,,,,部分地方粉筆字被擦掉了無法閱讀……,,,0,0,0,1,0,0,0,0,0,,Translated
+356,,　壁のプリントに、何か書いてあります……, , ,,　壁のプリントに、何か書いてあります......, , ,,―,,,,牆壁的印刷品上寫著什麼……,,,0,0,0,1,0,0,0,0,0,,Translated
+357,直美,……？, , ,直美,......？, , ,直美,―,,,直美,……？,,,1,83,10,1,0,0,0,0,0,,Translated
+358,直美,そ、それより……世以子！, , ,直美,そ、それより......世以子！, , ,直美,―,,,直美,對、對了……世以子！,,,1,84,10,1,0,0,0,0,0,,Translated
+359,直美,きゃっ！, , ,直美,きゃっ！, , ,直美,―,,,直美,呀！,,,1,85,10,1,0,0,0,0,0,,Translated
+360,,傷んでボロボロになった板切れがあります。, ,,,傷んでボロボロになった板切れがあります。, ,,,―,,,,有破爛不堪的木板。,,,0,0,0,0,0,0,0,0,0,,Translated
+361,,窓の外には、鬱蒼（うっそう）と繁った,森の木々が見えます。, ,,窓の外には、鬱蒼（うっそう）と繁った,森の木々が見えます。, ,,―,,,,窗外可以看到茂密的樹林。,,,0,0,0,1,0,0,0,0,0,,Translated
+362,,遠くが全く見渡せません……, , ,,遠くが全く見渡せません......, , ,,―,,,,遠處完全看不見……,,,0,0,0,1,0,0,0,0,0,,Translated
+363,,窓の外には、鬱蒼（うっそう）と繁った,森の木々が見えます。, ,,窓の外には、鬱蒼（うっそう）と繁った,森の木々が見えます。, ,,―,,,,窗外可以看到茂密的樹林。,,,0,0,0,1,0,0,0,0,0,,Translated
+364,,遠くが全く見渡せません……, , ,,遠くが全く見渡せません......, , ,,―,,,,遠處完全看不見……,,,0,0,0,1,0,0,0,0,0,,Translated
+365,直美,！, , ,直美,！, , ,直美,―,,,直美,！,,,1,70,10,1,0,0,0,0,0,,Translated
+366,直美,……なにこれ……, , ,直美,......なにこれ......, , ,直美,―,,,直美,……這是什麼……,,,1,71,10,1,0,0,0,0,0,,Translated
+367,直美,ここ、どこよ……！, , ,直美,ここ、どこよ......！, , ,直美,―,,,直美,這裡是哪裡啊……！,,,1,72,10,1,0,0,0,0,0,,Translated
+368,直美,……！, , ,直美,......！, , ,直美,―,,,直美,……！,,,1,74,10,1,0,0,0,0,0,,Translated
+369,直美,あれは……世以子？, , ,直美,あれは......世以子？, , ,直美,―,,,直美,那是……世以子？,,,1,75,10,1,0,0,0,0,0,,Translated
+370,直美,世以子！　世以子！！, , ,直美,世以子！　世以子！！, , ,直美,―,,,直美,世以子！　世以子！！,,,1,76,10,1,0,0,0,0,0,,Translated
+371,直美,……大変！, , ,直美,......大変！, , ,直美,―,,,直美,……糟了！,,,1,77,10,1,0,0,0,0,0,,Translated
+372,直美,世以子ーっ！　, , ,直美,世以子ーっ！　, , ,直美,―,,,直美,世以子——！,,,1,78,10,1,0,0,0,0,0,,Translated
+373,直美,……聞こえてないのかな……, , ,直美,......聞こえてないのかな......, , ,直美,―,,,直美,……聽不到嗎……,,,1,79,10,1,0,0,0,0,0,,Translated
+374,直美,暗いけど……外に廊下があるみたい。, , ,直美,暗いけど......外に廊下があるみたい。, , ,直美,―,,,直美,雖然很暗……但外面好像有走廊。,,,1,73,10,1,0,0,0,0,0,,Translated
+375,直美,（……怖くて、出れないや……）, , ,直美,（......怖くて、出れないや......）, , ,直美,―,,,直美,（……好可怕，不敢出去……）,,,1,0,0,1,0,0,0,0,0,,Translated
+376,直美,世以子！　世以子！, , ,直美,世以子！　世以子！, , ,直美,―,,,直美,世以子！　世以子！,,,1,86,10,1,0,0,0,0,0,,Translated
+377,直美,……世以……, , ,直美,......世以......, , ,直美,―,,,直美,……世以……,,,1,87,10,1,0,0,0,0,0,,Translated
+378,直美,（……ほっ、息はしてる……）, , ,直美,（......ほっ、息はしてる......）, , ,直美,―,,,直美,（……呼，還有呼吸……）,,,1,88,10,1,0,0,0,0,0,,Translated
+379,直美,世以子、ねぇセイコ！　起きてよ。, , ,直美,世以子、ねぇセイコ！　起きてよ。, , ,直美,―,,,直美,世以子，喂世以子！　醒醒。,,,1,89,10,1,0,0,0,0,0,,Translated
+380,世以子,ん……, , ,世以子,ん......, , ,世以子,―,,,世以子,嗯……,,,1,51,19,1,0,0,0,0,0,,Translated
+381,世以子,あれ、直美？　どったの？, , ,世以子,あれ、直美？　どったの？, , ,世以子,―,,,世以子,咦，直美？　怎麼了？,,,1,52,19,1,0,0,0,0,0,,Translated
+382,直美,どったのじゃないわよ、心配させて……, , ,直美,どったのじゃないわよ、心配させて......, , ,直美,―,,,直美,什麼怎麼了，害我擔心死了……,,,1,90,10,1,0,0,0,0,0,,Translated
+383,世以子,？, , ,世以子,？, , ,世以子,―,,,世以子,？,,,1,53,19,1,0,0,0,0,0,,Translated
+384,世以子,……え？　ここ……, , ,世以子,......え？　ここ......, , ,世以子,―,,,世以子,……欸？　這裡……,,,1,54,19,1,0,0,0,0,0,,Translated
+385,世以子,……ここ、どこ？, , ,世以子,......ここ、どこ？, , ,世以子,―,,,世以子,……這裡，是哪裡？,,,1,55,19,1,0,0,0,0,0,,Translated
+386,世以子,なにこれ？, , ,世以子,なにこれ？, , ,世以子,―,,,世以子,這是什麼？,,,1,56,19,1,0,0,0,0,0,,Translated
+387,直美,私だって知りたいわよ…………, , ,直美,私だって知りたいわよ............, , ,直美,―,,,直美,我也想知道啊…………,,,1,91,10,1,0,0,0,0,0,,Translated
+388,世以子,うう～ん……っ　　,…………………………, ,世以子,うう～ん......っ　　,.............................., ,世以子,―,,,世以子,嗯～～……,…………………………,,1,57,19,1,1,0,1,0,0,,Translated
+389,世以子,はぁ……ダメだぁ～ , , ,世以子,はぁ......ダメだぁ～ , , ,世以子,―,,,世以子,呼……不行了～,,,1,58,19,1,0,0,0,0,0,,Translated
+390,世以子,びくともしないよ、窓ぉー, , ,世以子,びくともしないよ、窓ぉー, , ,世以子,―,,,世以子,窗戶完全不動啊～,,,1,59,19,1,0,0,0,0,0,,Translated
+391,世以子,外も真っ暗で、よく見えないし。, , ,世以子,外も真っ暗で、よく見えないし。, , ,世以子,―,,,世以子,外面也一片漆黑，看不太清楚。,,,1,60,19,1,0,0,0,0,0,,Translated
+392,直美,……どうなってるのよ……, , ,直美,......どうなってるのよ......, , ,直美,―,,,直美,……到底是怎麼回事……,,,1,92,10,1,0,0,0,0,0,,Translated
+393,世以子,……ここ……やっぱり、学校なのかな？, , ,世以子,......ここ......やっぱり、学校なのかな？, , ,世以子,―,,,世以子,……這裡……果然是學校嗎？,,,1,61,19,1,0,0,0,0,0,,Translated
+394,直美,それにしては、何か妙に机が小さい,気がするんだよね……, ,直美,それにしては、何か妙に机が小さい,気がするんだよね......, ,直美,―,,,直美,但總覺得課桌椅異常地小……,,,1,93,10,1,0,0,0,0,0,,Translated
+395,直美,小学校みたい……, , ,直美,小学校みたい......, , ,直美,―,,,直美,像小學……,,,1,94,10,1,0,0,0,0,0,,Translated
+396,世以子,小学校って……, , ,世以子,小学校って......, , ,世以子,―,,,世以子,小學……,,,1,62,19,1,0,0,0,0,0,,Translated
+397,直美,……まさか……, , ,直美,......まさか......, , ,直美,―,,,直美,……難道……,,,1,95,10,1,0,0,0,0,0,,Translated
+398,世以子,――っ！, , ,世以子,――っ！, , ,世以子,―,,,世以子,——！,,,1,63,19,1,0,0,0,0,0,,Translated
+399,直美,……どうしたの……？, , ,直美,......どうしたの......？, , ,直美,―,,,直美,……怎麼了……？,,,1,96,10,1,0,0,0,0,0,,Translated
+400,世以子,壁に……プリントが……, , ,世以子,壁に......プリントが......, , ,世以子,―,,,世以子,牆壁上……有印刷品……,,,1,64,19,1,0,0,0,0,0,,Translated
+401,世以子,『天神小連絡通紙』……って、, , ,世以子,『天神小連絡通紙』......って、, , ,世以子,―,,,世以子,『天神小連絡通紙』……寫著，,,,1,65,19,1,0,0,0,0,0,,Translated
+402,直美,天神小……学校……？, , ,直美,天神小......学校......？, , ,直美,―,,,直美,天神小……學校……？,,,1,97,10,1,0,0,0,0,0,,Translated
+403,直美,あたしたちの学校……, , ,直美,あたしたちの学校......, , ,直美,―,,,直美,我們的學校……,,,1,98,10,1,0,0,0,0,0,,Translated
+404,直美,……如月学園が建つ前に、取り壊された……,廃校じゃない……！, ,直美,......如月学園が建つ前に、取り壊された......,廃校じゃない......！, ,直美,―,,,直美,……在如月學園建成前就被拆除了……,不是廢校嗎……！,,1,99,10,1,0,0,0,0,0,,Translated
+405,世以子,いやー！　何なの！？, , ,世以子,いやー！　何なの！？, , ,世以子,―,,,世以子,不要啊！　怎麼回事！？,,,1,66,19,1,0,0,0,0,0,,Translated
+406,世以子,私たち何処にいるの！, , ,世以子,私たち何処にいるの！, , ,世以子,―,,,世以子,我們到底在哪裡！,,,1,67,19,1,0,0,0,0,0,,Translated
+407,世以子,みんなは！？　先生は？　何処に行ったの！？, , ,世以子,みんなは！？　先生は？　何処に行ったの！？, , ,世以子,―,,,世以子,大家呢！？　老師呢？　去哪裡了！？,,,1,68,19,1,0,0,0,0,0,,Translated
+408,直美,落ち着いて、世以子！, , ,直美,落ち着いて、世以子！, , ,直美,―,,,直美,冷靜點，世以子！,,,1,100,10,1,0,0,0,0,0,,Translated
+409,世以子,はぁ、はぁ……, , ,世以子,はぁ、はぁ......, , ,世以子,―,,,世以子,呼、呼……,,,1,0,0,1,0,0,0,0,0,,Translated
+410,世以子,ん……ごめん……, , ,世以子,ん......ごめん......, , ,世以子,―,,,世以子,嗯……對不起……,,,1,70,19,1,0,0,0,0,0,,Translated
+411,直美,（世以子もあたしも、手を握り合ったまま,　声も出せなかった……）, ,直美,（世以子もあたしも、手を握り合ったまま,　声も出せなかった......）, ,直美,―,,,直美,（世以子和我都握著手，,　發不出聲音……）,,1,101,10,1,0,0,0,0,0,,Translated
+412,直美,（歯がカチカチと音を立てるほど、全身が,　震える経験なんて……生まれて初めてだったから）, ,直美,（歯がカチカチと音を立てるほど、全身が,　震える経験なんて......生まれて初めてだったから）, ,直美,―,,,直美,（牙齒喀喀作響，全身顫抖的經驗……,　這輩子還是第一次）,,1,102,10,1,0,0,0,0,0,,Translated
+413,直美,（頭の中がふわふわして……今、自分達の,　置かれている状況を、整理して考える事が出来ない）, ,直美,（頭の中がふわふわして......今、自分達の,　置かれている状況を、整理して考える事が出来ない）, ,直美,―,,,直美,（腦中一片混亂……現在無法整理,　思考自己們所處的狀況）,,1,103,10,1,0,0,0,0,0,,Translated
+414,直美,（悪い夢かと期待しても、,　ちっとも目の前の景色は消えてくれない）, ,直美,（悪い夢かと期待しても、,　ちっとも目の前の景色は消えてくれない）, ,直美,―,,,直美,（即使期待這是一場噩夢，,　眼前的景色也絲毫不肯消失）,,1,104,10,1,0,0,0,0,0,,Translated
+415,直美,（ただ静寂が、苦しい……）, , ,直美,（ただ静寂が、苦しい......）, , ,直美,―,,,直美,（只有寂靜，令人痛苦……）,,,1,105,10,1,0,0,0,0,0,,Translated
+416,直美,（駄目だわ……駄目、黙ってると……）, , ,直美,（駄目だわ......駄目、黙ってると......）, , ,直美,―,,,直美,（不行……不行，沉默下去的話……）,,,1,106,10,1,0,0,0,0,0,,Translated
+417,直美,ねぇ……何が何だか、わからないけど、, , ,直美,ねぇ......何が何だか、わからないけど、, , ,直美,―,,,直美,喂……雖然搞不清楚狀況，,,,1,107,10,1,0,0,0,0,0,,Translated
+418,直美,とにかく、学校の外に出てみない？, , ,直美,とにかく、学校の外に出てみない？, , ,直美,―,,,直美,總之，要不要試著走出學校？,,,1,108,10,1,0,0,0,0,0,,Translated
+419,世以子,……外に？, , ,世以子,......外に？, , ,世以子,―,,,世以子,……到外面？,,,1,71,19,1,0,0,0,0,0,,Translated
+420,直美,このままずっと震えていても……,何も解決しないと思うの。, ,直美,このままずっと震えていても......,何も解決しないと思うの。, ,直美,―,,,直美,就算一直在這裡發抖……,也解決不了任何事。,,1,109,10,1,0,0,0,0,0,,Translated
+421,直美,（こんな気持ち悪いところ……,　少しの間でもいたくないし）, ,直美,（こんな気持ち悪いところ......,　少しの間でもいたくないし）, ,直美,―,,,直美,（這種讓人不舒服的地方……,　一秒都不想多待）,,1,0,0,1,0,0,0,0,0,,Translated
+422,世以子,でも……窓も開かないんだよ？, , ,世以子,でも......窓も開かないんだよ？, , ,世以子,―,,,世以子,但是……窗戶也打不開啊？,,,1,72,19,1,0,0,0,0,0,,Translated
+423,世以子,……固いとかじゃなくて、, , ,世以子,......固いとかじゃなくて、, , ,世以子,―,,,世以子,……不是因為卡住，,,,1,73,19,1,0,0,0,0,0,,Translated
+424,世以子,ガチッて空間に固定されてる感じ……, , ,世以子,ガチッて空間に固定されてる感じ......, , ,世以子,―,,,世以子,感覺像是被固定在空中一樣……,,,1,74,19,1,0,0,0,0,0,,Translated
+425,世以子,外になんて……出られるのかな？, , ,世以子,外になんて......出られるのかな？, , ,世以子,―,,,世以子,外面……能出的去嗎？,,,1,75,19,1,0,0,0,0,0,,Translated
+426,直美,ええ、だけど……玄関とか、非常口とかあれば、, , ,直美,ええ、だけど......玄関とか、非常口とかあれば、, , ,直美,―,,,直美,嗯，但是……如果有玄關或逃生門的話，,,,1,110,10,1,0,0,0,0,0,,Translated
+427,直美,そこから外に出られるかも知れないじゃない。, , ,直美,そこから外に出られるかも知れないじゃない。, , ,直美,―,,,直美,說不定能從那裡出去啊。,,,1,111,10,1,0,0,0,0,0,,Translated
+428,世以子,そだね……、……ジッとしてたら、, , ,世以子,そだね......、......ジッとしてたら、, , ,世以子,―,,,世以子,說得也是……、……一直待著不動的話，,,,1,76,19,1,0,0,0,0,0,,Translated
+429,世以子,おかしくなっちゃいそうだし。, , ,世以子,おかしくなっちゃいそうだし。, , ,世以子,―,,,世以子,感覺會瘋掉。,,,1,77,19,1,0,0,0,0,0,,Translated
+430,直美,よし、とにかくこの部屋を出ましょ。, , ,直美,よし、とにかくこの部屋を出ましょ。, , ,直美,―,,,直美,好，總之先離開這個房間吧。,,,1,112,10,1,0,0,0,0,0,,Translated
+431,直美,私達だけじゃなく……ひょっとしたら、, , ,直美,私達だけじゃなく......ひょっとしたら、, , ,直美,―,,,直美,不只是我們……說不定，,,,1,113,10,1,0,0,0,0,0,,Translated
+432,直美,みんなもいるかも知れないし。, , ,直美,みんなもいるかも知れないし。, , ,直美,―,,,直美,大家也可能在。,,,1,114,10,1,0,0,0,0,0,,Translated
+433,世以子,みんなと一緒なら……, , ,世以子,みんなと一緒なら......, , ,世以子,―,,,世以子,如果和大家在一起的話……,,,1,78,19,1,0,0,0,0,0,,Translated
+434,世以子,何とかなるかも知んないね……, , ,世以子,何とかなるかも知んないね......, , ,世以子,―,,,世以子,說不定能想出辦法呢……,,,1,79,19,1,0,0,0,0,0,,Translated
+435,直美,ええ！, , ,直美,ええ！, , ,直美,―,,,直美,嗯！,,,1,115,10,1,0,0,0,0,0,,Translated
+436,直美,（確証も何もない話……）, , ,直美,（確証も何もない話......）, , ,直美,―,,,直美,（雖然沒有任何根據……）,,,1,116,10,1,0,0,0,0,0,,Translated
+437,直美,（あたしもパニクってただけかも知れない）, , ,直美,（あたしもパニクってただけかも知れない）, , ,直美,―,,,直美,（也許我也只是慌了手腳）,,,1,117,10,1,0,0,0,0,0,,Translated
+438,直美,（でもじっとしてると……あたしも悲鳴を,　あげそうで）, ,直美,（でもじっとしてると......あたしも悲鳴を,　あげそうで）, ,直美,―,,,直美,（但一直待著不動的話……我好像也會,　叫出聲來）,,1,118,10,1,0,0,0,0,0,,Translated
+439,直美,（必死に強がってみせた）, , ,直美,（必死に強がってみせた）, , ,直美,―,,,直美,（只好拼命逞強了）,,,1,119,10,1,0,0,0,0,0,,Translated
+440,,傷んでボロボロになった板切れがあります。, ,,,傷んでボロボロになった板切れがあります。, ,,,―,,,,有破爛不堪的木板。,,,0,0,0,0,0,0,0,0,0,,Translated
+441,持田哲志（もちだ　さとし）,１７歳。如月学園高等部の二年生で、本編の主人公。,臆病で小心者だが、妹や友達想いのとても優しい,性質を持つ。,持田哲志（もちだ　さとし）,１７歳。如月学園高等部の二年生で、本編の主人公。,臆病で小心者だが、妹や友達想いのとても優しい,性質を持つ。,持田哲志（もちだ　さとし）,―,,,持田哲志,17歲。如月學園高中部二年級，本作主角。,雖然膽小怕事，但非常重視妹妹和朋友，,個性溫柔。,1,0,0,1,0,0,0,0,0,,Translated
+442,,持つ。,,,,持つ。,,,,持つ。,,,,。,,,-1,0,0,1,0,0,0,0,0,,Translated
+443,持田哲志（もちだ　さとし）,周囲を惹き付ける性格も手助けし、,クラス内ではいつも自然とリーダーシップを,とっている事が多いが,持田哲志（もちだ　さとし）,周囲を惹き付ける性格も手助けし、,クラス内ではいつも自然とリーダーシップを,とっている事が多いが,持田哲志（もちだ　さとし）,―,,,持田哲志,加上吸引周圍人群的性格，,在班上總是自然而然地,擔任領導角色，,1,0,0,1,0,0,0,0,0,,Translated
+444,,,,,,,,,,,,,,,,,-1,0,0,1,0,0,0,0,0,,Translated
+445,持田哲志（もちだ　さとし）,女子陣で同じくリーダーになりがちの直美には、,いつも頭が上がらない。, ,持田哲志（もちだ　さとし）,女子陣で同じくリーダーになりがちの直美には、,いつも頭が上がらない。, ,持田哲志（もちだ　さとし）,―,,,持田哲志,對於同樣在女生中容易成為領導者的直美，,總是抬不起頭來。,,1,0,0,1,0,0,0,0,0,,Translated
+446,岸沼良樹（きしぬま　よしき）,１７歳。２年９組の哲志のクラスメート。,少しひねくれた性格でよく皮肉を言ったりするが、,その実、中身は自分に素直な正直者である。,岸沼良樹（きしぬま　よしき）,１７歳。２年９組の哲志のクラスメート。,少しひねくれた性格でよく皮肉を言ったりするが、,その実、中身は自分に素直な正直者である。,岸沼良樹（きしぬま　よしき）,―,,,岸沼良樹,17歲。哲志的同班同學，2年9組。,雖然性格有些乖僻，經常說諷刺話，,但實際上是個對自己誠實的老實人。,1,0,0,1,0,0,0,0,0,,Translated
+447,,は自分に素直な正直者である。,,,,は自分に素直な正直者である。,,,,は自分に素直な正直者である。,,,,是對自己誠實的老實人。,,,-1,0,0,1,0,0,0,0,0,,Translated
+448,岸沼良樹（きしぬま　よしき）,クラスのイベントには殆ど参加しないが、,哲志やあゆみが参加しているものには、こっそりと,一緒に参加している。,岸沼良樹（きしぬま　よしき）,クラスのイベントには殆ど参加しないが、,哲志やあゆみが参加しているものには、こっそりと,一緒に参加している。,岸沼良樹（きしぬま　よしき）,―,,,岸沼良樹,雖然幾乎不參加班級活動，,但對於哲志或あゆみ參加的活動，,會偷偷一起參加。,1,0,0,1,0,0,0,0,0,,Translated
+449,,ている。,,,,ている。,,,,ている。,,,,。,,,-1,0,0,1,0,0,0,0,0,,Translated
+450,岸沼良樹（きしぬま　よしき）,家庭の事情により現在一人暮らしをしており、,アルバイトをしながら安アパートより通学している。, ,岸沼良樹（きしぬま　よしき）,家庭の事情により現在一人暮らしをしており、,アルバイトをしながら安アパートより通学している。, ,岸沼良樹（きしぬま　よしき）,―,,,岸沼良樹,由於家庭因素目前獨自生活，,一邊打工一邊從便宜的公寓上學。,,1,0,0,1,0,0,0,0,0,,Translated
+451,,,,,,,,,,,,,,,,,-1,0,0,1,0,0,0,0,0,,Translated
+452,篠崎あゆみ（しのざき　あゆみ）,１７歳。哲志達のクラスの委員長。,人を怖がらせる事が大好きで、高い頻度で,怪談話を仕入れて来る。,篠崎あゆみ（しのざき　あゆみ）,１７歳。哲志達のクラスの委員長。,人を怖がらせる事が大好きで、高い頻度で,怪談話を仕入れて来る。,篠崎あゆみ（しのざき　あゆみ）,―,,,篠崎あゆみ,17歲。哲志他們班上的班長。,非常喜歡嚇人，,經常帶來恐怖故事。,1,0,0,1,0,0,0,0,0,,Translated
+453,,,,,,,,,,,,,,,,,-1,0,0,1,0,0,0,0,0,,Translated
+454,篠崎あゆみ（しのざき　あゆみ）,カバンの中には、常に怪談用のろうそくや,ホラーグッズが入っているとのウワサも。, ,篠崎あゆみ（しのざき　あゆみ）,カバンの中には、常に怪談用のろうそくや,ホラーグッズが入っているとのウワサも。, ,篠崎あゆみ（しのざき　あゆみ）,―,,,篠崎あゆみ,據說書包裡總是放著,講恐怖故事用的蠟燭和恐怖周邊商品。,,1,0,0,1,0,0,0,0,0,,Translated
+455,篠崎あゆみ（しのざき　あゆみ）,しかし、これは無意識に、内面に棲む臆病な自分を,隠す為の裏返しのような行為のようで, ,篠崎あゆみ（しのざき　あゆみ）,しかし、これは無意識に、内面に棲む臆病な自分を,隠す為の裏返しのような行為のようで, ,篠崎あゆみ（しのざき　あゆみ）,―,,,篠崎あゆみ,但這似乎是無意識中，,為了隱藏內心膽小的自己,而表現出的反向行為。,1,0,0,1,0,0,0,0,0,,Translated
+456,篠崎あゆみ（しのざき　あゆみ）,実際に恐ろしい目に遭うと足がすくんで動けなくなる、,極度の臆病性の一面も持っている。, ,篠崎あゆみ（しのざき　あゆみ）,実際に恐ろしい目に遭うと足がすくんで動けなくなる、,極度の臆病性の一面も持っている。, ,篠崎あゆみ（しのざき　あゆみ）,―,,,篠崎あゆみ,實際上遇到可怕的事情時,會雙腿發軟無法動彈，,也有極度膽小的一面。,1,0,0,1,0,0,0,0,0,,Translated
+457,,棚の中には、ホルマリン漬けにされた,蛙の標本が入っています……, ,,棚の中には、ホルマリン漬けにされた,蛙の標本が入っています......, ,,―,,,,櫃子裡有浸泡在福馬林中的,青蛙標本……,,0,0,0,1,0,0,0,0,0,,Translated
+458,森繁朔太郎（もりしげ　さくたろう）,１６歳。哲志のクラスメートで、演劇部に所属。,繭とは中等部から同じ部で活動しており、,兄妹のような関係になっている。,森繁朔太郎（もりしげ　さくたろう）,１６歳。哲志のクラスメートで、演劇部に所属。,繭とは中等部から同じ部で活動しており、,兄妹のような関係になっている。,森繁朔太郎（もりしげ　さくたろう）,―,,,森繁朔太郎,16歲。哲志的同班同學，話劇社成員。,和中學時就與繭在同一個社團活動，,關係如同兄妹一般。,1,0,0,1,0,0,0,0,0,,Translated
+459,,うな関係になっている。,,,,うな関係になっている。,,,,うな関係になっている。,,,,的關係。,,,-1,0,0,1,0,0,0,0,0,,Translated
+460,森繁朔太郎（もりしげ　さくたろう）,演劇に関しては強い情熱を持っているが、,他人とコミュニケーションをとる事を煩わしいと,考えており、どんな場にいても孤立している事が多い。,森繁朔太郎（もりしげ　さくたろう）,演劇に関しては強い情熱を持っているが、,他人とコミュニケーションをとる事を煩わしいと,考えており、どんな場にいても孤立している事が多い。,森繁朔太郎（もりしげ　さくたろう）,―,,,森繁朔太郎,對戲劇有強烈的熱情，,但認為與他人溝通很麻煩，,無論在什麼場合都經常孤立。,1,0,0,1,0,0,0,0,0,,Translated
+461,,り、どんな場にいても孤立している事が多い。,,,,り、どんな場にいても孤立している事が多い。,,,,り、どんな場にいても孤立している事が多い。,,,,無論在什麼場合都經常孤立。,,,-1,0,0,1,0,0,0,0,0,,Translated
+462,森繁朔太郎（もりしげ　さくたろう）,祖父につけてもらった名前を大事にしており、,いつも冷静沈着に振舞っているが、,名前をからかわれると本気でキレる。,森繁朔太郎（もりしげ　さくたろう）,祖父につけてもらった名前を大事にしており、,いつも冷静沈着に振舞っているが、,名前をからかわれると本気でキレる。,森繁朔太郎（もりしげ　さくたろう）,―,,,森繁朔太郎,很重視祖父為自己取的名字，,平時總是冷靜沉著，,但如果被取笑名字就會真的生氣。,1,0,0,1,0,0,0,0,0,,Translated
+463,,ると本気でキレる。,,,,ると本気でキレる。,,,,ると本気でキレる。,,,,會真的生氣。,,,-1,0,0,1,0,0,0,0,0,,Translated
+464,鈴本繭（すずもと　まゆ）,１６歳。哲志達のクラスメートで演劇部に所属。,発育不全気味の小さな体だが、活発で明るく、高等部の,１年生～３年生まで如月学園全校にファンがいる。,鈴本繭（すずもと　まゆ）,１６歳。哲志達のクラスメートで演劇部に所属。,発育不全気味の小さな体だが、活発で明るく、高等部の,１年生～３年生まで如月学園全校にファンがいる。,鈴本繭（すずもと　まゆ）,―,,,鈴本繭,16歲。哲志他們的同班同學，話劇社成員。,雖然身材嬌小略顯發育不全，但活潑開朗，,從高中一年級到三年級全校都有粉絲。,1,0,0,1,0,0,0,0,0,,Translated
+465,,～３年生まで如月学園全校にファンがいる。,,,,～３年生まで如月学園全校にファンがいる。,,,,～３年生まで如月学園全校にファンがいる。,,,,到三年級如月學園全校都有粉絲。,,,-1,0,0,1,0,0,0,0,0,,Translated
+466,鈴本繭（すずもと　まゆ）,誰とでも分け隔てなく心を開いて飛び込んでゆく,天真爛漫な性格から、男子にも女子にも人気が高い。, ,鈴本繭（すずもと　まゆ）,誰とでも分け隔てなく心を開いて飛び込んでゆく,天真爛漫な性格から、男子にも女子にも人気が高い。, ,鈴本繭（すずもと　まゆ）,―,,,鈴本繭,對任何人都能敞開心扉、天真爛漫的性格，,在男生和女生中都很受歡迎。,,1,0,0,1,0,0,0,0,0,,Translated
+467,,,,,,,,,,,,,,,,,-1,0,0,1,0,0,0,0,0,,Translated
+468,鈴本繭（すずもと　まゆ）,家庭の事情により突然転校が決まってしまい、,ショックを受けているようだ。, ,鈴本繭（すずもと　まゆ）,家庭の事情により突然転校が決まってしまい、,ショックを受けているようだ。, ,鈴本繭（すずもと　まゆ）,―,,,鈴本繭,由於家庭因素突然決定轉學，,似乎受到很大的打擊。,,1,0,0,1,0,0,0,0,0,,Translated
+469,,何の変哲もない机だ。,特に異質な箇所はなさそうだ……,,,何の変哲もない机だ。,特に異質な箇所はなさそうだ......,,,―,,,,是普通的桌子。,沒有特別異常的地方……,,0,0,0,0,1,0,0,0,0,,Translated
+470,中嶋直美（なかしま　なおみ）,１６歳。哲志とは中等部からの縁。中一の時から,今までずっと同じクラスになっており、,「その顔、うんざりです」が挨拶のようになっている。,中嶋直美（なかしま　なおみ）,１６歳。哲志とは中等部からの縁。中一の時から,今までずっと同じクラスになっており、,「その顔、うんざりです」が挨拶のようになっている。,中嶋直美（なかしま　なおみ）,―,,,中嶋直美,16歲。和哲志從中學就認識。,從中一開始到現在一直都是同班，,「看到那張臉就煩」成了問候語。,1,0,0,1,0,0,0,0,0,,Translated
+471,,りです」が挨拶のようになっている。,,,,りです」が挨拶のようになっている。,,,,りです」が挨拶のようになっている。,,,,成了問候語。,,,-1,0,0,1,0,0,0,0,0,,Translated
+472,中嶋直美（なかしま　なおみ）,数年前に父親が他界し、母と娘二人で支え合いながら,日々明るく暮らしている。, ,中嶋直美（なかしま　なおみ）,数年前に父親が他界し、母と娘二人で支え合いながら,日々明るく暮らしている。, ,中嶋直美（なかしま　なおみ）,―,,,中嶋直美,幾年前父親去世，,和母親兩人互相扶持，每天開朗地生活著。,,1,0,0,1,0,0,0,0,0,,Translated
+473,中嶋直美（なかしま　なおみ）,将来の夢は女性保育士のようで、,専門の短大進学を目指して現在勉強中である。, ,中嶋直美（なかしま　なおみ）,将来の夢は女性保育士のようで、,専門の短大進学を目指して現在勉強中である。, ,中嶋直美（なかしま　なおみ）,―,,,中嶋直美,將來的夢想似乎是當保育員，,目前以進入專門的短大為目標努力學習中。,,1,0,0,1,0,0,0,0,0,,Translated
+474,持田由香（もちだ　ゆか）,１４歳。如月学園中等部の二年生で、哲志の妹。,兄の哲志に傘を届けに来たために、,一緒に巻き込まれる事になってしまった。,持田由香（もちだ　ゆか）,１４歳。如月学園中等部の二年生で、哲志の妹。,兄の哲志に傘を届けに来たために、,一緒に巻き込まれる事になってしまった。,持田由香（もちだ　ゆか）,―,,,持田由香,14歲。如月學園初中部二年級，哲志的妹妹。,因為幫哥哥哲志送傘來，,結果被一起捲入其中。,1,0,0,1,0,0,0,0,0,,Translated
+475,,ってしまった。,,,,ってしまった。,,,,ってしまった。,,,,了。,,,-1,0,0,1,0,0,0,0,0,,Translated
+476,持田由香（もちだ　ゆか）,子供の頃からの甘えん坊気質が抜けきれておらず、,よく人に年齢を間違えられる。, ,持田由香（もちだ　ゆか）,子供の頃からの甘えん坊気質が抜けきれておらず、,よく人に年齢を間違えられる。, ,持田由香（もちだ　ゆか）,―,,,持田由香,從小以來的撒嬌性格還沒有改掉，,經常被人弄錯年齡。,,1,0,0,1,0,0,0,0,0,,Translated
+477,持田由香（もちだ　ゆか）,本人は成長したいと願っているため、,時々無理をして大人の振る舞いをするが,いつも長くは続かないようだ。,持田由香（もちだ　ゆか）,本人は成長したいと願っているため、,時々無理をして大人の振る舞いをするが,いつも長くは続かないようだ。,持田由香（もちだ　ゆか）,―,,,持田由香,本人因為希望成長，,有時會勉強表現出成熟的樣子，,但似乎總是持續不了多久。,1,0,0,1,0,0,0,0,0,,Translated
+478,,,,,,,,,,,,,,,,,-1,0,0,1,0,0,0,0,0,,Translated
+479,篠原世以子(しのはら　せいこ),１６歳。２年９組の哲志達のクラスメート。,直美とは家が近所で、いつも一緒に登校する仲。, ,篠原世以子(しのはら　せいこ),１６歳。２年９組の哲志達のクラスメート。,直美とは家が近所で、いつも一緒に登校する仲。, ,篠原世以子(しのはら　せいこ),―,,,篠原世以子,16歲。2年9組哲志他們的同班同學。,和直美家是鄰居，總是結伴上學。,,1,0,0,1,0,0,0,0,0,,Translated
+480,篠原世以子(しのはら　せいこ),明るく奔放な性格から友達も多く、,時折、周囲の驚くような発言をしても、,割と許されるポジションにいる。,篠原世以子(しのはら　せいこ),明るく奔放な性格から友達も多く、,時折、周囲の驚くような発言をしても、,割と許されるポジションにいる。,篠原世以子(しのはら　せいこ),―,,,篠原世以子,開朗奔放的性格交了很多朋友，,即使偶爾說出令人驚訝的話，,也處於容易被原諒的位置。,1,0,0,1,0,0,0,0,0,,Translated
+481,,。,,,,。,,,,。,,,,。,,,-1,0,0,1,0,0,0,0,0,,Translated
+482,篠原世以子(しのはら　せいこ),家には小さな弟・妹達が待っており、,３年前に母親が失踪して以来、長女の世以子が,母親代わりとなって世話をやいている。,篠原世以子(しのはら　せいこ),家には小さな弟・妹達が待っており、,３年前に母親が失踪して以来、長女の世以子が,母親代わりとなって世話をやいている。,篠原世以子(しのはら　せいこ),―,,,篠原世以子,家裡有年幼的弟弟妹妹們等著，,自三年前母親失蹤以來，,身為長女的世以子代替母親照顧他們。,1,0,0,1,0,0,0,0,0,,Translated
+483,,bをやいている。,,,,bをやいている。,,,,bをやいている。,,,,照顧他們。,,,-1,0,0,1,0,0,0,0,0,,Translated
+484,篠原世以子(しのはら　せいこ),容易でない境遇の親近感もあってか、,直美と話も合い、よく二人で将来の夢などを,語り合っている。,篠原世以子(しのはら　せいこ),容易でない境遇の親近感もあってか、,直美と話も合い、よく二人で将来の夢などを,語り合っている。,篠原世以子(しのはら　せいこ),―,,,篠原世以子,或許因為處境相似而感到親近，,和直美很合得來，,經常兩人一起談論將來的夢想。,1,0,0,1,0,0,0,0,0,,Translated
+485,,,,,,,,,,,,,,,,,-1,0,0,1,0,0,0,0,0,,Translated
+486,,棚の中には、ホルマリン漬けにされた,蛙の標本が入っています……, ,,棚の中には、ホルマリン漬けにされた,蛙の標本が入っています......, ,,―,,,,櫃子裡有浸泡在福馬林中的,青蛙標本……,,0,0,0,1,0,0,0,0,0,,Translated
+487,宍戸結衣（ししど　ゆい）,２３歳。教員採用試験を新卒でパスし、晴れて,今期より如月学園に赴任した、英語科の新任教員。,副担任として、２年９組を受け持つ事になった。,宍戸結衣（ししど　ゆい）,２３歳。教員採用試験を新卒でパスし、晴れて,今期より如月学園に赴任した、英語科の新任教員。,副担任として、２年９組を受け持つ事になった。,宍戸結衣（ししど　ゆい）,―,,,宍戸結衣,23歲。應屆通過教師錄用考試，,從本學期起赴任如月學園的英語科新任教師。,作為副導師負責2年9組。,1,0,0,1,0,0,0,0,0,,Translated
+488,,、２年９組を受け持つ事になった。,,,,、２年９組を受け持つ事になった。,,,,、２年９組を受け持つ事になった。,,,,負責2年9組。,,,-1,0,0,1,0,0,0,0,0,,Translated
+489,宍戸結衣（ししど　ゆい）,自他共に認める「教え下手」な面もあるが、,一生懸命に生徒と共に“授業”を作ろうと,模索する毎日を送っている。,宍戸結衣（ししど　ゆい）,自他共に認める「教え下手」な面もあるが、,一生懸命に生徒と共に“授業”を作ろうと,模索する毎日を送っている。,宍戸結衣（ししど　ゆい）,―,,,宍戸結衣,雖然有公認的「不會教書」的一面，,但每天都努力與學生們,一起摸索如何「上課」。,1,0,0,1,0,0,0,0,0,,Translated
+490,,る。,,,,る。,,,,る。,,,,。,,,-1,0,0,1,0,0,0,0,0,,Translated
+491,宍戸結衣（ししど　ゆい）,明るい性格と連発する天然ボケが生徒に受けが良く、,ＳＨＲ(ショートホームルーム)の時間になると,生徒たちは目を輝かせる。,宍戸結衣（ししど　ゆい）,明るい性格と連発する天然ボケが生徒に受けが良く、,ＳＨＲ(ショートホームルーム)の時間になると,生徒たちは目を輝かせる。,宍戸結衣（ししど　ゆい）,―,,,宍戸結衣,開朗的性格和頻繁的自然呆讓學生很受歡迎，,一到SHR(班會)時間，,學生們就會眼睛發亮。,1,0,0,1,0,0,0,0,0,,Translated
+492,,目を輝かせる。,,,,目を輝かせる。,,,,目を輝かせる。,,,,眼睛發亮。,,,-1,0,0,1,0,0,0,0,0,,Translated
+493,,キャラクター紹介を終了しますか？, ,,,キャラクター紹介を終了しますか？, ,,,―,,,,要結束角色介紹嗎？,,,0,0,0,0,0,0,0,0,0,,Translated
+494,,はい,いいえ,,,Yes,No,,,―,,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+495,,■キャラクター紹介, , ,,■キャラクター紹介, , ,,―,,,,■角色介紹,,,0,0,0,1,0,0,0,0,0,,Translated
+496,,　対象を向いて調べると、そのキャラクターの,　詳細を知ることが出来ます。, ,,　対象を向いて調べると、そのキャラクターの,　詳細を知ることが出来ます。, ,,―,,,,　面向對象進行調查，,就能了解該角色的詳細資訊。,,0,0,0,1,0,0,0,0,0,,Translated
+497,,　キャラクター紹介を終了する際は、,　右下の出口より退出して下さい。, ,,　キャラクター紹介を終了する際は、,　右下の出口より退出して下さい。, ,,―,,,,　結束角色介紹時，,請從右下方的出口離開。,,0,0,0,1,0,0,0,0,0,,Translated
+498,,………………, , ,,............,,,,………………,,,,………………,,,0,0,0,0,0,0,0,0,0,,Translated
+499,,ミクの胸がわるいのは、,ミクのせいじゃないもの！, ,,It's not my fault my lungs are all messed up!,,,,미쿠가 가슴이 아픈 건 미쿠 탓이 아니잖아!,,,,美九身體不好，,又不是美九的錯！,,0,0,0,0,0,0,0,0,0,,Translated
+500,,おばあちゃんも……, , ,,Or my grandma's...,,,,할머니도……,,,,外婆也是……,,,0,0,0,0,0,0,0,0,0,,Translated
+501,,お母さんも……遺伝でしょこれ？, , ,,Or my mom's... It's all because of our stupid genes.,,,,엄마도……유전이죠 이거?,,,,媽媽也是……這是遺傳吧？,,,0,0,0,0,0,0,0,0,0,,Translated
+502,,ほかの子は毎日楽しそうなのに……,どうしてミクばっかこんな目にあうの？, ,,Everyone else is out there enjoying their lives...,Why am I the only one who has to deal with this?,,,다른 애들은 매일 즐겁게 지내는데……왜 미쿠만 이 꼴인데?　,,,,其他孩子每天看起來都好開心……,為什麼只有美九要遇到這種事？,,0,0,0,0,0,0,0,0,0,,Translated
+503,美九,ん……んうう……, , ,Miku,Nrgh... Oof...,,,미쿠,으……으윽……,,,美九,嗯……嗯嗚……,,,1,110,35,1,0,0,0,0,0,,Translated
+504,美九,っ、けっほ！　けほっ……がほっ,ヒュー、ヒュー……, ,Miku,*cough* *hack* *wheeze*,,,미쿠,"윽, 케헥!　케헥……켁, 씨익, 씨익……",,,美九,咳、咳咳！　咳咳……喀咳,呼、呼……,,1,111,35,1,0,0,0,0,0,,Translated
+505,美九,なにこれ……,何で真っ暗？　ヒュー, ,Miku,What the hell...? Why is it pitch black? *wheeze*,,,미쿠,뭐야 이거……왜 이렇게 어두워? 후우…,,,美九,這是什麼……,為什麼一片漆黑？　呼,,1,112,35,1,0,0,0,0,0,,Translated
+506,美九,っやば……喘息。,あれ？　スプレーは……, ,Miku,"Crap, my asthma... Huh? Where's my inhaler?",,,미쿠,아……천식. 어?  스프레이는……,,,美九,糟了……氣喘。,咦？　噴霧器呢……,,1,113,35,1,0,0,0,0,0,,Translated
+507,美九,……鞄の中だ, , ,Miku,"Right, it's in my bag...",,,미쿠,……가방 안에,,,美九,……在書包裡,,,1,114,35,1,0,0,0,0,0,,Translated
+508,美九,かばん、かばん……, , ,Miku,"Bag, bag...",,,미쿠,"가방, 가방……",,,美九,書包、書包……,,,1,115,35,1,0,0,0,0,0,,Translated
+509,美九,……は？　, , ,Miku,...Huh?,,,미쿠,……가방 어디에?,,,美九,……什麼？,,,1,116,35,1,0,0,0,0,0,,Translated
+510,美九,なにこれ……学校？,ヒュー、ヒュー……, ,Miku,Is this actually...our school?,,,미쿠,"뭐지……학교?　허억, 허억……",,,美九,這是什麼……學校？,呼、呼……,,1,117,35,1,0,0,0,0,0,,Translated
+511,,教室の扉は、かたく床と天井にくっついて,ぴくりとも動きません……。, ,,The classroom door has all but merged ,with the floor and ceiling.,It won't budge an inch...,,교실의 문은 지면과 천장에 단단히 고정되어 있어,끄떡도 하지 않는다…….,,,教室的門牢牢地黏在地板和天花板上，,紋絲不動……。,,0,0,0,0,0,0,0,0,0,,Translated
+512,美九,なにこれ、まるで最初から開くように,作っていない、撮影用セットの扉みたい……, ,Miku,What's with this door? It's as if it wasn't meant to,be opened in the first place. Looks like something ,you'd find on a movie set.,미쿠,"뭐야 이거, 애초에 열리게끔 만든 게 아니잖아. 마치 촬영용으로 만든 가짜 문 같아……",,,美九,這是什麼，簡直就像從一開始就不打算打開，,像攝影用佈景的門一樣……,,1,118,35,1,0,0,0,0,0,,Translated
+513,,教室の扉は、かたく床と天井にくっついて,ぴくりとも動きません……。, ,,The classroom door has all but merged ,with the floorand ceiling.,It won't budge an inch...,,교실의 문은 지면과 천장에 단단히 고정되어 있어,끄떡도 하지 않는다…….,,,教室的門牢牢地黏在地板和天花板上，,紋絲不動……。,,0,0,0,0,0,0,0,0,0,,Translated
+514,美九,（あっ、なんか扉がガタガタ揺れてる……,　動きそう！）, ,Miku,"(Hey, this door is pretty wobbly... I think I can ",move it now!),,미쿠,"（어, 왠지 문이 흔들리고 있는 듯……열릴지도!）",,,美九,（啊，門好像有點搖晃……,　說不定能打開！）,,1,0,0,0,0,0,0,0,0,,Translated
+515,美九,（でも足音すぐ外から聞こえるよ……,　出たら目の前にいる距離だこれ！）, ,Miku,(But I can hear those footsteps on the other side...,"If I left, I'd run right into whatever's out there!)",,미쿠,（하지만 발소리가 가까이서 들려……문을 나서면 눈앞에 나타날 거리일지도 모르잖아！）,,,美九,（但是外面馬上就傳來腳步聲……,　出去的話就在眼前的距離啊！）,,1,0,0,0,0,0,0,0,0,,Translated
+516,美九,（慎重に！　急いで！,　どうしようミク？！）, ,Miku,"I gotta act quickly and carefully! What now, Miku?!",,,미쿠,（신중히! 서둘러! 미쿠 어떡해?!）,,,美九,（要慎重！　要快！,　怎麼辦小美？！）,,1,0,0,0,0,0,0,0,0,,Translated
+517,,　奥に扉がありますが、,　ガチリと空間に固定されていて開きません……, ,,"There's a door in the back of the room, but just","as with the windows, it seems fixed in place like",a decoration.,,"안쪽에 문이 있습니다 만,가찌리과 공간에 고정되어있어 열리지 않습니다 ......",,,,　深處有一扇門，,　但被牢牢固定在空間中打不開……,,0,0,0,1,0,0,0,0,0,,Translated
+518,,古い張り紙があります……。, , ,,"It's an old, weathered flyer.",,,,낡은 종이 테이프가 있습니다…….,,,,有舊的貼紙……。,,,0,0,0,0,0,0,0,0,0,,Translated
+519,美九,待って……待って,頭が整理できない, ,Miku,Hold up... My brain can't process all this at once.,,,미쿠,"잠시……잠시만, 머릿속이 복잡해",,,美九,等等……等等,頭腦整理不過來,,1,120,35,1,0,0,0,0,0,,Translated
+520,,古い張り紙があります……。, , ,,"It's an old, weathered flyer.",,,,낡은 종이 테이프가 있습니다…….,,,,有舊的貼紙……。,,,0,0,0,0,0,0,0,0,0,,Translated
+521,,■天神小連絡通紙■,　校内で頻発している【生徒児童　誘拐事件】への,　対策を……,,[Heavenly Host Elementary -,Notice to All Faculty and Students],,,텐진초등학교 연락통신,,,,■天神小連絡通紙■,　針對校內頻發的【學生兒童　誘拐事件】的,　對策……,0,0,0,1,0,0,0,0,0,,Translated
+522,,　先般の事例に基づいて、,　各員速やかに執られたし……,　　　　　【天神小学校校長：柳堀隆峰】,,[Heavenly Host Elementary -,Notice to All Faculty and Students],,,텐진초등학교 연락통신,,,,　根據先前的事例，,　請各員迅速執行……,【天神小學校校長：柳堀隆峰】,0,0,0,1,0,0,0,0,0,,Translated
+523,美九,は……？　天神小学校？,はぁ？！, ,Miku,Heavenly...what? WHAT?!,,,미쿠,"뭐……?　텐진초등학교?　무,뭐?!",,,美九,……？　天神小學校？,什麼？！,,1,121,35,1,0,0,0,0,0,,Translated
+524,美九,ミク、たしか学校で涼香と,シアワセのサチコさんをやって……,それで……,Miku,I was at school doing the Sachiko Ever After thing ,"with Ryoka, and then...",,미쿠,"미쿠, 학교에서 료코랑 행복의 사치코 님 그거 하다가……그 다음……",,,美九,小美，明明記得在學校和涼香,做了幸福的サチコ小姐……,然後……,1,122,35,1,0,0,0,0,0,,Translated
+525,美九,……記憶がない……, , ,Miku,...I don't remember anything after that...,,,미쿠,……기억이 안 나……,,,美九,……沒有記憶……,,,1,123,35,1,0,0,0,0,0,,Translated
+526,美九,待って？,待って、現実的に考えよう？　ミク。,クールに……,Miku,"Okay, Miku, chill out and be realistic about this...",,,미쿠,"잠깐, 기다려, 현실적으로 생각해봐?　미쿠, 침착하게……",,,美九,等等？,等等，現實地思考一下吧？　小美。,冷靜點……,1,124,35,1,0,0,0,0,0,,Translated
+527,美九,ミクが言うのもなんだけど、,オカルトなんてありえない。都市伝説なんて,作り話のロマンでしかない,Miku,Occult stuff is a load of BS. Even you know that.,Urban legends only exist for the cheap thrill you,get from hearing them.,미쿠,미쿠는 오컬트 따위 말도 안된다고 생각해. 도시전설인가 뭔가 그냥 만들어 낸 이야기에 지나지 않아,,,美九,雖然由小美來說有點奇怪，,但靈異什麼的根本不可能。都市傳說,不過是編造出來的浪漫,1,125,35,1,0,0,0,0,0,,Translated
+528,美九,……今朝から起こってる不思議な出来事……, , ,Miku,Though there was that weird thing that happened ,this morning...,,미쿠,……오늘 아침부터 일어난 이상한 일들……,,,美九,……從今天早上開始發生的不可思議事件……,,,1,126,35,1,0,0,0,0,0,,Translated
+529,美九,家の前にへんな石が置かれてたとか、, , ,Miku,...when I found those stones in front of my house.,,,미쿠,집앞에 이상한 돌이 놓여 있었던 거,,,美九,家門口被放了奇怪的石頭之類的，,,,1,127,35,1,0,0,0,0,0,,Translated
+530,美九,昨日の夜に、ミクが閲覧した途端に更新された,サチコさんのおまじないのブログとか、, ,Miku,And then last night the Sachiko Ever After blog ,updated just as I was reading it...,,미쿠,어젯밤 미쿠가 보고 있던 도중에 갱신 된 사치코 님의 주술 관련 블로그 페이지,,,美九,昨天晚上，小美一瀏覽就更新了的,サチコ小姐咒語的部落格之類的，,,1,128,35,1,0,0,0,0,0,,Translated
+531,美九,よく考えたら出来過ぎだ。,だれか悪い奴に仕組まれてるとしたら？, ,Miku,"Now that I think about it, that's way too many ",coincidences... Was someone trying to set me up?,,미쿠,잘 생각해 보면 뭔가 이상하잖아. 못된 누군가의 함정에라도 걸린 건가?,,,美九,仔細想想也太多巧合了。,如果是被什麼壞人設計的呢？,,1,129,35,1,0,0,0,0,0,,Translated
+532,美九,都市伝説のおまじないを試して,女子高校生が行方不明、っていう形で,アリバイを作って、実は……,Miku,They'll use the whole urban legend thing to cover ,their ass after a high school girl who tried it,"goes missing without a trace, when actually--",미쿠,"도시전설의 주술을 시도하던 여고생이 행방불명, 이따위 알리바이를 만들어 실제론……",,,美九,以嘗試都市傳說咒語的女高中生失蹤，,這種形式製造不在場證明，,實際上……,1,130,35,1,0,0,0,0,0,,Translated
+533,美九,うぶ……なに？,なんなの？, ,Miku,Urp... What? What is it?,,,미쿠,으윽……뭐지?　뭐야?,,,美九,嗚……什麼？,怎麼回事？,,1,107,35,1,0,0,0,0,0,,Translated
+534,涼香,そと……廊下……これ、足音……？, , ,Ryoka,It's coming from the hallway... Doesn't it sound,like...footsteps?,,료코,"바깥……복도……이거, 발소리……?",,,涼香,外面……走廊……這是，腳步聲……？,,,1,194,32,1,0,0,0,0,0,,Translated
+535,美九,なんなのよ～……！,誰か来た……, ,Miku,Now what...? Is someone here?,,,미쿠,대체 뭐야~……!　누군가 오고 있어……,,,美九,到底是怎樣啦～……！,有人來了……,,1,108,35,1,0,0,0,0,0,,Translated
+536,涼香,ひ……！, , ,Ryoka,Ah...!,,,료코,흐윽……!,,,涼香,嘶……！,,,1,195,32,1,0,0,0,0,0,,Translated
+537,美九・涼香,きゃああぁぁぁーーーーーー！！！, , ,Miku & Ryoka,Eeeeeeeeek!,,,미쿠&료코,꺄아아아아악------!!!,,,美九・涼香,呀啊啊啊啊啊啊！！！,,,1,0,0,0,0,0,0,0,0,,Translated
+538,美九,足音……そうだ、足音がしてた, , ,Miku,"Footsteps... That's right, we heard footsteps.",,,미쿠,"발소리……맞아, 발소리가 났었어",,,美九,腳步聲……對了，有腳步聲,,,1,131,35,1,0,0,0,0,0,,Translated
+539,美九,記憶がないけどあの後、いきなり,クロロホルムでも嗅がされて……,拉致されたとか,Miku,I don't remember anything after that. Maybe they ,knocked me out with chloroform and...kidnapped me?,,미쿠,기억은 안 나지만 그 후 갑자기 클로로포름 같은거 흡입당해……납치 당했거나,,,美九,雖然沒有記憶，但那之後突然,被下了氯仿之類的……,被綁架了什麼的,1,132,35,1,0,0,0,0,0,,Translated
+540,美九,いやいやご冗談を……,一介の女子高生一人なんぞをつかまえて、,何のために？　わざわざそんな……,Miku,"Yeah right, as if. No one would go through all that",trouble just to nab a single high school girl.,,미쿠,아냐아냐 뭔소리야……일반 여고생 하나 납치해서 뭘 한다고 그래? 굳이 그럴……,,,美九,不不不開玩笑的……,抓住一個普通的女高中生，,為了什麼？　特意那樣……,1,133,35,1,0,0,0,0,0,,Translated
+541,,ミクの脳裏を、ここ数年に起こった,様々な事件のニュースが駆け巡ります……。, ,,"Years of news reports detailing murders, ","disappearances, and kidnappings of students ",run through Miku’s mind...,,미쿠의 머리속엔 근 몇년간의 여러가지 사건 뉴스가 마구 떠오르기 시작한다…….,,,,美九的腦海中，,近年發生的各種事件新聞飛快閃過……。,,0,0,0,0,0,0,0,0,0,,Translated
+542,美九,……いや、あり得るんじゃない……？, , ,Miku,...Or maybe they would?,,,미쿠,"……아냐, 충분히 가능은 하잖아……?",,,美九,……不，也不是不可能……？,,,1,134,35,1,0,0,0,0,0,,Translated
+543,美九,人間をひとり、好き放題にするために……,山の中の廃校に拉致監禁……, ,Miku,So that they could drag her to some old abandoned ,school in the mountains and do whatever they ,wanted with her?,미쿠,사람을 하나 잡아서 마음대로 하기 위해……산 속의 페교에 납치……,,,美九,為了對一個人為所欲為……,把她綁架監禁在山中的廢校……,,1,135,35,1,0,0,0,0,0,,Translated
+544,美九,は？　好き放題って何？,殺すの？　いやなんだけど？, ,Miku,Does that mean they're gonna kill me or something? ,Hell no!,,미쿠,...?　마음대로 한다는 건?　죽이기라도?　그건 싫은데?,,,美九,啥？　為所欲為是什麼？,殺掉？　我才不要？,,1,136,35,1,0,0,0,0,0,,Translated
+545,美九,！！！！！, , ,Miku,Eep...!,,,미쿠,!!!!!,,,美九,！！！！！,,,1,137,35,1,0,0,0,0,0,,Translated
+546,,廊下の外から、何者かが近づいてくる,足音がします……。, ,,You hear footsteps echo down the hallway.,They're getting closer...,,,복도 밖으로 부터 누군가가 접근해 오는 발소리가 들린다…….,,,,走廊外面傳來，,有人接近的腳步聲……。,,0,0,0,0,0,0,0,0,0,,Translated
+547,美九,（や……やばいやばいやばいやばい！,　どど、どうしよう……！！）, ,Miku,"(Oh crap, oh crap, oh crap! Wh-What should I do?!)",,,미쿠,"（위……위험해위험해위험해위험해!　어, 어떡해야 하지……!!）",,,美九,（糟、糟了糟了糟了！,　怎、怎麼辦……！！）,,1,0,0,0,0,0,0,0,0,,Translated
+548,,古い張り紙があります……。, , ,,"It's an old, weathered flyer.",,,,낡은 종이 테이프가 있습니다…….,,,,有舊的貼紙……。,,,0,0,0,0,0,0,0,0,0,,Translated
+549,美九,待って……待って,頭が整理できない, ,Miku,Hold up... My brain can't process all this at once.,,,미쿠,"잠시……잠시만, 머릿속이 복잡해",,,美九,等等……等等,頭腦整理不過來,,1,120,35,1,0,0,0,0,0,,Translated
+550,,棚の中には,ペンチと、園芸ばさみと手斧が,置かれています……。,,There's a pair of pliers on the shelf...,...along with some pruning shears and a hatchet.,,,"찬장 안에는 펜치, 원예용 가위 그리고 손도끼가",놓여져 있습니다…….,,,櫃子裡放著,鉗子、園藝剪刀和手斧……。,,0,0,0,0,0,0,0,0,0,,Translated
+551,,よく見ると、そのすべてに,黒く変色した血のような錆が,こびりついています。,,"Upon closer inspection, the tools appear to be ",covered in dark rust-colored splotches...,They resemble dried blood.,,잘 관찰해 보니 그 물건들에는 모두 검게 변해버린 피와 같은 녹이　들어붙어 있었다.,,,,仔細一看，上面全都,附著像是變黑的血的鐵鏽。,,0,0,0,0,0,0,0,0,0,,Translated
+552,美九,なにこれ……,こわすぎなんですけど……, ,Miku,"What the hell? Okay, now this is starting to freak ",me out...,,미쿠,뭐야 이거……솔직히 너무 무서운데……,,,美九,這是什麼……,太可怕了吧……,,1,119,35,1,0,0,0,0,0,,Translated
+553,,血の付いたペンチと、,園芸ばさみと手斧が置かれています。, ,,"There's a pair of pliers, some pruning shears, and a","hatchet, all covered with blood.",,,"피가 묻어 있는 펜치, 원예용 가위 그리고 손도끼가 놓여져 있습니다.",,,,沾血的鉗子、,園藝剪刀和手斧放在那裡。,,0,0,0,0,0,0,0,0,0,,Translated
+554,,じだいは　うつろっても, , ,,even in another era,,,,어느 만큼 시간이 흘러도,,,,即使時代變遷,,,0,0,0,0,0,0,0,0,0,,Translated
+555,,ちのぎせいを　はらっても, , ,,even if you pay in blood,,,,얼마 만큼 피의 희생을 치러도,,,,即使付出犧牲,,,0,0,0,0,0,0,0,0,0,,Translated
+556,,いしの　のろいは　ときをこえる, , ,,the stones' curse surpasses time,,,,돌의 저주는 시간의 흐름 마저 뛰어넘는다,,,,石頭的詛咒超越時間,,,0,0,0,0,0,0,0,0,0,,Translated
+557,,おまえは　いつの　にんげんだ？, , ,,when are you from?,,,,넌 어느 시대의 인간인가?,,,,你是哪個時代的人？,,,0,0,0,0,0,0,0,0,0,,Translated
+558,美九,……！, , ,Miku,Ah...!,,,미쿠,……!,,,美九,……！,,,1,138,35,1,0,0,0,0,0,,Translated
+559,美九,隠れなきゃ！　誰か来る……！,とりあえず、この机の下に……！,――ぎゃっ！！,Miku,Someone's coming! I gotta hide! Maybe under this ,desk--EWW!,,미쿠,숨어야 해!　누군가 오고 있어……!　일단은 이 책상 아래에……!　--지익!!,,,美九,得躲起來！　有人來了……！,總之，躲到這張桌子下面……！,——啊！！,1,139,35,1,0,0,0,0,0,,Translated
+560,,机の下に、うじ虫のたくさん湧いた,何かの肉が置かれています……。, ,,A hunk of maggot-filled meat lies under the desk...,,,,책상 아래에는 구더기가 가득 붙어 있는 무언가의 살점이 놓여있다…….,,,,桌子下面放著長滿蛆的,某種肉……。,,0,0,0,0,0,0,0,0,0,,Translated
+561,美九,～～～～っ！！, , ,Miku,Mmph...!,,,미쿠,~~~~윽!!,,,美九,～～～～！！,,,1,140,35,1,0,0,0,0,0,,Translated
+562,美九,無理、ここ、入れない……！, , ,Miku,"Oh God, I can't go under there...!",,,미쿠,"무리야, 여긴, 들어 갈 수 없어……!",,,美九,不行，這裡進不去……！,,,1,141,35,1,0,0,0,0,0,,Translated
+563,美九,やばいやばいやばい！　誰か来る……！,隠れなきゃ……！, ,Miku,"Crap, crap, CRAP! Someone's coming! I gotta hide!",,,미쿠,위험해위험해위험해! 누군가 오고 있어……!　숨어야 해……!,,,美九,糟了糟了糟了！　有人來了……！,得躲起來……！,,1,142,35,1,0,0,0,0,0,,Translated
+564,？？？,君も死にたがり？　確か配信者だよね。,いいよ手助けしてあげる, ,???,"So you also wish to die? You're that live streamer, ",aren't you? Then allow me to assist you.,,？？？,너도 죽고 싶은 거냐? 그 스트리머인 듯 하군. 내가 도와주도록 하지.,,,？？？,你也是想死的人？　好像是直播主吧。,好啊我來幫你,,1,213,34,1,0,0,0,0,0,,Translated
+565,美九,――っ！　いやああぁぁっ！！, , ,Miku,NOOOOO!,,,미쿠,――으윽!　싫어어어어어!!,,,美九,——！　不要啊啊！！,,,1,143,35,1,0,0,0,0,0,,Translated
+566,,涼香の学生証　を拾いました。, , ,,Found Ryoka's student ID.,,,,료코의 학생증을 주웠습니다.,,,,拾起了涼香的學生證。,,,0,0,0,0,0,0,0,0,0,,Translated
+567,美九,……うそ……。,あの娘もここにいるの……？, ,Miku,No way... She got dragged out here too?,,,미쿠,……이건……그 애도 여기에 있다는……?,,,美九,……不會吧……。,那孩子也在這裡……？,,1,151,35,1,0,0,0,0,0,,Translated
+568,美九,誘拐犯め……ミクだけじゃなく,涼香まで殺す気？, ,Miku,Stupid kidnapping scumbag... Do they also plan on ,killing her?,,미쿠,유괴범 놈……미쿠 뿐 아니라 료코마저 죽일 셈?,,,美九,綁架犯……不只小美,連涼香也要殺掉嗎？,,1,152,35,1,0,0,0,0,0,,Translated
+569,美九,冗談じゃない……,ゆるさないから……, ,Miku,Like I'd let that happen! They're not getting away ,with this...,,미쿠,장난 아니잖아……용서 못해……,,,美九,開什麼玩笑……,我不會原諒的……,,1,153,35,1,0,0,0,0,0,,Translated
+570,美九,っ、けっほ！　けほっ……,ヒュー、ヒュー……, ,Miku,*cough* *hack* *wheeze*,,,미쿠,"윽, 크헥!　케헥……허억, 허억……",,,美九,咳、咳咳！　咳咳……,呼、呼……,,1,154,35,1,0,0,0,0,0,,Translated
+571,美九,（苦し……喘息のスプレー……,　ポケットに入れとけば良かった……）, ,Miku,(It hurts to breathe... I should've put my inhaler ,in my pocket...),,미쿠,（힘들어……천식 스프레이……주머니에 넣어 두었더라면……）,,,美九,（好難受……氣喘噴霧器……,　放在口袋裡就好了……）,,1,0,0,0,0,0,0,0,0,,Translated
+572,美九,（やばいよ、これ……ヒュー……）, , ,Miku,(This isn't looking good...),,,미쿠,"（큰일났어, 이거……허억……）",,,美九,（糟了，這下……呼……）,,,1,0,0,0,0,0,0,0,0,,Translated
+573,美九,とにかく、外に出るルートを,確保しないと……, ,Miku,"For now, I need to find a way out of this place.",,,미쿠,"어찌 됐건, 밖으로 나가는 길을 찾아내지 못하면……",,,美九,總之，不確保,出去的路線的話……,,1,155,35,1,0,0,0,0,0,,Translated
+574,美九,一階におりる階段、,きっと他にもあるよね……。,涼香も見つけないと……,Miku,There's gotta be another staircase going,"downstairs. And I have to find Ryoka, too...",,미쿠,"일층으로 내려가는 계단, 틀림없이 그놈도 알고 있겠지……. 어서 료코도 찾아내야만 해……",,,美九,通往一樓的樓梯，,一定還有別的吧……。,也得找到涼香才行……,1,156,35,1,0,0,0,0,0,,Translated
+575,美九,ひぃっ……！,きゃああぁぁぁぁ！！！, ,Miku,Eek...! AAAAAAAAAAGGGGHH!,,,미쿠,흐엇……! 꺄아아아아악!!!,,,美九,嘶……！,啊啊啊啊啊！！！,,1,157,35,1,0,0,0,0,0,,Translated
+576,美九,ひ！　ひとっ……！？,うそでしょ？　血が……,死んでるの……？,Miku,Oh God! Is that... Is that a person?! There's blood ,everywhere... Is she dead?,,미쿠,사! 사람……!?　아니겠지? 피가……죽은 건가……?,,,美九,人！　是人……！？,不會吧？　血……,死了……？,1,158,35,1,0,0,0,0,0,,Translated
+577,美九,……息してない……, , ,Miku,...She's not breathing...,,,미쿠,……숨이 끊겨져 있어……,,,美九,……沒有呼吸……,,,1,159,35,1,0,0,0,0,0,,Translated
+578,,床に寝かされた少女の亡骸は、,生きているかのように,こちらを見つめていますが……,,"The girl's corpse stares blankly in this direction,",almost as if she were still alive.,,,바닥에 놓여 있는 소녀의 시체는 마치 살아 있는 듯 이쪽을 주시하고 있으나……,,,,躺在地上的少女遺體，,像是活著一樣,注視著這邊……,0,0,0,0,0,0,0,0,0,,Translated
+579,,ぴくりとも動かないその体は、,まるでマネキンのような,違和感を伝えます……。,,"Her eerie, mannequin-like stillness says otherwise.",,,,꼼짝도 안 하는 그 몸체는 마네킹과도 같아 더더욱 불편한 느낌이 든다…….,,,,但一動也不動的身體，,傳達出如人偶般的,違和感……。,0,0,0,0,0,0,0,0,0,,Translated
+580,美九,ヒュー、ヒュー……,うぶっ！　ぶぇ！！, ,Miku,*wheeze* *wheeze* *retch*,,,미쿠,"허억, 허억……우웨에엑!!",,,美九,呼、呼……,嘔！　嘔！！,,1,160,35,1,0,0,0,0,0,,Translated
+581,美九,げぽっ！　うっ……, , ,Miku,*gag* Urk...,,,미쿠,크헥!　윽……,,,美九,呃！　嗚……,,,1,161,35,1,0,0,0,0,0,,Translated
+582,美九,死んでる……。でも、,見た感じ肌も綺麗だし、,数時間前まで生きてた感じだ……,Miku,"She's dead... But as far as I can tell, she was",alive until just a few hours ago...,,미쿠,죽어있어……. 그런데 눈으로 보기엔 피부도 깨끗하고 몇시간 전 까진 살아 있었던 느낌이 들……,,,美九,死了……。但是，,看起來皮膚也很乾淨，,感覺幾小時前還活著……,1,162,35,1,0,0,0,0,0,,Translated
+583,,……少女の亡骸には、,ノートの切れ端が持たされています。, ,,The girl's corpse has a scrap of paper in her hand.,,,,……소녀의 시체에는 노트의 찢어진 부분이 쥐여 있습니다.,,,,……少女的遺體手中，,握著一張筆記本紙片。,,0,0,0,0,0,0,0,0,0,,Translated
+584,,美由木紗枝　享年１７歳, , ,,Name: Sae Miyuki. Age at death: 17.,,,,미유키 사에　향년 17세,,,,美由木紗枝　享年17歲,,,0,0,0,0,0,0,0,0,0,,Translated
+585,,死にたがり少女の自殺、完遂。, , ,,Another girl who wanted to die. Her suicide is now ,complete.,,,"죽고 싶어하는 소녀의 자살, 완수",,,,想死少女的自殺，已完成。,,,0,0,0,0,0,0,0,0,0,,Translated
+586,,暴れたが幸せそうに死んだ。安らかに, , ,,She put up a fight but met a happy end. Rest in ,peace.,,,날뛰었지만 결국은 행복하게 죽었다. 조용히.,,,,雖然掙扎但幸福地死去了。安息吧。,,,0,0,0,0,0,0,0,0,0,,Translated
+587,美九,……やば……,誰が書いたのこのレポ　,　,Miku,Holy crap... Who wrote this?,,,미쿠,……이거……누가 쓴 거야 이 글,,,美九,……糟了……,誰寫的這份報告,,1,163,35,1,0,0,0,0,0,,Translated
+588,美九,殺してるやつがいるってことじゃん……,やっぱり自殺の手助けの言い訳で、人殺してる,狂人がいるよ！,Miku,Some psycho is out there killing people and calling,it suicide!,,미쿠,즉 살인자가 있다는 거잖아……과연 자살을 돕는다는 핑계로 사람을 죽이는 미친 살인마가 여기에 있어!,,,美九,也就是說有殺人犯……,果然有人以協助自殺為藉口，,在殺人啊！,1,164,35,1,0,0,0,0,0,,Translated
+589,美九,……ごめんね、,ここ出たら警察呼ぶからね……ヒュー, ,Miku,I'm so sorry this happened to you... First thing ,I'll do when I bust outta here is call the police.,,미쿠,"……미안해, 여기서 나가면 경찰 불러줄 테니까……허억",,,美九,……對不起，,出去後我會報警的……呼,,1,165,35,1,0,0,0,0,0,,Translated
+590,美九,最初の教室で近づいて来た奴……,絶対ヤバいよね, ,Miku,That guy back at the first classroom is definitely ,bad news...,,미쿠,맨 처음의 교실에 접근해 왔던 그놈……틀림없이 위험한 놈이야,,,美九,最初在教室裡接近我的傢伙……,絕對很危險,,1,166,35,1,0,0,0,0,0,,Translated
+591,？？？,君も死にたがり？　確か配信者だよね。,いいよ手助けしてあげる, ,???,"So you also wish to die? You're that live streamer, ",aren't you? Then allow me to assist you.,,？？？,너도 죽고싶은 거냐? 아마도 그 방송자이군. 내가 도와주도록 하지.,,,？？？,你也是想死的人？　好像是直播主吧。,好啊我來幫你,,1,214,34,1,0,0,0,0,0,,Translated
+592,美九,……絶対ヤバい……, , ,Miku,"...Yeah, I'm not going anywhere near him.",,,미쿠,……절대로 위험해……,,,美九,……絕對很危險……,,,1,167,35,1,0,0,0,0,0,,Translated
+593,美九,ヒュー、ヒュー……,……暗い……何も見えないんだけど……, ,Miku,*pant* *wheeze* It's way too dark to see anything...,,,미쿠,"허억, 허억……, ……어두워……아무것도 보이지가 않아……",,,美九,呼、呼……,……好暗……什麼都看不見……,,1,170,35,1,0,0,0,0,0,,Translated
+594,美九,！　そうだ、スマホは？！, , ,Miku,"Oh, I know! My phone!",,,미쿠,"!　그치, 휴대폰은?!",,,美九,！　對了，手機呢？！,,,1,171,35,1,0,0,0,0,0,,Translated
+595,美九,……動く, , ,Miku,"Good, it still works.",,,미쿠,……켜져있네,,,美九,……能用,,,1,172,35,1,0,0,0,0,0,,Translated
+596,美九,動くけど……, , ,Miku,That being said...,,,미쿠,그런데……,,,美九,雖然能用……,,,1,173,35,1,0,0,0,0,0,,Translated
+597,美九,なによこれ, , ,Miku,What the hell is this?!,,,미쿠,뭐지 이거,,,美九,這是什麼啊,,,1,174,35,1,0,0,0,0,0,,Translated
+598,,スマートホンのロック画面には,2008年8月と表示されています……。, ,,The phone's lock screen date is August 2008.,,,,휴대폰의 잠금화면에는 2008년 8월로 날짜가 표시되어 있었다…….,,,,智慧型手機的鎖定畫面,顯示著2008年8月……。,,0,0,0,0,0,0,0,0,0,,Translated
+599,美九,……いやあぁぁ！！, , ,Miku,AAAAAAHH!,,,미쿠,……으아아아아악!,,,美九,……不要啊啊！！,,,1,175,35,1,0,0,0,0,0,,Translated
+600,美九,なにこれ？　犯人の演出？,手込み過ぎじゃないの？！, ,Miku,What the hell? Did the kidnapper do this? Isn't that,a little excessive?!,,미쿠,뭐지 이거?　범인이 한 짓?　굳이 이럴 필요까지?!,,,美九,這是什麼？　犯人的安排？,也太刻意了吧？！,,1,176,35,1,0,0,0,0,0,,Translated
+601,美九,てか……スマホの時間調整なんて,自分で出来たっけ？, ,Miku,"...I mean, did they adjust the time settings",themselves?,,미쿠,랄까……휴대폰 시간 설정 자동으로 되는거 아니였나?,,,美九,話說……手機的時間調整,可以自己設定嗎？,,1,177,35,1,0,0,0,0,0,,Translated
+602,美九,いけない……拾わなきゃ, , ,Miku,Oops. I need to make sure I hold onto this...,,,미쿠,안돼……일단은 주워야지,,,美九,不行……得撿起來,,,1,178,35,1,0,0,0,0,0,,Translated
+603,美九,ひぃっ……！,誰！？, ,Miku,Eeek! Wh-Who's there?!,,,미쿠,흐익……!　누구!?,,,美九,嘶……！,誰！？,,1,179,35,1,0,0,0,0,0,,Translated
+604,美九,……ねぇ……返事……,返事してよ, ,Miku,"...Hello? C'mon... S-Say something, anything!",,,미쿠,……이봐……대답……좀 해줘,,,美九,……喂……回答……,回答我啊,,1,180,35,1,0,0,0,0,0,,Translated
+605,美九,こ、この子も。死……, , ,Miku,"O-Oh, God, no. Not her too...",,,미쿠,"얘, 얘도, 죽었……",,,美九,這、這孩子也。死……,,,1,181,35,1,0,0,0,0,0,,Translated
+606,,首にロープの痛々しい痕が残った少女は、,鼻から血の筋を作り、ぴくりとも,動きません……。,,The girl has horrific rope burns around her neck,and blood streaming from her nostrils. She's lying ,perfectly still.,,로프에 목이 매인 흔적이 있는 한 소녀가 코에서 피가 흘러나온 모습으로 꼼짝도 안하고 있었다…….,,,,脖子上留有繩子勒痕的少女，,從鼻子流出血跡，,一動也不動……。,0,0,0,0,0,0,0,0,0,,Translated
+607,,その手には、ノートの切れ端が,持たされていました。, ,,She's holding a scrap of paper.,,,,손에는 노트의 째진 조각이 쥐어여 있었다.,,,,她手中握著一張筆記本紙片。,,,0,0,0,0,0,0,0,0,0,,Translated
+608,,市葉菜々瀬　享年１６歳, , ,,Name: Nanase Ichiha. Age at death: 16.,,,,이치바 나나세　향년 16세,,,,市葉菜菜瀨　享年16歲,,,0,0,0,0,0,0,0,0,0,,Translated
+609,,死にたがり少女は首を吊った。, , ,,Another girl who sought death. She found it by ,hanging herself.,,,죽음을 갈망한 소녀는 목을 맸다.,,,,想死少女上吊了。,,,0,0,0,0,0,0,0,0,0,,Translated
+610,,流れ出る汚物も清らかで尊い。安らかに, , ,,Even the filthy fluids leaking from her body are ,pure and sacred. Rest in peace.,,,흘러나온 오물도 맑고 고귀하였다. 안녕히.,,,,流出的污物也純淨而尊貴。安息吧。,,,0,0,0,0,0,0,0,0,0,,Translated
+611,美九,っ……！, , ,Miku,Ah...!,,,미쿠,윽……!,,,美九,……！,,,1,182,35,1,0,0,0,0,0,,Translated
+612,美九,これ書いたやつ……最低のセンス……！,ヒュー、ヒュー……, ,Miku,"Whoever wrote this is just, just...scum! *wheeze*",,,미쿠,"이걸 쓴 놈……최악이잖아……!　허억, 허억……",,,美九,寫這個的人……品味最差了……！,呼、呼……,,1,183,35,1,0,0,0,0,0,,Translated
+613,美九,山奥の廃校に連れてきて、首を吊らせて,このメモ書き……サイコ野郎だよ……, ,Miku,"To think they'd drag a girl out here, hang her, ",and then write this... What a goddamn psychopath.,,미쿠,산속의 페교로 끌고 와 강제로 목을 조르고 이런 메모를……미친 놈이야……,,,美九,把人帶到深山廢校，讓她上吊,還留下這張紙條……真是個瘋子……,,1,184,35,1,0,0,0,0,0,,Translated
+614,美九,ぎゃあぁぁぁぁ！！！！, , ,Miku,EEEEEK!,,,미쿠,꺄아아아아악!!!!,,,美九,啊啊啊啊啊！！！！,,,1,185,35,1,0,0,0,0,0,,Translated
+615,美九,うわっ……うわっ！！,ゆ！　ゆうれ！！, ,Miku,"Oh, crap! A gh-ghost!",,,미쿠,으……으악!! 유! 유령!!,,,美九,哇……哇！！,幽！　幽靈！！,,1,186,35,1,0,0,0,0,0,,Translated
+616,＊＊＊,う、……じゃない, , ,Spirit A,--ot...think it is.,,,＊＊＊,틀……렸어,,,＊＊＊,不、……不是,,,1,50,36,1,0,0,0,0,0,,Translated
+617,美九,えっ……？！, , ,Miku,Huh?!,,,미쿠,엣……?!,,,美九,欸……？！,,,1,187,35,1,0,0,0,0,0,,Translated
+618,＊＊＊,たの……想……して,いるよ　な, ,Spirit A,--ituation's not what...,,,＊＊＊,네가……생각……하는,,,＊＊＊,你……想……的,不一樣,,1,51,36,1,0,0,0,0,0,,Translated
+619,＊＊＊,状　ゃない……, , ,Spirit A,...you think...is.,,,＊＊＊,것 과는……,,,＊＊＊,狀　況……,,,1,52,36,1,0,0,0,0,0,,Translated
+620,美九,どどどどういう……,あの……どういう……, ,Miku,Wh-Wh-What d-do you... Erm... Wh-What are you...?,,,미쿠,뭐뭐뭐라는……저기……뭐라는 건데……,,,美九,怎怎怎怎麼回事……,那個……怎麼回事……,,1,188,35,1,0,0,0,0,0,,Translated
+621,＊＊＊,ここは、天神……小学……, , ,Spirit A,This place... Heavenly Host Elementary...,,,＊＊＊,"여긴, 텐진……초등학교……",,,＊＊＊,這裡是天神……小學……,,,1,53,36,1,0,0,0,0,0,,Translated
+622,＊＊＊,なたは……来……いけない,とこへ　き　た, ,Spirit A,--ou came...where you s h o u l d n ' t  h a v e.,,,＊＊＊,넌……와서는……안 될 곳 에와 버 렸다,,,＊＊＊,你……來……了不該,來的地方,,1,54,36,1,0,0,0,0,0,,Translated
+623,美九,…………っ、, , ,Miku,Ah...,,,미쿠,"…………윽,",,,美九,…………,,,1,189,35,1,0,0,0,0,0,,Translated
+624,美九,うわあぁぁぁああぁ！！！！, , ,Miku,AGGGHHHHHH!,,,미쿠,으아아아아아아!!!!,,,美九,啊啊啊啊啊啊！！！,,,1,190,35,1,0,0,0,0,0,,Translated
+625,美九,っ、けっほ！　けほっ……がほっ,ヒュー、ヒュー……, ,Miku,*cough* *hack* *wheeze*,,,미쿠,"윽, 케헥!　케헥……켁, 후우, 후……",,,美九,咳、咳咳！　咳咳……喀咳,呼、呼……,,1,191,35,1,0,0,0,0,0,,Translated
+626,美九,苦しい！　スプレー！,うっ……ぐ！　うう……っ！, ,Miku,Can't...breathe! Need my...inhaler!,,,미쿠,힘들어! 스프레이!　윽……크윽!　으으……윽!,,,美九,好難受！　噴霧器！,嗚……咕！　嗚嗚……！,,1,192,35,1,0,0,0,0,0,,Translated
+627,美九,ヒュー！　ヒュー！,ヒュー！　ヒュー！, ,Miku,*wheeze* *gasp*,,,미쿠,허억! 허억! 허억! 허억!,,,美九,呼！　呼！,呼！　呼！,,1,193,35,1,0,0,0,0,0,,Translated
+628,美九,……。,どういう……ことなの……, ,Miku,What is with this place?,,,미쿠,……대체……어떻게 된 거야……,,,美九,……。,到底是……怎麼回事……,,1,194,35,1,0,0,0,0,0,,Translated
+629,美九,なんで幽霊とか見るの？！, , ,Miku,Why are there ghosts and stuff here?,,,미쿠,왜 유령 따위가 보이는 거냐고?!,,,美九,為什麼會看到幽靈什麼的？！,,,1,195,35,1,0,0,0,0,0,,Translated
+630,美九,……ここどこ？！,山奥の廃校じゃないの？！, ,Miku,Where even am I?! I thought this was some abandoned,school in the mountains!,,미쿠,……여긴 어디?! 산속의 페교잖아?!,,,美九,……這裡是哪裡？！,不是深山裡的廢校嗎？！,,1,196,35,1,0,0,0,0,0,,Translated
+631,美九,まさかあの都市伝説どおりに,本当に異世界の学校に飛んだって？, ,Miku,"Are you telling me that urban legend is true, and",I really got sent to that freaky school in another ,dimension?!,미쿠,설마 그 도시전설 이야기대로 다른 세셰의 학교로 와버린 거?,,,美九,難道真的像那個都市傳說一樣,被傳送到了異世界的學校？,,1,197,35,1,0,0,0,0,0,,Translated
+632,美九,スマホの日付もおかしいし！！,2008年ってどういう事よ！, ,Miku,Even my phone is acting weird! Why does it say 2008?,,,미쿠,휴대폰 날짜도 이상해!!　2008은 대체 뭐야!,,,美九,手機的日期也很奇怪！！,2008年是怎麼回事！,,1,198,35,1,0,0,0,0,0,,Translated
+633,美九,ハァー、ヒュー、ヒュー……,……ううっ……, ,Miku,*pant* *gasp* *whimper*,,,미쿠,"허억, 허억……、……으으윽……",,,美九,哈啊～、呼、呼……,……嗚嗚……,,1,199,35,1,0,0,0,0,0,,Translated
+634,,えたいの　しれないものが,きみを　おいかける, ,,You can't comprehend what's coming for you.,,,,알 수 없는 것이 너의 뒤를 따른다,,,,未知的存在,追趕著你,,0,0,0,0,0,0,0,0,0,,Translated
+635,,むりに　あらがわず,ながれに　みをまかせるのが　さいぜんだ, ,,Don't struggle in vain.,Resign yourself to your fate.,,,항거하려 하지 말고　,흐름에 몸을 맡기는것이 최선이다,,,不要勉強抵抗,順從命運才是最佳選擇,,0,0,0,0,0,0,0,0,0,,Translated
+636,,もう　ておくれだから, , ,,It's too late now.,,,,이미 늦었으니까,,,,因為已經太遲了,,,0,0,0,0,0,0,0,0,0,,Translated
+637,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+638,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+639,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+640,世以子,（ガタガタ）,　ありえないんだけど、この寒さ……, ,世以子,（ガタガタ）,　ありえないんだけど、この寒さ......, ,世以子,―,,,世以子,（發抖）,　太誇張了吧，這個寒冷……,,1,177,19,1,0,0,0,0,0,,Translated
+641,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+642,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+643,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+644,世以子,（ガタガタ）さむーい……, , ,世以子,（ガタガタ）さむーい......, , ,世以子,―,,,世以子,（發抖）好冷……,,,1,174,19,1,0,0,0,0,0,,Translated
+645,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+646,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+647,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+648,世以子,はやく戻ってきてね……, , ,世以子,はやく戻ってきてね......, , ,世以子,―,,,世以子,快點回來喔……,,,1,181,19,1,0,0,0,0,0,,Translated
+649,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+650,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+651,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+652,世以子,置いてっちゃやだよ……, , ,世以子,置いてっちゃやだよ......, , ,世以子,―,,,世以子,不要丟下我喔……,,,1,180,19,1,0,0,0,0,0,,Translated
+653,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+654,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+655,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+656,世以子,寒……　み、みて直美、私の歯。,（カチカチカチカチ）, ,世以子,寒......　み、みて直美、私の歯。,（カチカチカチカチ）, ,世以子,―,,,世以子,好冷……　看、看啊直美，我的牙齒。,（喀喀喀喀）,,1,178,19,1,0,0,0,0,0,,Translated
+657,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+658,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+659,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+660,世以子,静かだね……, , ,世以子,静かだね......, , ,世以子,―,,,世以子,好安靜啊……,,,1,179,19,1,0,0,0,0,0,,Translated
+661,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+662,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+663,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+664,世以子,なんか、この部屋、空気重くない？, , ,世以子,なんか、この部屋、空気重くない？, , ,世以子,―,,,世以子,總覺得，這個房間空氣很沉重？,,,1,173,19,1,0,0,0,0,0,,Translated
+665,,　月　日　　日番　東雲／管乃, ,,,　月　日　　日番　東雲／管乃, ,,,―,,,,　月　日　　值日　東雲／管乃,,,0,0,0,0,0,0,0,0,0,,Translated
+666,,窓の外には、うっそうと繁った,森の木々が見えます。, ,,窓の外には、うっそうと繁った,森の木々が見えます。, ,,―,,,,窗外可以看到茂密的樹林。,,,0,0,0,1,0,0,0,0,0,,Translated
+667,,遠くが全く見渡せません……, , ,,遠くが全く見渡せません......, , ,,―,,,,遠處完全看不見……,,,0,0,0,1,0,0,0,0,0,,Translated
+668,,　頭蓋骨に大きな穴の開いた人骨が,　椅子に腰掛けています……,　よく見ると、名札が見えます。,,　頭蓋骨に大きな穴の開いた人骨が,　椅子に腰掛けています......,　よく見ると、名札が見えます。,,―,,,,　頭蓋骨上有個大洞的人骨,　坐在椅子上……,　仔細一看，有名牌。,0,0,0,1,0,0,0,0,0,,Translated
+669,,　握り締められ、くしゃくしゃになった紙が,　落ちています……,,,　握り締められ、くしゃくしゃになった紙が,　落ちています......,,,―,,,,　握得皺巴巴的紙,　掉在地上……,,0,0,0,0,0,0,0,0,0,,Translated
+670,,”恋都のばか、,　信じなきゃ救われないわよ”,,,”恋都のばか、,　信じなきゃ救われないわよ”,,,―,,,,"恋都你這笨蛋，,　不相信的話是不會被救的喔",,,0,0,0,0,0,0,0,0,0,,Translated
+671,,”私たち友達でしょ”, ,,,”私たち友達でしょ”, ,,,―,,,,「我們是朋友吧」,,,0,0,0,0,0,0,0,0,0,,Translated
+672,,　犠牲者の手記（４／５）, , ,,　犠牲者の手記（４／５）, , ,,―,,,,　犧牲者的手記（4／5）,,,0,0,0,1,0,0,0,0,0,,Translated
+673,,　見タクナカッタ君ノ顔,　僕以外ヘノソンナ顔,　僕ハココデ地獄ニ灼カレテイルトイフノニ,,　見タクナカッタ君ノ顔,　僕以外ヘノソンナ顔,　僕ハココデ地獄ニ灼カレテイルトイフノニ,,―,,,,　不想看到的你的臉,　對別人露出那種表情,　明明我在此地被地獄灼燒,0,0,0,1,0,0,0,0,0,,Translated
+674,,　僕ハココデ生キテイルノニ,　僕ハマダ死ンデイナイノニ,　君死ニタマフコト＊＊＊君死ニタマフコト＊＊＊,,　僕ハココデ生キテイルノニ,　僕ハマダ死ンデイナイノニ,　君死ニタマフコト＊＊＊君死ニタマフコト＊＊＊,,―,,,,　明明我還活在此地,　明明我還沒有死,　你死吧＊＊＊你死吧＊＊＊,0,0,0,0,0,0,0,0,0,,Translated
+675,,　,（手記は、所々血にまみれていて読めません……）, ,,　,（手記は、所々血にまみれていて読めません......）, ,,―,,,,　,（手記到處沾滿血跡無法閱讀……）,,0,0,0,1,0,0,0,0,0,,Translated
+676,直美,……えっ？, , ,直美,......えっ？, , ,直美,―,,,直美,……欸？,,,1,0,0,1,0,0,0,0,0,,Translated
+677,直美,世以子！？　世以子！？, , ,直美,世以子！？　世以子！？, , ,直美,―,,,直美,世以子！？　世以子！？,,,1,0,0,1,0,0,0,0,0,,Translated
+678,世以子,カワイソウ　カワイソウ, , ,世以子,カワイソウ　カワイソウ, , ,世以子,―,,,世以子,好可憐　好可憐,,,1,0,0,1,0,0,0,0,0,,Translated
+679,直美,世以子！, , ,直美,世以子！, , ,直美,―,,,直美,世以子！,,,1,0,0,1,0,0,0,0,0,,Translated
+680,世以子,直美　カワイソウ　カワイソウ, , ,世以子,直美　カワイソウ　カワイソウ, , ,世以子,―,,,世以子,直美好可憐　好可憐,,,1,0,0,1,0,0,0,0,0,,Translated
+681,直美,世以子！　どうしちゃったのよ……！　世以子！！, , ,直美,世以子！　どうしちゃったのよ......！　世以子！！, , ,直美,―,,,直美,世以子！　你怎麼了……！　世以子！！,,,1,0,0,1,0,0,0,0,0,,Translated
+682,世以子,アハハハハハハ, , ,世以子,アハハハハハハ, , ,世以子,―,,,世以子,啊哈哈哈哈哈哈,,,1,0,0,1,0,0,0,0,0,,Translated
+683,世以子,アハハハハ　アハハハハハハ, , ,世以子,アハハハハ　アハハハハハハ, , ,世以子,―,,,世以子,啊哈哈　啊哈哈哈哈哈哈,,,1,0,0,1,0,0,0,0,0,,Translated
+684,直美,世以子！　やだ！　お願い……！, , ,直美,世以子！　やだ！　お願い......！, , ,直美,―,,,直美,世以子！　不要！　拜託……！,,,1,0,0,1,0,0,0,0,0,,Translated
+685,世以子,グフー、ウフー、グフフフ……, , ,世以子,グフー、ウフー、グフフフ......, , ,世以子,―,,,世以子,咕嚕、嗚嚕、咕嚕嚕嚕……,,,1,0,0,1,0,0,0,0,0,,Translated
+686,,　世以子の心が還ってくることは……なかった。, , ,,　世以子の心が還ってくることは......なかった。, , ,,―,,,,　世以子的心靈再也沒有回來……。,,,0,0,0,1,0,0,0,0,0,,Translated
+687,,　私達はこの学校を出られないまま、,　もう多分、４日ほどになる。, ,,　私達はこの学校を出られないまま、,　もう多分、４日ほどになる。, ,,―,,,,　我們無法離開這所學校，,　大概已經過了四天左右。,,0,0,0,1,0,0,0,0,0,,Translated
+688,,　誰にも会えないまま、この地獄に二人きりで,　, ,,　誰にも会えないまま、この地獄に二人きりで,　, ,,―,,,,　見不到任何人，兩人被困在這地獄中,,,0,0,0,1,0,0,0,0,0,,Translated
+689,世以子,直美。, , ,世以子,直美。, , ,世以子,―,,,世以子,直美。,,,1,0,0,1,0,0,0,0,0,,Translated
+690,直美,……っ　世以子？, , ,直美,......っ　世以子？, , ,直美,―,,,直美,……　世以子？,,,1,0,0,1,0,0,0,0,0,,Translated
+691,世以子,直美、, , ,世以子,直美、, , ,世以子,―,,,世以子,直美，,,,1,0,0,1,0,0,0,0,0,,Translated
+692,直美,世以子、やだ元に戻ったの？　もう！　心配……,　, ,直美,世以子、やだ元に戻ったの？　もう！　心配......,　, ,直美,―,,,直美,世以子，你恢復正常了？　真是的！　擔心死……,,,1,0,0,1,0,0,0,0,0,,Translated
+693,世以子,直美カワイソウカワイソウ, , ,世以子,直美カワイソウカワイソウ, , ,世以子,―,,,世以子,直美好可憐好可憐,,,1,0,0,1,0,0,0,0,0,,Translated
+694,直美,……っ,　, ,直美,......っ,　, ,直美,―,,,直美,……,,,1,0,0,1,0,0,0,0,0,,Translated
+695,世以子,アハハハハハ　アハハハハハハ, , ,世以子,アハハハハハ　アハハハハハハ, , ,世以子,―,,,世以子,啊哈哈哈　啊啊哈哈哈,,,1,0,0,1,0,0,0,0,0,,Translated
+696,直美,…………っ,　, ,直美,............っ,　, ,直美,―,,,直美,…………,,,1,0,0,1,0,0,0,0,0,,Translated
+697,直美,もう、い…ゃぁ……,ぁ…ああﾞあﾞあﾞあﾞーーー, ,直美,もう、い...ゃぁ......,ぁ...ああﾞあﾞあﾞあﾞーーー, ,直美,―,,,直美,不要、啊……,啊…啊啊啊啊啊啊——,,1,0,0,1,0,0,0,18,0,,Translated
+698,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+699,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+700,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+701,世以子,置いてっちゃやだよ……, , ,世以子,置いてっちゃやだよ......, , ,世以子,―,,,世以子,不要丟下我喔……,,,1,180,19,1,0,0,0,0,0,,Translated
+702,世以子,あっ、来……わっと！, , ,世以子,あっ、来......わっと！, , ,世以子,―,,,世以子,啊，來了……哇！,,,1,184,19,1,1,0,1,0,0,,Translated
+703,世以子,取れた！　やったよ直美！, , ,世以子,取れた！　やったよ直美！, , ,世以子,―,,,世以子,拿到了！　太好了直美！,,,1,185,19,1,0,0,0,0,0,,Translated
+704,直美,ほんと？！　よかった。, , ,直美,ほんと？！　よかった。, , ,直美,―,,,直美,真的？！　太好了。,,,1,233,10,1,0,0,0,0,0,,Translated
+705,世以子,ほら、これだよ。, , ,世以子,ほら、これだよ。, , ,世以子,―,,,世以子,你看，就是這個。,,,1,186,19,1,0,0,0,0,0,,Translated
+706,,保健室の鍵　を取りました。, , ,,保健室の鍵　を取りました。, , ,,―,,,,拿到了保健室的鑰匙。,,,0,0,0,1,0,0,0,0,0,,Translated
+707,直美,協力成功ってやつ？, , ,直美,協力成功ってやつ？, , ,直美,―,,,直美,合作成功？,,,1,234,10,1,0,0,0,0,0,,Translated
+708,世以子,えへへ、嬉しいね。, , ,世以子,えへへ、嬉しいね。, , ,世以子,―,,,世以子,嘿嘿，好開心。,,,1,187,19,1,0,0,0,0,0,,Translated
+709,世以子,……消えちゃった……, , ,世以子,......消えちゃった......, , ,世以子,―,,,世以子,……消失了……,,,1,182,19,1,0,0,0,0,0,,Translated
+710,世以子,……微妙に、ここじゃないみたい。, , ,世以子,......微妙に、ここじゃないみたい。, , ,世以子,―,,,世以子,……感覺好像不是這裡。,,,1,183,19,1,0,0,0,0,0,,Translated
+711,直美,あれ、そう……？, , ,直美,あれ、そう......？, , ,直美,―,,,直美,咦，是嗎……？,,,1,232,10,1,0,0,0,0,0,,Translated
+712,直美,こっちから入ると向こうに逃げちゃう……, , ,直美,こっちから入ると向こうに逃げちゃう......, , ,直美,―,,,直美,從這邊進去就會跑到另一邊去……,,,1,229,10,1,0,0,0,0,0,,Translated
+713,直美,……あっちで待ち伏せすればいいって事？, , ,直美,......あっちで待ち伏せすればいいって事？, , ,直美,―,,,直美,……也就是說在另一邊埋伏就好了？,,,1,230,10,1,0,0,0,0,0,,Translated
+714,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+715,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+716,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+717,世以子,寒いね……, , ,世以子,寒いね......, , ,世以子,―,,,世以子,好冷呢……,,,1,175,19,1,0,0,0,0,0,,Translated
+718,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+719,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+720,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+721,世以子,（ブルブル）,　やば、おしっこ出そう……ここ寒すぎるよ。, ,世以子,（ブルブル）,　やば、おしっこ出そう......ここ寒すぎるよ。, ,世以子,―,,,世以子,（發抖）,　糟了，快尿出來了……這裡太冷了。,,1,176,19,1,0,0,0,0,0,,Translated
+722,世以子,さっき光ってたのは、この辺だっけ……？, , ,世以子,さっき光ってたのは、この辺だっけ......？, , ,世以子,―,,,世以子,剛才發光的地方，是在這附近嗎……？,,,1,171,19,1,0,0,0,0,0,,Translated
+723,,多分,違うよ,,,多分,違うよ,,,―,,,,大概,不是這裡,,0,255,255,255,255,255,255,255,255,,Translated
+724,世以子,オッケー, , ,世以子,オッケー, , ,世以子,―,,,世以子,OK,,,1,172,19,1,0,0,0,0,0,,Translated
+725,世以子,静かだね……, , ,世以子,静かだね......, , ,世以子,―,,,世以子,好安靜啊……,,,1,179,19,1,0,0,0,0,0,,Translated
+726,美九,……？！,なによ……なんなの, ,Miku,What... What's going on?,,,미쿠,……?!　뭐야……왜 이러지,,,美九,……？！,什麼……怎麼回事,,1,236,35,1,0,0,0,0,0,,Translated
+727,美九,はっ……は……ヒュー、ヒュー,あああ……！, ,Miku,*pant* *wheeze* Ah... Aaah...!,,,미쿠,"흐억……헉……허억, 허억, 아아아아……!",,,美九,哈……哈……呼、呼,啊啊……！,,1,237,35,1,0,0,0,0,0,,Translated
+728,美九,やだやだやだやだ！,いやああぁぁぁ！！！　涼香ァ！！！, ,Miku,"No! No, no, no! Nooooo! Ryokaaaaa!",,,미쿠,안돼안돼안돼안돼!　싫어어어어어!!!　료코!!!,,,美九,不要不要不要不要！,不要啊啊啊啊！！！　涼香！！！,,1,240,35,1,0,0,0,0,0,,Translated
+729,美九,……やんなきゃよかった……。, , ,Miku,...I never should've done this in the first place...,,,미쿠,……하지 말았어야 했어……,,,美九,……不該做的……。,,,1,241,35,1,0,0,0,0,0,,Translated
+730,美九,なんでミクあんなおまじない,やろうって言っちゃったんだろ……, ,Miku,Why'd I have to insist we do that stupid charm?,,,미쿠,미쿠 어째서 그런 주술 하자고 했던거야……,,,美九,為什麼小美會說,要做那種咒語呢……,,1,242,35,1,0,0,0,0,0,,Translated
+731,美九,う、ううう……！,涼香！　涼香、目を覚ましてよぉ～！, ,Miku,"*sob* Ryoka! Ryoka, please wake up!",,,미쿠,"으, 으으윽……!　료코! 료코, 눈 좀 떠봐!",,,美九,嗚、嗚嗚……！,涼香！　涼香，醒醒啊～！,,1,243,35,1,0,0,0,0,0,,Translated
+732,美九,うううう……！,ミクのせいだ……あぁ……, ,Miku,*whimper* It's all my fault... Aaahh...,,,미쿠,으으으윽……!　다 미쿠 탓이야……아아……,,,美九,嗚嗚嗚……！,都是小美的錯……啊啊……,,1,244,35,1,0,0,0,0,0,,Translated
+733,美九,――！, , ,Miku,Eek!,,,미쿠,――!,,,美九,——！,,,1,245,35,1,0,0,0,0,0,,Translated
+734,？？？,不安を抱えて生きている。,そんな人生にどんな価値が？, ,???,A life filled with woe... Is that truly a life worth,living?,,？？？,"불안함을 안고 사는 그런 인생, 무슨 가치가 있으려나?",,,？？？,懷抱著不安活著。,這樣的人生有什麼價值？,,1,222,34,1,0,0,0,0,0,,Translated
+735,？？？,頑張り続けることに,何の意味が。フン, ,???,There's no point in trying to endure it. Hmph!,,,？？？,끝없이 노력하는건 또 무슨 의미가. 흥,,,？？？,繼續努力下去,有什麼意義。哼,,1,223,34,1,0,0,0,0,0,,Translated
+736,？？？,石見涼香。１６歳。,友人は少なく、人見知り。,登校自粛期間はひたすら趣味の文筆活動に没頭,???,"Ryoka Iwami, 16. Shy, with few friends. Spent her",self-quarantine period absorbed in writing.,,？？？,이와미 료코. 16세. 친구가 적고 낯가림 심함. 등교 자숙 기간에는 오로지 글쓰기에 몰두,,,？？？,石見涼香。16歲。,朋友很少，怕生。,自主隔離期間一直埋頭於興趣的寫作活動,1,224,34,1,0,0,0,0,0,,Translated
+737,美九,………っ, , ,Miku,*gasp*,,,미쿠,……,,,美九,………,,,1,246,35,1,0,0,0,0,0,,Translated
+738,？？？,両親との仲はうまくいっておらず、中学一年の頃,書いた原稿を父親に捨てられたことで逆上し、,警察が出動する事件を起こす,???,Strained relationship with parents at best. Flew,into a rage after her father threw out a manuscript ,she wrote in middle school. The police got involved.,？？？,부모님과 사이가 좋지 않으며 중학교 일학년 시절에 쓴 원고를 아버지가 버려버려 그것에 격분하여 경찰까지 출동하게 한 일을 저지름.,,,？？？,與父母關係不好，中學一年級時,寫的稿子被父親丟掉而暴怒，,引發了警察出動的事件,1,225,34,1,0,0,0,0,0,,Translated
+739,,,,,,,,,,,,,,,,,-1,225,34,1,0,0,0,0,0,,Translated
+740,？？？,――男性恐怖症。,幼いころから父親より受けた,暴力に起因する,???,Has a fear of men after suffering years of violence,"at the hands of her father, starting in early",childhood.,？？？,――남성공포증. 어릴 적부터 아버지의 폭력에 시달린 것이 원인.,,,？？？,——男性恐懼症。,源自幼年時期,遭受父親的暴力,1,226,34,1,0,0,0,0,0,,Translated
+741,？？？,日々耐え、泣き、我慢するだけの生活。,家ではここ十数年の間、笑ったことがない, ,???,She has endured a life of daily struggle and ,"endless tears. Over the last dozen years, she hasn't",smiled at home even once.,？？？,매일 견디고 울며 참으며 생활. 집에서는 지난 십여년간 웃어본 적이 없음.,,,？？？,每天忍受、哭泣、忍耐的生活。,在家裡這十幾年來，從來沒有笑過,,1,227,34,1,0,0,0,0,0,,Translated
+742,美九,……なに言ってんの？, , ,Miku,...What the hell are you talking about?,,,미쿠,……무슨 소릴 하는건데?,,,美九,……你在說什麼？,,,1,247,35,1,0,0,0,0,0,,Translated
+743,？？？,“彼女”の事を,少し調べただけで出てきた情報だよ, ,???,"Oh, this is simply some information that came up",when I performed a brief background check on her.,,？？？,"""그녀""""에 대해 간단히 조사해 보았단다.",,,？？？,只是稍微調查了一下,「她」的事情得到的資訊而已,,1,228,34,1,0,0,0,0,0,,Translated
+744,？？？,苦しい、助かりたい、逃げ出したい。,そんな彼女が辿り着いたのがダークウェブだ。,涼香ちゃんは知ってたんだよ、この学校の事を,???,"She sought salvation, an escape from her suffering. ",That's what drove her to the dark side of the ,"internet, where she learned about this school.",？？？,"""""힘들어서 도움받고 싶고, 도망가고 싶어했던 그녀가 여러 곡절 끝에 이른 곳이 바로 다크웹. 료코는 알고 있었단다. 이 학교에 관하여.""",,,？？？,痛苦、想得救、想逃離。,她最終到達的地方是暗網。,涼香是知道的喔，關於這所學校的事,1,229,34,1,0,0,0,0,0,,Translated
+745,,,,,,,,,,,,,,,,,-1,229,34,1,0,0,0,0,0,,Translated
+746,美九,？！, , ,Miku,Huh?!,,,미쿠,?!,,,美九,？！,,,1,248,35,1,0,0,0,0,0,,Translated
+747,？？？,――ここは、,“あの世”にある廃校『天神小学校』。,確実に死ねる場所、だよ,???,"We stand in the ruins of Heavenly Host Elementary,",a place that exists on another plane...a place where,death is inevitable.,？？？,"""――여기는 """"그세상""""에 있는 페교 『텐진초등학교』. 죽기 좋은 곳이지.""",,,？？？,——這裡是，,存在於「彼世」的廢校『天神小學校』。,一個能確實死去的地方,1,230,34,1,0,0,0,0,0,,Translated
+748,？？？,ウェブでこの学校への飛び方を公開すると,未だに死にたがりが飛んでくる。,悲しい、自殺志願者だね,???,Every time the instructions for reaching this place ,"appear on the internet, a new wave of death seekers","takes the leap. Such poor, tragic souls.",？？？,"인터넷에 이 학교로 오는 방법을 공개했더니 아직도 죽고싶은 자들이 속속 오고있네. 한심하구나, 그야말로 자살을 원하는 자들이다.",,,？？？,在網路上公開前往這所學校的方法後,還是有想死的人不斷前來。,悲哀的自願自殺者啊,1,231,34,1,0,0,0,0,0,,Translated
+749,？？？,ダークウェブにもこの場所への,アクセス方法が載っているんだよ！？,……まぁ、投稿したのは僕だがね,???,Do you know why you can find these instructions on,the dark web? Because I posted them there.,,？？？,다크웹에도 여기로 오는 방법을 적은 글이 있단다!? 　……비록 작성자가 바로 나지만.,,,？？？,暗網上也刊登了,前往這個地方的方法！？,……不過，投稿的人是我就是了,1,232,34,1,0,0,0,0,0,,Translated
+750,？？？,死にたい人が来てるんだ。,その子の決心が鈍らないように、,僕は願いを完遂させる,???,Those who want to die will find their way over. ,And that's why I'm here. To make sure they don't get,cold feet...and to help grant their final wish.,？？？,죽고 싶은 자들이 여기에 오면 나는 그 결심이 흔들리지 않도록 소원을 이루는걸 도와주고 있다.,,,？？？,想死的人會來。,為了不讓那孩子的決心動搖，,我會實現他們的願望,1,233,34,1,0,0,0,0,0,,Translated
+751,美九,あんた、何者よ……！,ヒュー、ヒュー……, ,Miku,Who... Just who are you?! *wheeze*,,,미쿠,"당신, 누구야……!　허억, 허억……",,,美九,你、你是誰……！,呼、呼……,,1,249,35,1,0,0,0,0,0,,Translated
+752,？？？,何者でもないよ。君と【同じ時代に生きる】、,とある企業の社員。一般人さ, ,???,Nobody special. Just a regular person from your time,who works for a certain organization.,,？？？,난 대단한 누군가가 아니다. 너와 같이 [같은 시대에 살고 있는] 어느 한 회사의 사원. 즉 일반인이라는 거지.,,,？？？,不是什麼特別的人。和你【生活在同一個時代】的,某家企業的員工。普通人,,1,234,34,1,0,0,0,0,0,,Translated
+753,美九,あっそ、知らんけど。,……涼香が死にたがってた？,馬鹿言わないでよ！　アホなの？！,Miku,"Oh yeah? Well, good for you. Now go shove that",attitude up your ass! You say Ryoka wanted to die? ,What a load of crap! Are you stupid or something?,미쿠,"됐고, 뭐가 뭔지 모르겠지만, ……료코가 죽음을 원했다고?　말도 안되는 소리 하지 마!　사람을 바보로 알아?!",,,美九,是喔，誰知道啊。,……你說涼香想死？,別說傻話了！　你是白痴嗎？！,1,250,35,1,0,0,0,0,0,,Translated
+754,美九,笑ったことがない？,さっきも私みて笑ってたよ！, ,Miku,Never smiled once? Bullshit! She smiled at me just,earlier today!,,미쿠,웃어본 적이 없다? 방금 전에도 날 보며 웃었단 말이야!,,,美九,從來沒有笑過？,剛剛才對著我笑啊！,,1,251,35,1,0,0,0,0,0,,Translated
+755,？？？,……１００％相手のことを,理解できているなんておめでたい事を,思ってるのは、君だけじゃないかな？,???,Sounds like wishful thinking on your part. You never,truly understood her.,,？？？,……100% 상대를 이해하고 있다고 착각에 빠져있는건 단지 너 자신이 아닌가?,,,？？？,……覺得自己能100%理解對方,這種天真的想法，,大概只有你吧？,1,235,34,1,0,0,0,0,0,,Translated
+756,？？？,君だって死にたがりだろう？,だから僕の管理するおまじないのサイトに,アクセスして来たんだ。フン！,???,And did you not wish for death as well? That's,precisely why you visited my blog with the charm's ,instructions. Hmph!,？？？,너도 죽음을 원했잖아? 그래서 내가 관리하는 주술 사이트에 접속해서 여기에 온거 아니냐. 흠!,,,？？？,你自己也想死吧？,所以才會訪問,我管理的咒語網站。哼！,1,236,34,1,0,0,0,0,0,,Translated
+757,美九,ちがうよ！, , ,Miku,"No, you're wrong!",,,미쿠,아니야!,,,美九,不是的！,,,1,252,35,1,0,0,0,0,0,,Translated
+758,？？？,自分で気付いていないだけだ、内なる声に。,だから、リスクについて山ほど書かれた,呪いの学校の情報に,???,You've just ignored that little voice whispering,the truth. Hence why you sought information about ,"this accursed school, despite knowing the risks...",？？？,스스로 자신의 마음의 소리를 의식하지 못하고 있을 뿐이다. 그러니 위험성에 대해 산더미 마냥 적혀 있는 저주받은 학교에 대한 정보에,,,？？？,只是自己沒有察覺內心的聲音罷了。,所以才會對寫滿風險的,詛咒學校的資訊,1,237,34,1,0,0,0,0,0,,Translated
+759,？？？,『どうとでもなれ』と、,深く考えもせずに軽々しく手を出す。,君は半ば、生きることに倦怠を感じている,???,You threw caution to the wind and dove headfirst ,"into researching the topic. And by that point, you'd",already grown rather weary of life.,？？？,『될 대로 돼라』는 식으로 신중히 생각도 안한 채 손을 댄거지. 넌 아마도 사는 일에 대해 권태를 느끼고 있다.,,,？？？,抱著「隨便啦」的心態,不加思索就輕易出手。,你已經半放棄對生活的熱情了,1,238,34,1,0,0,0,0,0,,Translated
+760,美九,じゃぁ聞くわ！,あんたがミクの何を知ってるっていうのよ！, ,Miku,Then how 'bout you answer this? Just what do you ,"know about me, huh?!",,미쿠,"자, 들어 줄께! 그럼 너 미쿠에 대해 뭘 알고 있는지 말해봐!",,,美九,那我問你！,你對小美了解什麼！,,1,253,35,1,0,0,0,0,0,,Translated
+761,？？？,肺の、病。, , ,???,You suffer from an affliction of the lungs.,,,？？？,폐의 병.,,,？？？,肺部的疾病。,,,1,239,34,1,0,0,0,0,0,,Translated
+762,,目の前の男が、ポケットから,美九の診察券を取り出しました。, ,,The man pulls Miku's patient registration card from,his pocket.,,,눈앞의 남자가 주머니로부터 미쿠의 진찰권을 꺼냈다.,,,,眼前的男人從口袋裡,拿出了美九的診察卡。,,0,0,0,0,0,0,0,0,0,,Translated
+763,美九,？！　それ！　……あれ？,ミクの！　いつ落としたんだろ……っ, ,Miku,"H-Hey, that's mine! When did I lose it...?",,,미쿠,?!　그거!　……어? 미쿠꺼! 언제 떨어뜨린 거야……윽,,,美九,？！　那個！　……咦？,小美的！　什麼時候掉的……,,1,254,35,1,0,0,0,0,0,,Translated
+764,？？？,呼吸器内科に通う白夢美九さん。,……僕はこの病院の関係者さ, ,???,"Miku Shirayume, a patient at a hospital ",specializing in respiratory issues...which also,happens to be my place of work.,？？？,호흡기내과에 다니는 시로유메 미쿠님. ……저는 이 병원의 관계자랍니다.,,,？？？,在呼吸內科就診的白夢美九小姐。,……我是這家醫院的相關人員,,1,240,34,1,0,0,0,0,0,,Translated
+765,？？？,明日が検査の予約日だろ？,なんとなく行きたくなかったか？　病院。,それで――,???,You didn't want to come to the checkup you had,"scheduled for tomorrow, did you?",,？？？,내일이 검진을 예약한 날이지? 근데 병원에 가고 싶지 않았겠지. 그래서――,,,？？？,明天是你預約檢查的日子吧？,你是不是不太想去醫院？,所以——,1,241,34,1,0,0,0,0,0,,Translated
+766,？？？,“何か起きろと期待して”、,起こるわけのないおまじないを試し、,他愛のない自己欺瞞をして溜飲を下げたか？,???,"So you tried out this 'harmless' charm, secretly",hoping something would happen. A silly attempt to ,find some relief by deluding yourself.,？？？,“무슨 일이 생길까 기대하며” 발동할 리가 없는 주술을 시도하여 어리석은 자기기만으로 속이 후련해졌나?,,,？？？,「期待著會發生什麼事」,嘗試了不可能發生的咒語，,用無聊的自我欺騙來安慰自己嗎？,1,242,34,1,0,0,0,0,0,,Translated
+767,美九,――っ, , ,Miku,I...!,,,미쿠,――윽,,,美九,——,,,1,255,35,1,0,0,0,0,0,,Translated
+768,？？？,だが……良かったね？,天神小は、本当にあるんだ, ,???,"Well, it's your lucky day. Heavenly Host Elementary",actually exists.,,？？？,"하지만……잘됐잖아? 텐진초등학교, 진짜로 존재하거든.",,,？？？,但是……太好了呢？,天神小學校，是真實存在的,,1,243,34,1,0,0,0,0,0,,Translated
+769,？？？,明日はもう来ない。検査も来ない。,良かったね、もう怖くないよ？, ,???,"Tomorrow will never come, and neither will your",checkup. How wonderful. You've nothing left to fear.,,？？？,"내일은 오지를 않아. 검진도 없어. 잘 된 거잖아, 이젠 두렵지 않잖아?",,,？？？,明天不會來了。檢查也不會來了。,太好了，已經沒有什麼好怕的了？,,1,244,34,1,0,0,0,0,0,,Translated
+770,？？？,おばあちゃんみたいに,重病が判明することも、ない！, ,???,"You'll never, ever have the chance to receive the",same terrible diagnosis your grandmother did!,,？？？,너의 할머니처럼 큰 병이 확진될 일도 없어!,,,？？？,不會像外婆一樣,被診斷出重病了！,,1,245,34,1,0,0,0,0,0,,Translated
+771,美九,……っ, , ,Miku,No...!,,,미쿠,……윽,,,美九,……,,,1,0,36,1,0,0,0,0,0,,Translated
+772,？？？,うそつき！　お前はうそつきの顔だ！,自分すらも欺いている！　うそつきめ！！, ,???,Liar! It's written all over your face! You're even,deceiving yourself! You LIAR!,,？？？,거짓말쟁이! 넌 거짓말쟁이의 얼굴을 하고 있어! 자기 자신마저 속이고 있어! 거짓말쟁이야!,,,？？？,說謊！　你長著一張說謊的臉！,連自己都在欺騙！　說謊的傢伙！！,,1,246,34,1,0,0,0,0,0,,Translated
+773,美九,うう……っ、ぐすっ、ぐすっ, , ,Miku,*sob*,,,미쿠,"으으……윽, 흐윽, 흐윽",,,美九,嗚嗚……、嗚嗚、嗚嗚,,,1,1,36,1,0,0,0,0,0,,Translated
+774,？？？,こんなにも君を理解している。,僕が味方と分かったかい……？,さぁ、もう楽になろうよ,???,See how well I understand you? Do you finally,realize that I'm here to help? Speaking of which... ,"Come, let me ease your pain.",？？？,"이렇게도 널 잘 이해하고 있단다. 내가 너의 편이란걸 이젠 알겠나……?　자아, 이제는 즐겁게",,,？？？,我是如此了解你。,你明白我是站在你這邊的嗎……？,來吧，讓你解脫吧,1,247,34,1,0,0,0,0,0,,Translated
+775,美九,……近寄らないで……っ, , ,Miku,Get away from me...!,,,미쿠,……다가오지 마……윽,,,美九,……不要靠近我……,,,1,2,36,1,0,0,0,0,0,,Translated
+776,？？？,――裸の君が、求めるものは？, , ,???,Speak the truth! What do you really want?,,,？？？,――네가 진정으로 원하는건?,,,？？？,——赤裸的你，追求的是什麼？,,,1,248,34,1,0,0,0,0,0,,Translated
+777,美九,ホントは,そうだったのかも知んないけどさ、, ,Miku,I may have genuinely believed that once...,,,미쿠,"비록 진짜로 그랬었을지도 모르지만,",,,美九,也許真的是,那樣也說不定，,,1,3,36,1,0,0,0,0,0,,Translated
+778,？？？,――そう、解放だ。, , ,???,That's right--you wanted to be free.,,,？？？,"――그래, 해방이다.",,,？？？,——沒錯，就是解放。,,,1,249,34,1,0,0,0,0,0,,Translated
+779,美九,心の奥まで開いて覗くの、,ひどくない？, ,Miku,But how about you keep the hell out of my business?!,,,미쿠,마음 속 깊은 곳까지 엿보는건 너무한거 아니야?,,,美九,連內心深處都要挖開來窺視，,不覺得太過分了嗎？,,1,4,36,1,0,0,0,0,0,,Translated
+780,美九,誰だって心に矛盾ぐらい、あるでしょ！, , ,Miku,Everybody has moments where they feel conflicted ,about stuff like this!,,미쿠,누구든 마음속에 어느 정도 모순은 존재하잖아!,,,美九,誰心裡都會有矛盾吧！,,,1,5,36,1,0,0,0,0,0,,Translated
+781,？？？,――開放とは。,壊れた身体からの解脱。,そう、死だ,???,Liberation means freeing the soul from its broken ,vessel... Death.,,？？？,"――해방이라는 건, 망가진 몸으로부터 떠나는 것. 그래, 죽음이다.",,,？？？,——所謂解放。,從崩壞的身體中解脫。,沒錯，就是死亡,1,250,34,1,0,0,0,0,0,,Translated
+782,美九,――っ！, , ,Miku,Ah!,,,미쿠,――윽!,,,美九,——！,,,1,6,36,1,0,0,0,0,0,,Translated
+783,？？？,怖がることはない！,君が望んだことだ！！, ,???,There's nothing to fear! This is what you want!,,,？？？,두려워 할 필요 없어! 네가 원한 것이다!!,,,？？？,沒有什麼好怕的！,這是你所希望的！！,,1,251,34,1,0,0,0,0,0,,Translated
+784,美九,やめて！　来ないでよ！,馬鹿！　アホ！　ゲス野郎っ！！, ,Miku,"No! Don't come any closer, you creep! You absolute",lunatic! Scumbag!,,미쿠,싫어! 다가오지 마! 마귀! 악마! 비열한 자식!!,,,美九,住手！　不要過來！,混蛋！　白痴！　人渣！！,,1,7,36,1,0,0,0,0,0,,Translated
+785,？？？,あはははは。,そう、最後はみんなそう言うんだ, ,???,"Hahaha! Yes, everyone says that in the end!",,,？？？,"아하하하하. 그래, 최후엔 누구나 다 그렇게 말하지.",,,？？？,啊哈哈哈哈。,是啊，最後大家都會這麼說,,1,252,34,1,0,0,0,0,0,,Translated
+786,？？？,君よりもう少し、,己の本心に自覚が出ている者でさえ……, ,???,Even the ones more in touch with their true feelings,than you...,,？？？,너보다 조금 더 자신의 마음을 잘 알고있는 자라도 말이야……,,,？？？,即使是比你稍微,更清楚自己真心的人……,,1,253,34,1,0,0,0,0,0,,Translated
+787,？？？,『こんな世の中生きてる意味ない！,　死にたい！』……そう言ってたやつらがさ、, ,???,"They'd all say they had no reason to live, that they",wanted to die...,,？？？,『이런 세상에서 살 의미 따위 없어! 죽고싶어!』……이런 말을 한 녀석들이,,,？？？,「活在這種世界上沒有意義！,　我想死！」……說著這種話的傢伙們，,,1,254,34,1,0,0,0,0,0,,Translated
+788,？？？,言うんだ僕に。死ぬ間際……, , ,???,And do you know what those same people called me as,they died?,,？？？,나한테 말하지. 죽기 직전에……,,,？？？,卻對我說。在臨死之際……,,,1,255,34,1,0,0,0,0,0,,Translated
+789,？？？,――“ヒトゴロシ”ってさ。,アハァハハハハハ！　ヒィハハハハ！, ,Man in Lab Coat,'Murderer.' Hahaha! AHAHAHAHAHA!,,,？？？,"""――""""살인마""""라고. 아하하하하하하! 캬하하하하!""",,,？？？,——「殺人犯」啊。,啊哈哈哈哈！　嘻哈哈哈！,,1,0,35,1,0,0,0,0,0,,Translated
+790,美九,何なのよ……狂ってる……！, , ,Miku,You're insane... You're totally out of your mind!,,,미쿠,어떡해……미친 것 같아……!,,,美九,怎麼回事啊……瘋了……！,,,1,8,36,1,0,0,0,0,0,,Translated
+791,美九,……ひぃい～～～……, , ,Miku,Eeek...!,,,미쿠,……으악---……,,,美九,……嘶～～～……,,,1,9,36,1,0,0,0,0,0,,Translated
+792,？？？,フン！　はいチェックメイト。,君の人生もおしまいだ。,救ってあげるよ！　死にたがり！,???,"Hmph! Check and mate. Your life ends here, just like","you wanted. I shall free your soul, death seeker!",,？？？,흥! 체크메이트. 네 인생도 저주로다. 내가 도와줄께! 죽음을 원하는 애야!,,,？？？,哼！　將軍。,你的人生也到此為止了。,我來救你吧！　想死的傢伙！,1,1,35,1,0,0,0,0,0,,Translated
+793,美九,やめて……お願い！,……確かに、ミクは,長く生きることに興味はないけど……,Miku,"No, please! It's not like I want to live forever or",anything...,,미쿠,"그만해……부탁해!　……그래, 미쿠는 오래 사는 일에는 관심 없어, 하지만……",,,美九,住手……拜託！,……的確，小美雖然,對長壽沒有興趣……,1,10,36,1,0,0,0,0,0,,Translated
+794,美九,――死にたいなんて思ってないよ！, , ,Miku,...but I've never wanted to die!,,,미쿠,――죽고싶어한 적도 없단 말이야!,,,美九,——但也從來沒有想過要死！,,,1,11,36,1,0,0,0,0,0,,Translated
+795,？？？,聞こえません！　生まれ変わったら、,今度は自分の言動に責任持とうねェ！, ,???,"I can't hear youuu! If you're ever reborn, then you",should take more responsibility for your actions!,,？？？,안들려! 다시 태어나면 다음엔 자신의 언행에 책임을 지거라!,,,？？？,聽不見！　如果轉世的話，,下次要對自己的言行負責喔！,,1,2,35,1,0,0,0,0,0,,Translated
+796,哲志,あんたが口出す事じゃないだろ, , ,Satoshi,You're one to talk.,,,사토시,당신이 관여할 일 아니지 않아?,,,哲志,這不是你該插嘴的事吧,,,1,50,32,1,0,0,0,0,0,,Translated
+797,？？？,……あァ？！, , ,???,...Ack?!,,,？？？,……아핫?!,,,？？？,……啊？！,,,1,3,35,1,0,0,0,0,0,,Translated
+798,哲志,――すまない、,全然なに言ってるか分からない, ,Satoshi,"Sorry, come again?",,,사토시,――안됐지만 무슨 소릴 하는지 전혀 모르겠으니까,,,哲志,——抱歉，,完全聽不懂你在說什麼,,1,51,32,1,0,0,0,0,0,,Translated
+799,哲志,……たあっ！, , ,Satoshi,Hragh!,,,사토시,……이얏!,,,哲志,……喝！,,,1,52,32,1,0,0,0,0,0,,Translated
+800,哲志,立てるか？　君！,さぁ早くここから逃げるんだ！, ,Satoshi,"Can you stand? C'mon, let's get out of here!",,,사토시,"일어설 수 있어? 너!　자, 빨리 여기서 도망가!",,,哲志,能站起來嗎？　你！,來快點離開這裡！,,1,53,32,1,0,0,0,0,0,,Translated
+801,美九,……！　あなた……,あなたは……！, ,Miku,"Wait, you're... You're that guy!",,,미쿠,……! 다……당신은……!,,,美九,……！　你……,你是……！,,1,12,36,1,0,0,0,0,0,,Translated
+802,美九,（ネットに上がってた写真の人……？！）, , ,Miku,(The one whose photo I saw online!),,,미쿠,（인터넷에 사진이 올라있는 그 사람……?!）,,,美九,（網路上那張照片裡的人……？！）,,,1,0,0,0,0,0,0,0,0,,Translated
+803,哲志,その子は？　友達かい？, , ,Satoshi,What about her? Is she a friend?,,,사토시,저 애는 누구? 친구야?,,,哲志,那孩子呢？　是朋友嗎？,,,1,54,32,1,0,0,0,0,0,,Translated
+804,美九,っ！, , ,Miku,Oh! Oh no!,,,미쿠,응!,,,美九,！,,,1,13,36,1,0,0,0,0,0,,Translated
+805,涼香,――っ！　ヒュー！,はっ……はっ……ヒクッ, ,Ryoka,*gasp* *pant*,,,료코,――윽!　후유!　하악……하악……학,,,涼香,——！　呼！,哈……哈……吸,,1,197,32,1,0,0,0,0,0,,Translated
+806,美九,涼香！　涼香！,しっかりして！　ミクだよ！　, ,Miku,"Ryoka! Ryoka, hang in there! It's me, Miku!",,,미쿠,료코! 료코!　정신차려!　나 미쿠야!,,,美九,涼香！　涼香！,振作點！　我是小美啊！,,1,14,36,1,0,0,0,0,0,,Translated
+807,涼香,ひっ……くっ……美九ちゃ……, , ,Ryoka,*hic* Mngh... Miku...,,,료코,흐……흐윽……미쿠……,,,涼香,嗚……嗚……美九……,,,1,198,32,1,0,0,0,0,0,,Translated
+808,美九,生きてた！　もう！！,心配させないでよー！！, ,Miku,"Thank God, you're alive! Don't scare me like that",ever again!,,미쿠,살아있었구나! 과연! 나 너무 걱정됐어!!,,,美九,還活著！　真是的！！,不要讓我擔心啊！！,,1,15,36,1,0,0,0,0,0,,Translated
+809,哲志,……良かったな！,さぁ、急ぐんだ！, ,Satoshi,"Well, thank goodness for that! Now hurry, we gotta",run for it!,,사토시,"……잘됐어! 자, 서둘러!",,,哲志,……太好了！,來，快點！,,1,55,32,1,0,0,0,0,0,,Translated
+810,美九,はい！, , ,Miku,Right!,,,미쿠,네!,,,美九,好！,,,1,16,36,1,0,0,0,0,0,,Translated
+811,？？？,ふふふふ。名言だな, , ,???,Hmm hmm hmm... Now those would've been some famous,last words.,,？？？,후후후훗. 격언이로다.,,,？？？,呵呵呵。真是名言啊,,,1,4,35,1,0,0,0,0,0,,Translated
+812,？？？,『生きることに興味はない……』,『でも死にたいとは思ってない』か。ははは, ,???,"I'm not interested in living, ",but I don't want to die...' ,Hahaha!,？？？,"『사는 일 따위에 관심 없어……』, 『하지만 죽고싶다고 생각한 적도 없어』라. 하하하",,,？？？,「對活著沒有興趣……」,「但也沒有想過要死」嗎。哈哈哈,,1,5,35,1,0,0,0,0,0,,Translated
+813,哲志,協力出来なきゃ、ここからは出られない。,あんたはどんどん孤立するぞ, ,Satoshi,"If you can't cooperate with anyone here, then you'll",never escape. Eventually you'll only have yourself,for company.,사토시,협력하지 않으면 여기서 나갈 수 없어. 당신은 점점 고립될 거니까.,,,哲志,如果不能合作的話，就離不開這裡。,你會越來越孤立的,,1,56,32,1,0,0,0,0,0,,Translated
+814,？？？,……浅はかな子供たちめ。フン, , ,???,Insolent brats... Hmph!,,,？？？,"……천박한 어린 애들, 흥.",,,？？？,……膚淺的孩子們。哼,,,1,6,35,1,0,0,0,0,0,,Translated
+815,？？？,マルトゥバの墓は再生する。,我らの技術で再び！　顕現せしめたる、,この石があれば！,???,Martuba's Tomb will rise again with the help of our,"superior technology! So long as we hold the stones,",we will achieve that reality!,？？？,마르토바의 무덤은 재생한다. 우리의 기술로 또다시! 이 돌만 있으면 말이야!,,,？？？,馬圖巴之墓會重生。,用我們的技術再次！　使其顯現,只要有這石頭的話！,1,7,35,1,0,0,0,0,0,,Translated
+816,？？？,失われた涅槃にすらも,時を越えてたどり着ける！！！, ,???,We'll cross time itself to reach our lost Nirvana!,,,？？？,시대마저 뛰어 넘어 부활에 이르게 된다!!,,,？？？,連失去的涅槃,也能穿越時間到達！！！,,1,8,35,1,0,0,0,0,0,,Translated
+817,？？？,……あれ？, , ,???,...Huh?,,,？？？,……어라?,,,？？？,……咦？,,,1,9,35,1,0,0,0,0,0,,Translated
+818,？？？,石は何処に行った？　はぁ？！, , ,???,Where are the stones? Where did they go?!,,,？？？,돌은 어디로? 엇?!,,,？？？,石頭去哪了？　什麼？！,,,1,10,35,1,0,0,0,0,0,,Translated
+819,？？？,……っ,なんだよ……ああ？, ,???,What on earth is... Huh?,,,？？？,……윽. 뭐지……어?,,,？？？,……,什麼啊……啊？,,1,11,35,1,0,0,0,0,0,,Translated
+820,？？？,……っ！　ひ……,に、逃げ……！, ,???,Ah! Have to...run away...!,,,？？？,……윽! 도……도망을……!,,,？？？,……！　快……,快逃……！,,1,12,35,1,0,0,0,0,0,,Translated
+821,？？？,っ？！　あ、足が,足が、抜けんっ……！　あ、わぁ！！, ,???,"What?! Oh no, m-my leg! It's stuck! Ah... AAAHHH!",,,？？？,"윽?!　바, 발, 발이, 빠지지 않아……!　아, 으악!!",,,？？？,？！　腳、腳,腳拔不出來……！　啊、哇！！,,1,13,35,1,0,0,0,0,0,,Translated
+822,？？？,うっ……う……あああ……！, , ,???,*whimper* Aaahhh...!,,,？？？,윽……으……아아아……!,,,？？？,嗚……嗚……啊啊……！,,,1,14,35,1,0,0,0,0,0,,Translated
+823,？？？,うわあああぁぁぁぁあぁぁーーーー！！！！, , ,???,YEEEEEEAAAAARRRGGGGHHH!!!,,,？？？,으아아아아아아아아아아----!!!!,,,？？？,哇啊啊啊啊啊啊啊啊！！！！,,,1,15,35,1,0,0,0,0,0,,Translated
+824,,棚の中に、アルコールなどの『薬品の瓶』が,並んでいます。, ,,棚の中に、アルコールなどの『薬品の瓶』が,並んでいます。, ,,―,,,,櫃子裡排列著酒精等『藥品瓶』。,,,0,0,0,1,0,0,0,0,0,,Translated
+825,,他に役に立ちそうな薬品はありません…… , , ,,他に役に立ちそうな薬品はありません...... , , ,,―,,,,沒有其他看起來有用的藥品……,,,0,0,0,1,0,0,0,0,0,,Translated
+826,,扉はピタリと空間に固定され、動きません。, , ,,扉はピタリと空間に固定され、動きません。, , ,,―,,,,門被牢牢固定在空間中，動彈不得。,,,0,0,0,1,0,0,0,0,0,,Translated
+827,,棚の中に、血のついた鋏（はさみ）が,置かれています…… , ,,棚の中に、血のついた鋏（はさみ）が,置かれています...... , ,,―,,,,櫃子裡放著沾血的剪刀……,,,0,0,0,1,0,0,0,0,0,,Translated
+828,,棚は、からっぽになっています……, , ,,棚は、からっぽになっています......, , ,,―,,,,櫃子是空的……,,,0,0,0,1,0,0,0,0,0,,Translated
+829,,中には薬剤のビンなどが、整然と並んでいます。, , ,,中には薬剤のビンなどが、整然と並んでいます。, , ,,―,,,,裡面整齊地排列著藥劑瓶等。,,,0,0,0,1,0,0,0,0,0,,Translated
+830,,　ｶﾀ……,　　ｶﾀ……, ,,　ｶﾀ......,　　ｶﾀ......, ,,―,,,,　喀噠……,　喀噠……,,0,0,0,1,0,0,0,0,0,,Translated
+831,,よく見ると、棚全体が小刻みに振動しています。, , ,,よく見ると、棚全体が小刻みに振動しています。, , ,,―,,,,仔細一看，整個櫃子在微微震動。,,,0,0,0,1,0,0,0,0,0,,Translated
+832,,蛇口をひねっても、水が出ません……, , ,,蛇口をひねっても、水が出ません......, , ,,―,,,,轉動水龍頭，也沒有水出來……,,,0,0,0,1,0,0,0,0,0,,Translated
+833,,机の上に、古い日記帳が置いてあります。, , ,,机の上に、古い日記帳が置いてあります。, , ,,―,,,,桌子上放著一本舊日記。,,,0,0,0,1,0,0,0,0,0,,Translated
+834,,模型のように机の上に固定されていて、,手に取る事が出来ません。, ,,模型のように机の上に固定されていて、,手に取る事が出来ません。, ,,―,,,,像模型一樣固定在桌子上，,無法拿起來。,,0,0,0,1,0,0,0,0,0,,Translated
+835,,卓上ランプがあります。スイッチを入れても,灯りは点きません……, ,,卓上ランプがあります。スイッチを入れても,灯りは点きません......, ,,―,,,,有桌燈。即使打開開關,燈也不會亮……,,0,0,0,1,0,0,0,0,0,,Translated
+836,,古いストーブがあります。, , ,,古いストーブがあります。, , ,,―,,,,有舊爐子。,,,0,0,0,0,0,0,0,0,0,,Translated
+837,,中に灰が大量に溜まっていて、,　火は点きそうにありません……, ,,中に灰が大量に溜まっていて、,　火は点きそうにありません......, ,,―,,,,裡面堆積了大量灰燼，,　似乎無法點火……,,0,0,0,1,0,0,0,0,0,,Translated
+838,,人体解剖図が壁に貼ってあります……, , ,,人体解剖図が壁に貼ってあります......, , ,,―,,,,牆上貼著人體解剖圖……,,,0,0,0,1,0,0,0,0,0,,Translated
+839,,目を瞑り、,微笑むような寝顔の涼香は……, ,,Ryoka is lying there with her eyes closed and,a faint smile on her lips.,,,눈을 감고 미소를 짓는 듯한 잠든 얼굴을 한 료코는……,,,,閉著眼睛，,露出微笑般的睡臉的涼香……,,0,0,0,0,0,0,0,0,0,,Translated
+840,,呼吸をしていません……。, , ,,...But she's not breathing.,,,,호흡이 없었다…….,,,,已經沒有呼吸了……。,,,0,0,0,0,0,0,0,0,0,,Translated
+841,美九,やだ, , ,Miku,No...,,,미쿠,안돼,,,美九,不要,,,1,234,35,1,0,0,0,0,0,,Translated
+842,美九,やだやだやだやだ！,いやああぁぁぁ！！！　涼香ァ！！！, ,Miku,"No! No, no, no! Nooooo! Ryokaaaaa!",,,미쿠,안돼안돼안돼안돼!　싫어어어어!!!　료코!!!,,,美九,不要不要不要不要！,不要啊啊啊啊！！！　涼香！！！,,1,235,35,1,0,0,0,0,0,,Translated
+843,,目を瞑り、笑みを浮かべた表情で,横たわる涼香は、ぴくりとも動きません……。, ,,Ryoka is lying perfectly still with her eyes ,shut tight. A faint smile plays on her lips.,,,눈을 감고 미소를 지은 듯한 표정으로 누워있는 료코는 꼼짝도 안 하고 있다…….,,,,閉著眼睛，帶著微笑表情,躺著的涼香，一動也不動……。,,0,0,0,0,0,0,0,0,0,,Translated
+844,,その手には、,ノートの切れ端が持たされています。, ,,She's holding a scrap of paper.,,,,그녀의 손에는 노트의 째진 조각이 쥐어여 있었다.,,,,她手中握著一張筆記本紙片。,,,0,0,0,0,0,0,0,0,0,,Translated
+845,,石見涼香　享年１６歳, , ,,Name: Ryoka Iwami. Age at death: 16.,,,,이와미 료코　향년 16세,,,,石見涼香　享年16歲,,,0,0,0,0,0,0,0,0,0,,Translated
+846,美九,やだ, , ,Miku,No...,,,미쿠,안돼,,,美九,不要,,,1,239,35,1,0,0,0,0,0,,Translated
+847,,せっけんで　てを　あらおう, , ,,せっけんで　てを　あらおう, , ,,―,,,,用肥皂洗手吧,,,0,0,0,1,0,0,0,0,0,,Translated
+848,,【したの　ぬきかた】,　まずは　手足を　机に　固定　しましょう, ,,【したの　ぬきかた】,　まずは　手足を　机に　固定　しましょう, ,,―,,,,【舌頭的拔除方法】,　首先將手腳固定在桌子上,,0,0,0,1,0,0,0,0,0,,Translated
+849,,　くちの　なかに　固定金具を入れ,　くちを　閉じられないようにしよう, ,,　くちの　なかに　固定金具を入れ,　くちを　閉じられないようにしよう, ,,―,,,,　在口中放入固定具,　使其無法閉嘴,,0,0,0,1,0,0,0,0,0,,Translated
+850,,　患者が　したを　ひっこませても ,　かまわずに, ,,　患者が　したを　ひっこませても ,　かまわずに, ,,―,,,,　即使患者縮回舌頭,　也不要管,,0,0,0,1,0,0,0,0,0,,Translated
+851,,　はさみを　ひらいて　したの　根元に　押し入れます, , ,,　はさみを　ひらいて　したの　根元に　押し入れます, , ,,―,,,,　張開剪刀，插入舌頭根部,,,0,0,0,1,0,0,0,0,0,,Translated
+852,,　患者が　あばれるのを,　みはからって　いっきに, ,,　患者が　あばれるのを,　みはからって　いっきに, ,,―,,,,　看準患者掙扎的時機，一口氣,,,0,0,0,1,0,0,0,0,0,,Translated
+853,,目を瞑り、,微笑むような寝顔の涼香は……, ,,Ryoka is lying there with her eyes closed and,a faint smile on her lips.,,,눈을 감고 미소를 짓는 듯한 잠든 얼굴을 한 료코는……,,,,閉著眼睛，,露出微笑般的睡臉的涼香……,,0,0,0,0,0,0,0,0,0,,Translated
+854,,呼吸をしていません……。, , ,,...But she's not breathing.,,,,호흡이 없었다…….,,,,已經沒有呼吸了……。,,,0,0,0,0,0,0,0,0,0,,Translated
+855,美九,やだ, , ,Miku,No...,,,미쿠,안돼,,,美九,不要,,,1,234,35,1,0,0,0,0,0,,Translated
+856,美九,やだやだやだやだ！,いやああぁぁぁ！！！　涼香ァ！！！, ,Miku,"No! No, no, no! Nooooo! Ryokaaaaa!",,,미쿠,안돼안돼안돼안돼!　싫어어어어어!!!　료코!!!,,,美九,不要不要不要不要！,不要啊啊啊啊！！！　涼香！！！,,1,235,35,1,0,0,0,0,0,,Translated
+857,,目を瞑り、笑みを浮かべた表情で,横たわる涼香は、ぴくりとも動きません……。, ,,Ryoka is lying perfectly still with her eyes ,shut tight. A faint smile plays on her lips.,,,눈을 감고 미소를 지은 듯 한 표정으로 누워있는 료코는 꼼짝도 안하고 있다…….,,,,閉著眼睛，帶著微笑表情,躺著的涼香，一動也不動……。,,0,0,0,0,0,0,0,0,0,,Translated
+858,,その手には、,ノートの切れ端が持たされています。, ,,She's holding a scrap of paper.,,,,그녀의 손에는 노트의 째진 조각이 쥐어여 있었다.,,,,她手中握著一張筆記本紙片。,,,0,0,0,0,0,0,0,0,0,,Translated
+859,,石見涼香　享年１６歳, , ,,Name: Ryoka Iwami. Age at death: 16.,,,,이와미 료코　향년 16세,,,,石見涼香　享年16歲,,,0,0,0,0,0,0,0,0,0,,Translated
+860,美九,やだ, , ,Miku,No...,,,미쿠,안돼,,,美九,不要,,,1,239,35,1,0,0,0,0,0,,Translated
+861,,中の首吊り遺体がぶつかって、,扉が開きません……。, ,,The corpse inside prevents the door from opening.,,,,안에 있는 목이 매인 시체에 막혀 문이 열리지 않습니다…….,,,,裡面的上吊遺體擋住，,門打不開……。,,0,0,0,1,0,0,0,0,0,,Translated
+862,,すべての個室のドアに、,死者の個人情報と死ぬ時の様子を記した, ,,"As if part of some cruel joke, there's a piece of",paper affixed to each door...,,,모든 문에는 사망자의 개인정보와 사망 시의 모습을 적은,,,,所有隔間的門上，,都貼著記錄死者個人資訊和死亡時狀況的,,0,0,0,1,0,0,0,0,0,,Translated
+863,,悪趣味な紙が貼り付けてあります……。, , ,,...that includes every victim's name and age at,death.,,,악취미적인 종이가 붙여져 있었다…….,,,,惡趣味的紙條……。,,,0,0,0,1,0,0,0,0,0,,Translated
+864,美九,……ちょっと待って。,涼香の……涼香の名前は、無いよね……,お願いだよ……居ないで……,Miku,"Wait... Ryoka's name isn't here, right? Please, ","God, don't let one of them be her...",,미쿠,……잠시만. 료코의……료코의 이름은 없겠지……제발……없기를……,,,美九,……等一下。,涼香的……涼香的名字，不在對吧……,拜託了……不要有……,1,204,35,1,0,0,0,0,0,,Translated
+865,美九,……！, , ,Miku,Ah...!,,,미쿠,……!,,,美九,……！,,,1,209,35,1,0,0,0,0,0,,Translated
+866,美九,うぐ……ふっ……うう……,ヒュー、ヒュー……, ,Miku,*whimper* *whine* *wheeze*,,,미쿠,"으윽……흐흑……으으……허억, 허억……",,,美九,嗚……嗚嗚……嗚……,呼、呼……,,1,215,35,1,0,0,0,0,0,,Translated
+867,美九,きゃああぁ！！！, , ,Miku,AAAAAAAAAHH!!!,,,미쿠,꺄아아아!!,,,美九,啊啊啊！！！,,,1,216,35,1,0,0,0,0,0,,Translated
+868,,飛び出しますか？, , ,,Do you want to jump out?,,,,튀어 있습니까?,,,,要跳出去嗎？,,,0,0,0,0,0,0,0,0,0,,Translated
+869,,はい,いいえ,,,Yes,No,,,예,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+870,美九,いやあぁぁ！！, , ,Miku,NOOOOOOOOO!!!,,,미쿠,안돼!!,,,美九,不要啊啊！！,,,1,217,35,1,0,0,0,0,0,,Translated
+871,美九,はっ……はっ……はっ……、,ヒュー、ヒュー……, ,Miku,*pant* *pant* *wheeze*,,,미쿠,"헉……헉……헉……, 허억, 허억……",,,美九,哈……哈……哈……、,呼、呼……,,1,218,35,1,0,0,0,0,0,,Translated
+872,美九,はぁ？！, , ,Miku,What...?,,,미쿠,어?!,,,美九,啥？！,,,1,219,35,1,0,0,0,0,0,,Translated
+873,美九,……うぅぅうああぁぁ！！！, , ,Miku,Ah...aaaAAAUGHHHHHH!,,,미쿠,……으아아아아아!!!,,,美九,……嗚啊啊啊！！！,,,1,220,35,1,0,0,0,0,0,,Translated
+874,美九,気が狂いそう！！　気が狂いそう！！, , ,Miku,(I'm losing it! I'm losing my goddamn mind here!),,,미쿠,（숨이 끊길것 같아!!　숨이 끊길것 같아!!）,,,美九,快要瘋了！！　快要瘋了！！,,,1,221,35,1,0,0,0,0,0,,Translated
+875,美九,っぐぅ！,……っく……っふ……っ！, ,Miku,Gah! ...Ngh...!,,,미쿠,앗!　……으……으으……윽!,,,美九,咕！,……嗚……嗚……！,,1,222,35,1,0,0,0,0,0,,Translated
+876,,転んだ拍子に,何かを落としたような気がしました……。, ,,You could swear that you dropped something when you,fell...,,,넘어짐과 동시에 무언가를 떨군 듯한 느낌이 들었다…….,,,,摔倒的時候,好像掉了什麼東西……。,,0,0,0,1,0,0,0,0,0,,Translated
+877,美九,ヒュー、ヒュー……,ゼェ、ゼェ……, ,Miku,*wheeze* *gasp*,,,미쿠,"허억, 허억……지익, 지익……",,,美九,呼、呼……,嘶、嘶……,,1,223,35,1,0,0,0,0,0,,Translated
+878,美九,……ふっ……うう……,もうやだぁ……, ,Miku,*pant* No more... No more...!,,,미쿠,……으……으윽……더 이상은……,,,美九,……嗚……嗚嗚……,已經受不了了……,,1,224,35,1,0,0,0,0,0,,Translated
+879,美九,何だか分かんないけど……,逃げないと……　ううう……, ,Miku,"I don't know what's going on, but I have to keep ",running... Mgh...,,미쿠,뭐가 뭔지 모르겠지만……도망가지 않았다간……　으으윽……,,,美九,雖然搞不清楚狀況……,但得逃……　嗚嗚……,,1,225,35,1,0,0,0,0,0,,Translated
+880,,この個室には、遺体が吊るされて,いないようです……。, ,,No corpse is hanging inside this stall.,,,,이 자리에는 시신이 걸려있지 않은 듯…….,,,,這個隔間裡似乎沒有,吊著遺體……。,,0,0,0,1,0,0,0,0,0,,Translated
+881,,ドアに、貼り紙があります。, , ,,There's a piece of paper stuck on the door.,,,,문에는 종이가 붙여져 있습니다.,,,,門上貼著紙條。,,,0,0,0,1,0,0,0,0,0,,Translated
+882,,“白夢美九　享年１６歳”, , ,,Name: Miku Shirayume. Age at death: 16.,,,,시로유메 미쿠 향년 16세,,,,白夢美九　享年16歲,,,0,0,0,1,0,0,0,0,0,,Translated
+883,美九,――っ……！, , ,Miku,*gasp*,,,미쿠,――윽……！,,,美九,——……！,,,1,205,35,1,0,0,0,0,0,,Translated
+884,美九,あ……あ……, , ,Miku,Ah... Ahhh...!,,,미쿠,아……아……,,,美九,啊……啊……,,,1,206,35,1,0,0,0,0,0,,Translated
+885,美九,くうぅ！, , ,Miku,Mnrgh!,,,미쿠,크윽!,,,美九,嗚！,,,1,207,35,1,0,0,0,0,0,,Translated
+886,,張り紙を破り取ろうとした時……。, , ,,As you attempt to tear the paper off the door...,,,,종이를 뜯어내려 할 때…….,,,,正要撕下紙條的時候……。,,,0,0,0,1,0,0,0,0,0,,Translated
+887,美九,――っ！, , ,Miku,Ah!,,,미쿠,――윽!,,,美九,——！,,,1,208,35,1,0,0,0,0,0,,Translated
+888,,廊下の外から、何者かが近づいてくる,足音がします……。, ,,You hear footsteps echo down the hallway.,They're getting closer...,,,복도 밖으로부터 누군가가 다가오는 발소리가 들려온다…….,,,,走廊外面傳來，,有人接近的腳步聲……。,,0,0,0,1,0,0,0,0,0,,Translated
+889,美九,（……これ破くと、ここに,　人が立ち入ったこと、バレる……くっ！）, ,Miku,(They'll know someone came in here if I tear this ,down... Grr!),,미쿠,（……이걸 뜯으면 여기 사람이 들어왔단거 들켜……크윽!）,,,美九,（……撕掉這個的話，,　有人來過這裡的事就會暴露……可惡！）,,1,0,0,1,0,0,0,0,0,,Translated
+890,美九,（ていうか！　もう……,　ヤバいじゃんまた！　誰か来る……！,　か、隠れなきゃ！）,Miku,(And now I'm in deep shit again! If someone's ,"coming, then I gotta hide!)",,미쿠,"（안돼! 이러다……큰일 나!　누군가 오고있어……!　숨어, 숨어야 해!）",,,美九,（而且！　又……,　糟了！　有人來了……！,　得、得躲起來！）,1,0,0,1,0,0,0,0,0,,Translated
+891,美九,きゃああぁ！！！,―――っ！, ,Miku,EEEEEK!,,,미쿠,꺄아아아!!!　―――읍!,,,美九,啊啊啊！！！,——！,,1,210,35,1,0,0,0,0,0,,Translated
+892,美九,きゃぁ！！！, , ,Miku,Aaah!,,,미쿠,꺄아아!!!,,,美九,啊啊！！！,,,1,211,35,1,0,0,0,0,0,,Translated
+893,美九,きゃぁ～～～！！！,もういやあぁ！！, ,Miku,"Eeeek! No more, stop it!",,,미쿠,꺄아----!!! 이제 더 이상은!!,,,美九,啊啊～～～！！！,受不了了啊啊！！,,1,212,35,1,0,0,0,0,0,,Translated
+894,？？？,シシシシ、シーッ。,大声を出しちゃ駄目だよ。,人に見られちゃう,???,Shh shh shh! Not so loud. Someone might find us.,,,？？？,"쉬쉬쉬쉬, 쉬잇. 큰 소리 내서는 안돼. 사람들이 보면 어떡하나.",,,？？？,噓噓噓、噓——。,不能大聲說話喔。,會被人看到的,1,217,34,1,0,0,0,0,0,,Translated
+895,？？？,配信者の……miku㌘ちゃん。,だよね？　死にたいんだろう？, ,???,"You're that live streamer Miku㌘, correct? Don't you",want to die?,,？？？,스트리머……miku㌘짱 이시죠?　죽고 싶으시죠??,,,？？？,直播主……miku㌘。,對吧？　你想死吧？,,1,218,34,1,0,0,0,0,0,,Translated
+896,美九,うう……ふっ……ううう……,ヒュー、ヒュー……, ,Miku,*whimper* *whine* *wheeze*,,,미쿠,"으으……흐윽……으으으……허억, 허억……",,,美九,嗚嗚……嗚嗚……嗚嗚……,呼、呼……,,1,213,35,1,0,0,0,0,0,,Translated
+897,？？？,お～ま～え～の～,し～に～が～お～、, ,???,Why don't you show me how you look...,,,？？？,"너~의~소~원~을~들~어~주~지,",,,？？？,讓～我～看～看～,你～死～的～樣～子～,,1,219,34,1,0,0,0,0,0,,Translated
+898,？？？,み～～！　せ～～～！！,ろ～～～～～！！！！, ,???,WHEN! YOU!! DIE!!!,,,？？？,나~~!　오~~~!!　렴~~~~~!!!,,,？？？,給～～！　我～～！！,看～～～～～！！！！,,1,220,34,1,0,0,0,0,0,,Translated
+899,美九,きゃああぁ！！！, , ,Miku,AAAAAAAAAHH!!!,,,미쿠,꺄아아아아악!!!,,,美九,啊啊啊！！！,,,1,214,35,1,0,0,0,0,0,,Translated
+900,,飛び出しますか？, , ,,Do you want to jump out?,,,,튀어 있습니까?,,,,要跳出去嗎？,,,0,0,0,0,0,0,0,0,0,,Translated
+901,,はい,いいえ,,,Yes,No,,,예,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+902,,中の首吊り遺体がぶつかって、,扉が開きません……。, ,,The corpse inside prevents the door from opening.,,,,안에 있는 목이 매인 시체에 막혀 문이 열리지 않습니다…….,,,,裡面的上吊遺體擋住，,門打不開……。,,0,0,0,1,0,0,0,0,0,,Translated
+903,,すべての個室のドアに、,死者の個人情報と死ぬ時の様子を記した, ,,"As if part of some cruel joke, there's a piece of",paper affixed to each door...,,,모든 문에는 사망자의 개인정보와 사망 시의 모습을 적은,,,,所有隔間的門上，,都貼著記錄死者個人資訊和死亡時狀況的,,0,0,0,1,0,0,0,0,0,,Translated
+904,,悪趣味な紙が貼り付けてあります……。, , ,,...that includes every victim's name and age at,death.,,,악취미적인 종이가 붙여져 있었다…….,,,,惡趣味的紙條……。,,,0,0,0,1,0,0,0,0,0,,Translated
+905,美九,……ちょっと待って。,涼香の……涼香の名前は、無いよね……,お願いだよ……居ないで……,Miku,"Wait... Ryoka's name isn't here, right? Please, ","God, don't let one of them be her...",,미쿠,……잠시만. 료코의……료코의 이름은 없겠지……제발……없도록……,,,美九,……等一下。,涼香的……涼香的名字，不在對吧……,拜託了……不要有……,1,204,35,1,0,0,0,0,0,,Translated
+906,,中の首吊り遺体がぶつかって、,扉が開きません……。, ,,The corpse inside prevents the door from opening.,,,,안에 있는 목이 매인 시체에 막혀 문이 열리지 않습니다…….,,,,裡面的上吊遺體擋住，,門打不開……。,,0,0,0,1,0,0,0,0,0,,Translated
+907,,すべての個室のドアに、,死者の個人情報と死ぬ時の様子を記した, ,,"As if part of some cruel joke, there's a piece of",paper affixed to each door...,,,모든 문에는 사망자의 개인정보와 사망 시의 모습을 적은,,,,所有隔間的門上，,都貼著記錄死者個人資訊和死亡時狀況的,,0,0,0,1,0,0,0,0,0,,Translated
+908,,悪趣味な紙が貼り付けてあります……。, , ,,...that includes every victim's name and age at,death.,,,악취미적인 종이가 붙여져 있었다…….,,,,惡趣味的紙條……。,,,0,0,0,1,0,0,0,0,0,,Translated
+909,美九,……ちょっと待って。,涼香の……涼香の名前は、無いよね……,お願いだよ……居ないで……,Miku,"Wait... Ryoka's name isn't here, right? Please, ","God, don't let one of them be her...",,미쿠,……잠시만. 료코의……료코의 이름은 없겠지……제발……없도록……,,,美九,……等一下。,涼香的……涼香的名字，不在對吧……,拜託了……不要有……,1,204,35,1,0,0,0,0,0,,Translated
+910,,中の首吊り遺体がぶつかって、,扉が開きません……。, ,,The corpse inside prevents the door from opening.,,,,안에 있는 목이 매인 시체에 막혀 문이 열리지 않습니다…….,,,,裡面的上吊遺體擋住，,門打不開……。,,0,0,0,1,0,0,0,0,0,,Translated
+911,,すべての個室のドアに、,死者の個人情報と死ぬ時の様子を記した, ,,"As if part of some cruel joke, there's a piece of",paper affixed to each door...,,,모든 문에는 사망자의 개인정보와 사망 시의 모습을 적은,,,,所有隔間的門上，,都貼著記錄死者個人資訊和死亡時狀況的,,0,0,0,1,0,0,0,0,0,,Translated
+912,,悪趣味な紙が貼り付けてあります……。, , ,,...that includes every victim's name and age at,death.,,,악취미적인 종이가 붙여져 있었다…….,,,,惡趣味的紙條……。,,,0,0,0,1,0,0,0,0,0,,Translated
+913,美九,……ちょっと待って。,涼香の……涼香の名前は、無いよね……,お願いだよ……居ないで……,Miku,"Wait... Ryoka's name isn't here, right? Please, ","God, don't let one of them be her...",,미쿠,……잠시만. 료코의……료코의 이름은 없겠지……제발……없도록……,,,美九,……等一下。,涼香的……涼香的名字，不在對吧……,拜託了……不要有……,1,204,35,1,0,0,0,0,0,,Translated
+914,,錆びたバケツがある……, , ,,錆びたバケツがある......, , ,,―,,,,有個生鏽的桶子……,,,0,0,0,1,0,0,0,0,0,,Translated
+915,直美,痛っ……！　くぅ……, , ,直美,痛っ......！　くぅ......, , ,直美,―,,,直美,好痛……！　嗚……,,,1,81,10,1,0,0,0,0,0,,Translated
+916,直美,足……大丈夫かな…… やばそう……, , ,直美,足......大丈夫かな...... やばそう......, , ,直美,―,,,直美,腳……沒事吧……　好像不妙……,,,1,82,10,1,0,0,0,0,0,,Translated
+917,,■天神町奉知新聞■,“行方不明者ついに３名に”,,,■天神町奉知新聞■,“行方不明者ついに３名に”,,,―,,,,■天神町奉知新聞■,「失蹤者終於達到3人」,,0,0,0,0,0,0,0,0,0,,Translated
+918,,　相次ぐ天神＊＊校の 生徒児童の,　失踪事件に、ついに三人目の行方不明者が,　出てしまった。,,　相次ぐ天神＊＊校の 生徒児童の,　失踪事件に、ついに三人目の行方不明者が,　出てしまった。,,―,,,,　在天神＊＊校接連發生的學生兒童,　失蹤事件中，終於出現了第三名,　失蹤者。,0,0,0,0,0,0,0,0,0,,Translated
+919,,　同級生の証言によると、５年生の,　＊＊＊＊んは下校時刻に、校内の渡り廊下で,　友人達と別れた後、その後の消息を絶った模様。,,　同級生の証言によると、５年生の,　＊＊＊＊んは下校時刻に、校内の渡り廊下で,　友人達と別れた後、その後の消息を絶った模様。,,―,,,,　根據同班同學的證言，五年級的,　＊＊＊＊在放學時間，在校內走廊,　與朋友分別後，便失去了蹤影。,0,0,0,0,0,0,0,0,0,,Translated
+920,,,,,,,,,,,,,,,,,-1,0,0,0,0,0,0,0,0,,Translated
+921,,　警察は誘拐事件の可能性も視野に入れ、,　捜査員を増やし、一刻も早い解決に向けて,　捜索にあたっているが,,　警察は誘拐事件の可能性も視野に入れ、,　捜査員を増やし、一刻も早い解決に向けて,　捜索にあたっているが,,―,,,,　警方也考慮到綁架案的可能性，,　增加搜查員，為了盡快解決,　正在進行搜查，,0,0,0,0,0,0,0,0,0,,Translated
+922,,　一人目の児童の失踪よりはや十日。,　未だ消息の知れない子供達の安否が ,　気遣われている……,,　一人目の児童の失踪よりはや十日。,　未だ消息の知れない子供達の安否が ,　気遣われている......,,―,,,,　但距離第一名兒童失蹤已過十天。,　至今下落不明的孩子們的安危,　令人擔憂……,0,0,0,0,0,0,0,0,0,,Translated
+923,,　頭が割れる……,　頭が割れる……, ,,　頭が割れる......,　頭が割れる......, ,,―,,,,　頭要裂開了……,　頭要裂開了……,,0,0,0,0,0,0,0,0,0,,Translated
+924,,　頭が割れる,　頭が割れる,　頭が割れる,,　頭が割れる,　頭が割れる,　頭が割れる,,―,,,,　頭要裂開,　頭要裂開,　頭要裂開,0,0,0,0,0,0,0,0,0,,Translated
+925,,　ゆずはの死体を見つけたとき,　私わ大きな黒い影を見てしまった, ,,　ゆずはの死体を見つけたとき,　私わ大きな黒い影を見てしまった, ,,―,,,,　發現ゆずは的屍體時,　我看到了一個巨大的黑影,,0,0,0,0,0,0,0,0,0,,Translated
+926,,　その事をみんなに　ゆわなかったから、,　みんなそいつに殺された, ,,　その事をみんなに　ゆわなかったから、,　みんなそいつに殺された, ,,―,,,,　因為我沒有把這件事,　告訴大家，,　所以大家都被那個東西殺了,0,0,0,0,0,0,0,0,0,,Translated
+927,,　ごめん、みんな……,　ごめ、～～～～, ,,　ごめん、みんな......,　ごめ、～～～～, ,,―,,,,　對不起，大家……,　對不、～～～～,,0,0,0,0,0,0,0,0,0,,Translated
+928,,　そこから下は夥しい血が付着していて,　読めません……, ,,　そこから下は夥しい血が付着していて,　読めません......, ,,―,,,,　從那裡往下沾滿了大量血跡,　無法閱讀……,,0,0,0,0,0,0,0,0,0,,Translated
+929,,“一緒に行こうって……,　みんなと約束したのに……”, ,,“一緒に行こうって......,　みんなと約束したのに......”, ,,―,,,,"「說好要一起去的……,　明明和大家約好了的……」,
+930,,「為什麼……只有我",　被留下來了……」,,0,0,0,1,0,0,0,0,0,,Translated
+930,,“どうして……僕だけが,　置いて行かれるんだ……”, ,,“どうして......僕だけが,　置いて行かれるんだ......”, ,,―,,,,"「為什麼……只有我,　被留下來了……」,
+938,,「……好痛苦",　 ……好痛苦啊……」,,0,0,0,1,0,0,0,0,0,,Untranslated
+931,,“……ｸﾙｼｨ,　 ……ｸﾙｼｨよ……”, ,,“......ｸﾙｼｨ,　 ......ｸﾙｼｨよ......”, ,,―,,,,"「……好痛苦,　 ……好痛苦啊……」,
+932,直美,各種各樣的人被帶到這裡來的說法，,看來是真的呢……,
+933,世以子,……總會有辦法的，啊哈哈。,,
+934,世以子,啊哈哈……。,
+935,直美,…………。,
+936,,「說好要一起去的……",　明明和大家約好了的……」,,0,0,0,1,0,0,0,0,0,,Translated
+932,直美,色んな人達がここに連れて来られたって話は、,本当みたいだね……, ,直美,色んな人達がここに連れて来られたって話は、,本当みたいだね......, ,直美,―,,,直美,看來，真的有很多人,被帶到這裡來了呢……,,1,227,10,1,0,0,0,0,0,,Translated
+933,世以子,……なんとかなるよ、アハハ。, , ,世以子,......なんとかなるよ、アハハ。, , ,世以子,―,,,世以子,……總會有辦法的啦，哈哈哈。,,,1,169,19,1,0,0,0,0,0,,Translated
+934,世以子,アハハ……。, , ,世以子,アハハ......。, , ,世以子,―,,,世以子,哈哈哈……,,,1,170,19,1,0,0,0,0,0,,Translated
+935,直美,…………。, , ,直美,............。, , ,直美,―,,,直美,…………,,,1,228,10,1,0,0,0,0,0,,Translated
+936,,“一緒に行こうって……,　みんなと約束したのに……”, ,,“一緒に行こうって......,　みんなと約束したのに......”, ,,―,,,,「明明和大家約好了……,　要一起離開這裡的……」,,0,0,0,1,0,0,0,0,0,,Translated
+937,,“どうして……僕だけが,　置いて行かれるんだ……”, ,,“どうして......僕だけが,　置いて行かれるんだ......”, ,,―,,,,"「為什麼……只有我,　被留下來了……」,
+938,,「……好痛苦",　 ……好痛苦啊……」,,0,0,0,1,0,0,0,0,0,,Translated
+938,,“……ｸﾙｼｨ,　 ……ｸﾙｼｨよ……”, ,,“......ｸﾙｼｨ,　 ......ｸﾙｼｨよ......”, ,,―,,,,「……好痛苦,　……我好痛苦……」,,0,0,0,1,0,0,0,0,0,,Translated
+939,世以子,…………。, , ,世以子,............。, , ,世以子,―,,,世以子,…………。,,,1,0,0,1,0,0,0,0,0,,Translated
+940,世以子,……うう……, , ,世以子,......うう......, , ,世以子,―,,,世以子,……嗚嗚……,,,1,2,20,1,0,0,0,0,0,,Translated
+941,世以子,お母さんがいない！　……お母さんがいない！, , ,世以子,お母さんがいない！　......お母さんがいない！, , ,世以子,―,,,世以子,媽媽不見了！　……媽媽不見了！,,,1,3,20,1,0,0,0,0,0,,Translated
+942,世以子,お父さん、お母さんがいなくなっちゃった！,……うぅ……っ　……あああぁぁぁーーん！, ,世以子,お父さん、お母さんがいなくなっちゃった！,......うぅ......っ　......あああぁぁぁーーん！, ,世以子,―,,,世以子,爸爸、媽媽都不見了！,……嗚嗚……　……啊啊啊啊——！,,1,4,20,1,0,0,0,0,0,,Translated
+943,世以子,あぁあぁああーーん……！, , ,世以子,あぁあぁああーーん......！, , ,世以子,―,,,世以子,啊啊啊啊——……！,,,1,5,20,1,0,0,0,0,0,,Translated
+944,世以子,……ぐすっ。, , ,世以子,......ぐすっ。, , ,世以子,―,,,世以子,……嗚嗚。,,,1,6,20,1,0,0,0,0,0,,Translated
+945,世以子,……一人じゃ、色々考えちゃって駄目だなぁ……, , ,世以子,......一人じゃ、色々考えちゃって駄目だなぁ......, , ,世以子,―,,,世以子,……一個人待著，就會想東想西不行啊……,,,1,7,20,1,0,0,0,0,0,,Translated
+946,,……ここから脱出したければ, , ,,......ここから脱出したければ, , ,,―,,,,……如果想從這裡逃出去,,,0,112,5,1,0,0,0,0,0,,Translated
+947,,ここで死んだ、先の犠牲者達が遺した,メッセージを見逃さないことだ……, ,,ここで死んだ、先の犠牲者達が遺した,メッセージを見逃さないことだ......, ,,―,,,,就不能錯過,在這裡死去的先驅犧牲者們留下的訊息……,,0,113,5,1,0,0,0,0,0,,Translated
+948,,校舎内の張り紙にも、思念が宿って,ダイイングメッセージが浮き出ている, ,,校舎内の張り紙にも、思念が宿って,ダイイングメッセージが浮き出ている, ,,―,,,,校舍內的貼紙上也寄宿著思念，,浮現出臨終訊息,,0,114,5,1,0,0,0,0,0,,Translated
+949,,……ｸﾙｼｨ, ……ｸﾙｼｨよ……, ,,......ｸﾙｼｨ, ......ｸﾙｼｨよ......, ,,―,,,,……好痛苦, ……好痛苦啊……,,0,115,5,1,0,0,0,0,0,,Translated
+950,直美,世以子、ほったらかしにしたら、可哀想かな……, , ,直美,世以子、ほったらかしにしたら、可哀想かな......, , ,直美,―,,,直美,把世以子丟著不管，好像有點可憐……,,,1,231,10,1,0,0,0,0,0,,Translated
+951,世以子,…………, , ,世以子,............, , ,世以子,―,,,世以子,…………,,,1,19,20,1,0,0,0,0,0,,Translated
+952,世以子,（……このまま……帰れないかも知れないんだ、,　やっぱり……）, ,世以子,（......このまま......帰れないかも知れないんだ、,　やっぱり......）, ,世以子,―,,,世以子,（……也許就這樣……回不去了也說不定，,　果然……）,,1,20,20,1,0,0,0,0,0,,Translated
+953,世以子,（悪い夢じゃなく……本当に……）, , ,世以子,（悪い夢じゃなく......本当に......）, , ,世以子,―,,,世以子,（不是噩夢……是真的……）,,,1,21,20,1,0,0,0,0,0,,Translated
+954,世以子,（だったら…………何かある前に……）, , ,世以子,（だったら............何かある前に......）, , ,世以子,―,,,世以子,（如果那樣的話…………在發生什麼之前……）,,,1,22,20,1,0,0,0,0,0,,Translated
+955,世以子,（私の気持ち……言っとくべきかな……）, , ,世以子,（私の気持ち......言っとくべきかな......）, , ,世以子,―,,,世以子,（我的心意……是不是應該說出來呢……）,,,1,23,20,1,0,0,0,0,0,,Translated
+956,世以子,（……なんちゃって～……,　ナイナイ。あり得ない）, ,世以子,（......なんちゃって～......,　ナイナイ。あり得ない）, ,世以子,―,,,世以子,（……開玩笑的～……,　沒有沒有。不可能）,,1,24,20,1,0,0,0,0,0,,Translated
+957,世以子,（持田君に、……勝てるわけないし）, , ,世以子,（持田君に、......勝てるわけないし）, , ,世以子,―,,,世以子,（對持田同學，……不可能贏的）,,,1,25,20,1,0,0,0,0,0,,Translated
+958,世以子,？……　誰か呼んでる……, , ,世以子,？......　誰か呼んでる......, , ,世以子,―,,,世以子,？……　有人在叫我……,,,1,8,20,1,0,0,0,0,0,,Translated
+959,,声のする方へ進みますか？, ,,,声のする方へ進みますか？, ,,,―,,,,要朝聲音傳來的方向前進嗎？,,,0,0,0,0,0,0,0,0,0,,Translated
+960,,はい,いいえ,,,Yes,No,,,―,,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+961,,　…………, , ,,　............, , ,,―,,,,　…………,,,0,0,0,1,0,0,0,0,0,,Translated
+962,世以子,…………。, , ,世以子,............。, , ,世以子,―,,,世以子,…………。,,,1,26,20,1,0,0,0,0,0,,Translated
+963,世以子,はじめて……だなぁ。, , ,世以子,はじめて......だなぁ。, , ,世以子,―,,,世以子,第一次……呢。,,,1,27,20,1,0,0,0,0,0,,Translated
+964,世以子,直美と……あんなふうに、ぶつかり合ったの……, , ,世以子,直美と......あんなふうに、ぶつかり合ったの......, , ,世以子,―,,,世以子,和直美……那樣激烈地衝突……,,,1,28,20,1,0,0,0,0,0,,Translated
+965,直美,……はぁっ、はぁっ……, , ,直美,......はぁっ、はぁっ......, , ,直美,―,,,直美,……哈啊、哈啊……,,,1,97,11,1,0,0,0,0,0,,Translated
+966,直美,（一人になると、だんだん……,　さっきの恐怖がよみがえって）, ,直美,（一人になると、だんだん......,　さっきの恐怖がよみがえって）, ,直美,―,,,直美,（一個人獨處時，漸漸地……,　剛才的恐懼又湧現出來）,,1,98,11,1,0,0,0,0,0,,Translated
+967,直美,（何かに頭を支配されたように……,　理性を失ったあたしは）, ,直美,（何かに頭を支配されたように......,　理性を失ったあたしは）, ,直美,―,,,直美,（像是被什麼控制了頭腦……,　失去理性的我）,,1,99,11,1,0,0,0,0,0,,Translated
+968,直美,（世以子を探して、校舎の中を走りまわった）, , ,直美,（世以子を探して、校舎の中を走りまわった）, , ,直美,―,,,直美,（到處奔跑尋找世以子）,,,1,100,11,1,0,0,0,0,0,,Translated
+969,直美,（何度も何度も、名前を呼びながら……）, , ,直美,（何度も何度も、名前を呼びながら......）, , ,直美,―,,,直美,（一遍又一遍，呼喊著名字……）,,,1,101,11,1,0,0,0,0,0,,Translated
+970,,不思議なことに、この後何処を走ったのか、,記憶がすっぽりと抜け落ちていた――。, ,,不思議なことに、この後何処を走ったのか、,記憶がすっぽりと抜け落ちていた――。, ,,―,,,,不可思議的是，之後跑了哪裡，,記憶完全消失了——。,,0,0,0,1,0,0,0,0,0,,Translated
+971,直美,（……気が付くと、あたしは、校舎の３階にいた）, , ,直美,（......気が付くと、あたしは、校舎の３階にいた）, , ,直美,―,,,直美,（……回過神來，我已經在校舍的3樓了）,,,1,42,11,1,0,0,0,0,0,,Translated
+972,世以子,一階が駄目でも、二階にも非常口とかあるかも？,もいちど上の階見てみよ？, ,世以子,一階が駄目でも、二階にも非常口とかあるかも？,もいちど上の階見てみよ？, ,世以子,―,,,世以子,一樓不行的話，二樓也可能有逃生口吧？,再上去看看？,,1,0,0,1,0,0,0,0,0,,Translated
+973,直美,そうだね……, , ,直美,そうだね......, , ,直美,―,,,直美,說的也是……,,,1,0,0,1,0,0,0,0,0,,Translated
+974,,頭の中に、何者かの思念が入り込んで来ます……, , ,,頭の中に、何者かの思念が入り込んで来ます......, , ,,―,,,,腦中傳來，,某人的意念……,,0,0,0,1,0,0,0,0,0,,Translated
+975,, 　……あの光は、,　じっと見張ってなきゃ逃げちゃうよ……, ,, 　......あの光は、,　じっと見張ってなきゃ逃げちゃうよ......, ,,―,,,, ……那道光，,　不盯緊的話會跑掉喔……,,0,0,0,1,0,0,0,0,0,,Translated
+976,,　場所をよく覚えて、,　その場に立って調べてごらん……, ,,　場所をよく覚えて、,　その場に立って調べてごらん......, ,,―,,,,　記住位置，,　站在那裡調查看看……,,0,0,0,1,0,0,0,0,0,,Translated
+977,世以子,小っちゃい靴……, , ,世以子,小っちゃい靴......, , ,世以子,―,,,世以子,好小的鞋子……,,,1,94,19,1,0,0,0,0,0,,Translated
+978,世以子,ここ、やっぱり小学校の校舎なんだね。, , ,世以子,ここ、やっぱり小学校の校舎なんだね。, , ,世以子,―,,,世以子,這裡果然是小學的校舍呢。,,,1,95,19,1,0,0,0,0,0,,Translated
+979,直美,ええ……, , ,直美,ええ......, , ,直美,―,,,直美,嗯……,,,1,136,10,1,0,0,0,0,0,,Translated
+980,世以子,悠たち……お腹空かせてるかな……, , ,世以子,悠たち......お腹空かせてるかな......, , ,世以子,―,,,世以子,悠他們……肚子餓了吧……,,,1,96,19,1,0,0,0,0,0,,Translated
+981,直美,……そっか、世以子ん家、今お父さん、,帰り遅いんだっけ。, ,直美,......そっか、世以子ん家、今お父さん、,帰り遅いんだっけ。, ,直美,―,,,直美,……對了，世以子家，現在爸爸,很晚回家對吧。,,1,137,10,1,0,0,0,0,0,,Translated
+982,世以子,うん。なんせほら、ウチ姉弟多いから家計がね。, , ,世以子,うん。なんせほら、ウチ姉弟多いから家計がね。, , ,世以子,―,,,世以子,嗯。畢竟你看，我家兄弟姐妹多嘛。,,,1,97,19,1,0,0,0,0,0,,Translated
+983,世以子,父さん頑張ってる間、私が主婦やんないとね……,たはは。, ,世以子,父さん頑張ってる間、私が主婦やんないとね......,たはは。, ,世以子,―,,,世以子,爸爸努力工作的時候，我不當主婦不行呢……,哈哈。,,1,98,19,1,0,0,0,0,0,,Translated
+984,直美,悠くん達、まだ小っちゃいもんね……, , ,直美,悠くん達、まだ小っちゃいもんね......, , ,直美,―,,,直美,悠他們還小嘛……,,,1,138,10,1,0,0,0,0,0,,Translated
+985,直美,世以子偉い。女子高生にしてお母さんだ。, , ,直美,世以子偉い。女子高生にしてお母さんだ。, , ,直美,―,,,直美,世以子好厲害。身兼女高中生和媽媽。,,,1,139,10,1,0,0,0,0,0,,Translated
+986,世以子,なんかソレ、微妙？, , ,世以子,なんかソレ、微妙？, , ,世以子,―,,,世以子,總覺得那樣說有點微妙？,,,1,99,19,1,0,0,0,0,0,,Translated
+987,直美,あははっ, , ,直美,あははっ, , ,直美,―,,,直美,啊哈哈,,,1,140,10,1,0,0,0,0,0,,Translated
+988,世以子,早く帰ってあげないと……, , ,世以子,早く帰ってあげないと......, , ,世以子,―,,,世以子,得早點回去才行……,,,1,100,19,1,0,0,0,0,0,,Translated
+989,世以子,てか直美もだよね、お母さん一人で待ってる。, , ,世以子,てか直美もだよね、お母さん一人で待ってる。, , ,世以子,―,,,世以子,而且直美也是，媽媽一個人等著呢。,,,1,101,19,1,0,0,0,0,0,,Translated
+990,世以子,……絶対帰ろうね、直美。なんとかなるよ！, , ,世以子,......絶対帰ろうね、直美。なんとかなるよ！, , ,世以子,―,,,世以子,……絕對要回去喔，直美。總會有辦法的！,,,1,102,19,1,0,0,0,0,0,,Translated
+991,直美,ええ！, , ,直美,ええ！, , ,直美,―,,,直美,嗯！,,,1,141,10,1,0,0,0,0,0,,Translated
+992,,【玄関】,　重い扉はドシリと閉じられ、,　開けられそうにありません。,,【玄関】,　重い扉はドシリと閉じられ、,　開けられそうにありません。,,―,,,,【玄關】,　沉重的門緊緊關著，,　似乎打不開。,0,0,0,0,0,0,0,0,0,,Translated
+993,直美,（どうしよう……他に出口と言ったって……）, , ,直美,（どうしよう......他に出口と言ったって......）, , ,直美,―,,,直美,（怎麼辦……說到出口……）,,,1,0,0,1,1,0,0,0,0,,Translated
+994,直美,うん……ッ……！, , ,直美,うん......ッ......！, , ,直美,―,,,直美,嗯……！,,,1,142,10,1,1,0,0,0,0,,Translated
+995,直美,……はぁ、駄目だわ……, , ,直美,......はぁ、駄目だわ......, , ,直美,―,,,直美,……呼，不行……,,,1,143,10,1,0,0,0,0,0,,Translated
+996,直美,力ずくで、開く感じじゃないみたい……, , ,直美,力ずくで、開く感じじゃないみたい......, , ,直美,―,,,直美,好像不是靠蠻力能打開的感覺……,,,1,144,10,1,0,0,0,0,0,,Translated
+997,世以子,ん～、せっかく玄関まで来たのにね……,別の出口探してみよっか。, ,世以子,ん～、せっかく玄関まで来たのにね......,別の出口探してみよっか。, ,世以子,―,,,世以子,嗯～，好不容易來到玄關了呢……,找找別的出口吧。,,1,103,19,1,0,0,0,0,0,,Translated
+998,直美,そうだね……, , ,直美,そうだね......, , ,直美,―,,,直美,說的也是……,,,1,145,10,1,0,0,0,0,0,,Translated
+999,,【地下室】,　扉は釘で打ちつけてあり、,　開きそうにありません。,,【地下室】,　扉は釘で打ちつけてあり、,　開きそうにありません。,,―,,,,【地下室】,　門被釘子釘住了，,　似乎打不開。,0,0,0,1,0,0,0,0,0,,Translated
+1000,,“何人も立ち入りを禁ず”,　　　　　【天神小学校校長：柳堀隆峰】 , ,,“何人も立ち入りを禁ず”,　　　　　【天神小学校校長：柳堀隆峰】 , ,,―,,,,禁止任何人進入,【天神小學校校長：柳堀隆峰】,,0,0,0,1,0,0,0,0,0,,Translated
+1001,,【４のＡ】,　扉は空間に固定されており、動きません。, ,,【４のＡ】,　扉は空間に固定されており、動きません。, ,,―,,,,【４年Ａ班】,　門被固定在空間中，動彈不得。,,0,0,0,0,0,0,0,0,0,,Translated
+1002,,【用務員室】,　扉は、模型のようにガチリと壁に固定され,　開ける事が出来ません。,,【用務員室】,　扉は、模型のようにガチリと壁に固定され,　開ける事が出来ません。,,―,,,,【校工室】,　門像模型一樣牢牢固定在牆上，,　無法打開。,0,0,0,0,0,0,0,0,0,,Translated
+1003,,　……部屋の中から、つけっ放しにされた,　ＴＶのノイズ音が聞こえます……, ,,　......部屋の中から、つけっ放しにされた,　ＴＶのノイズ音が聞こえます......, ,,―,,,,　……房間裡傳來，,　沒關的電視雜訊聲……,,0,0,0,0,0,0,0,0,0,,Translated
+1004,,　半分白骨化した遺体が、床に横たわっています。,　名札は付けていません……, ,,　半分白骨化した遺体が、床に横たわっています。,　名札は付けていません......, ,,―,,,,　半白骨化的遺體，橫躺在地上。,　沒有名牌……,,0,0,0,0,0,0,0,0,0,,Translated
+1005,,　腐汁をたっぷり吸い込んだ制服や,　散乱している髪の毛の長さから、,　女生徒の亡骸のようです……,,　腐汁をたっぷり吸い込んだ制服や,　散乱している髪の毛の長さから、,　女生徒の亡骸のようです......,,―,,,,　從吸滿腐液的制服和,　散落的頭髮長度來看，,　似乎是女學生的遺體……,0,0,0,0,0,0,0,0,0,,Translated
+1006,,　ほぼ全体が白骨化した、,　女生徒の遺体が床に倒れています……, ,,　ほぼ全体が白骨化した、,　女生徒の遺体が床に倒れています......, ,,―,,,,　幾乎完全白骨化的,　女學生遺體倒在床上……,,0,0,0,0,0,0,0,0,0,,Translated
+1007,,　天井にも骨や服の欠片が ぶら下がっている事から、,　２階から落ちて砕けた遺体のようです。, ,,　天井にも骨や服の欠片が ぶら下がっている事から、,　２階から落ちて砕けた遺体のようです。, ,,―,,,,　天花板上也掛著骨頭和衣服碎片，,　看起來像是從二樓摔下來碎裂的遺體。,,0,0,0,0,0,0,0,0,0,,Translated
+1008,,　よくみると、制服に名札がついています……, , ,,　よくみると、制服に名札がついています......, , ,,―,,,,　仔細一看，制服上有名牌……,,,0,0,0,0,0,0,0,0,0,,Translated
+1009,,　２階から落ちて砕けた遺体があります……,　よく見ると名札があります。 , ,,　２階から落ちて砕けた遺体があります......,　よく見ると名札があります。 , ,,―,,,,　有從二樓摔下來碎裂的遺體……,　仔細一看有名牌。,,0,0,0,0,0,0,0,0,0,,Translated
+1010,,聖清女子学院,Ⅰ-2　三上ゆずは, ,,聖清女子学院,Ⅰ-2　三上ゆずは, ,,―,,,,聖清女子學院,Ⅰ-2　三上ゆずは,,0,0,0,0,0,0,0,0,0,,Translated
+1011,,　中高生くらいの大きさの人骨が,　床に横たわっています……,　よく見ると名札があります。,,　中高生くらいの大きさの人骨が,　床に横たわっています......,　よく見ると名札があります。,,―,,,,　有中學生大小的人骨,　橫躺在地上……,　仔細一看有名牌。,0,0,0,0,0,0,0,0,0,,Translated
+1012,,　握り締められ、くしゃくしゃになった紙が,　数枚、落ちています……, ,,　握り締められ、くしゃくしゃになった紙が,　数枚、落ちています......, ,,―,,,,　握得皺巴巴的紙,　有幾張掉在地上……,,0,0,0,0,0,0,0,0,0,,Translated
+1013,,”仲良し４人組 本日活動日！,　放課後、校門裏で集合だよ　　恋都”, ,,”仲良し４人組 本日活動日！,　放課後、校門裏で集合だよ　　恋都”, ,,―,,,,"好朋友四人組 本日活動日！,　放學後校門後面集合喔　　恋都",,,0,0,0,0,0,0,0,0,0,,Translated
+1014,,”５のＡの教室にいるよ。みんな無事だよ、,　ゆずはも来て！　　あすか”, ,,”５のＡの教室にいるよ。みんな無事だよ、,　ゆずはも来て！　　あすか”, ,,―,,,,"在５年Ａ班教室喔。大家都沒事，,　ゆずは也來！　　明日香",,,0,0,0,0,0,0,0,0,0,,Translated
+1015,,　床に、書き置きが残されています。, , ,,　床に、書き置きが残されています。, , ,,―,,,,　地板上留著留言。,,,0,0,0,0,0,0,0,0,0,,Translated
+1016,,　……ねえさま……私はもう駄目です……,　切断された足首の腱(けん)から、血が,　止まりません。,,　......ねえさま......私はもう駄目です......,　切断された足首の腱(けん)から、血が,　止まりません。,,―,,,,　……姐姐大人……我已經不行了……,　被切斷的腳踝肌腱，,　血止不住。,0,0,0,0,0,0,0,0,0,,Translated
+1017,,　……せめて、ねえさまは,　生き延びてください……, ,,　......せめて、ねえさまは,　生き延びてください......, ,,―,,,,　……至少，請姐姐大人,　一定要活下去……,,0,0,0,0,0,0,0,0,0,,Translated
+1018,,　私の調べた事を、ここに記しておきます。, , ,,　私の調べた事を、ここに記しておきます。, , ,,―,,,,　把我調查到的事情，記錄在這裡。,,,0,0,0,0,0,0,0,0,0,,Translated
+1019,,　……ひとつ……,　この校舎の外へと面している窓や扉、壁などは,　動かす事も壊す事も出来ませんが、,,　......ひとつ......,　この校舎の外へと面している窓や扉、壁などは,　動かす事も壊す事も出来ませんが、,,―,,,,　……其一……,　面向校舍外面的窗戶、門、牆壁等，,　既無法移動也無法破壞，,0,0,0,0,0,0,0,0,0,,Translated
+1020,,　廊下側の教室の窓など、内にあるそれらには、,　ある程度は影響を与える事が出来る。, ,,　廊下側の教室の窓など、内にあるそれらには、,　ある程度は影響を与える事が出来る。, ,,―,,,,　但走廊一側的教室窗戶等，,　內部設施則可以在一定程度上施加影響。,,0,0,0,0,0,0,0,0,0,,Translated
+1021,,　……ふたつ……,　校舎内の至る所にいる霊魂・……これらには、,　生者と同じで、良き者と悪しき者とがいる……,,　......ふたつ......,　校舎内の至る所にいる霊魂・......これらには、,　生者と同じで、良き者と悪しき者とがいる......,,―,,,,　……其二……,　校舍內四處存在的靈魂……,　和活人一樣，有善與惡之分……,0,0,0,0,0,0,0,0,0,,Translated
+1022,,　穏やかで優しい心の魂は、,　静かに蒼く光を灯しています……, ,,　穏やかで優しい心の魂は、,　静かに蒼く光を灯しています......, ,,―,,,,　溫和善良的靈魂，,　靜靜地散發著藍色的光芒……,,0,0,0,0,0,0,0,0,0,,Translated
+1023,,　しかし、悪い性質の魂は、,　血のように赤い、炎のような光を宿しています……, ,,　しかし、悪い性質の魂は、,　血のように赤い、炎のような光を宿しています......, ,,―,,,,　但惡質的靈魂，,　散發著如血般紅色的火焰般的光芒……,,0,0,0,0,0,0,0,0,0,,Translated
+1024,,　……痛い……, , ,,　......痛い......, , ,,―,,,,　……好痛……,,,0,0,0,0,0,0,0,0,0,,Translated
+1025,,　……鋏（はさみ）で踵の腱を切られた痛みが……,　足がなくなってしまえばいいのにと思うほど,　痛みます……,,　......鋏（はさみ）で踵の腱を切られた痛みが......,　足がなくなってしまえばいいのにと思うほど,　痛みます......,,―,,,,　……被剪刀剪斷腳跟肌腱的疼痛……,　痛到恨不得腳消失,　……,0,0,0,0,0,0,0,0,0,,Translated
+1026,,　死ねば、この酷い痛みも感じなくなるのが……,　今は、せめてもの心の救いです……けれど, ,,　死ねば、この酷い痛みも感じなくなるのが......,　今は、せめてもの心の救いです......けれど, ,,―,,,,　如果死了，就不用感受這劇痛……,　這是現在唯一的心靈慰藉……但是,,0,0,0,0,0,0,0,0,0,,Translated
+1027,,　……ねえさま……会いたい……,　……もういちど、優しく抱きしめて欲しい……, ,,　......ねえさま......会いたい......,　......もういちど、優しく抱きしめて欲しい......, ,,―,,,,　……姐姐大人……好想見你……,　……好想再一次，被你溫柔地擁抱……,,0,0,0,0,0,0,0,0,0,,Translated
+1028,,　……ねえさま……一人で死ぬのは寂しいです。,　……ねえさま……死ぬのは……怖いです。, ,,　......ねえさま......一人で死ぬのは寂しいです。,　......ねえさま......死ぬのは......怖いです。, ,,―,,,,　……姐姐大人……一個人死好寂寞。,　……姐姐大人……死亡……好可怕。,,0,0,0,0,0,0,0,0,0,,Translated
+1029,,　ねえさ＊＊＊　＊＊＊＊,　＊＊＊＊＊＊＊, ,,　ねえさ＊＊＊　＊＊＊＊,　＊＊＊＊＊＊＊, ,,―,,,,　姐姐大＊＊＊　＊＊＊＊,　＊＊＊＊＊＊＊,,0,0,0,0,0,0,0,0,0,,Translated
+1030,,そこから先は、文字が乱れて読めません。, , ,,そこから先は、文字が乱れて読めません。, , ,,―,,,,從那裡開始文字混亂無法閱讀。,,,0,0,0,0,0,0,0,0,0,,Translated
+1031,,　……せめて、ねえさまは　生き延びて……, , ,,　......せめて、ねえさまは　生き延びて......, , ,,―,,,,　……至少，請姐姐大人　活下去……,,,0,0,0,0,0,0,0,0,0,,Translated
+1032,,　……早く……痛みから　解放されたい……, , ,,　......早く......痛みから　解放されたい......, , ,,―,,,,　……快點……想從痛苦中　解脫……,,,0,0,0,0,0,0,0,0,0,,Translated
+1033,美九,――はぁっ！　はぁっ！,ヒュー、ヒュー……, ,Miku,*pant* *wheeze*,,,미쿠,"――하앗! 하앗!　허억, 허억……",,,美九,——哈啊！　哈啊！,呼、呼……,,1,144,35,1,0,0,0,0,0,,Translated
+1034,美九,耳元で声がした！,耳元で声がした！,あのままいたら絶対殺されてた！,Miku,Someone was breathing right down my neck back ,"there! If I hadn't booked it, I would've been dead!",,미쿠,귓가에서 소리가 들렸어! 귓가에서 소리가 들렸어!　그대로였다면 틀림없이 죽임을 당했을거야!,,,美九,耳邊有聲音！,耳邊有聲音！,繼續待在那裡的話絕對會被殺掉！,1,145,35,1,0,0,0,0,0,,Translated
+1035,美九,怖くて、どんな奴か,見れなかったけど……, ,Miku,I was so scared that I didn't even see who it was...,,,미쿠,무서워서 어떤 놈인지 제대로 볼 수 없었지만……,,,美九,太害怕了，,沒看到是什麼樣的傢伙……,,1,146,35,1,0,0,0,0,0,,Translated
+1036,,このままでは危険です。, , ,,It's too dangerous to stay here.,,,,이대로는 위험합니다.,,,,這樣下去太危險了。,,,0,0,0,0,0,0,0,0,0,,Translated
+1037,美九,……逃げなきゃ！,もう、あいつ出てくるよ！, ,Miku,I need to leave now if I don't want to get caught!,,,미쿠,……도망쳐야 해! 　그놈 또 나오겠지!,,,美九,……得逃！,那個傢伙又要出來了！,,1,147,35,1,0,0,0,0,0,,Translated
+1038,美九,なにこ……？！,は？　……人？, ,Miku,What the f-- I-Is this a person...?,,,미쿠,뭐지 이……?!　이거?　……사람?,,,美九,這是什……？！,什麼？　……人？,,1,226,35,1,0,0,0,0,0,,Translated
+1039,,血と、臓器特有の臭いが,狭い通路に立ち込めています……。, ,,The unmistakable stench of blood and viscera fills ,the narrow hallway.,,,피와 장기 특유의 악취가 나는 좁은 통로에 서있습니다…….,,,,血和內臟特有的臭味,充滿了狹窄的通道……。,,0,0,0,0,0,0,0,0,0,,Translated
+1040,美九,ぎゃああぁぁぁぁぁ！！！！, , ,Miku,AAAGGGGGGHHH!,,,미쿠,꺄아아아아아아아악!!!,,,美九,啊啊啊啊啊啊啊！！！！,,,1,227,35,1,0,0,0,0,0,,Translated
+1041,美九,――, , ,Miku,*slump*,,,미쿠,――,,,美九,——,,,1,228,35,1,0,0,0,0,0,,Translated
+1042,母親,美～九。明後日は慈愛十字病院の検査の日,でしょう？　ちゃんと寝て身体を整えて,おかないと、ひどい結果が出るわよ？,Miku's Mother,Your checkup at Amare Patriarcha Crucis Hospital is,"in two days! If you don't get enough rest, you're",not going to get the results you want!,미쿠의 어머니,미~쿠. 모레가 병원에 검진 받으러 가는 날이잖아? 수면을 제대로 취하지 않아 검진 결과가 엉망으로 나오면 어떡해?,,,母親,美～九。後天是慈愛十字醫院的檢查日,對吧？　不好好睡覺調整身體的話，,會出現糟糕的結果喔？,1,46,36,1,0,0,0,0,0,,Translated
+1043,,お母さんの家系は遺伝的に肺が弱いのか……,おばあちゃんがこの前肺がんで亡くなり、,お母さんも胸が弱い。,,(My mom's side of the family has always had weak,"lungs... My grandma died of lung cancer, and my mom",has trouble breathing.),미쿠,（엄마 쪽 집안이 유전적으로 폐가 약한지……할머니도 얼마 전 폐암으로 돌아가셨고 엄마도 폐가 안 좋아.）,,,,媽媽的家族遺傳上肺部比較弱嗎……,外婆前陣子因肺癌去世，,媽媽的呼吸系統也不好。,0,229,35,1,0,0,0,0,0,,Translated
+1044,,ミクもこの一年で,呼吸器の持病が悪くなって、,明後日精密検査を受ける……。,,"(My asthma got worse this year, so I'm supposed to",have a detailed checkup the day after tomorrow.),,미쿠,（미쿠도 지난 일년동안 호흡기 병이 악화되어 내일모레 정밀검진 받으러 가……）,,,,小美這一年來,呼吸系統的宿疾也惡化了，,後天要接受精密檢查……。,0,230,35,1,0,0,0,0,0,,Translated
+1045,,身体の事は自分でもわかる。,今回は怖い結果が出そうだ……。, ,,(But I can already tell that the results aren't ,gonna be pretty...),,미쿠,（내 몸 내가 잘 알아. 이번엔 무서운 결과가 나올 것 같아……）,,,,身體的情況自己也知道。,這次似乎會出現可怕的結果……。,,0,231,35,1,0,0,0,0,0,,Translated
+1046,母親,…………, , ,Miku's Mother,...,,,미쿠의 어머니,…………,,,母親,…………,,,1,47,36,1,0,0,0,0,0,,Translated
+1047,母親,……ごめんね, , ,Miku's Mother,I'm sorry...,,,미쿠의 어머니,……미안,,,母親,……對不起,,,1,48,36,1,0,0,0,0,0,,Translated
+1048,,ごめんね、って言われるたびに,ミクの胸はぎゅって痛む。, ,,My heart ached every time she said that.,,,,미안하단 말 들을 때마다 미쿠는 가슴이 아프단 말야.,,,,每次被說對不起，,小美的心就會揪緊地痛。,,0,0,0,0,0,0,0,0,0,,Translated
+1049,,ゆるしてって、ごめんって……,言わなきゃいけないのは、,ミクのほうなのに。,,Especially since I'm the one who should apologize.,,,,"용서해 달라고, 미안하다고……이런 말은 미쿠가 해야 할 말이잖아.",,,,原諒我、對不起……,應該說這些話的，,明明是小美才對。,0,0,0,0,0,0,0,0,0,,Translated
+1050,,ミクだって本気でお母さんを責めたりなんて,してない。自分でもなんであんなこと言ったのか,分かんないし、後悔はしてる。,,I'd never blame my mom for this. I don't know why,"I say that stuff to her, but I feel awful about it.",,,"미쿠는 엄마를 진심으로 원망한거나 그러지 않는다고. 나 자신도 왜 그런 말 했는지 모르겠고, 나 후회하고 있어.",,,,小美也沒有真的在責怪媽媽。,自己也不知道為什麼會說那種話，,也很後悔。,0,0,0,0,0,0,0,0,0,,Translated
+1051,,……ちゃんと謝っておけばよかった……。, , ,,...I should've apologized when I still could...,,,,……잘 사과해 둘걸…….,,,,……早知道就好好道歉了……。,,,0,0,0,0,0,0,0,0,0,,Translated
+1052,美九,ミク……まだ、こんなとこで死ねない, , ,Miku,...No. I'm not going to die here.,,,미쿠,미쿠……아직 여기서 죽어선 안돼,,,美九,小美……還不能在這種地方死掉,,,1,232,35,1,0,0,0,0,0,,Translated
+1053,美九,（……暗いな……。,　でも、もしかしたら涼香いるかも……）, ,Miku,(It's so dark...but maybe Ryoka is in here.),,,미쿠,（……너무 어두워…… 하지만 료코가 있을지도 몰라……）,,,美九,（……好暗……。,　但是，說不定涼香也在……）,,1,0,0,0,0,0,0,0,0,,Translated
+1054,美九,ヒュー……,涼香、いる？　ミクだよ……！, ,Miku,"*wheeze* Ryoka, you there? It's me, Miku!",,,미쿠,"후우…… 료코, 들려?　나 미쿠야……!",,,美九,呼……,涼香，在嗎？　我是小美……！,,1,168,35,1,0,0,0,0,0,,Translated
+1055,美九,………, , ,Miku,...,,,미쿠,…………,,,美九,………,,,1,169,35,1,0,0,0,0,0,,Translated
+1056,美九,――涼香！！！, , ,Miku,Ryoka!,,,미쿠,――료코!!!,,,美九,——涼香！！！,,,1,233,35,1,0,0,0,0,0,,Translated
+1057,美九,なんでよ！　あれ下に行く階段だよね！,外に出たいんだけど！, ,Miku,Come ON! That's the way down! I want to go outside,already!,,미쿠,왜 이래!　저거 아래로 가는 계단인데!　나 밖에 나가고 싶단 말야!,,,美九,為什麼啊！　那是往下的樓梯吧！,我想出去啊！,,1,150,35,1,0,0,0,0,0,,Translated
+1058,,“天神小事件”伝説の生存者！,顔写真付きで晒されてた……たしか,持田、哲志さん。,,It's the Legendary Survivor of the Heavenly Host,Incident! I saw his picture on the internet. I think,his name is Satoshi Mochida?,,"""텐진초등학교"""" 전설의 생존자!　얼굴 사진이 공개되어 있었어……틀림없이 모치다 사토시 님.",,,,"「天神小事件」傳說中的生存者！,有附照片被公開了……好像是,持田、哲志先生。",,,0,0,0,0,0,0,0,0,0,,Translated
+1059,,本当にいたんだ！, , ,,I can't believe it's really him!,,,,진짜였잖아!,,,,真的存在！,,,0,0,0,0,0,0,0,0,0,,Translated
+1060,,悪者への構えを解かずに、,こっちを振り返った哲志さんの姿は,ネットの噂通りの、風格さえ感じた。,,"He never let his guard down around that guy, even",when making sure we were okay. He had an air of ,"fearlessness about him, just like the rumors said.",,빈틈없이 악한 자에 맞서면서 우리를 살피는 사토시의 모습은 소문대로의 품격이 느껴졌다.,,,,面對邪惡毫不鬆懈，,回過頭來的哲志先生的身影,如同網路傳聞般，甚至讓人感到威嚴。,0,0,0,0,0,0,0,0,0,,Translated
+1061,,とにかく――これ以上ないほど格好良く、,ミクの目には映ったんだ。, ,,"And in that moment, he seemed like the coolest, most",badass person in the world to me.,,,어찌됐건――미쿠의 눈에는 이 이상으로 누군가가 더 멋지게 보인 적은 없었을 정도였다.,,,,總而言之——在小美眼中，,他帥氣得無以復加。,,0,0,0,0,0,0,0,0,0,,Translated
+1062,美九,涼香……大丈夫？,, ,Miku,Ryoka... Are you okay?,,,미쿠,료코……괜찮아?,,,美九,涼香……沒事吧？,,,1,17,36,1,0,0,0,0,0,,Translated
+1063,涼香,大……じょ……っ, , ,Ryoka,Yeah... I'm...,,,료코,괜……찮……윽,,,涼香,沒……事……,,,1,199,32,1,0,0,0,0,0,,Translated
+1064,美九,涼香？！,……涼香……気絶しただけか, ,Miku,Ryoka?! ...She's okay. She just passed out.,,,미쿠,료코?!　……료코……기절한 건가?,,,美九,涼香？！,……涼香……只是昏過去了嗎,,1,18,36,1,0,0,0,0,0,,Translated
+1065,哲志,君たち、無事で良かった。,頑張ったな。, ,Satoshi,I'm sure glad you guys are safe. Good job on,making it this far.,,사토시,너희들 무사해서 다행이다. 잘 해냈어.,,,哲志,你們沒事真是太好了。,辛苦了。,,1,57,32,1,0,0,0,0,0,,Translated
+1066,哲志,喘息の発作、出てたみたいだけど,……平気かい？, ,Satoshi,It looked like you had an asthma attack back there.,Are you okay now?,,사토시,천식이 발작한 듯 한데……괜찮은거니?,,,哲志,剛才好像氣喘發作了,……還好嗎？,,1,58,32,1,0,0,0,0,0,,Translated
+1067,美九,はい、だいぶ収まって……というか,……あの！　すごいです！,伝説に会えました！！！,Miku,"Yeah, it's subsided for now--but forget about that,",this is so! COOL! I actually get to meet a,real-life legend!,미쿠,"""""네, 많이 수그러들었어요…… 그보다…… 저기요! 너무 대단하세요!　저 전설과 만난 기분이에요!!!""",,,美九,是的，已經好多了……話說,……那個！　太厲害了！,見到傳說了！！！,1,19,36,1,0,0,0,0,0,,Translated
+1068,哲志,…………。　　　,へ？　伝説？, ,Satoshi,Huh? A what now?,,,사토시,………….　엉? 전설?,,,哲志,…………。,啥？　傳說？,,1,59,32,1,0,0,0,0,0,,Translated
+1069,美九,はい！　ミクたちの時代では, , ,Miku,"In my time, you're a legend!",,,미쿠,네! 미쿠가 사는 시대에선,,,美九,是的！　在小美們的時代,,,1,20,36,1,0,0,0,0,0,,Translated
+1070,哲志,君たちの、時代……？, , ,Satoshi,...What do you mean 'your' time?,,,사토시,너희들이 사는 시대……?,,,哲志,你們的、時代……？,,,1,60,32,1,0,0,0,0,0,,Translated
+1071,美九,哲志さん。あなたがここに飛ばされる前……,おまじないを行った日は、西暦何年ですか？, ,Miku,"Satoshi, what year was it when you came here? On the",day you did the charm?,,미쿠,사토시님. 사토시님이 여기에 오기 전……주술을 행한 시간은 어느 해 였나요?,,,美九,哲志先生。在你被傳送到這裡之前……,實施咒語的那天，是西元幾年？,,1,21,36,1,0,0,0,0,0,,Translated
+1072,哲志,？　２００８年だけど。,……今年は２００８年だよね？, ,Satoshi,"Uh... 2008. It's still 2008, right?",,,사토시,? ２００８년인데……금년 ２００８년 아냐?,,,哲志,？　2008年啊。,……今年是2008年對吧？,,1,61,32,1,0,0,0,0,0,,Translated
+1073,美九,ミクたちは、２０２０年なんです。今年。,不思議な石を手に持っておまじないをしたら、,哲志さんのいるこの時代に。,Miku,We did it in 2020. I performed the ritual while,"holding these weird stones, and we ended up",traveling to your time.,미쿠,미쿠의 금년은 ２０２０년이에요. 이상한 돌을 손에 들고 주술을 하였더니 사토시 님의 이 시대로...,,,美九,小美們是2020年。今年。,拿著奇怪的石頭實施咒語後，,來到了哲志先生所在的這個時代。,1,22,36,1,0,0,0,0,0,,Translated
+1074,哲志,…………, , ,Satoshi,You don't say...,,,사토시,…………,,,哲志,…………,,,1,62,32,1,0,0,0,0,0,,Translated
+1075,美九,……あの！　動画撮ってもいいですか？, , ,Miku,"...Oh, that reminds me! Would it be okay if",I recorded a video with you?,,미쿠,……저기요! 동영상 촬영해도 되나요?,,,美九,……那個！　可以錄影嗎？,,,1,23,36,1,0,0,0,0,0,,Translated
+1076,哲志,え？　ケータイで……,写真じゃなくて？　別にいいけど……, ,Satoshi,What? You can do that with a phone in your time?,"I mean, sure, go ahead.",,사토시,어? 휴대폰으로……사진 아니고?　딱히 안될 건 없지만……,,,哲志,欸？　用手機……,不是拍照？　是沒關係啦……,,1,63,32,1,0,0,0,0,0,,Translated
+1077,美九,ありがとうございます！, , ,Miku,Thanks a million!,,,미쿠,감사합니다!,,,美九,非常感謝！,,,1,24,36,1,0,0,0,0,0,,Translated
+1078,美九,（やった！　伝説の人と一緒に異世界レポ……,　戻ったら動画上げて絶対バズらせるから！）, ,Miku,(Yes! A paranormal adventure with the Legendary,Survivor... This is gonna blow up for sure when,I upload it!),미쿠,（좋았어! 전설의 인물과 함께 다른 세상의 기록……돌아가서 동영상 올리면 반드시 대박 터질 거야!）,,,美九,（太好了！　和傳說中的人一起異世界報導……,　回去後上傳影片絕對會爆紅！）,,1,0,0,0,0,0,0,0,0,,Translated
+1079,哲志,……じゃあ、えっと。,君たちは未来から、この時代……２００８年の,天神小に飛ばされてきたわけ？,Satoshi,"So that means, uh...you two were sent to the 2008","version of Heavenly Host? I mean, 'my' version?",,사토시,"……잠깐, 그러니까 너희들은 미래에서 이 시대……2008년의 텐진초등학교로 보내져 왔다는거니?",,,哲志,……那麼，嗯。,你們是從未來，被傳送到這個時代……2008年的,天神小學校來的？,1,64,32,1,0,0,0,0,0,,Translated
+1080,美九,突飛な話ですけれど、そうだと思うんです。,……割と柔軟ですね、哲志さん, ,Miku,"I know it sounds crazy, but yeah, I think that's",what happened...though you seem pretty unfazed by,all of this.,미쿠,"말도 안되는 말처럼 들리실 수도 있겠지만 아마도 그런 거 같아요.……근데 별로 놀라지 않으시네요, 사토시 님.",,,美九,雖然聽起來很離奇，但我想是這樣的。,……您還挺能接受的嘛，哲志先生,,1,25,36,1,0,0,0,0,0,,Translated
+1081,哲志,異世界……というか。こんな学校が,ある時点で、もう理解を超えてるからね, ,Satoshi,"Well, the fact that we ended up in another dimension","--or rather, that a place like this even exists,",means I'm willing to believe anything at this point.,사토시,다른 세상……이랄까. 이런 학교가 존재한다는 사실 자체가 이미 상식을 벗어났으니까.,,,哲志,異世界……應該說。這樣的學校,存在的這個事實，已經超出理解範圍了,,1,65,32,1,0,0,0,0,0,,Translated
+1082,哲志,君はうそをつくようには見えないから……,きっとそうなんだろ, ,Satoshi,"And I don't think you're lying to me, so...that has",to be the truth.,,사토시,넌 거짓말을 할 애로는 보이지 않으니까……그렇지?,,,哲志,因為你看起來不像會說謊的人……,一定是這樣吧,,1,66,32,1,0,0,0,0,0,,Translated
+1083,美九,――……, , ,Miku,...,,,미쿠,…………,,,美九,——……,,,1,26,36,1,0,0,0,0,0,,Translated
+1084,哲志,１０年後の未来では、俺は,生存者って言われているの？, ,Satoshi,...So do they really call me a 'survivor' about,a decade from now?,,사토시,"10년 후의 미래에서 나, 생존자로 불리우는건가?",,,哲志,十年後的未來，,我被稱為生存者嗎？,,1,67,32,1,0,0,0,0,0,,Translated
+1085,美九,はい！　伝説です伝説！, , ,Miku,Yeah! 'The Legendary Survivor'!,,,미쿠,"네! 전설이에요, 전설!",,,美九,是的！　是傳說啊傳說！,,,1,27,36,1,0,0,0,0,0,,Translated
+1086,哲志,……ふふっ, , ,Satoshi,...Heh.,,,사토시,……하핫,,,哲志,……呵呵,,,1,68,32,1,0,0,0,0,0,,Translated
+1087,,哲志は、優しく笑い,美九の頭を撫でました。, ,,Satoshi smiles gently as he pats Miku on the head.,,,사토시,사토시는 상냥하게 웃으며 미쿠의 머리를 쓰다듬었다.,,,,哲志溫柔地笑著，,摸了摸美九的頭。,,0,0,0,0,0,0,0,0,0,,Translated
+1088,美九,っ……！,, ,Miku,Ah...!,,,미쿠,……!,,,美九,……！,,,1,28,36,1,0,0,0,0,0,,Translated
+1089,哲志,――ありがとう。元気出た。,仲間と一緒に、きっと帰るよ, ,Satoshi,Thanks. I needed to hear that. I know I'll make it,home with my friends.,,사토시,――고마워. 힘이 나네. 꼭 친구랑 함께 돌아갈 수 있을거야.,,,哲志,——謝謝。我打起精神了。,和夥伴們一起，一定能回去,,1,69,32,1,0,0,0,0,0,,Translated
+1090,美九,ミク達も心強いです。,哲志さんと一緒ならきっと, ,Miku,"We feel better, too, knowing that you're with us!",,,미쿠,저희도 마음이 든든해졌어요. 사토시 님과 함께라면 꼭…,,,美九,小美們也覺得很有依靠。,和哲志先生一起的話一定能,,1,29,36,1,0,0,0,0,0,,Translated
+1091,哲志,うん、でも気を緩めずに行こう。,未来はちょっとしたきっかけで,変わってくと思う,Satoshi,Yeah...but we can't relax just yet. Anything could,end up changing the future.,,사토시,응. 그러나 긴장은 풀지 않는게 좋아. 미래는 작은 일로 인하여 크게 변화한다고 생각해.,,,哲志,嗯，但不能鬆懈。,未來可能會因為,小小的契機而改變,1,70,32,1,0,0,0,0,0,,Translated
+1092,美九,……, , ,Miku,...,,,미쿠,……,,,美九,……,,,1,30,36,1,0,0,0,0,0,,Translated
+1093,哲志,この学校は、,『生きていたかった人』であふれている。,君達のいた未来に向かうためにも……,Satoshi,This school is full of people who didn't want to,die. So to make sure we live to see your future...,,사토시,이 학교에는 『살고싶었던 사람들』로 넘쳐나. 너희들이 살고 있던 미래로 향하기 위해서라도……,,,哲志,這所學校裡，,充滿了「想要活下去的人」。,為了走向你們所在的未來……,1,71,32,1,0,0,0,0,0,,Translated
+1094,哲志,いや、もっと沢山の人が生き残って,『全員生存者』になる、,ずっといい未来に変えていくために,Satoshi,"No--to make sure lots of other people survive, and",that we create a far better future...,,사토시,"아니, 더 많은 사람들이 생존하여 『전원 생존자』로, 더 좋은 미래를 만들기 위하여",,,哲志,不，為了讓更多的人活下去,成為「全員生存者」，,創造更好的未來,1,72,32,1,0,0,0,0,0,,Translated
+1095,哲志,“現在”の俺たちが頑張らないとな！, , ,Satoshi,"We gotta keep moving forward. Right here, right now!",,,사토시,"""지금""""의 우리들이 힘을 내야 해!",,,哲志,「現在」的我們必須努力！,,,1,73,32,1,0,0,0,0,0,,Translated
+1096,美九,……はい……！, , ,Miku,Yeah!,,,미쿠,……네……!,,,美九,……是的……！,,,1,31,36,1,0,0,0,0,0,,Translated
+1097,哲志,よし、じゃぁ一緒に……, , ,Satoshi,"All right, then let's get--",,,사토시,"""""좋아, 그럼 우리 함께……""",,,哲志,好，那我們一起……,,,1,79,36,1,0,0,0,0,0,,Translated
+1098,哲志,うわっ？！, , ,Satoshi,whoa!,,,사토시,으와앗?!,,,哲志,哇？！,,,1,105,36,1,0,0,0,0,0,,Translated
+1099,美九,きゃぁ！！！, , ,Miku,Aaah!,,,미쿠,꺄아아!!!,,,美九,啊啊！！！,,,1,211,35,1,0,0,0,0,0,,Translated
+1100,美九,……ふう……おさまった……,何なんです？,この校舎、時々揺れますけど……あれ？,Miku,"Phew, it finally stopped... What's with this place?",It keeps shaking all the... Huh?,,미쿠,……후우……잠잠해졌어……뭐죠?　이 학교 때때로 심하게 흔들리는거……엥?,,,美九,……呼……停止了……,什麼啊？,這所校舍，偶爾會搖晃……咦？,1,32,36,1,0,0,0,0,0,,Translated
+1101,美九,哲志さん……。,哲志さん？　あれ？, ,Miku,Satoshi...? Satoshi? Where'd you go?,,,미쿠,사토시 님……. 사토시 님?　어라?,,,美九,哲志先生……。,哲志先生？　咦？,,1,33,36,1,0,0,0,0,0,,Translated
+1102,涼香,ん……,美九ちゃん……わたし……, ,Ryoka,Mmm... Miku...,,,료코,아……미쿠……나……,,,涼香,嗯……,美九……我……,,1,202,32,1,0,0,0,0,0,,Translated
+1103,美九,涼香！　気が付いた？,大丈夫？, ,Miku,Ryoka! You're awake! Are you okay?,,,미쿠,료코!　정신이 들어?　괜찮아?,,,美九,涼香！　你醒了？,沒事吧？,,1,34,36,1,0,0,0,0,0,,Translated
+1104,涼香,うん、凄い揺れだったね……,どうしたの？　きょろきょろして, ,Ryoka,"Yeah. That was one big earthquake, huh? ",...Is something wrong? You look a bit frantic.,,료코,"응, 굉장한 진동이였어……왜그래? 왜 두리번거려?",,,涼香,嗯，好大的搖晃呢……,怎麼了？　東張西望的,,1,203,32,1,0,0,0,0,0,,Translated
+1105,美九,哲志さんがいないの。,いまここで喋ってたんだけど……,ネットにも書かれてた、“伝説の生存者”だよ,Miku,"I can't find Satoshi anywhere! You know, that",Legendary Survivor mentioned on the internet? We ,were talking here just a second ago...,미쿠,"""사토시님 어디갔지? 방금전까지 여기서 서로 얘기 나눴었는데……인터넷에서도 봤었던 그 """"전설의 생존자""""""",,,美九,哲志先生不見了。,剛剛還在這裡說話的……,網路上也寫到的「傳說中的生存者」啊,1,35,36,1,0,0,0,0,0,,Translated
+1106,涼香,哲志さん……？, , ,Ryoka,Satoshi...?,,,료코,사토시님……?,,,涼香,哲志先生……？,,,1,204,32,1,0,0,0,0,0,,Translated
+1107,美九,哲志さーん！　どこですか！？,……いないって……？　なんで？　哲志さーん！, ,Miku,Satoshiii! Where are you?! Is he...gone? Satoshiii!,,,미쿠,사토시니임! 어디 계세요!?　……왜 안보여……?　왜지?　사토시니임!,,,美九,哲志先生——！　你在哪裡！？,……不見了……？　為什麼？　哲志先生——！,,1,36,36,1,0,0,0,0,0,,Translated
+1108,涼香,み、美九ちゃん。,本当に、そんな人――存在していたの？, ,Ryoka,"M-Miku... Are you sure this person, uh...actually",existed?,,료코,"미, 미쿠. 그런 사람 진짜로――있긴 한거야?",,,涼香,美、美九。,那個，那個人——真的存在過嗎？,,1,205,32,1,0,0,0,0,0,,Translated
+1109,美九,いたよ！,……そだ！　動画でいま撮ってたんだ……,ほら観て！,Miku,"Of course, he was right there! Oh, I know! Check",this out--I took a video of him!,,미쿠,당연하지!　……맞아!　동영상도 촬영해 놓았는걸……이것 봐!,,,美九,存在啊！,……對了！　我剛剛錄了影片……,你看！,1,37,36,1,0,0,0,0,0,,Translated
+1110,美九,ほら！　……。　　　　,……あれ？, ,Miku,See! He's... Huh?,,,미쿠,봐봐!　…….　　　　……어라?,,,美九,你看！　……。,……咦？,,1,38,36,1,0,0,0,0,0,,Translated
+1111,,そこには、先ほどの少年の姿は,写っていませんでした……。, ,,The boy from before isn't in the video at all.,,,,화면에는 방금 전의 소년의 모습은 보이지 않았다…….,,,,那裡並沒有拍到剛才那個少年的身影……。,,,0,0,0,0,0,0,0,0,0,,Translated
+1112,美九,どうして……？,ミクがひとりで喋ってる……, ,Miku,But...what? I'm just talking to myself...,,,미쿠,대체 왜……?　미쿠는 혼잣말로 중얼거렸다……,,,美九,為什麼……？,小美一個人在說話……,,1,39,36,1,0,0,0,0,0,,Translated
+1113,,――追い詰められた自分の脳が、,ネットで観た情報を思い出して,幻覚でも見せたのだろうか。,,Did my brain just hallucinate all that after being,pushed to its breaking point?,,,――막다른 곳으로 내몰린 자신의 뇌가 인터넷에서 본 내용에 근거하여 환각이라도 만들어 내었던 건가.,,,,——是被逼到絕境的自己的腦子，,想起了網路上看到的情報，,產生了幻覺嗎。,0,0,0,0,0,0,0,0,0,,Translated
+1114,,でも、幻であれ何であれ、,“伝説の生存者”の言葉を聞いたんだ。, ,,"Well, even if I hallucinated it, I heard what the",Legendary Survivor had to say to me.,,,"""하지만 환각이 옳든 아니든 """"전설의 생존자""""의 말은 분명 제대로 들었다.""",,,,但是，無論是幻覺還是什麼，,我聽到了「傳說中的生存者」的話語。,,0,0,0,0,0,0,0,0,0,,Translated
+1115,,ミクのなかに、勇気が生まれた。, , ,,His words gave me new courage.,,,,미쿠의 마음속엔 용기가 생겼다.,,,,小美的心中，,萌生了勇氣。,,0,0,0,0,0,0,0,0,0,,Translated
+1116,美九,（哲志さん……ありがとう）,, ,Miku,(Satoshi... Thank you.),,,미쿠,（사토시님……고마워요）,,,美九,（哲志先生……謝謝你）,,,1,0,0,0,0,0,0,0,0,,Translated
+1117,美九,絶対抜け出そう。こんな異世界の廃校。,動画アップしないと死にきれないし。,ていうか……涼香！,Miku,We're gonna get the hell out of this trash heap of,a school. I can't die until I upload this video!,But more importantly...Ryoka!,미쿠,"꼭 여길 빠져나가겠어. 이런 이세계의 페교, 동영상 촬영해서 사람들에게 알리지 않았다간 끊임없이 피해자가 생겨. 그보다……료코!",,,美九,一定要逃出去。這種異世界的廢校。,不把影片上傳的話死也不能瞑目。,而且……涼香！,1,40,36,1,0,0,0,0,0,,Translated
+1118,美九,生きててくれてホントありがと……, , ,Miku,Thanks for not dying on me... I mean it.,,,미쿠,살아있어 줘서 미치도록 고마워……,,,美九,謝謝你活著……真的,,,1,41,36,1,0,0,0,0,0,,Translated
+1119,涼香,……ん。えへへへ。,美九ちゃんも……！, ,Ryoka,Yeah... Heeheehee. I could say the same about you!,,,료코,……응. 에헤헷. 미쿠도……!,,,涼香,……嗯。嘿嘿嘿。,美九也是……！,,1,206,32,1,0,0,0,0,0,,Translated
+1120,美九・涼香,……ふふ、あははははは……！, , ,Miku & Ryoka,Heehee... Ahahahaha!,,,미쿠&료코,"……하핫, 하하하하하……!",,,美九・涼香,……呵呵、啊哈哈哈哈……！,,,1,0,0,0,0,0,0,0,0,,Translated
+1121,,……二人の脱出劇は,これから始まる……。, ,,The story of their escape begins here...,,,,……두 소녀의 탈출극은 여기서부터…….,,,,……兩人的逃脫劇,從現在開始……。,,0,0,0,0,0,0,0,0,0,,Translated
+1122,,Prepare for the next“Heavenly Host”..., , ,,"Prepare for the next ""Heavenly Host""...",,,,"""그럼 이제 다음의 """"주인""""을 만날 준비를…""",,,,Prepare for the next“Heavenly Host”...,,,0,0,0,0,0,0,0,0,0,,Translated
+1123,,……黒いフードを着込んだ女性が、,“白夢美九の診察券”を拾い上げました……。, ,,A woman wearing a black hood picks up a patient,registration card for 'Miku Shirayume.',,,"""……검은 후드를 걸친 여인이 """"시로유메 미쿠의 진찰권""""을 주워 올린다……""",,,,……一個身穿黑色連帽衣的女性，,撿起了「白夢美九的診察卡」……。,,0,0,0,0,0,0,0,0,0,,Translated
+1124,？？？,…………肺の病気。,あの病院のペイシェントね, ,???,"Lung disease... So she's a patient at that hospital,",is she?,,？？？,…………폐의 병이라. 그 병원의 환자네.,,,？？？,…………肺部的疾病。,那家醫院的病人呢,,1,0,0,0,0,0,0,0,0,,Translated
+1125,？？？,ふーん……, , ,???,"Well, well, well...",,,？？？,흐으음……,,,？？？,嗯～……,,,1,0,0,0,0,0,0,0,0,,Translated
+1126,,【理科室】,扉は、模型のようにガチリと壁に固定され,開ける事が出来ません。,,Science room,The door is firmly fixed to the wall like a model ,and cannot be opened.,,【과실】 문은 모형처럼 가찌리와 벽에 고정 된 열 수가 없습니다.,,,,【理科室】,門像模型一樣牢牢固定在牆上，,無法打開。,0,0,0,1,0,0,0,0,0,,Translated
+1127,,ろうかを　はしらない, , ,,No running in the halls.,,,,복도를 달리지 않는다,,,,不要在走廊上奔跑,,,0,0,0,1,0,0,0,0,0,,Translated
+1128,,はしった　せいとは　厳罰に処す, , ,,Any student caught running will be severely,disciplined.,,,나거나 바람은 엄벌에 처한다,,,,奔跑的學生將受到嚴懲,,,0,0,0,1,0,0,0,0,0,,Translated
+1129,美九,きゃっ！, , ,Miku,Eek!,,,미쿠,기익!,,,美九,呀！,,,1,148,35,1,0,0,0,0,0,,Translated
+1130,,床にはさまっている板切れが,ひび割れ、落ちそうになっています。, ,,A cracked plank of wood lies wedged in the floor.,Looks like it could fall at any moment.,,,바닥에 끼여져 있는 널판자가 ,떨어져 나갈 듯한 상태로 있습니다.,,,夾在地板縫中的木板,已經裂開，快要掉下來了。,,0,0,0,1,0,0,0,0,0,,Translated
+1131,,板が欠けて短くなってしまい、,この床の裂け目に橋をかけることが,出来ません。,,The broken board is too short to bridge the gap in ,the floor.,,,널판자 조각이 떨어져 나가 짧아져 바닥의 틈에 다리를 놓을 수가 없게 되었습니다.,,,,木板缺了一塊變短了，,無法在這地板的裂縫上,架橋。,0,0,0,1,0,0,0,0,0,,Translated
+1132,,落ちそうになっている板切れを,取りますか？　, ,,The plank of wood wedged in the floor looks like it ,could fall at any moment.,Take it with you?,,바닥에 끼여져 있는 널판자가 ,떨어져 나갈 듯한 상태로 있습니다. ,줍겠습니까?,,要把快要掉下來的木板,拿走嗎？,,0,0,0,1,0,0,0,0,0,,Translated
+1133,,取る,取らない,,,Yes,No,,,가지고,가지고 가지 않는다,,,拿,不拿,,0,255,255,255,255,255,255,255,255,,Translated
+1134,,ボロの板切れ　を取りました。, , ,,I took a piece of rag board.,,,,보 널판지　를 취했습니다.,,,,拿到了破爛的木板。,,,0,0,0,1,0,0,0,0,0,,Translated
+1135,美九,……暗い……！,なにこれ……, ,Miku,It's so dark... What's with this place?,,,미쿠,……어두워……!　이거 뭐야……,,,美九,……好暗……！,這是什麼……,,1,149,35,1,0,0,0,0,0,,Translated
+1136,,男子学生用厠と書かれています。, , ,,It says 'Boys' Lavatory.',,,,남자 화장실이라 쓰여져 있습니다.,,,,寫著「男學生用廁所」。,,,0,0,0,0,0,0,0,0,0,,Translated
+1137,,……よく見ると、,入り口に小さな男の子が座って,こちらを見ています……。,,Sitting at the entrance is a small boy staring in,this direction...,,,……잘 관찰해보니 입구에 어린 남자아이가 앉은 채 이쪽을 보고 있었다…….,,,,……仔細一看，,入口處坐著一個小男孩,正看著這邊……。,0,0,0,0,0,0,0,0,0,,Translated
+1138,美九,（……っこ、子供……？,　どうしてこんなところに……）, ,Miku,(A kid...? What's he doing here?),,,미쿠,"（……어, 어린 애……?　왜 이런 곳에……）",,,美九,（……小、小孩……？,　為什麼會在這種地方……）,,1,0,0,0,0,0,0,0,0,,Translated
+1139,＊＊＊,…………, , ,Child Spirit A,...,,,＊＊＊,…………,,,＊＊＊,…………,,,1,0,0,0,0,0,0,0,0,,Translated
+1140,美九,（……こわ、,　みなかったことにしよう……）, ,Miku,"Oookay, that's freaky. I'll just pretend I didn't ",see that.,,미쿠,"（……무셔, 못 본 걸로 하자……）",,,美九,（……好可怕，,　當作沒看到吧……）,,1,0,0,0,0,0,0,0,0,,Translated
+1141,美九,――！, , ,Miku,Eek!,,,미쿠,――！,,,美九,——！,,,1,200,35,1,0,0,0,0,0,,Translated
+1142,,よく見ると、,女子用厠の入り口から――, ,,Closer inspection of the entrance to the girls',lavatory reveals...,,,유심히 보니 여자 화장실 입구에――,,,,仔細一看，,從女生廁所的入口——,,0,0,0,0,0,0,0,0,0,,Translated
+1143,,小さな女の子が,じぃっとこちらを覗いています……。, ,,...a small girl staring intently in this direction.,,,,한 작은 여자애가 이쪽을 엿보고 있었다…….,,,,一個小女孩,正盯著這邊窺視……。,,0,0,0,0,0,0,0,0,0,,Translated
+1144,美九,よく見えないけど、あそこ,確かにいる……。,なんなのあの子……こんな廃校に,Miku,"I can't quite make her out, but I know she's ",there... What's a kid like her doing in this place?,,미쿠,"잘 보이진 않지만, 저쪽에 누군가 있는……. 뭐야 저 애……왜 이런 페교에",,,美九,雖然看不太清楚，但那邊,確實有人在……。,那孩子是什麼……在這種廢校裡,1,201,35,1,0,0,0,0,0,,Translated
+1145,,【 厠 】,　手前：男子生徒用　厠,　奥：女子生徒用　厠,,[Lavatories],BOYS ROOM to the left.,GIRLS ROOM at the end of the hall.,,【화장실】,앞 : 남학생 화장실 ,안쪽 : 여학생 화장실,,【廁所】,　前方：男學生用廁所,　深處：女學生用廁所,0,0,0,1,0,0,0,0,0,,Translated
+1146,美九,……っ！, , ,Miku,...,,,미쿠,……,,,美九,……！,,,1,202,35,1,0,0,0,0,0,,Translated
+1147,美九,……いっぱい……死んでる, , ,Miku,They're all...dead...,,,미쿠,……가득……죽어있어,,,美九,……好多……都死了,,,1,203,35,1,0,0,0,0,0,,Translated
+1148,,【本館２Ｆ・東通路】, , ,,【本館２Ｆ・東通路】, , ,,―,,,,【本館2F・東走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1149,,【本館２Ｆ・東通路】, , ,,【本館２Ｆ・東通路】, , ,,―,,,,【本館2F・東走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1150,,【本館２Ｆ・東通路】, , ,,【本館２Ｆ・東通路】, , ,,―,,,,【本館2F・東走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1151,,【本館２Ｆ・東通路】, , ,,【本館２Ｆ・東通路】, , ,,―,,,,【本館2F・東走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1152,,【本館１Ｆ・東通路】, , ,,【本館１Ｆ・東通路】, , ,,―,,,,【本館1F・東走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1153,,【犠牲者の手記】,（１／５）, ,,【犠牲者の手記】,（１／５）, ,,―,,,,【犧牲者的手記】,（1/5）,,0,0,0,1,0,0,0,0,0,,Translated
+1154,,　……大瀧君……光春君に、会いたい,　さっき幽霊が教えてくれた, ,,　......大瀧君......光春君に、会いたい,　さっき幽霊が教えてくれた, ,,―,,,,　……好想見大瀧同學……光春同學,　剛才幽靈告訴我的,,0,0,0,1,0,0,0,0,0,,Translated
+1155,,　……一緒に連れて来られたけど、,　別の空間に閉じ込められているから, ,,　......一緒に連れて来られたけど、,　別の空間に閉じ込められているから, ,,―,,,,　……雖然是一起被帶來的，,　但被關在不同的空間裡,,0,0,0,1,0,0,0,0,0,,Translated
+1156,,　……同じ校舎に居るのに、,　会えないらしい, ,,　......同じ校舎に居るのに、,　会えないらしい, ,,―,,,,　……明明在同一棟校舍裡，,　卻似乎見不到面,,0,0,0,1,0,0,0,0,0,,Translated
+1157,,　どうしてこんな目に遭うの　,　今日は予備校で数Ⅰの補講があったのに, ,,　どうしてこんな目に遭うの　,　今日は予備校で数Ⅰの補講があったのに, ,,―,,,,　為什麼會遇到這種事,　今天本來有補習班的數學Ⅰ補課的,,0,0,0,1,0,0,0,0,0,,Translated
+1158,,　さぼったらまたお姉ちゃん,　に怒られる, ,,　さぼったらまたお姉ちゃん,　に怒られる, ,,―,,,,　如果蹺課的話又會被姐姐,　罵,,0,0,0,1,0,0,0,0,0,,Translated
+1159,,　光春君と会えたら、こんなトコ,　抜け出せる気がする, ,,　光春君と会えたら、こんなトコ,　抜け出せる気がする, ,,―,,,,　如果能見到光春同學的話，,　感覺就能逃出這種地方,,0,0,0,1,0,0,0,0,0,,Translated
+1160,,　同じ学校にいるのなら、,　何か連絡をとる方法は,　……あるはずだよね,,　同じ学校にいるのなら、,　何か連絡をとる方法は,　......あるはずだよね,,―,,,,　既然在同一所學校裡，,　應該有辦法聯繫,　……才對,0,0,0,1,0,0,0,0,0,,Translated
+1161,,【本館１Ｆ・東通路】, , ,,【本館１Ｆ・東通路】, , ,,―,,,,【本館1F・東走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1162,,３階への道は塞がれています……。, , ,,The way to the third floor is blocked......,,,,―,,,,通往3樓的路被堵住了……。,,,0,0,0,0,0,0,0,0,0,,Translated
+1163,,【本館２Ｆ・西通路】, , ,,【本館２Ｆ・西通路】, , ,,―,,,,【本館2F・西走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1164,,【本館２Ｆ・西通路】, , ,,【本館２Ｆ・西通路】, , ,,―,,,,【本館2F・西走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1165,＊,ここで死ぬと……永遠に、死んだ瞬間の,痛みが続く……, ,＊,ここで死ぬと......永遠に、死んだ瞬間の,痛みが続く......, ,＊,―,,,＊,如果在這裡死掉的話……永遠、都會持續,死亡瞬間的痛苦……,,1,104,5,1,0,0,0,0,0,,Translated
+1166,＊,成仏への道は、,完全に閉ざされているからね……, ,＊,成仏への道は、,完全に閉ざされているからね......, ,＊,―,,,＊,因為通往成佛的道路，,完全被封閉了……,,1,105,5,1,0,0,0,0,0,,Translated
+1167,＊,……グゥ……。,どうして俺は……あんな死に方を,……あああぁ…,＊,......グゥ......。,どうして俺は......あんな死に方を,......あああぁ...,＊,―,,,＊,……嗚……。,為什麼我會……以那種方式死掉,……啊啊啊…,1,106,5,1,0,0,0,0,0,,Translated
+1168,＊,……うううううぅぅ！, , ,＊,......うううううぅぅ！, , ,＊,―,,,＊,……嗚嗚嗚嗚嗚！,,,1,107,5,1,0,0,0,0,0,,Translated
+1169,,不明の鍵　を取りました。, , ,,不明の鍵　を取りました。, , ,,―,,,,拿到了不明的鑰匙。,,,0,0,0,1,0,0,0,0,0,,Translated
+1170,直美,……死んだ瞬間の……,苦しみが、ずっと……って……, ,直美,......死んだ瞬間の......,苦しみが、ずっと......って......, ,直美,―,,,直美,……死亡瞬間的……,痛苦，會永遠……是說……,,1,177,10,1,0,0,0,0,0,,Translated
+1171,世以子,そ、想像しないでおこうよ……, , ,世以子,そ、想像しないでおこうよ......, , ,世以子,―,,,世以子,別、別去想像啊……,,,1,122,19,1,0,0,0,0,0,,Translated
+1172,世以子,……きゃっ！, , ,世以子,......きゃっ！, , ,世以子,―,,,世以子,……呀！,,,1,9,20,1,0,0,0,0,0,,Translated
+1173,世以子,も、もう……　地震いやーっ！, , ,世以子,も、もう......　地震いやーっ！, , ,世以子,―,,,世以子,又、又是……　地震不要啊～！,,,1,10,20,1,0,0,0,0,0,,Translated
+1174,世以子,おさまった……？, , ,世以子,おさまった......？, , ,世以子,―,,,世以子,停了……？,,,1,11,20,1,0,0,0,0,0,,Translated
+1175,世以子,だ、大丈夫だった？　直……, , ,世以子,だ、大丈夫だった？　直......, , ,世以子,―,,,世以子,沒、沒事吧？　直……,,,1,12,20,1,0,0,0,0,0,,Translated
+1176,世以子,…………, , ,世以子,............, , ,世以子,―,,,世以子,…………,,,1,13,20,1,0,0,0,0,0,,Translated
+1177,直美,痛ぃっ！　　　　　　, , ,直美,痛ぃっ！　　　　　　, , ,直美,―,,,直美,好痛！,,,1,221,10,1,1,0,0,0,0,,Translated
+1178,,【本館１Ｆ・西通路】, , ,,【本館１Ｆ・西通路】, , ,,―,,,,【本館1F・西走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1179,直美,痛ぃっ！　　　　　, , ,直美,痛ぃっ！　　　　　, , ,直美,―,,,直美,好痛！,,,1,221,10,1,1,0,0,0,0,,Translated
+1180,直美,あれ……？　この蝋燭……, , ,直美,あれ......？　この蝋燭......, , ,直美,―,,,直美,咦……？　這根蠟燭……,,,1,134,10,1,0,0,0,0,0,,Translated
+1181,直美,……なんか、見覚えある……, , ,直美,......なんか、見覚えある......, , ,直美,―,,,直美,……總覺得，好像在哪裡見過……,,,1,135,10,1,0,0,0,0,0,,Translated
+1182,直美,（世以子、ほったらかしはマズいよね……） , , ,直美,（世以子、ほったらかしはマズいよね......） , , ,直美,―,,,直美,（把世以子丟著不管不太妙吧……）,,,1,211,10,1,0,0,0,0,0,,Translated
+1183,世以子,直美！　大丈夫？　……あっぶない……！, , ,世以子,直美！　大丈夫？　......あっぶない......！, , ,世以子,―,,,世以子,直美！　沒事吧？　……好危險……！,,,1,159,19,1,0,0,0,0,0,,Translated
+1184,直美,んっ……あ、足が……　,……ありがと、腕つかんでくれて。, ,直美,んっ......あ、足が......　,......ありがと、腕つかんでくれて。, ,直美,―,,,直美,嗯……啊，腳……,……謝謝你抓住我的手臂。,,1,222,10,1,0,0,0,0,0,,Translated
+1185,世以子,ううん。……良かった、落っこちなくて。, , ,世以子,ううん。......良かった、落っこちなくて。, , ,世以子,―,,,世以子,不會。……太好了，沒有掉下去。,,,1,160,19,1,0,0,0,0,0,,Translated
+1186,世以子,足の捻挫、きつそうだね……,とりあえず、休めるトコで休みなよ。, ,世以子,足の捻挫、きつそうだね......,とりあえず、休めるトコで休みなよ。, ,世以子,―,,,世以子,腳扭傷看起來很嚴重呢……,總之，找個地方休息吧。,,1,161,19,1,0,0,0,0,0,,Translated
+1187,直美,……そう……だね。, , ,直美,......そう......だね。, , ,直美,―,,,直美,……說得……也是。,,,1,223,10,1,0,0,0,0,0,,Translated
+1188,世以子,ほら、私に肩のっけて。, , ,世以子,ほら、私に肩のっけて。, , ,世以子,―,,,世以子,來，靠在我肩上。,,,1,162,19,1,0,0,0,0,0,,Translated
+1189,直美,ありがと……世以子、助かるよ。, , ,直美,ありがと......世以子、助かるよ。, , ,直美,―,,,直美,謝謝……世以子，幫大忙了。,,,1,224,10,1,0,0,0,0,0,,Translated
+1190,世以子,気にしない、気にしない。, , ,世以子,気にしない、気にしない。, , ,世以子,―,,,世以子,別在意、別在意。,,,1,163,19,1,0,0,0,0,0,,Translated
+1191,直美,（これだけ探しても出口らしい場所は,見つからないし……足首、もう限界かも）, ,直美,（これだけ探しても出口らしい場所は,見つからないし......足首、もう限界かも）, ,直美,―,,,直美,（找了這麼多地方都沒有像出口的地方……,腳踝，大概到極限了）,,1,0,0,1,0,0,0,0,0,,Translated
+1192,直美,痛ぃっ！　　　　　　, , ,直美,痛ぃっ！　　　　　　, , ,直美,―,,,直美,好痛！,,,1,221,10,1,1,0,0,0,0,,Translated
+1193,,【本館１Ｆ・西通路】, , ,,【本館１Ｆ・西通路】, , ,,―,,,,【本館1F・西走廊】,,,0,0,0,0,0,0,0,0,0,,Translated
+1194,直美,……？　何か言った？　世以子。, , ,直美,......？　何か言った？　世以子。, , ,直美,―,,,直美,……？　你說了什麼？　世以子。,,,1,146,10,1,0,0,0,0,0,,Translated
+1195,世以子,うんにゃ？, , ,世以子,うんにゃ？, , ,世以子,―,,,世以子,沒有啊？,,,1,104,19,1,0,0,0,0,0,,Translated
+1196,直美,……そう……？, , ,直美,......そう......？, , ,直美,―,,,直美,……是嗎……？,,,1,147,10,1,0,0,0,0,0,,Translated
+1197,直美,（……何かの気配を感じたんだけど……）, , ,直美,（......何かの気配を感じたんだけど......）, , ,直美,―,,,直美,（……感覺到了什麼氣息……）,,,1,148,10,1,0,0,0,0,0,,Translated
+1198,,３階への道は塞がれています……, , ,,The way to the third floor is blocked......,,,,―,,,,通往3樓的路被堵住了……,,,0,0,0,1,0,0,0,0,0,,Translated
+1199,,【保健室】,何かに阻まれて、入れません……, ,,【保健室】,何かに阻まれて、入れません......, ,,―,,,,【保健室】,被什麼東西擋住，進不去……,,0,0,0,1,0,0,0,0,0,,Translated
+1200,世以子,……うそ……　床が壊れてる……！, , ,世以子,......うそ......　床が壊れてる......！, , ,世以子,―,,,世以子,……不會吧……　地板壞了……！,,,1,16,20,1,0,0,0,0,0,,Translated
+1201,世以子,今の、地震のせい……？, , ,世以子,今の、地震のせい......？, , ,世以子,―,,,世以子,是剛才的地震造成的……？,,,1,17,20,1,0,0,0,0,0,,Translated
+1202,世以子,やだ……　直美ぃーっ……！, , ,世以子,やだ......　直美ぃーっ......！, , ,世以子,―,,,世以子,不要……　直美——……！,,,1,18,20,1,0,0,0,0,0,,Translated
+1203,世以子,……うそ……　床が壊れてる……！, , ,世以子,......うそ......　床が壊れてる......！, , ,世以子,―,,,世以子,……不會吧……　地板壞了……！,,,1,16,20,1,0,0,0,0,0,,Translated
+1204,世以子,今の、地震のせい……？, , ,世以子,今の、地震のせい......？, , ,世以子,―,,,世以子,是剛才的地震造成的……？,,,1,17,20,1,0,0,0,0,0,,Translated
+1205,世以子,やだ……　直美ぃーっ……！, , ,世以子,やだ......　直美ぃーっ......！, , ,世以子,―,,,世以子,不要……　直美——……！,,,1,18,20,1,0,0,0,0,0,,Translated
+1206,世以子,…………。, , ,世以子,............。, , ,世以子,―,,,世以子,…………。,,,1,15,20,1,0,0,0,0,0,,Translated
+1207,世以子,直美……大丈夫かな……, , ,世以子,直美......大丈夫かな......, , ,世以子,―,,,世以子,直美……沒事吧……,,,1,14,20,1,0,0,0,0,0,,Translated
+1208,,【理科室】, , ,,【理科室】, , ,,―,,,,【理科室】,,,0,0,0,0,0,0,0,0,0,,Translated
+1209,,扉に鍵がかかっています。, , ,,扉に鍵がかかっています。, , ,,―,,,,門上鎖了。,,,0,0,0,0,0,0,0,0,0,,Translated
+1210,,何か、橋になるようなものでもあれば……, , ,,何か、橋になるようなものでもあれば......, , ,,―,,,,如果有什麼可以當橋的東西的話……,,,0,0,0,0,0,0,0,0,0,,Translated
+1211,,何か、橋になるようなものでもあれば……, , ,,何か、橋になるようなものでもあれば......, , ,,―,,,,如果有什麼可以當橋的東西的話……,,,0,0,0,0,0,0,0,0,0,,Translated
+1212,世以子,そだ直美、さっきの板、使えないかな？, , ,世以子,そだ直美、さっきの板、使えないかな？, , ,世以子,―,,,世以子,對了直美，剛才的木板，能用嗎？,,,1,0,0,0,0,0,0,0,0,,Translated
+1213,直美,橋に？　なるかなぁ、相当ボロボロだけど……, , ,直美,橋に？　なるかなぁ、相当ボロボロだけど......, , ,直美,―,,,直美,當橋？　不知道行不行，雖然很破爛……,,,1,0,0,0,0,0,0,0,0,,Translated
+1214,,使う,使わない,,,使う,使わない,,,―,,,,使用,不使用,,0,255,255,255,255,255,255,255,255,,Translated
+1215,,ボロの板切れ　を使った！,,,,ボロの板切れ　を使った！,,,,―,,,,使用了破爛的木板！,,,0,0,0,0,1,0,0,0,0,,Translated
+1216,,test, , ,,test, , ,,test, , ,,test,,,0,0,0,1,0,0,0,0,0,,Translated
+1217,,test2, , ,,test2, , ,,test2, , ,,test2,,,0,0,0,1,0,0,0,0,0,,Translated

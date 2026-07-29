@@ -1,0 +1,55 @@
+﻿DataRow,Key,Context1,Context2,Slot,JP,EN,KO,TC,Notes,Status
+2,1,998,998,0,はい,Yes,예,是,,Translated
+3,2,999,999,0,いいえ,No,아니오,否,,Translated
+4,3,1,1,0,中断データがありません,No temp save data,이어하기 데이터가 없습니다.,沒有中斷存檔。,,Translated
+5,4,2,2,0,再開しますか？,Resume play?,재진행 하시겠습니까?,要繼續遊戲嗎？,,Translated
+6,5,3,3,0,中断セーブをしますか？,Create temporary save data?,이어하기 데이터를 저장하시겠습니까?,要建立中斷存檔嗎？,,Translated
+7,6,4,3,0,終了しますか？,Do you wish to exit?,게임을 종료하시겠습니까?,要結束遊戲嗎？,,Translated
+8,7,5,3,0,このスロットにはすでにデータがあります。/n上書きしますか？,There is already data in this slot. Do you want to overwrite it?,해당 슬롯에 데이터가 존재합니다. 겹쳐쓰시겠습니까?,此存檔欄位已有存檔資料。/n是否要覆蓋？,,Translated
+9,8,6,3,0,初期化しますか？,Revert to default settings?,초기화 하시겠습니까?,要恢復預設設定嗎？,,Translated
+10,9,101,1,0,Chapter 1が開放されました。,Chapter 1 has been unlocked.,챕터 1이 열렸습니다.,Chapter 1 已解鎖。,,Translated
+11,10,102,1,0,Chapter 2が開放されました。,Chapter 2 has been unlocked.,챕터 2가 열렸습니다.,Chapter 2 已解鎖。,,Translated
+12,11,103,1,0,Chapter 3が開放されました。,Chapter 3 has been unlocked.,챕터 3이 열렸습니다.,Chapter 3 已解鎖。,,Translated
+13,12,104,1,0,Chapter 4が開放されました。,Chapter 4 has been unlocked.,챕터 4가 열렸습니다.,Chapter 4 已解鎖。,,Translated
+14,13,105,1,0,Chapter 5が開放されました。,Chapter 5 has been unlocked.,챕터 5가 열렸습니다.,Chapter 5 已解鎖。,,Translated
+15,14,106,1,0,Extra 1が開放されました。,Extra 1 has been unlocked.,엑스트라 챕터 1이 열렸습니다.,Extra 1 已解鎖。,,Translated
+16,15,107,1,0,Extra 2が開放されました。,Extra 2 has been unlocked.,엑스트라 챕터 2가 열렸습니다.,Extra 2 已解鎖。,,Translated
+17,16,108,1,0,Extra 3が開放されました。,Extra 3 has been unlocked.,엑스트라 챕터 3이 열렸습니다.,Extra 3 已解鎖。,,Translated
+18,17,109,1,0,Extra 4が開放されました。,Extra 4 has been unlocked.,엑스트라 챕터 4가 열렸습니다.,Extra 4 已解鎖。,,Translated
+19,18,110,1,0,Extra 5が開放されました。,Extra 5 has been unlocked.,엑스트라 챕터 5가 열렸습니다.,Extra 5 已解鎖。,,Translated
+20,19,111,1,0,Extra 6が開放されました。,Extra 6 has been unlocked.,엑스트라 챕터 6이 열렸습니다.,Extra 6 已解鎖。,,Translated
+21,20,112,1,0,Extra 7が開放されました。,Extra 7 has been unlocked.,엑스트라 챕터 7이 열렸습니다.,Extra 7 已解鎖。,,Translated
+22,21,113,1,0,Extra 8が開放されました。,Extra 8 has been unlocked.,엑스트라 챕터 8이 열렸습니다.,Extra 8 已解鎖。,,Translated
+23,22,114,1,0,Extra 9が開放されました。,Extra 9 has been unlocked.,엑스트라 챕터 9가 열렸습니다.,Extra 9 已解鎖。,,Translated
+24,23,115,1,0,Extra 10が開放されました。,Extra 10 has been unlocked.,엑스트라 챕터 10이 열렸습니다.,Extra 10 已解鎖。,,Translated
+25,24,116,1,0,Extra 11が開放されました。,Extra 11 has been unlocked.,엑스트라 챕터 11이 열렸습니다.,Extra 11 已解鎖。,,Translated
+26,25,117,1,0,Extra 12が開放されました。,Extra 12 has been unlocked.,엑스트라 챕터 12가 열렸습니다.,Extra 12 已解鎖。,,Translated
+27,26,118,1,0,Extra 13が開放されました。,Extra 13 has been unlocked.,엑스트라 챕터 13이 열렸습니다.,Extra 13 已解鎖。,,Translated
+28,27,119,1,0,Extra 14が開放されました。,Extra 14 has been unlocked.,엑스트라 챕터 14가 열렸습니다.,Extra 14 已解鎖。,,Translated
+29,28,120,1,0,Extra 15が開放されました。,Extra 15 has been unlocked.,엑스트라 챕터 15가 열렸습니다.,Extra 15 已解鎖。,,Translated
+30,29,121,1,0,Extra 16が開放されました。,Extra 16 has been unlocked.,엑스트라 챕터 16이 열렸습니다.,Extra 16 已解鎖。,,Translated
+31,30,122,1,0,Extra 17が開放されました。,Extra 17 has been unlocked.,엑스트라 챕터 17이 열렸습니다.,Extra 17 已解鎖。,,Translated
+32,31,123,1,0,Extra 18が開放されました。,Extra 18 has been unlocked.,엑스트라 챕터 18이 열렸습니다.,Extra 18 已解鎖。,,Translated
+33,32,124,1,0,Extra 19が開放されました。,Extra 19 has been unlocked.,엑스트라 챕터 19가 열렸습니다.,Extra 19 已解鎖。,,Translated
+34,33,100,1,0,開放されていません。,Not unlocked yet.,잠겨져 있는 챕터입니다.,尚未解鎖。,,Translated
+35,14,201,1,0,Extra Chapter 1 Clear,Extra Chapter 1 Clear,엑스트라 챕터 1 클리어,Extra Chapter 1 已通關,,Translated
+36,15,204,1,0,Extra Chapter 2 Clear,Extra Chapter 2 Clear,엑스트라 챕터 2 클리어,Extra Chapter 2 已通關,,Translated
+37,16,205,1,0,Extra Chapter 3 Clear,Extra Chapter 3 Clear,엑스트라 챕터 3 클리어,Extra Chapter 3 已通關,,Translated
+38,17,206,1,0,Extra Chapter 4 Clear,Extra Chapter 4 Clear,엑스트라 챕터 4 클리어,Extra Chapter 4 已通關,,Translated
+39,18,207,1,0,Extra Chapter 5 Clear,Extra Chapter 5 Clear,엑스트라 챕터 5 클리어,Extra Chapter 5 已通關,,Translated
+40,19,208,1,0,Extra Chapter 6 Clear,Extra Chapter 6 Clear,엑스트라 챕터 6 클리어,Extra Chapter 6 已通關,,Translated
+41,20,209,1,0,Extra Chapter 7 Clear,Extra Chapter 7 Clear,엑스트라 챕터 7 클리어,Extra Chapter 7 已通關,,Translated
+42,21,210,1,0,Extra Chapter 8 Clear,Extra Chapter 8 Clear,엑스트라 챕터 8 클리어,Extra Chapter 8 已通關,,Translated
+43,22,211,1,0,Extra Chapter 9 Clear,Extra Chapter 9 Clear,엑스트라 챕터 9 클리어,Extra Chapter 9 已通關,,Translated
+44,23,212,1,0,Extra Chapter 10 Clear,Extra Chapter 10 Clear,엑스트라 챕터 10 클리어,Extra Chapter 10 已通關,,Translated
+45,24,213,1,0,Extra Chapter 11 Clear,Extra Chapter 11 Clear,엑스트라 챕터 11 클리어,Extra Chapter 11 已通關,,Translated
+46,25,214,1,0,Extra Chapter 12 Clear,Extra Chapter 12 Clear,엑스트라 챕터 12 클리어,Extra Chapter 12 已通關,,Translated
+47,26,219,1,0,Extra Chapter 13 Clear,Extra Chapter 13 Clear,엑스트라 챕터 13 클리어,Extra Chapter 13 已通關,,Translated
+48,27,221,1,0,Extra Chapter 14 Clear,Extra Chapter 14 Clear,엑스트라 챕터 14 클리어,Extra Chapter 14 已通關,,Translated
+49,28,222,1,0,Extra Chapter 15 Clear,Extra Chapter 15 Clear,엑스트라 챕터 15 클리어,Extra Chapter 15 已通關,,Translated
+50,29,225,1,0,Extra Chapter 16 Clear,Extra Chapter 16 Clear,엑스트라 챕터 16 클리어,Extra Chapter 16 已通關,,Translated
+51,30,250,1,0,Extra Chapter 17 Clear,Extra Chapter 17 Clear,엑스트라 챕터 17 클리어,Extra Chapter 17 已通關,,Translated
+52,31,250,1,0,Extra Chapter 18 Clear,Extra Chapter 18 Clear,엑스트라 챕터 18 클리어,Extra Chapter 18 已通關,,Translated
+53,32,250,1,0,Extra Chapter 19 Clear,Extra Chapter 19 Clear,엑스트라 챕터 19 클리어,Extra Chapter 19 已通關,,Translated
+54,34,1000,2,0,せんたくしでふぉはい,せんたくし,せんたくし,預設選項：是,,Translated
+55,34,2000,3,0,せんたくしでふぉいいえ,せんたくし,せんたくし,預設選項：否,,Translated

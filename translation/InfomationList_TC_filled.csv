@@ -1,0 +1,42 @@
+﻿DataRow,Key,Context1,Context2,Slot,JP,EN,KO,TC,Notes,Status
+2,0,説明,0|0,0,テストメッセージ,,,測試訊息,,Translated
+3,1,移動中,1|10,0,移動,Move,이동,移動,,Translated
+3,1,移動中,1|2,1,調べる,Check,조사,調查,,Translated
+3,1,移動中,1|3,2,メニュー,Menu,메뉴,選單,,Translated
+4,2,会話中,1|2,0,次へ,Next,다음,下一步,,Translated
+4,2,会話中,1|0,1,スキップ,Skip,스킵,跳過,,Translated
+4,2,会話中,1|4,2,ウィンドウ表示切り替え,Show/Hide Window,화면 변경,切換視窗顯示,,Translated
+5,3,選択肢,1|10,0,選択,Select,선택,選擇,,Translated
+5,3,選択肢,1|2,1,決定,Ok,확인,確定,,Translated
+5,3,選択肢,1|4,2,ウィンドウ表示切り替え,Show/Hide Window,화면 변경,切換視窗顯示,,Translated
+6,4,メニュー,1|10,0,選択,Select,선택,選擇,,Translated
+6,4,メニュー,1|2,1,決定,Ok,확인,確定,,Translated
+6,4,メニュー,1|3,3,戻る,Return,돌아가기,返回,,Translated
+7,5,奥メニュー,1|10,0,選択,Select,선택,選擇,,Translated
+7,5,奥メニュー,1|2,1,決定,Ok,확인,確定,,Translated
+7,5,奥メニュー,1|1,2,戻る,Return,돌아가기,返回,,Translated
+8,6,セーブ,1|10,0,選択,Select,선택,選擇,,Translated
+8,6,セーブ,1|2,1,セーブ,Save,저장,存檔,,Translated
+8,6,セーブ,1|1,2,戻る,Return,돌아가기,返回,,Translated
+9,7,汎用,1|2,0,次へ,Next,다음,下一步,,Translated
+10,8,汎用選択戻る,1|10,0,選択,Select,선택,選擇,,Translated
+10,8,汎用選択戻る,1|1,1,戻る,Return,돌아가기,返回,,Translated
+11,9,終わり,1|2,0,終わり,End,종료,結束,,Translated
+12,10,イベント中,1|2,0,次へ,Next,다음,下一步,,Translated
+12,10,イベント中,1|0,1,スキップ,Skip,스킵,跳過,,Translated
+13,12,会話中,1|2,0,次へ,Next,다음,下一步,,Translated
+13,12,会話中,1|4,1,ウィンドウ表示切り替え,Show/Hide Window,화면 변경,切換視窗顯示,,Translated
+14,13,汎用次戻る,1|2,0,次へ,Next,다음,下一步,,Translated
+14,13,汎用次戻る,1|1,1,戻る,Return,돌아가기,返回,,Translated
+15,1010,ログ,1|10,0,選択,Select,선택,選擇,,Translated
+15,1010,ログ,1|0,1,ボイス再生,Play Voice,음성,播放語音,,Translated
+15,1010,ログ,1|1,2,戻る,Return,돌아가기,返回,,Translated
+16,1020,名札メイン,1|10,0,選択,Select,선택,選擇,,Translated
+16,1020,名札メイン,1|2,1,決定,Ok,확인,確定,,Translated
+16,1020,名札メイン,1|1,2,戻る,Return,돌아가기,返回,,Translated
+17,1021,名札名前選択,1|10,0,選択,Select,선택,選擇,,Translated
+17,1021,名札名前選択,1|1,1,やめる,Cancel,취소,取消,,Translated
+18,9900,設定,1|10,0,選択,Select,선택,選擇,,Translated
+18,9900,設定,1|2,1,決定,Ok,확인,確定,,Translated
+18,9900,設定,1|1,2,戻る,Return,돌아가기,返回,,Translated
+19,9999,テスト,0|0,0,テストメッセージ,,,測試訊息,,Translated

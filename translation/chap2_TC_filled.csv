@@ -1,0 +1,1102 @@
+﻿Index,JP_Name,JP_Page1,JP_Page2,JP_Page3,EN2_Name,EN2_Page1,EN2_Page2,EN2_Page3,KO_Name,KO_Page1,KO_Page2,KO_Page3,TC_Name,TC_Page1,TC_Page2,TC_Page3,NameFlag,VoiceNo_low,VoiceNo_high,Timing,VoiceAutoPage,TextSpeed,Button,AutoPage,ExtVoice,Translator_Notes,Status
+0,,チャプター２のオープニングを見ますか？, , ,,View the Chapter 2 opening?,,,,챕터2 오프닝을 보겠습니까?,,,,要觀看第二章的開場嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+1,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+2,あゆみ,いあああぁぁぁ……, , ,Ayumi,Nooooooo!,,,아유미,아아아아아아......,,,あゆみ,不要啊啊啊啊……, ,,1,67,0,1,0,0,0,0,0,,Translated
+3,良樹,大丈夫だよセンセー、俺が篠崎見てるよ。, , ,Yoshiki,"It's okay, Teach. I'll keep an eye on Shinozaki.",,,요시키,"괜찮아 선생님, 내가 시노자키를 보고 있을게.",,,良樹,沒事的，老師，我會看著篠崎。, ,,1,207,22,1,0,0,0,0,0,,Translated
+4,結衣,お願いね。すぐ戻るから……, , ,Ms. Shishido,Much obliged. I'll be right back.,,,유이,부탁해. 금방 올 테니까......,,,結衣,拜託你了。我馬上回來……, ,,1,222,26,1,0,0,0,0,0,,Translated
+5,結衣,中嶋さん……無事でいて。, , ,Ms. Shishido,I hope Nakashima is okay...,,,유이,나카시마...... 무사해야 해.,,,結衣,中嶋同學……你要平安啊。, ,,1,223,26,1,0,0,0,0,0,,Translated
+6,結衣,悲鳴は……あっちから聞こえたわね。, , ,Ms. Shishido,That scream sounded like it came...from out here...,,,유이,비명은...... 저쪽에서 들렸지.,,,結衣,慘叫聲……是從那邊傳來的。, ,,1,224,26,1,0,0,0,0,0,,Translated
+7,体育教師,岸沼ァ……, , ,Gym Teacher,Kishinuma!,,,체육교사,키시누마......,,,体育教師,岸沼……, ,,1,136,20,1,0,0,0,0,0,,Translated
+8,良樹,！（やべ）, , ,Yoshiki,...! (Crap.),,,요시키,! (이런),,,良樹,！（糟了）, ,,1,91,23,1,0,0,0,0,0,,Translated
+9,体育教師,何だこの煙はァ？　……出て来い！　便所から。, , ,Gym Teacher,What's all this smoke I see? ...Get the hell out,"of that stall, right this instant!",,체육교사,뭐냐 이 연기는? ...... 얼른 나와! 거기에서.,,,体育教師,這煙是怎麼回事？……出來！從廁所裡。, ,,1,137,20,1,0,0,0,0,0,,Translated
+10,体育教師,……また喫ってたのか？, , ,Gym Teacher,"Hitting the tobacco again, were we?",,,체육교사,...... 또 피운 거냐?,,,体育教師,……又抽菸了嗎？, ,,1,138,20,1,0,0,0,0,0,,Translated
+11,良樹,えーと……その、いいえ。, , ,Yoshiki,"Uhhh...well...no, sir.",,,요시키,"으음~ 그게, 아뇨.",,,良樹,呃……那個……沒有。, ,,1,92,23,1,0,0,0,0,0,,Translated
+12,体育教師,次、目撃したらクビだって、言っといたよな？,学校。, ,Gym Teacher,Didn't I warn you what would happen if I caught you,"smoking again? Expulsion, that's what!",,체육교사,다음에 잡히면 모가지라고 했지?,학교.,,体育教師,下次再被我抓到就退學，我說過了吧？,學校。,,1,139,20,1,0,0,0,0,0,,Translated
+13,良樹,すィません……, , ,Yoshiki,I'm sorry...,,,요시키,죄송합니다......,,,良樹,對不起……, ,,1,93,23,1,0,0,0,0,0,,Translated
+14,体育教師,……ハァー、“問題児”。,お前さ、何で学校にいるの？, ,Gym Teacher,"You're a real problem child, you know that?",Why do you even come to school in the first,place?,체육교사,하아~ “문제아”.,너는 왜 학교에 있는 거냐?,,体育教師,……唉～「問題兒童」。,你到底是為了什麼來學校的？,,1,140,20,1,0,0,0,0,0,,Translated
+15,良樹,………。, , ,Yoshiki,Heh...,,,요시키,.........,,,良樹,………。, ,,1,94,23,1,0,0,0,0,0,,Translated
+16,体育教師,親からも勘当されて別居状態、友達もいない、,授業も出ん。, ,Gym Teacher,Disowned by your parents... Living on your own...,Got no friends... Never go to class...,,체육교사,"부모와도 의절해서 별거 상태, 친구도 없고",수업도 안 듣고.,,体育教師,被父母斷絕關係分居、沒有朋友、,也不來上課。,,1,141,20,1,0,0,0,0,0,,Translated
+17,体育教師,つまらないからと学校に八つ当たりされても,困るんだよな。, ,Gym Teacher,Just because you hate school doesn't give you the,"right to throw fits and raise a ruckus all the time,",mister!,체육교사,시시하다고 학교에 와서 화풀이를 해도,곤란한데 말이야.,,体育教師,因為無聊就來學校發洩情緒，,這樣我們也很困擾啊。,,1,142,20,1,0,0,0,0,0,,Translated
+18,体育教師,楽しくないんだろ？　何で辞めないのか,意味が判らん。, ,Gym Teacher,"You're clearly not having any fun here, right? So",why don't you just drop out? I really don't get it!,,체육교사,재미없지? 왜 안 그만두는 건지,이유를 모르겠다.,,体育教師,一點都不開心吧？為什麼不乾脆退學呢，,真搞不懂。,,1,143,20,1,0,0,0,0,0,,Translated
+19,体育教師,その家庭環境では進学だって、,考えちゃいないんだろ？, ,Gym Teacher,It's not like you're trying to get into college.,"With your home life as it is, the thought probably",hasn't even crossed your mind!,체육교사,그 가정 환경에 진학 같은 걸,생각하는 건 아니겠지?,,体育教師,以那樣的環境，升學這種事,你根本沒想過吧？,,1,144,20,1,0,0,0,0,0,,Translated
+20,良樹,はぁ……, , ,Yoshiki,Uh...huh...,,,요시키,네......,,,良樹,是……, ,,1,95,23,1,0,0,0,0,0,,Translated
+21,体育教師,……まぁ、一年のこの時点からすでに,三者面談にすら顔を出さない、, ,Gym Teacher,Wish I could ask your parents what they think of,"having a no-good kid like you in the family, but",they've never once shown their faces around here.,체육교사,"...... 뭐, 1학년 이맘때부터",삼자면담마저 안 나오는,,体育教師,……嘛，從一年級這個時候開始,就連三方會談都不出席，,,1,145,20,1,0,0,0,0,0,,Translated
+22,体育教師,お前ンとこのご両親も、どうかと思うがな（笑）, , ,Gym Teacher,Not since the very first parent-teacher conferences,we ever held. Wonder if they'd be embarrassed!,,체육교사,네 부모님도 문제가 있지만 (웃음),,,体育教師,你家的父母也是令人搖頭啊（笑）, ,,1,146,20,1,0,0,0,0,0,,Translated
+23,良樹,ハハ……ウチの親、出来悪い俺の事、嫌ってるから。, , ,Yoshiki,"Haha... My parents are not exactly proud of me,",shall we say.,,요시키,하하...... 제 부모님은 불량한 저를 싫어하거든요.,,,良樹,哈哈……我家父母，討厭我這個沒出息的兒子。, ,,1,96,23,1,0,0,0,0,0,,Translated
+24,体育教師,イヤ、それ以前の問題だろ、,親としての自覚が足りん。, ,Gym Teacher,"Ehh, that's not what I mean. I'm thinking of the",big picture here. They're clearly just not good,parents.,체육교사,"아니, 그 이전의 문제잖냐.",부모로서의 자각이 부족해.,,体育教師,不，那是更根本的問題吧。,是身為父母的自覺不夠。,,1,147,20,1,0,0,0,0,0,,Translated
+25,体育教師,俺に、もし子供がいたら、絶対にそんな事,しないよな。, ,Gym Teacher,"If I had kids of my own, you'd better believe",I wouldn't be half as lax with them as yours,obviously are with you!,체육교사,나한테 자식이 있었으면,진짜 그렇게는 안 한다.,,体育教師,我要是有了孩子，絕對不會那樣,做的。,,1,148,20,1,0,0,0,0,0,,Translated
+26,体育教師,全く、大人になり切れていない幼稚な親が、, , ,Gym Teacher,"The problem is, people are having kids when they're",way too young.,,체육교사,"나 참, 어른이 되지 못한 유치한 부모가",,,体育教師,真是的，就是那些還沒成熟當父母的幼稚家長，, ,,1,149,20,1,0,0,0,0,0,,Translated
+27,体育教師,一丁前に子供なんか作るから！, , ,Gym Teacher,"Before they've become proper adults, they're poppin'",out babies of their own!,,체육교사,괜히 자식 같은 걸 만드니까!,,,体育教師,才會隨便亂生孩子！, ,,1,150,20,1,0,0,0,0,0,,Translated
+28,体育教師,世の中、幼稚なガキが溢れかえるんだよな。, , ,Gym Teacher,And bad parents raise bad kids. That's why there are,so many brats like you in this world!,,체육교사,세상에 유치한 녀석들이 판을 치는 거야.,,,体育教師,所以這世界上才會充斥著幼稚的小鬼啊。, ,,1,151,20,1,0,0,0,0,0,,Translated
+29,良樹,（……確かにな……）, , ,Yoshiki,(He's right about one thing...),,,요시키,(...... 그래......),,,良樹,（……說得也是……）, ,,1,97,23,1,0,0,0,0,0,,Translated
+30,良樹,（……確かに、無理に此処に居続ける意味は,　ないかもな）, ,Yoshiki,(There's no reason for me to stay in this school.,It really is pointless.),,요시키,(...... 분명 억지로 여기에 있을 이유는,없을지도 몰라),,良樹,（……確實，勉強繼續待在這裡的意義,也許真的沒有）,,1,98,23,1,0,0,0,0,0,,Translated
+31,良樹,（コイツぶん殴って辞めてやるのもいいか……）, , ,Yoshiki,"(I should just beat the crap out of this jackass,",then drop out...),,요시키,(이 자식한테 한방 먹여주고 그만둬 버릴까......),,,良樹,（乾脆揍這傢伙一頓，就算被退學也無所謂……）, ,,1,99,23,1,0,0,0,0,0,,Translated
+32,体育教師,授業料だけ出してりゃ親だとでも思ってんだろ、, , ,Gym Teacher,People think as long as they pay school taxes or,"tuition, they're good mommies and daddies.",,체육교사,수업료만 내면 부모인 줄 아나,,,体育教師,以為只要付了學費就是父母了是吧，, ,,1,152,20,1,0,0,0,0,0,,Translated
+33,体育教師,あの類は！　ハハハハ。……あ？　何だその目は。, , ,Gym Teacher,"Well, news flash: They're not! Hahahaha...",Hmm? What's with that look?,,체육교사,그 녀석들은! 하하하하...... 어? 뭐냐 그 눈초리는.,,,体育教師,那種人！哈哈哈。……啊？那是什麼眼神。, ,,1,153,20,1,0,0,0,0,0,,Translated
+34,良樹,（教師に手出すなんて初めてだな……まいいか）, , ,Yoshiki,"(I've never hit a teacher before. Ah, well...",First time for everything...),,요시키,(교사에게 손을 대는 건 처음이군...... 뭐 됐다),,,良樹,（對老師動手還是第一次……算了無所謂）, ,,1,100,23,1,0,0,0,0,0,,Translated
+35,あゆみ,坪田先生。, , ,Ayumi,Mr. Tsubota?,,,아유미,츠보타 선생님.,,,あゆみ,坪田老師。, ,,1,157,0,1,0,0,0,0,0,,Translated
+36,体育教師,あ？　……お、おう委員長。何だ？, , ,Gym Teacher,"Hehh? ...Well, if it isn't the class rep. What's up?",,,체육교사,"어? ...... 그, 그래 반장. 무슨 일이냐?",,,体育教師,啊？……喔、喔班長。什麼事？, ,,1,154,20,1,0,0,0,0,0,,Translated
+37,あゆみ,教頭先生がお呼びです。,すぐ職員室に来て下さいって。, ,Ayumi,The vice principal is looking for you. You're needed,back at the staff room.,,아유미,교감 선생님이 부르세요.,곧장 교무실로 오라고.,,あゆみ,教頭老師在找您。,請您馬上到職員室去。,,1,158,0,1,0,0,0,0,0,,Translated
+38,体育教師,そうか、わかった。……篠崎、お前の目は、, , ,Gym Teacher,Gotcha. Thanks.,"...Hmm? Shinozaki, you've got great eyes, you know",that?,체육교사,"그래, 알았다...... 시노자키, 네 눈은",,,体育教師,是嗎，知道了。……篠崎，你的眼睛，, ,,1,155,20,1,0,0,0,0,0,,Translated
+39,体育教師,いつもキリッとしていて凛々しいな。,ハハハ。, ,Gym Teacher,Always so clear and focused! Hahahahaha...,,,체육교사,언제나 초롱초롱하고 의연하구나.,하하하.,,体育教師,總是炯炯有神很凜然呢。,哈哈哈。,,1,156,20,1,0,0,0,0,0,,Translated
+40,体育教師,先生、お前のような娘はダイスキだ。, , ,Gym Teacher,We instructors like your kind best of all.,,,체육교사,선생님은 너 같은 애를 정말 좋아한단다.,,,体育教師,老師最喜歡你這樣的孩子了。, ,,1,157,20,1,0,0,0,0,0,,Translated
+41,体育教師,悩みがあったら、何でも相談に来い？,ハハハ。, ,Gym Teacher,"You ever have a problem, you come talk to me about","it, okay? Hahahahahaha...",,체육교사,고민 거리가 있으면 언제든 오너라.,하하하.,,体育教師,有什麼煩惱隨時都可以來找我談？,哈哈哈。,,1,158,20,1,0,0,0,0,0,,Translated
+42,あゆみ,……最低な先生。, , ,Ayumi,That guy's the worst.,,,아유미,...... 최악이야.,,,あゆみ,……真是最差勁的老師。, ,,1,159,0,1,0,0,0,0,0,,Translated
+43,良樹,……すまねえ。, , ,Yoshiki,...Thanks.,,,요시키,...... 미안하다.,,,良樹,……謝啦。, ,,1,101,23,1,0,0,0,0,0,,Translated
+44,あゆみ,あなたも最低。, , ,Ayumi,You're not really any better.,,,아유미,너도 최악.,,,あゆみ,你也是。真差勁。, ,,1,160,0,1,0,0,0,0,0,,Translated
+45,良樹,……え？, , ,Yoshiki,Huh?,,,요시키,뭐?,,,良樹,……欸？, ,,1,102,23,1,0,0,0,0,0,,Translated
+46,あゆみ,今、手、出そうとしてたでしょう？, , ,Ayumi,"You were thinking about hitting him just now,",weren't you?,,아유미,방금 손을 대려고 했지?,,,あゆみ,剛才你差點就要動手了吧？, ,,1,161,0,1,0,0,0,0,0,,Translated
+47,良樹,………。, , ,Yoshiki,...,,,요시키,.........,,,良樹,………。, ,,1,103,23,1,0,0,0,0,0,,Translated
+48,あゆみ,あんな駄目な先生の口車に乗せられて、,退学になって、, ,Ayumi,What a sad fate it would be to get kicked out of,school over a pathetic excuse for a teacher like,him...,아유미,저런 몹쓸 선생의 말에 넘어가서,퇴학이라니,,あゆみ,被那種差勁老師的話牽著鼻子走，,然後被退學，,,1,162,0,1,0,0,0,0,0,,Translated
+49,あゆみ,そんな結末、悔しくないの？,意地でも思惑に乗らないように、, ,Ayumi,And you'd regret it later. You know you would. No,"matter how much of a pain in the ass it may be, and",no matter how you think it'll turn out in the end...,아유미,그런 결말은 분하지 않아?,억지로라도 넘어가지 않도록,,あゆみ,那種結局你不覺得不甘心嗎？,就算硬撐到底，也別讓他稱心如意。,,1,163,0,1,0,0,0,0,0,,Translated
+50,あゆみ,かじりついてでも、居座ってやりなさいよ！, , ,Ayumi,"...just stay in school, man! Bite your tongue, and",make it to graduation!,,아유미,이를 악물고 버티란 말야!,,,あゆみ,死纏爛打也要留在學校啊！, ,,1,164,0,1,0,0,0,0,0,,Translated
+51,あゆみ,もぅ…………グスッ。, , ,Ayumi,Honestly... *sniffle*,,,아유미,차암............ 훌쩍.,,,あゆみ,真是的…………吸。, ,,1,165,0,1,0,0,0,0,0,,Translated
+52,良樹,……？　お前……なに泣いてんだ……？, , ,Yoshiki,...? Why...are you crying?,,,요시키,......? 너...... 뭘 울고 그래......?,,,良樹,……咦？妳……哭了嗎？, ,,1,104,23,1,0,0,0,0,0,,Translated
+53,あゆみ,あ……, , ,Ayumi,Ah...,,,아유미,아......,,,あゆみ,啊……, ,,1,166,0,1,0,0,0,0,0,,Translated
+54,あゆみ,ごめん、何か感情的になると意味なく涙出るの、私。, , ,Ayumi,Sorry. Whenever I give an impassioned speech like,"that, I always find myself tearing up a little.",,아유미,"미안, 왠지 감정적이 되면 그냥 눈물이 나오거든, 난.",,,あゆみ,抱歉，我只要一激動就會莫名其妙流淚。, ,,1,167,0,1,0,0,0,0,0,,Translated
+55,あゆみ,１－５の、岸沼君だっけ？, , ,Ayumi,"You're Kishinuma from class 1-5, right?",,,아유미,1-5의 키시누마 군이었지?,,,あゆみ,你是１－５的，岸沼同學吧？, ,,1,168,0,1,0,0,0,0,0,,Translated
+56,良樹,ああ。, , ,Yoshiki,Yeah.,,,요시키,어.,,,良樹,嗯。, ,,1,105,23,1,0,0,0,0,0,,Translated
+57,あゆみ,私は３組の篠崎。,えと……出しゃばっちゃってごめんね。, ,Ayumi,I'm Shinozaki from class 1-3. Sorry...to have butt,in like that.,,아유미,난 3반 시노자키.,음...... 괜히 나서서 미안해.,,あゆみ,我是３班的篠崎。,那個……抱歉我多管閒事。,,1,169,0,1,0,0,0,0,0,,Translated
+58,良樹,お、おう……いや……, , ,Yoshiki,"Uh, don't...worry about it...",,,요시키,"어, 응...... 아니......",,,良樹,喔、喔……不會……, ,,1,106,23,1,0,0,0,0,0,,Translated
+59,あゆみ,じゃ……, , ,Ayumi,Later.,,,아유미,그럼......,,,あゆみ,那……, ,,1,170,0,1,0,0,0,0,0,,Translated
+60,良樹,……なぁ。さっきの教頭が呼んでるっての……, , ,Yoshiki,"...Hey, when you told him the vice principal was",calling...,,요시키,...... 저기. 좀 전에 교감이 부른다는 건......,,,良樹,……喂。剛才你說教頭找他……, ,,1,107,23,1,0,0,0,0,0,,Translated
+61,あゆみ,ふふ、ウソウソ。, , ,Ayumi,"Heehee. I was lying, of course.",,,아유미,"후후, 거짓말.",,,あゆみ,呵呵，騙你的騙你的。, ,,1,171,0,1,0,0,0,0,0,,Translated
+62,良樹,…………ハハ。, , ,Yoshiki,...Heheh.,,,요시키,............ 하하.,,,良樹,…………哈哈。, ,,1,108,23,1,0,0,0,0,0,,Translated
+63,良樹,……なんだ……？　まっくらだ。, , ,Yoshiki,...What's going on...? It's pitch black...,,,요시키,...... 뭐야......? 새까만데.,,,良樹,……怎麼了……？一片漆黑。, ,,1,11,23,1,0,0,0,0,0,,Translated
+64,良樹,篠崎！　……結衣センセー！,哲志！　……誰かいないのか……, ,Yoshiki,Shinozaki!,Ms. Yui! Satoshi!,Is anyone there?,요시키,시노자키! ...... 유이 선생님~!,사토시! ...... 누구 없어......?,,良樹,篠崎！……結衣老師！,哲志！……沒有人嗎……,,1,12,23,1,0,0,0,0,0,,Translated
+65,良樹,……んだよ……ここ何処だ？,夢でもみてたのか……？, ,Yoshiki,Man... Where the hell am I? Was I dreaming or,something?,,요시키,...... 뭐야...... 여긴 어디야?,꿈이라도 꾸고 있는 건가......?,,良樹,……搞什麼……這裡是哪裡？,我在做夢嗎……？,,1,13,23,1,0,0,0,0,0,,Translated
+66,良樹,……ってか、体、動かねーし……,周りに……壁？　穴の中か…？　ここ……, ,Yoshiki,"...I...can't move?! Feels like...walls, all around",me! Am I in a hole or something...?,,요시키,"...... 모, 몸이, 안 움직여......",주위에...... 벽? 구멍 속인가...? 여긴......,,良樹,……而且，身體動不了……,周圍……牆壁？是在洞裡嗎…？這裡……,,1,14,23,1,0,0,0,0,0,,Translated
+67,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+68,良樹,う！　……っぺッ……　,なんだ？　誰だ。, ,Yoshiki,Ulgh! *spit* What the...?! Who's...?!,,,요시키,으! ...... 앗......,뭐야? 누구야.,,良樹,呃！……呸……,什麼啊。是誰。,,1,15,23,1,0,0,0,0,0,,Translated
+69,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+70,良樹,うげっ……ぺッ……　,やめろ！（……土か？　上から誰かが）, ,Yoshiki,"Ooh, oolph! *spit* St-stop!","(Dirt, and gravel...from above?)",,요시키,우엑...... 앗......,그만해! (흙이? 누군가가 위에서),,良樹,嘔……呸……,住手！（……是土嗎？有人從上面）,,1,16,23,1,0,0,0,0,0,,Translated
+71,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+72,良樹,やめろ…ッ……何してんだ,埋める気か？　……げはッ, ,Yoshiki,Sto-op! ...The hell?! I'm alive down here! You,planning to suffocate me?! *gurgle*,,요시키,그만둬...... 무슨 짓이야,묻을 셈이야? ...... 으억,,良樹,住手……你在做什麼,想埋了我嗎？……呃咳,,1,17,23,1,0,0,0,0,0,,Translated
+73,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+74,良樹,（口ン中に……詰まりだした,　……　ぐふッ、グェ）, ,Yoshiki,"(My mouth is getting totally filled up... Ulck,",blargh...),,요시키,(입안에...... 들어갔어,"...... 우훅, 우엑)",,良樹,（嘴巴裡……被塞滿了,……　嗚呼、呃）,,1,18,23,1,0,0,0,0,0,,Translated
+75,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+76,良樹,あめろ……ッ　……グぁ,ぁめろー！, ,Yoshiki,Sh...shtp... *choke* Top ith...,,,요시키,으안워...... 윽...... 으아,으안워~!,,良樹,住手……　……呃啊,住手～！,,1,19,23,1,0,0,0,0,0,,Translated
+77,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+78,良樹,（……ッ……息が、出来ね……ぇ,　死ぬの、かよ……こんな）, ,Yoshiki,(...I...c-can't breathe... Am I...going to die like,this...?),,요시키,"(...... 숨을, 쉴 수가 없어......","죽는 건, 가...... 이런)",,良樹,（……呼……吸不了……,要死了嗎……在這種）,,1,20,23,1,0,0,0,0,0,,Translated
+79,良樹,（……死……ぬ？　誰が……？,　……ウソ……だろ……）, ,Yoshiki,(...Why... Who would...? This...can't be...,happening...),,요시키,(죽...... 어? 누가......?,거짓말...... 이지......),,良樹,（……死……？誰會……？,……騙人……的吧……）,,1,21,23,1,0,0,0,0,0,,Translated
+80,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+81,良樹,（……冗談じゃ　ねぇ！　やめろぉ！,　痛てッ！　……目が）, ,Yoshiki,(This isn't funny! Stop it! ...My eyes are really,hurting!),,요시키,(...... 장난하지 마! 그만둬!,아파! ...... 눈이),,良樹,（……開什麼玩笑！住手！,好痛！……眼睛）,,1,22,23,1,0,0,0,0,0,,Translated
+82,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+83,良樹,く……ォ　…グ　……, , ,Yoshiki,Klck...ouh...glrh...,,,요시키,크...... 오...... 으......,,,良樹,呃……哦　……咕……, ,,1,23,23,1,0,0,0,0,0,,Translated
+84,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,1,0,0,0,0,0,,Translated
+85,良樹,……ヒ……　グッ……,イ・・キ ・・ガ, ,Yoshiki,*choke* Caaahn...breeeh...,,,요시키,...... 히...... 으윽......,숨  ·  ·  을  ·  ·,,良樹,……呼……　咳……,呼　‧　‧　吸　‧　‧,,1,24,23,1,0,0,0,0,0,,Translated
+86,, ,ドザッ。　バサバサバサ……, ,, ,*thunk* *shfffff*,,,푹.  후두둑......,,,,咚。　唰啦唰啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+87,結衣,……今の子（霊魂）だって私達と同じ、,この学校の被害者……, ,Ms. Shishido,"That spirit was trapped here, just like us...",,,유이,...... 방금 그 아이(영혼)도 우리와 같은,이 학교의 피해자......,,結衣,……剛才那孩子（靈魂）也和我們一樣，,是這所學校的受害者……,,1,58,27,1,0,0,0,0,0,,Translated
+88,結衣,……被害者が被害者をやりきれない思いで、傷付けて, , ,Ms. Shishido,Succumbing to unbearable feelings of anger and,"hatred, one victim drawn to harm another...",,유이,피해자가 피해자를 어쩔 수 없이 상처 입히고,,,結衣,……受害者帶著無可奈何的心情去傷害其他受害者, ,,1,59,27,1,0,0,0,0,0,,Translated
+89,結衣,……膨れ上がった悲しみが、閉ざされたこの空間で、,逃げ場もなく渦巻いているんだわ…… , ,Ms. Shishido,"It's not just people trapped in this space, but",their sadness and torment as well. It's got nowhere,"to go, so it just hangs in these halls.",유이,...... 부풀어 오른 슬픔이 갇힌 이 공간에서,...... 도망칠 곳 없이 소용돌이 치고 있어......,,結衣,……膨脹的悲傷，在這封閉的空間裡，,無處可逃地不斷迴旋……,,1,60,27,1,0,0,0,0,0,,Translated
+90,結衣,こんな所にいたら駄目。, , ,Ms. Shishido,We shouldn't be here.,,,유이,이런 데 있으면 안 돼.,,,結衣,不能待在這種地方。, ,,1,61,27,1,0,0,0,0,0,,Translated
+91,結衣,みんな、絶対に連れて帰るから……, , ,Ms. Shishido,I have to get them all back home.,,,유이,"다들, 꼭 데리고 돌아갈 테니까......",,,結衣,我一定會帶大家回去的……, ,,1,62,27,1,0,0,0,0,0,,Translated
+92,結衣,お願いだから、無事でいて……！, , ,Ms. Shishido,"Please, everybody... Stay safe...",,,유이,"부탁이니까, 무사히 있어 줘......!",,,結衣,拜託你們，一定要平安……！, ,,1,63,27,1,0,0,0,0,0,,Translated
+93,, ,【Chapter3へ続く】, ,, ,[Continued in Chapter 3],,,【Chapter3에서 계속】,,,,【待續第三章】, ,,0,0,0,0,0,0,0,0,0,,Translated
+94,,扉が開きません。, , ,,It won't open.,,,,문이 열리지 않습니다.,,,,門打不開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+95,直美,……ふぅ～、片付いた。体育委員も楽じゃないね。, , ,Naomi,Phew! That should just about do it.,I hate being in charge of the gym equipment.,,나오미,...... 후우~ 정리 끝. 체육위원도 참 힘드네.,,,直美,……呼～整理完了。體育委員也不輕鬆啊。, ,,1,164,11,1,0,0,0,0,0,,Translated
+96,直美,明後日の「合同体育」の準備は、, , ,Naomi,All because of that stupid co-ed meet in two days...,,,나오미,모레 「합동체육」 준비는,,,直美,後天「聯合體育課」的準備，, ,,1,165,11,1,0,0,0,0,0,,Translated
+97,直美,絶対、男子の委員にやらせようね！, , ,Naomi,Why can't the boys' class rep take care of the,grunt work?!,,나오미,꼭 남자한테 시키자!,,,直美,絕對要讓男生委員來做！, ,,1,166,11,1,0,0,0,0,0,,Translated
+98,世以子,ふふ、うん！, , ,Seiko,Heehee! Yeah.,,,세이코,"후후, 응!",,,世以子,呵呵，嗯！, ,,1,32,20,1,0,0,0,0,0,,Translated
+99,直美,まったく、岸沼め……, , ,Naomi,Freakin' Kishinuma...,,,나오미,"하여간, 키시누마 자식......",,,直美,真是的，岸沼那傢伙……, ,,1,167,11,1,0,0,0,0,0,,Translated
+100,直美,ぶつぶつぶつ, , ,Naomi,Doesn't he know what a delicate flower I am? Most,"I've ever had to lift before was chopsticks, and he",expects me to lug around a damned pommel-horse...,나오미,중얼 중얼 중얼,,,直美,碎碎念碎碎念, ,,1,168,11,1,0,0,0,0,0,,Translated
+101,世以子,………（じ～）　ゴクリ。, , ,Seiko,...Ooaaahh...,*gulp*,,세이코,......... (지그시~) 꿀꺽.,,,世以子,………（盯著）　咕嚕。, ,,1,33,20,1,0,0,0,0,0,,Translated
+102,世以子,……直美ってさぁ、綺麗な形してるよねぇ～, , ,Seiko,"Naomi, that is one pretty sight!",,,세이코,"...... 나오미는, 참 예쁘단 말야~",,,世以子,……直美啊，形狀真好看呢～, ,,1,34,20,1,0,0,0,0,0,,Translated
+103,直美,え？　……何が？, , ,Naomi,Huh? ...What is?,,,나오미,응? ...... 뭐가?,,,直美,欸？……什麼？, ,,1,169,11,1,0,0,0,0,0,,Translated
+104,世以子,お尻のカタチ。, , ,Seiko,Dat booty you got!,,,세이코,엉덩이가.,,,世以子,屁股的形狀。, ,,1,35,20,1,0,0,0,0,0,,Translated
+105,直美,えー？　アンタのほうが小さくて可愛いじゃん。, , ,Naomi,Whaaat? Yours is WAY cuter!,,,나오미,뭐~? 네 엉덩이가 작고 귀여운데.,,,直美,什麼～？你的才小巧可愛吧。, ,,1,170,11,1,0,0,0,0,0,,Translated
+106,直美,アタシのはアヒルみたいで駄目だよ。, , ,Naomi,Mine's all plump like a duck's.,,,나오미,난 오리 같아서 안 돼.,,,直美,我的像鴨子一樣不行啦。, ,,1,171,11,1,0,0,0,0,0,,Translated
+107,世以子,何言ってるの、直美のは『安産型』って言って、, , ,Seiko,What are you sayin'?! You've got what they call,'child-bearing hips.' It's a good thing!,,세이코,"무슨 말이야, 나오미는 『안산형』이라고 해서",,,世以子,說什麼啊，直美的是所謂的「安產型」，, ,,1,36,20,1,0,0,0,0,0,,Translated
+108,世以子,将来、楽に沢山子供産めるかもって、形なんだよ？, , ,Seiko,"It means when you get older, you can pump out all",the babies you want with the greatest of ease!,,세이코,장래에 편하게 많은 아이를 낳을 수 있는 엉덩이라구?,,,世以子,是將來可以輕鬆生很多小孩的形狀哦？, ,,1,37,20,1,0,0,0,0,0,,Translated
+109,直美,あ……それちょっと、嬉しい。, , ,Naomi,I'm...actually kind of happy to hear you say that...,,,나오미,아...... 그건 조금 기쁘네.,,,直美,啊……那有點開心。, ,,1,172,11,1,0,0,0,0,0,,Translated
+110,世以子,ふふ、直美ってほーんと保母さん気質だよねー, , ,Seiko,Heehee. You do have a certain motherly quality to,"you, Naomi!",,세이코,"후후, 나오미는 정~말 보모가 될 상이구나~",,,世以子,呵呵，直美真的是很有保母氣質呢～, ,,1,38,20,1,0,0,0,0,0,,Translated
+111,世以子,子供大好きだもんね。, , ,Seiko,It's no wonder you're so good with kids.,,,세이코,어린애를 좋아하니까.,,,世以子,因為你很喜歡小孩嘛。, ,,1,39,20,1,0,0,0,0,0,,Translated
+112,直美,うん、将来、子供４人は欲しいかな。, , ,Naomi,But of course! I'm hoping to raise four children,one day.,,나오미,"응, 한 4명은 낳고 싶어.",,,直美,嗯，將來想要四個小孩呢。, ,,1,173,11,1,0,0,0,0,0,,Translated
+113,世以子,将来ある人はいいねー。, , ,Seiko,Sounds like you'll be making some lucky guy reeeal,happy...,,세이코,장래가 있는 사람은 부럽네~,,,世以子,有未來的人真好呢～。, ,,1,40,20,1,0,0,0,0,0,,Translated
+114,直美,ん？, , ,Naomi,Hmm?,,,나오미,응?,,,直美,嗯？, ,,1,174,11,1,0,0,0,0,0,,Translated
+115,直美,いや……　　　　　　　　, , ,Naomi,No...,,,나오미,싫어......,,,直美,不要……, ,,1,175,11,1,1,0,0,0,0,,Translated
+116,直美,いや………　　　　　　　, , ,Naomi,Nooo...,,,나오미,싫어.........,,,直美,不要………, ,,1,176,11,1,1,0,0,0,0,,Translated
+117,,いやああああああーッ！！, , ,,NOOOOOOOOOOO!!,,,,싫어어어어어어어~!!,,,,不要啊啊啊啊啊啊──！！, ,,0,177,11,1,1,0,0,0,0,,Translated
+118,結衣,今の、中嶋さんの声……？, , ,Ms. Shishido,Wasn't that...Nakashima's voice?,,,유이,"방금 그건, 나카시마의 목소리......?",,,結衣,剛才那是……中嶋同學的聲音……？, ,,1,219,26,1,0,0,0,0,0,,Translated
+119,結衣,それも、悲鳴……！, , ,Ms. Shishido,And she was screaming...,,,유이,"그것도, 비명......!",,,結衣,而且是慘叫……！, ,,1,220,26,1,0,0,0,0,0,,Translated
+120,結衣,どうしよう、２－９(ウチ）の子達に,何かあったら……, ,Ms. Shishido,What do I do? I can't let anything happen to my,students...,,유이,"어쩌지, 2-9(우리) 반 아이들에게",무슨 일이 생기면......,,結衣,怎麼辦，要是２－９（我們班）的孩子們,出了什麼事的話……,,1,221,26,1,0,0,0,0,0,,Translated
+121,結衣,（だけど、大事なあの子達に何かあったら……,　と思うと、）, ,Ms. Shishido,(But when I think about the possibility of something,horrible happening to my dear students...),,유이,(하지만 소중한 아이들에게 무슨 일이 생길지도......,모른다고 생각하니),,結衣,（但是，一想到那些重要的孩子們可能出了什麼事……）, ,,1,243,26,1,0,0,0,0,0,,Translated
+122,結衣,（お腹の底から力が湧いてくる）, , ,Ms. Shishido,(...I can feel a newfound energy welling up from,within me.),,유이,(뱃속 깊숙한 곳에서 힘이 솟아나와),,,結衣,（一股力量就從心底湧了上來）, ,,1,244,26,1,0,0,0,0,0,,Translated
+123,結衣,（強い大人を演じる事が出来る）, , ,Ms. Shishido,"(I feel like, if nothing else, I can at least play",the part of the level-headed adult.),,유이,(강한 어른을 연기할 수 있겠어),,,結衣,（能夠扮演堅強的大人）, ,,1,245,26,1,0,0,0,0,0,,Translated
+124,結衣,（教師って、凄い）, , ,Ms. Shishido,"(Valour, thy name is education!)",,,유이,(교사는 참 대단해),,,結衣,（老師，真了不起）, ,,1,246,26,1,0,0,0,0,0,,Translated
+125,,　古びたバケツの中には、得体の知れない,　黄色い液体が入っています……, ,,"There's a strange, yellow fluid congealing inside",the rusted bucket.,,,낡은 양동이 안에는 정체 모를,노란 액체가 들어 있습니다......,,,破舊的水桶裡裝著來路不明的黃色液體……, ,,0,0,0,1,0,0,0,0,0,,Translated
+126,,【２のＡ】,　扉は模型のようにガチリと固定されており、,　開ける事が出来ません。,,[Classroom 2-A],The door seems affixed to the wall like a model.,It can't be opened.,,【2-A】,문은 모형처럼 딱 고정되어,열 수 없습니다.,,【２年Ａ班】,　門像模型一樣固定住，無法打開。,,0,0,0,1,0,0,0,0,0,,Translated
+127,,【３のＡ】,　鍵がかかっています。, ,,[Classroom 3-A],The door is locked.,,,【3-A】,잠겨 있습니다.,,,【３年Ａ班】,　門鎖著。,,0,0,0,0,0,0,0,0,0,,Translated
+128,,【３のＡ】,　鍵を開けました。, ,,[Classroom 3-A],The door is now unlocked.,,,【3-A】,잠긴 문을 열었습니다.,,,【３年Ａ班】,　打開了鎖。,,0,0,0,0,0,0,0,0,0,,Translated
+129,,　……はやくおウチへかえろう,　いつまでも残っている子は……, ,,Return home immediately. Those who remain here...,,,,...... 어서 집으로 돌아가,계속 남아 있는 아이는......,,,　……快點回家去吧,　一直留在這裡的孩子會……,,0,0,0,0,0,0,0,0,0,,Translated
+130,,　……お腹がすいて、死んじゃうぞ, , ,,"...will go hungry, and die of starvation.",,,,...... 배를 곯다가 죽게 될 거야,,,,　……會餓死的哦, ,,0,168,5,1,1,0,0,0,0,,Translated
+131,結衣,……っ。, , ,Ms. Shishido,...?,,,유이,...... 윽.,,,結衣,……。, ,,1,2,27,1,0,0,0,0,0,,Translated
+132,結衣,……そうだ、家でモネ(猫）が,お腹空かしてるかな……, ,Ms. Shishido,...That reminds me... Poor Monet's all alone...,He must be one hungry kitty by now...,,유이,"...... 맞다, 집에 있는 모네(고양이)가",배고프겠네......,,結衣,……對了，家裡的莫內（貓）,不知道餓了沒……,,1,3,27,1,0,0,0,0,0,,Translated
+133,結衣,……。, , ,Ms. Shishido,...,,,유이,......,,,結衣,……。, ,,1,4,27,1,0,0,0,0,0,,Translated
+134,,【３のＡ】,　鍵がかかっています。, ,,[Classroom 3-A],The door is locked.,,,【3-A】,잠겨 있습니다.,,,【３年Ａ班】,　門鎖著。,,0,0,0,0,0,0,0,0,0,,Translated
+135,,【３のＡ】,　鍵を開けました。, ,,[Classroom 3-A],The door is now unlocked.,,,【3-A】,잠긴 문을 열었습니다.,,,【３年Ａ班】,　打開了鎖。,,0,0,0,0,0,0,0,0,0,,Translated
+136,,【２のＡ】,　扉は模型のようにガチリと固定されており、,　開ける事が出来ません。,,[Classroom 2-A],The door seems affixed to the wall like a model.,It can't be opened.,,【2-A】,문은 모형처럼 딱 고정되어,열 수 없습니다.,,【２年Ａ班】,　門像模型一樣固定住，無法打開。,,0,0,0,0,0,0,0,0,0,,Translated
+137,あゆみ,（ガチガチガチ）, , ,Ayumi,*wheeze* *chatter*,,,아유미,(덜덜덜),,,あゆみ,（喀喀喀喀）, ,,1,68,0,1,0,0,0,0,0,,Translated
+138,あゆみ,……ハァーッハァーッ、,う……ハーッ、ハーッ, ,Ayumi,*gasp* *gulp* *sputter* *wheeze*,,,아유미,...... 하악~ 하악~,으...... 하~ 하~,,あゆみ,……哈啊～哈啊～,嗚……哈～、哈～,,1,69,0,1,0,0,0,0,0,,Translated
+139,結衣,篠崎さん、大丈夫よ。落ち着いて……, , ,Ms. Shishido,"Shinozaki... It's all right. Please, calm down.",,,유이,"시노자키, 괜찮아. 진정해......",,,結衣,篠崎同學，沒事的。冷靜下來……, ,,1,225,26,1,0,0,0,0,0,,Translated
+140,あゆみ,い…ま……外で声が……？,ハーッ、ハーッ……ヒクッ, ,Ayumi,But...you heard it too...,...Outside... Her voice...,*wheeze* *shiver*,아유미,방... 금...... 밖에서 목소리가......?,하~ 하~ ...... 훌쩍,,あゆみ,剛…才……外面有聲音……？,哈～、哈～……吸,,1,70,0,1,0,0,0,0,0,,Translated
+141,結衣,ええ……, , ,Ms. Shishido,I did.,,,유이,그래......,,,結衣,嗯……, ,,1,226,26,1,0,0,0,0,0,,Translated
+142,結衣,（この症状……過換気症候群だわ）, , ,Ms. Shishido,(I think...she's hyperventilating.),,,유이,(이 증상...... 과호흡 증후군이야),,,結衣,（這個症狀……是過度換氣症候群）, ,,1,227,26,1,0,0,0,0,0,,Translated
+143,結衣,（どこかに紙袋でもあるといいんだけど……,　ここには無さそうだし）, ,Ms. Shishido,(I'd give her a paper bag to breathe into...,but there aren't any around...),,유이,(종이 봉투가 있으면 좋을 텐데......,여기에는 없을 테고),,結衣,（要是有紙袋什麼的就好了……,不過這裡好像沒有）,,1,228,26,1,0,0,0,0,0,,Translated
+144,結衣,（とにかく、気持ちを落ち着かせて,　安静にさせないと……）, ,Ms. Shishido,(I guess all I can do is try to calm her breathing,before she passes out...),,유이,(어쨌든 마음을 진정시켜,안정을 되찾아야 해......),,結衣,（總之得先讓她冷靜下來,好好休息才行……）,,1,229,26,1,0,0,0,0,0,,Translated
+145,結衣,何かの音が、声みたいに聞こえたのかも……, , ,Ms. Shishido,It probably wasn't a real voice. I'm sure it just,sounded like one!,,유이,어떤 소리가 목소리처럼 들린 걸지도......,,,結衣,也許只是某種聲音聽起來像人聲……, ,,1,230,26,1,0,0,0,0,0,,Translated
+146,結衣,……きっと、建物のきしみだと思うけど、, , ,Ms. Shishido,Maybe it was the building settling.,,,유이,분명 건물에서 나는 소리겠지만,,,結衣,……一定是建築物發出的嘎吱聲，, ,,1,231,26,1,0,0,0,0,0,,Translated
+147,結衣,気になるから、一応行って、見てくるわね？, , ,Ms. Shishido,"I'll go check it out, though, and see if I can",figure out what it was for sure.,,유이,혹시 모르니까 가서 보고 올게.,,,結衣,但為了保險起見，我去看一下好嗎？, ,,1,232,26,1,0,0,0,0,0,,Translated
+148,結衣,二人はここで、じっとしててね。, , ,Ms. Shishido,"You two stay right here, okay?",,,유이,너희 둘은 여기에 가만히 있어.,,,結衣,你們兩個在這裡乖乖待著哦。, ,,1,233,26,1,0,0,0,0,0,,Translated
+149,あゆみ,ハッ、ハァッ、先生！！　待って！！,　一緒に居てぇ！, ,Ayumi,*gasp* *wheeze*,"Ms. Yui, wait! Don't leave us!",,아유미,"학, 하악, 선생님! 기다려!!",여기 있어줘!,,あゆみ,哈、哈啊，老師！！等等！！,不要離開我們！,,1,71,0,1,0,0,0,0,0,,Translated
+150,結衣,篠崎さん……, , ,Ms. Shishido,Shinozaki...,,,유이,시노자키......,,,結衣,篠崎同學……, ,,1,234,26,1,0,0,0,0,0,,Translated
+151,良樹,大丈夫だよ結衣センセー、,俺が 篠崎見てるから。, ,Yoshiki,"It's okay, Teach. I'll keep an eye on Shinozaki.",,,요시키,괜찮아 유이 선생님.,내가 시노자키를 보고 있을 테니까,,良樹,沒事的，結衣老師，,我會看著篠崎。,,1,208,22,1,0,0,0,0,0,,Translated
+152,結衣,え、ええ……, , ,Ms. Shishido,O-Okay...,,,유이,"응, 그래......",,,結衣,好、好的……, ,,1,235,26,1,0,0,0,0,0,,Translated
+153,良樹,……てか俺見てくるわ。,センセー待ってて。, ,Yoshiki,"...Or...better yet, how about I go take a look,",and you wait here?,,요시키,...... 그냥 내가 보고 올게.,선생님은 기다리고 있어.,,良樹,……不如我去看看吧。,老師你在這裡等。,,1,209,22,1,0,0,0,0,0,,Translated
+154,結衣,駄目よ、他が安全ってわかるまで、, , ,Ms. Shishido,Not a chance. Until I can verify everyone's,safety...,,유이,"안 돼, 안전을 확인할 때까지.",,,結衣,不行，在確認其他人安全之前，, ,,1,236,26,1,0,0,0,0,0,,Translated
+155,結衣,キミ達は此処にいなさい。, , ,Ms. Shishido,...I want to keep you two out of harm's way.,,,유이,너희들은 여기에 있어.,,,結衣,你們都要待在這裡。, ,,1,237,26,1,0,0,0,0,0,,Translated
+156,良樹,……んじゃ頼むよ。……気をつけて。, , ,Yoshiki,"...Well...okay, I guess. Be careful, though.",,,요시키,그럼 부탁할게. 조심해.,,,良樹,……那好吧。……小心點。, ,,1,210,22,1,0,0,0,0,0,,Translated
+157,あゆみ,いあああぁぁぁ……, , ,Ayumi,Nooooooo!,,,아유미,싫어어어어어어어......,,,あゆみ,不要啊啊啊啊……, ,,1,72,0,1,0,0,0,0,0,,Translated
+158,良樹,大丈夫だって、ほら……, , ,Yoshiki,"Look, she'll be fine! Geez...",,,요시키,괜찮대도 그래......,,,良樹,都說了沒事的……, ,,1,211,22,1,0,0,0,0,0,,Translated
+159,結衣,お願いね。すぐ戻るから……, , ,Ms. Shishido,"I'm counting on you, Kishinuma.",I'll be back in no time.,,유이,부탁할게. 금방 올 테니까......,,,結衣,拜託你了。我馬上回來……, ,,1,238,26,1,0,0,0,0,0,,Translated
+160,良樹,ああ。, , ,Yoshiki,No problem.,,,요시키,알았어.,,,良樹,嗯。, ,,1,212,22,1,0,0,0,0,0,,Translated
+161,結衣,（……怖い。足がガクガク震えてる）, , ,Ms. Shishido,(...I'm actually scared! My legs are even shaking.),,,유이,(...... 무서워. 발이 덜덜 떨려 와),,,結衣,（……好可怕。雙腿都在發抖）, ,,1,239,26,1,0,0,0,0,0,,Translated
+162,結衣,（何が起こっているのか……,　頭が混乱して、思考がまとまらない）, ,Ms. Shishido,(I have no idea what's going on. My head is,spinning...I can't make sense of anything...),,유이,(무슨 일이 일어나고 있는지......,머리가 혼란스러워서 정리가 안 돼),,結衣,（到底發生了什麼事……,腦子一片混亂，無法思考）,,1,240,26,1,0,0,0,0,0,,Translated
+163,結衣,（心臓を氷漬けにされているような,　痛苦しさで……）, ,Ms. Shishido,(My chest hurts like my heart is encased in ice...),,,유이,(심장이 얼어붙을 것 같은,아픔에......),,結衣,（心臟像被冰凍一樣的,痛苦……）,,1,241,26,1,0,0,0,0,0,,Translated
+164,結衣,（めまいと、吐き気が止まらない）, , ,Ms. Shishido,(And I can't shake this dizziness...or this,nausea...),,유이,(현기증과 구토감이 멈추질 않아),,,結衣,（頭暈和噁心感止不住）, ,,1,242,26,1,0,0,0,0,0,,Translated
+165,,　扉は【釘(くぎ)】で打ち付けられており、,　開きません。, ,,"The door is nailed shut, and the nails are hammered",in tight. It's not going to open through any normal,means.,,문은 【못】이 박혀,열리지 않습니다.,,,門被【釘子】釘住了，,打不開。,,0,0,0,0,0,0,0,0,0,,Translated
+166,,　昭和４＊年９月１８日　　日番　江迂／辻, , ,,197_-09-18,                    [Day duty: Qo／Tsuji],,,197*년 9월 18일    당번  코우/츠지,,,,一九七＊年九月十八日　　值日　江迂／辻, ,,0,0,0,0,0,0,0,0,0,,Translated
+167,,　所々、チョークが擦れて読めません……, , ,,"The chalk's been worn away in a few spots, leaving",the date on the board somewhat vague.,,,여기저기 분필로 칠해져서 읽을 수 없습니다......,,,,到處都被粉筆塗抹過，無法辨識……, ,,0,0,0,0,0,0,0,0,0,,Translated
+168,,■天神小連絡通紙■,　校内で頻発している【生徒児童 誘拐事件】への,　対策を……,,[Heavenly Host Elementary - Notice to All Faculty,"and Students] Due to the recent kidnappings, caution",is highly recommended during all daily activities.,,■ 텐진초 연락 통지 ■,교내에 빈발하고 있는 【아동 유괴 사건】에 대한,대책을......,,■天神小連絡通紙■,　針對校內頻繁發生的【學生兒童　誘拐事件】的,　對策……,0,0,0,0,0,0,0,0,0,,Translated
+169,,　先般の事例に基づいて、,　各員速やかに執られたし……,　　　　　【天神小学校校長：柳堀隆峰】,,"In each instance, the victim was taken quickly and","unexpectedly, so please remain alert and aware at",all times.          -Principal Takamine Yanagihori,,각 교원은 선례에 기반하여,조속히 대처하기 바란다......,        【텐진초등학교 교장：야나기호리 타카미네】,,　根據先前的案例，,　請各位人員迅速執行……,　　　　　【天神小學校校長：柳堀隆峰】,0,0,0,0,0,0,0,0,0,,Translated
+170,,　黒く、長い髪の毛がたっぷりと棚の中に,　詰め込まれています……, ,,"The shelves are filled to overflowing with long,",black hairs.,,,"검고, 긴 머리칼이 수납장에",가득 담겨 있습니다......,,,黑色的長髮塞滿了整個櫃子……, ,,0,0,0,1,0,0,0,0,0,,Translated
+171,,　窓の外は真っ暗で、何も見えません……, , ,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,窗外一片漆黑，什麼也看不見……, ,,0,0,0,1,0,0,0,0,0,,Translated
+172,あゆみ,ハァッ、ハァッ……,ふ…うぅ…っ, ,Ayumi,*deep breathing*,,,아유미,"하악, 하악......",후... 으으...,,あゆみ,哈啊、哈啊……,呼…嗚嗚…,,1,73,0,1,0,0,0,0,0,,Translated
+173,良樹,結衣センセー、哲志達は無事かな……, , ,Yoshiki,Ms. Yui... I wonder if Satoshi and the others are,safe...,,요시키,"유이 선생님, 사토시 일행은 무사할까......",,,良樹,結衣老師……哲志他們還好嗎……, ,,1,221,22,1,0,0,0,0,0,,Translated
+174,結衣,ええ、きっと無事よ。, , ,Ms. Shishido,They are. I'm sure of it.,,,유이,"응, 분명 무사할 거야.",,,結衣,嗯，一定沒事的。, ,,1,1,27,1,0,0,0,0,0,,Translated
+175,結衣,？　何か落ちてるわ……, , ,Ms. Shishido,Hmm? There's something here...,,,유이,? 뭐가 떨어져 있네......,,,結衣,？有什麼東西掉在地上……, ,,1,247,26,1,0,0,0,0,0,,Translated
+176,,　紫色に輝く石が落ちています。,　……取りますか？, ,,A crystal shining with a faint purple glow is,nestled amongst the debris on the ground.,Take it?,,자줏빛으로 빛나는 돌이 떨어져 있습니다.,...... 가져가겠습니까?,,,有一顆發出紫色光芒的石頭掉在地上。,　……要拿走嗎？,,0,0,0,1,0,0,0,0,0,,Translated
+177,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+178,,　パワーストーン　を取りました。, , ,,Acquired [Power Stone].,,,,파워 스톤을 얻었습니다.,,,,拿到了【能量石】。, ,,0,0,0,1,0,0,0,0,0,,Translated
+179,良樹,結衣センセー, , ,Yoshiki,Ms. Yui?,,,요시키,유이 선생님,,,良樹,結衣老師, ,,1,213,22,1,0,0,0,0,0,,Translated
+180,良樹,さっきの、やっぱ悲鳴……,……ん？, ,Yoshiki,I think...that really was a scream we heard...,...Hmm?,,요시키,"좀 전에 그건, 역시 비명......",...... 응?,,良樹,剛才那個果然是慘叫聲……,……嗯？,,1,214,22,1,0,0,0,0,0,,Translated
+181,良樹,なんか、見つけたの。, , ,Yoshiki,Did you find something?,,,요시키,뭔가 찾았어?,,,良樹,你找到什麼了嗎？, ,,1,215,22,1,0,0,0,0,0,,Translated
+182,結衣,ええ、綺麗な石が床に落ちていたわ。, , ,Ms. Shishido,Yeah. Some kind of gemstone lying on the ground.,,,유이,"응, 예쁜 돌이 바닥에 떨어져 있었어.",,,結衣,嗯，有一顆漂亮的小石頭掉在地上。, ,,1,248,26,1,0,0,0,0,0,,Translated
+183,良樹,ルビー……いや、アメジストかな。, , ,Yoshiki,"Looks like a ruby...or...no, probably an amethyst?",,,요시키,"루비...... 아니, 자수정인가.",,,良樹,紅寶石……不，應該是紫水晶吧。, ,,1,216,22,1,0,0,0,0,0,,Translated
+184,結衣,岸沼君、石に詳しいの？, , ,Ms. Shishido,"Kishinuma, you can identify gemstones?",,,유이,"키시누마 군, 돌에 대해 잘 알아?",,,結衣,岸沼同學，你懂石頭？, ,,1,249,26,1,0,0,0,0,0,,Translated
+185,良樹,いや……別に。篠崎が、そういうの詳しいよ。, , ,Yoshiki,"No, not really. Shinozaki's the one to ask for that",kinda stuff.,,요시키,아니...... 별로. 시노자키가 그런 걸 잘 알거든.,,,良樹,不……也不是。篠崎對這種東西很了解。, ,,1,217,22,1,0,0,0,0,0,,Translated
+186,結衣,そう……じゃこれ、篠崎さんに……, , ,Ms. Shishido,Is that so? Well...then maybe I should give it to,her...,,유이,"그래...... 그럼 이건, 시노자키에게......",,,結衣,是嗎……那這個，給篠崎同學……, ,,1,250,26,1,0,0,0,0,0,,Translated
+187,,渡す,渡さない,,,Give it to Shinozaki,Keep it,,,건네준다,건네주지 않는다,,,交給她,不交給她,,0,255,255,255,255,255,255,255,255,,Translated
+188,結衣,……今、それどころじゃないかしら。, , ,Ms. Shishido,I guess now's probably not the best time for that...,,,유이,...... 지금은 그럴 때가 아니던가.,,,結衣,……現在好像不是做這種事的時候。, ,,1,251,26,1,0,0,0,0,0,,Translated
+189,結衣,でも、後で渡しておいてくれる？, , ,Ms. Shishido,"But will you take it, and give it to her once she's",calmed down a bit?,,유이,그래도 나중에 전해줄래?,,,結衣,不過，你能幫我收著，之後再交給她嗎？, ,,1,252,26,1,0,0,0,0,0,,Translated
+190,結衣,……元気出るかも知れないし。, , ,Ms. Shishido,It might make her feel a little better.,,,유이,힘이 날지도 모르니까.,,,結衣,……也許能讓她打起精神來。, ,,1,253,26,1,0,0,0,0,0,,Translated
+191,良樹,わかった。, , ,Yoshiki,No problem.,,,요시키,알았어.,,,良樹,知道了。, ,,1,218,22,1,0,0,0,0,0,,Translated
+192,,パワーストーン　を渡しました。, , ,,Handed over the [Power Stone].,,,,파워 스톤을 건네주었습니다.,,,,交出了【能量石】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+193,結衣,……今、それどころじゃないわね……。, , ,Ms. Shishido,"...Nah, now's not the time for that...",,,유이,...... 지금은 그럴 때가 아니었지......,,,結衣,……現在不是做這種事的時候啊……。, ,,1,254,26,1,0,0,0,0,0,,Translated
+194,良樹,センセー、さっきの声……　中嶋の……, , ,Yoshiki,I really do think that was Nakashima's voice we,"heard, though.",,요시키,"선생님, 방금 그 목소리...... 나카시마의......",,,良樹,老師，剛才那個聲音……是中嶋的……, ,,1,219,22,1,0,0,0,0,0,,Translated
+195,結衣,……そうね。 見てくるわ。, , ,Ms. Shishido,I agree. And I'm going to try finding her.,,,유이,...... 그래. 보고 올게.,,,結衣,……是啊。我去看看。, ,,1,255,26,1,0,0,0,0,0,,Translated
+196,結衣,あなたは、篠崎さんをお願い。, , ,Ms. Shishido,"But I need you to stay here with Shinozaki, okay?",,,유이,시노자키를 부탁해.,,,結衣,篠崎同學就拜託你了。, ,,1,0,27,1,0,0,0,0,0,,Translated
+197,良樹,うん。, , ,Yoshiki,Okay.,,,요시키,응.,,,良樹,嗯。, ,,1,220,22,1,0,0,0,0,0,,Translated
+198,あゆみ,……！, , ,Ayumi,...!,,,아유미,......!,,,あゆみ,……！, ,,1,74,0,1,0,0,0,0,0,,Translated
+199,良樹,うあぁ！　地震だ！, , ,Yoshiki,Whoa! Another earthquake!,,,요시키,우아아! 지진이다!,,,良樹,哇啊！地震！, ,,1,222,22,1,0,0,0,0,0,,Translated
+200,良樹,……おさまったか。, , ,Yoshiki,...I think it's over...,,,요시키,...... 멎었나.,,,良樹,……停了呢。, ,,1,223,22,1,0,0,0,0,0,,Translated
+201,良樹,ど、どうしたんだよ。, , ,Yoshiki,Wh-What's wrong?,,,요시키,"뭐, 뭔 일이야?",,,良樹,怎、怎麼了。, ,,1,224,22,1,0,0,0,0,0,,Translated
+202,あゆみ,……嫌な予感がするの……,…先生を捜しに行く。, ,Ayumi,I just got a really bad feeling...,We've gotta go search for Ms. Yui.,,아유미,...... 안 좋은 예감이 들어......,... 선생님을 찾으러 갈래.,,あゆみ,……有不好的預感……,……我要去找老師。,,1,75,0,1,0,0,0,0,0,,Translated
+203,良樹,入れ違いになったら、どうすんだよ。, , ,Yoshiki,"What if she comes back while we're gone, and we",miss each other along the way?,,요시키,엇갈리면 어쩌려고.,,,良樹,要是錯過了她怎麼辦。, ,,1,225,22,1,0,0,0,0,0,,Translated
+204,あゆみ,行くのぉ！！！, , ,Ayumi,We're going!,,,아유미,갈 거야!!!,,,あゆみ,我要去！！！, ,,1,76,0,1,0,0,0,0,0,,Translated
+205,良樹,わ、わかったよ。でも、見つからなかったら,すぐ戻ってくるからな。, ,Yoshiki,"A-All right, all right already! But if we don't have","any luck finding her, let's just make sure we come","back to this room, okay?",요시키,"아, 알았어. 하지만 못 찾으면",곧장 돌아올 거야.,,良樹,知、知道了。但是，如果沒找到的話,要馬上回來這裡哦。,,1,226,22,1,0,0,0,0,0,,Translated
+206,あゆみ,ぐすっ……　ヒック, , ,Ayumi,*sniffle* *sob*,,,아유미,훌쩍...... 흑,,,あゆみ,吸……　嗚, ,,1,77,0,1,0,0,0,0,0,,Translated
+207,良樹,そうだ、書き置きするか……,篠崎、お前何か持ってる？, ,Yoshiki,How about...we leave her a note?,"Shinozaki, do you have anything I could write with?",,요시키,"그래, 메모를 해 두자......","시노자키, 너 뭐 적을 만한 거 없어?",,良樹,對了，留個紙條吧……,篠崎，你有什麼可以寫的嗎？,,1,227,22,1,0,0,0,0,0,,Translated
+208,あゆみ,……ペンしかない。, , ,Ayumi,I've got a pen...,,,아유미,...... 펜밖에 없어,,,あゆみ,……只有筆。, ,,1,78,0,1,0,0,0,0,0,,Translated
+209,良樹,紙とか持ってねぇもんな……,じゃ、教卓にでも書くか。, ,Yoshiki,"But no paper, huh.","...Well, there's always the teacher's desk.",,요시키,종이 같은 건 없나보군......,그럼 교탁에 적어 둘까.,,良樹,也沒有紙……,那，寫在講桌上吧。,,1,228,22,1,0,0,0,0,0,,Translated
+210,あゆみ,………。, , ,Ayumi,...,,,아유미,.........,,,あゆみ,………。, ,,1,79,0,1,0,0,0,0,0,,Translated
+211,,“結衣センセーへ,　迎えに行く。入れ違いでコレを見たら、,　この場で待ってて　俺達も帰ってくるから。”,,"'Ms. Yui, we've gone to find you. If we pass each","other and you see this message, wait right here.",We'll be back.',,“유이 선생님에게,거기로 갈게. 혹시 엇갈려서 이걸 보게 되면,여기에서 기다려  우리도 여기로 올 테니까.”,,“給結衣老師,　我們去找你了。如果錯過了看到這個，,　請在這裡等我們　我們會回來的。”,0,229,22,1,0,0,0,0,0,,Translated
+212,良樹,これでいいな。, , ,Yoshiki,How's that?,,,요시키,이러면 되겠지.,,,良樹,這樣就行了。, ,,1,230,22,1,0,0,0,0,0,,Translated
+213,あゆみ,不躾な書き置き……, , ,Ayumi,Blunt. And kind of sloppy.,,,아유미,글 좀 잘 쓰지......,,,あゆみ,字寫得真隨便……, ,,1,80,0,1,0,0,0,0,0,,Translated
+214,良樹,お前がワガママ言うからだろがよ。, , ,Yoshiki,It's your fault we have to leave her a message at,"all, you know.",,요시키,네가 억지를 부리니까 그렇지.,,,良樹,還不是你鬧著要去的。, ,,1,231,22,1,0,0,0,0,0,,Translated
+215,あゆみ,だって……先生が……, , ,Ayumi,But...she might be in trouble!,,,아유미,그게...... 선생님이......,,,あゆみ,可是……老師她……, ,,1,81,0,1,0,0,0,0,0,,Translated
+216,良樹,わ、わかったから泣くなって……, , ,Yoshiki,"O-Okay, okay! Just...don't cry! We'll find her!",,,요시키,"아, 알았으니까 울지 마......",,,良樹,好、好啦別哭了……, ,,1,232,22,1,0,0,0,0,0,,Translated
+217,,■天神小連絡通紙■,　校内で頻発している【生徒児童 誘拐事件】への,　対策を……,,[Heavenly Host Elementary - Notice to All Faculty,"and Students] Due to the recent kidnappings, caution",is highly recommended during all daily activities.,,■ 텐진초 연락 통지 ■,교내에 빈발하고 있는 【아동 유괴 사건】에 대한,대책을......,,■天神小連絡通紙■,　針對校內頻繁發生的【學生兒童　誘拐事件】的,　對策……,0,0,0,0,0,0,0,0,0,,Translated
+218,,　先般の事例に基づいて、,　各員速やかに執られたし……,　　　　　【天神小学校校長：柳堀隆峰】,,"In each instance, the victim was taken quickly and","unexpectedly, so please remain alert and aware at",all times.          -Principal Takamine Yanagihori,,각 교원은 선례에 기반하여,조속히 대처하기 바란다......,        【텐진초등학교 교장：야나기호리 타카미네】,,　根據先前的案例，,　請各位人員迅速執行……,　　　　　【天神小學校校長：柳堀隆峰】,0,0,0,0,0,0,0,0,0,,Translated
+219,,　窓の外は真っ暗で、何も見えません……, , ,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,窗外一片漆黑，什麼也看不見……, ,,0,0,0,0,0,0,0,0,0,,Translated
+220,あゆみ,ハァッ、ハァッ……,ふ……うぅ……っ, ,Ayumi,*deep breathing*,,,아유미,"하악, 하악......",후... 으으...,,あゆみ,哈啊、哈啊……,呼…嗚嗚…,,1,73,0,1,0,0,0,0,0,,Translated
+221,,　結衣への書き置きが残っています。, , ,,"The note to Ms. Yui is still here, untouched and",unaltered.,,,유이에게 쓴 메모가 남아 있습니다.,,,,留給結衣的紙條還在。, ,,0,0,0,0,0,0,0,0,0,,Translated
+222,あゆみ,先生……まだ戻って来てない。, , ,Ayumi,Looks like...she hasn't come back yet...,,,아유미,선생님...... 아직 안 왔네.,,,あゆみ,老師……還沒回來。, ,,1,82,0,1,0,0,0,0,0,,Translated
+223,良樹,どこまで見に行ったんだろうな……, , ,Yoshiki,Can't believe she'd still be out looking for,Nakashima...,,요시키,어디까지 간 거야......,,,良樹,到底去哪裡找了啊……, ,,1,233,22,1,0,0,0,0,0,,Translated
+224,,　扉は【釘(くぎ)】で打ち付けられており、,　開きません。, ,,"The door is nailed shut, and the nails are hammered",in tight. It's not going to open through any normal,means.,,문은 【못】이 박혀,열리지 않습니다.,,,門被【釘子】釘住了，,打不開。,,0,0,0,0,0,0,0,0,0,,Translated
+225,,　鉄の釘抜きを使って、扉を開けますか？, ,,,Use the Nail Puller?,,,,못뽑이로 문을 열겠습니까?,,,,要用【鐵製拔釘器】打開門嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+226,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+227,,　鉄の釘抜き　が折れてしまいました。, , ,,Although successful in loosening every nail and,"opening the door, the rusted old nail puller broke",apart in the process.,,철제 못뽑이가 부러졌습니다.,,,,【鐵製拔釘器】斷掉了。, ,,0,0,0,1,0,0,0,0,0,,Translated
+228,,　黒く、長い髪の毛がたっぷりと棚の中に,　詰め込まれています……, ,,"The shelves are filled to overflowing with long,",black hairs.,,,"검고, 긴 머리칼이 수납장에",가득 담겨 있습니다......,,,黑色的長髮塞滿了整個櫃子……, ,,0,0,0,0,0,0,0,0,0,,Translated
+229,,　昭和４＊年９月１８日　　日番　江迂／辻, , ,,197_-09-18,                    [Day duty: Qo／Tsuji],,,197*년 9월 18일    당번  코우/츠지,,,,一九七＊年九月十八日　　值日　江迂／辻, ,,0,0,0,0,0,0,0,0,0,,Translated
+230,,　窓の外は真っ暗で、何も見えません……, , ,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,窗外一片漆黑，什麼也看不見……, ,,0,0,0,1,0,0,0,0,0,,Translated
+231,,　扉は模型のようにガチリと固定されており、,　開ける事が出来ません。, ,,The door seems affixed to the wall like a model.,It can't be opened.,,,문은 모형처럼 딱 고정되어,열 수 없습니다.,,,門像模型一樣固定住，無法打開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+232,,　扉は模型のようにガチリと固定されており、,　開ける事が出来ません。, ,,The door seems affixed to the wall like a model.,It can't be opened.,,,문은 모형처럼 딱 고정되어,열 수 없습니다.,,,門像模型一樣固定住，無法打開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+233,,　異常な量の髪の毛が棚に詰め込んであります……, , ,,A disturbingly large amount of human hair is crammed,"into the cabinet, filling each shelf to overflowing.",,,이상할 정도로 많은 머리칼이 수납장에 담겨 있습니다......,,,,異常大量的頭髮塞滿了櫃子……, ,,0,0,0,1,0,0,0,0,0,,Translated
+234,,　良く見ると小さな虫が沢山湧いていて、,　とても不潔です。, ,,"Looking closely, there are an excessive number of",bugs excitedly scampering all over. The sight alone,is enough to make your skin crawl.,,잘 보니 작은 벌레가 잔뜩 꼬여 있어,매우 불결합니다.,,,仔細一看有許多小蟲子，,非常不衛生。,,0,0,0,1,0,0,0,0,0,,Translated
+235,,　19730918, ,,,1973 09 18,,,,　19730918, ,,,一九七三零九一八, ,,0,0,0,0,0,0,0,0,0,,Translated
+236,,■天神町奉知新聞■,　児童四名　連続誘拐・殺害事件　速報, ,,[Heavenly Post],'Breaking News: Serial Kidnapping Ends In Murder',,,■ 텐진 지역 신문 ■,아동 4명  연속 유괴·살해 사건  속보,,,■天神町奉知新聞■,　兒童四名　連續綁架・殺害事件　速報,,0,0,0,0,0,0,0,0,0,,Translated
+237,,　ここひと月の間に、町内で多数発生していた,　『連続児童失踪事件』は,,,"Over the past month, numerous children have gone","missing within the town, and authorities quickly",turned to kidnapping as the most likely explanation.,,요 1개월간 이 지역에서 수차례 발생한,『연속 아동 실종 사건』은,,,　在這一個月內，鎮上接連發生的,　『連續兒童失蹤事件』,,0,0,0,0,0,0,0,0,0,,Translated
+238,,　当局の捜査の結果、,　急転直下、最悪の形で解決へと向かった。,,,Now investigators have located the whereabouts of,"these children, and their findings are far worse",than anyone could've anticipated.,,당국의 수사 끝에,최악의 결과를 맞게 되었다.,,,　經過當局的搜查，,　情況急轉直下，以最壞的形式迎向結局。,,0,0,0,0,0,0,0,0,0,,Translated
+239,,　昭和四拾八年　九月拾八日、午後七時、,　同校内にて、失踪中の児童たちの亡骸と,,,The bodies of the absconded youths were discovered,within the Heavenly Host Elementary School building,"on September 18th, 1973 at around 7:00 PM.",,1973년 9월 18일 오후 7시,교내에서 실종된 아동들의 유해와,,,　昭和四十八年九月十八日下午七時，,　在校內發現失蹤兒童們的遺體，以及,,0,0,0,0,0,0,0,0,0,,Translated
+240,,　血の付いた鋏(はさみ)を持ち放心している,　教員一名を発見、これを確保した。,,,Authorities further revealed that a male instructor,"from the school was found with them, alive but near-","catatonic, holding a pair of bloodied scissors.",,피가 묻은 가위를 들고 가만히 있던,"교원 1명을 발견, 확보했다.",,,　一名手持沾血剪刀、茫然呆立的教育人員，,　已將其控制。,,0,0,0,0,0,0,0,0,0,,Translated
+241,,　遺体は全て、舌が＊り取ら＊ており、＊,　＊＊を凶器＊＊定＊, ,,Each of the corpses appeared to have had its tongue,sev__ed and remove_________________ique mutilations,far too grot___________________g to describe.,,유해는 전부 혀가 *혀 *어,**를 흉기* *정,,,　所有遺體的舌頭都被＊去＊，＊,　＊＊被判定為凶器＊＊,,0,0,0,0,0,0,0,0,0,,Translated
+242,,（下半分がちぎれていて、読めません）, , ,,"(The page is torn at this point, and the bottom",half of the article is nowhere to be found.),,,(아랫부분이 찢어져 읽을 수 없습니다),,,,（下半部被撕掉，無法閱讀）, ,,0,0,0,0,0,0,0,0,0,,Translated
+243,結衣,話には聞いていたけれど……, , ,Ms. Shishido,I heard something about this once before...,,,유이,얘기로는 들었지만......,,,結衣,雖然聽說過……, ,,1,6,27,1,0,0,0,0,0,,Translated
+244,結衣,こんなに酷い事件だったなんて……, , ,Ms. Shishido,...but I never realized just how horrific an,incident it really was...,,유이,이렇게 심한 사건이었다니......,,,結衣,沒想到是這麼可怕的事件……, ,,1,7,27,1,0,0,0,0,0,,Translated
+245,,ガラッ, , ,,*slam*,,,,드륵,,,,喀啦, ,,0,0,0,0,0,0,0,0,0,,Translated
+246,結衣,……！？, , ,Ms. Shishido,...?!,,,유이,......!?,,,結衣,……！？, ,,1,8,27,1,0,0,0,0,0,,Translated
+247,,■天神町奉知新聞■,　児童四名　連続誘拐・殺害事件　速報, ,,[Heavenly Post],'Breaking News: Serial Kidnapping Ends In Murder',,,■ 텐진 지역 신문 ■,아동 4명  연속 유괴·살해 사건  속보,,,■天神町奉知新聞■,　兒童四名　連續綁架・殺害事件　速報,,0,0,0,0,0,0,0,0,0,,Translated
+248,,　ここひと月の間に、町内で多数発生していた,　『連続児童失踪事件』は, ,,"Over the past month, numerous children have gone","missing within the town, and authorities quickly",turned to kidnapping as the most likely explanation.,,요 1개월간 이 지역에서 수차례 발생한,『연속 아동 실종 사건』은,,,　在這一個月內，鎮上接連發生的,　『連續兒童失蹤事件』,,0,0,0,0,0,0,0,0,0,,Translated
+249,,　当局の捜査の結果、,　急転直下　最悪の形で解決へと向かった, ,,Now investigators have located the whereabouts of,"these children, and their findings are far worse",than anyone could've anticipated.,,당국의 수사 끝에,최악의 결과를 맞게 되었다.,,,　經過當局的搜查，,　情況急轉直下，以最壞的形式迎向結局。,,0,0,0,0,0,0,0,0,0,,Translated
+250,,　昭和四拾八年　九月拾八日　午後七時、,　同校内にて、失踪中の児童たちの亡骸と, ,,The bodies of the absconded youths were discovered,within the Heavenly Host Elementary School building,"on September 18th, 1973 at around 7:00 PM.",,1973년 9월 18일 오후 7시,교내에서 실종된 아동들의 유해와,,,　昭和四十八年九月十八日下午七時，,　在校內發現失蹤兒童們的遺體，以及,,0,0,0,0,0,0,0,0,0,,Translated
+251,,　血の付いた鋏(はさみ)を持ち放心している,　教員一名を発見、これを確保した, ,,Authorities further revealed that a male instructor,"from the school was found with them, alive but near-","catatonic, holding a pair of bloodied scissors.",,피가 묻은 가위를 들고 가만히 있던,"교원 1명을 발견, 확보했다.",,,　一名手持沾血剪刀、茫然呆立的教育人員，,　已將其控制。,,0,0,0,0,0,0,0,0,0,,Translated
+252,,　遺体は全て、舌が＊り取ら＊ており、＊,　＊＊を凶器＊＊定＊, ,,Each of the corpses appeared to have had its tongue,sev__ed and remove_________________ique mutilations,far too grot___________________g to describe.,,유해는 전부 혀가 *혀 *어,**를 흉기* *정,,,　所有遺體的舌頭都被＊去＊，＊,　＊＊被判定為凶器＊＊,,0,0,0,0,0,0,0,0,0,,Translated
+253,,（下半分がちぎれていて、読めません）, , ,,"(The page is torn at this point, and the bottom",half of the article is nowhere to be found.),,,(아랫부분이 찢어져 읽을 수 없습니다),,,,（下半部被撕掉，無法閱讀）, ,,0,0,0,0,0,0,0,0,0,,Translated
+254,あゆみ,……寒い。, , ,Ayumi,...It's cold in here...,,,아유미,...... 추워.,,,あゆみ,……好冷。, ,,1,85,0,1,0,0,0,0,0,,Translated
+255,良樹,それに暗くて怖ぇな……　篠崎、お前さ、, , ,Yoshiki,"Not to mention dark, and scary...","Hey, Shinozaki...",,요시키,"거기에 어둡기까지 해서 무서운걸...... 시노자키, 너.",,,良樹,而且又暗又可怕……　篠崎，你, ,,1,236,22,1,0,0,0,0,0,,Translated
+256,良樹,さっき怪談の時に使った、ロウソクあるだろ？, , ,Yoshiki,"Do you have any more of those candles, like the one",you lit during the ghost story?,,요시키,좀 전에 괴담할 때 썼던 양초 있지?,,,良樹,剛才講鬼故事時用的蠟燭，有吧？, ,,1,237,22,1,0,0,0,0,0,,Translated
+257,あゆみ,持ってる。, , ,Ayumi,I do.,,,아유미,있어.,,,あゆみ,有。, ,,1,86,0,1,0,0,0,0,0,,Translated
+258,良樹,それ点けて、ちょっと休もうぜ。, , ,Yoshiki,How about we light one up and take a quick breather?,,,요시키,그걸 켜고 잠시 쉬자.,,,良樹,點上那個，休息一下吧。, ,,1,238,22,1,0,0,0,0,0,,Translated
+259,良樹,少しは暖かいだろ。, , ,Yoshiki,"They give off...some heat, right?",,,요시키,조금은 따뜻해지겠지.,,,良樹,應該會稍微暖和一些吧。, ,,1,239,22,1,0,0,0,0,0,,Translated
+260,あゆみ,わかった……, , ,Ayumi,Sure...,,,아유미,알았어......,,,あゆみ,知道了……, ,,1,87,0,1,0,0,0,0,0,,Translated
+261,あゆみ,あったかい……　わたしのろうそく……, , ,Ayumi,This candle of mine...really is kinda warm...,,,아유미,따뜻하다...... 내 양초......,,,あゆみ,好溫暖……我的蠟燭……, ,,1,88,0,1,0,0,0,0,0,,Translated
+262,良樹,ああ……だな。, , ,Yoshiki,Yeah...it is.,,,요시키,아아...... 그러게.,,,良樹,啊……是啊。, ,,1,240,22,1,0,0,0,0,0,,Translated
+263,あゆみ,ヒっ！, , ,Ayumi,Eep!,,,아유미,힉!,,,あゆみ,嚇！, ,,1,89,0,1,0,0,0,0,0,,Translated
+264,結衣,……っ！（ビクッ）, , ,Ms. Shishido,Heeyagh!!,,,유이,...... 윽! (깜짝),,,結衣,……！（嚇一跳）, ,,1,9,27,1,0,0,0,0,0,,Translated
+265,,　……ヤァ……先生……　一人でドウシタの？, , ,,"Well, if it isn't the teacher. Are you all by",yourself?,,,...... 여어...... 선생...... 혼자 뭐하고 있어?,,,,　……喲……老師……　一個人怎麼啦？, ,,0,118,5,1,0,0,0,0,0,,Translated
+266,,　……教室で、三人デ震えてるのは,　やめたノかい？, ,,Decided to stop shaking and shivering with the other,"two back in 1-A, did you?",,,...... 교실에서 셋이서 벌벌 떠는 건,그만둔 거야?,,,　……不跟另外兩個一起在教室裡發抖了嗎？, ,,0,119,5,1,0,0,0,0,0,,Translated
+267,結衣,生徒の悲鳴が聞こえたから,……様子を見に行くんです, ,Ms. Shishido,I'll have you know I heard one of my students,"screaming, and have set out to find her.",,유이,학생의 비명이 들려서,...... 어떤지 보러 온 거야.,,結衣,因為聽到了學生的慘叫，,……所以去看看情況。,,1,10,27,1,0,0,0,0,0,,Translated
+268,,　……ソウ……　でも、, , ,,I see. Regrettably...,,,,...... 그래...... 하지만,,,,　……是嗎……　但是，, ,,0,120,5,1,0,0,0,0,0,,Translated
+269,,　……この旧校舎は,　幾つもノ次元が重なって存在する、,　『多重閉鎖空間』ダ。,,...that won't be possible. This school exists in a,nexus where multiple dimensions overlap. It's but a,single closed space in a sea of closed spaces.,,...... 구 교사는,몇 개의 차원이 겹쳐 존재하는,『다중 폐쇄 공간』이야.,,　……這棟舊校舍是由多重次元重疊構成的,　『多重封閉空間』。,,0,121,5,1,0,0,0,0,0,,Translated
+270,,　……同ジ校舎にイたとしても,　存在スル次元が違えば、, ,,"In other words, even though you may be in the same","school as your screaming student, you and she occupy",different dimensions.,,...... 같은 교사에 있다고 해도,존재하는 차원이 다르다면,,,　……即使在同一棟校舍裡，,　存在的次元不同，,,0,122,5,1,0,0,0,0,0,,Translated
+271,,　その者同士が出会う事はなイ。, , ,,Which means you two can never meet.,,,,서로 만날 일은 없어.,,,,　就無法見到對方。, ,,0,123,5,1,0,0,0,0,0,,Translated
+272,,　……もっとも、死ンで、死体や霊魂にでモ,　なれば……あるいは、, ,,"If one of you should die, perhaps your body or your",spirit may move from one space to another...or...,,,애당초 죽어서 사체나,영혼이 된다면...... 잘하면,,,　……除非死了，變成屍體或靈魂……,　或許……,,0,124,5,1,0,0,0,0,0,,Translated
+273,,　……『 奴ら 』のように、次元間を行き来,　出来ル、手段があるのかも知レないが。, ,,...maybe you can find some means of traversing the,"planes freely, as 'they' do...",,,...... 『 녀석들 』처럼 차원을,넘나들 수 있게 될지도 모르지만.,,,　……像『那些傢伙』一樣，有辦法在次元之間,　自由往來也說不定。,,0,125,5,1,0,0,0,0,0,,Translated
+274,結衣,………。, , ,Ms. Shishido,...,,,유이,.........,,,結衣,………。, ,,1,11,27,1,0,0,0,0,0,,Translated
+275,,　……ダカラ、その生徒が悲鳴をアゲた場所に,　行ッたって, ,,Consider this fair warning. Even if you should find,the exact spot from which your student's scream ,emanated...,,...... 그러니 그 학생이 비명을,지른 곳에 간다고 해도,,,　……所以，即使你去了那個學生發出慘叫的地方，, ,,0,126,5,1,0,0,0,0,0,,Translated
+276,,　……会えナケレバ、アンタに出来る事なんて,　何もなイヨ。, ,,...she herself may not be there. And if she isn't...,there's not a thing you can do about it...,,,"...... 만나지 못하면, 네가 할 수 있는 건",아무것도 없어.,,,　……見不到的話，你什麼也做不了。, ,,0,127,5,1,0,0,0,0,0,,Translated
+277,結衣,声が……聞こえたもの, , ,Ms. Shishido,But...I heard her voice!,,,유이,목소리가...... 들렸어,,,結衣,可是……我聽到了聲音……, ,,1,12,27,1,0,0,0,0,0,,Translated
+278,,　……確かニ、アンタノ生徒ラシき子達も,　さっキこの学校に連れて来らレた様ダけど、, ,,It is true that other children have been brought,"here quite recently. Children who, by all","appearances, are indeed your students.",,...... 분명 네 학생 같은 아이들도,이 학교에 온 것 같지만,,,　……確實，像是你學生的孩子們,　剛才也被帶到了這所學校，,,0,128,5,1,0,0,0,0,0,,Translated
+279,,　……此処では、時間も次元もバラバラだって,　さっき教エタろう？, ,,"But as I suggested, time and space do not behave as",you'd assume here. They're...fragmented.,,,...... 여긴 시간도 차원도 제각각이라고,좀 전에 말했잖아?,,,　……但這裡的時間和次元都是混亂的，,　剛才已經告訴過你了吧？,,0,129,5,1,0,0,0,0,0,,Translated
+280,,　……悲鳴が聞こえたって、ソレは,　今発せられタ声なのか, ,,You say you heard a scream. That scream may have,taken place only a few minutes ago...,,,...... 비명이 들렸다고 해도,그건 지금 목소리인지,,,　……聽到慘叫聲，那究竟是,　現在發出的聲音，,,0,130,5,1,0,0,0,0,0,,Translated
+281,,　……別の次元で、何時間モ前にあがった,　悲鳴なのか……　或いは、, ,,"...or, perhaps...it occurred in another space many",hours previous...,,,...... 다른 차원에서 몇 시간 전에 지른,비명인지...... 아니면,,,　……還是另一個次元裡好幾個小時前,　發出的慘叫……又或者，,,0,131,5,1,0,0,0,0,0,,Translated
+282,,　……数時間先の悲鳴なのかも,　判らナイんだ。, ,,It may even have been an echo from the future...,Who's to say?,,,...... 몇 시간 전의 비명인지도,알 수가 없어.,,,　……是好幾個小時後的慘叫也,　說不定。,,0,132,5,1,0,0,0,0,0,,Translated
+283,結衣,……うう, , ,Ms. Shishido,Rrrgh...,,,유이,...... 으으,,,結衣,……嗚嗚, ,,1,13,27,1,0,0,0,0,0,,Translated
+284,,　……影響し合ってはイるが、,　必ずしも並列に動イてはいないんダよ、,　……コノ多重次元は。,,"With this phenomenon as it is, it's entirely",possible for two closed spaces to have some small,"influence on one another, even when out of sync.",,...... 서로 영향은 주지만,반드시 병렬로 움직이고 있는 건 아냐.,이 다중 차원은,,　……雖然會互相影響，,　但並不總是同步運行的，,　……這個多重次元。,0,133,5,1,0,0,0,0,0,,Translated
+285,結衣,だからって……じっとしてなんていられません！,どいて！, ,Ms. Shishido,It doesn't matter. I can't just ignore that,agonizing scream and go on my merry way.,Step aside!,유이,그렇다 해도...... 가만히 있을 수는 없어!,비켜!,,結衣,即使如此……我也不能乾瞪眼！,讓開！,,1,14,27,1,0,0,0,0,0,,Translated
+286,,　９月１８日　　日番　吉沢／梓, , ,,09-18,                    [Day duty: Yoshizawa／Azusa],,,9월 18일      당번  요시자와/아즈사,,,,九月十八日　　值日　吉沢／梓, ,,0,0,0,1,0,0,0,0,0,,Translated
+287,結衣,（はっ……あれ……？）, , ,Ms. Shishido,(Wh...What...?),,,유이,(핫...... 어라......?),,,結衣,（啊……咦……？）, ,,1,42,27,1,0,0,0,0,0,,Translated
+288,結衣,（棚が、軽くなってる……？）, , ,Ms. Shishido,(The shelf feels like it's...gotten lighter...),,,유이,"(수납장이, 가벼워졌네......?)",,,結衣,（櫃子……變輕了……？）, ,,1,43,27,1,0,0,0,0,0,,Translated
+289,結衣,痛い！　……うぅ, , ,Ms. Shishido,OW! ...Ooh...,,,유이,아야! ...... 으으,,,結衣,好痛！……嗚, ,,1,44,27,1,0,0,0,0,0,,Translated
+290,結衣,っ……　ふぅ……,ハァッ、ハァッ, ,Ms. Shishido,*exhale*,*pant* *pant*,,유이,윽...... 후우......,"하악, 하악",,結衣,……呼……,哈啊、哈啊,,1,45,27,1,0,0,0,0,0,,Translated
+291,,　……先生……本気で生徒の事を,　心配シてイるのカい？, ,,"So you're...really, truly concerned about the safety","of your students, are you?",,,...... 선생......,진심으로 학생을 걱정하는 거야?,,,　……老師……　你是真心在擔心學生嗎？, ,,0,158,5,1,0,0,0,0,0,,Translated
+292,結衣,……当たり前でしょう。, , ,Ms. Shishido,Of course I am!,,,유이,...... 당연하지,,,結衣,……當然的吧。, ,,1,46,27,1,0,0,0,0,0,,Translated
+293,,　……たかが他人の教師だろ？,　親でもないくせに。, ,,"But you're just their instructor, no? You have no",familial bond with any of them. You're not their,mother.,,...... 고작 타인의 교사면서?,부모도 아닌 주제에......,,,　……你只是個外人老師吧？,　又不是父母。,,0,159,5,1,0,0,0,0,0,,Translated
+294,結衣,親みたいなものよ！, , ,Ms. Shishido,But they're my children!,,,유이,부모나 마찬가지야!,,,結衣,就像父母一樣啊！, ,,1,47,27,1,0,0,0,0,0,,Translated
+295,,……！, , ,,...!,,,,......!,,,,　……！, ,,0,160,5,1,0,0,0,0,0,,Translated
+296,結衣,私も、如月学園のほかの先生方も、, , ,Ms. Shishido,I think I speak for every single one of us at,Kisaragi Academy...,,유이,나도 키사라기 학원의 선생님들도,,,結衣,我和如月學園的其他老師們，, ,,1,48,27,1,0,0,0,0,0,,Translated
+297,結衣,みんなのご両親にも負けないくらい、,あの子達を愛してるわ。, ,Ms. Shishido,...when I say that we love our children... We care,about them just as their parents do.,,유이,모두 부모님에게 지지 않을 정도로,그 아이들을 사랑해,,結衣,都對那些孩子們有著不輸給他們父母的愛。, ,,1,49,27,1,0,0,0,0,0,,Translated
+298,,　……, , ,,...,,,,......,,,,　………。, ,,0,161,5,1,0,0,0,0,0,,Translated
+299,結衣,馬鹿にしないで、教師を, , ,Ms. Shishido,Never underestimate a teacher.,,,유이,"바보 취급 하지 마, 교사를",,,結衣,不要小看教師。, ,,1,50,27,1,0,0,0,0,0,,Translated
+300,,　……うっ……く……　うググ, , ,,...Oo...kh...ulghh...,,,,...... 윽...... 크...... 으으으,,,,　……嗚……咳……　嗚咕咕, ,,0,162,5,1,0,0,0,0,0,,Translated
+301,結衣,それよりも、答えて！　私の生徒たちが他にも, , ,Ms. Shishido,"Now, answer me this! Your little rant earlier",suggested that more of my students are here than,the two I came with and the one I heard...,유이,"그것보다, 대답해! 내 학생들이",,,結衣,比起那個，回答我！我的學生們，還有其他, ,,1,51,27,1,0,0,0,0,0,,Translated
+302,結衣,ここに連れて来られているのは、本当なのね？, , ,Ms. Shishido,Is it true? Were the others brought here as well?,,,유이,"여기에 왔다는 건, 정말이지?",,,結衣,被帶到這裡來的是真的嗎？, ,,1,52,27,1,0,0,0,0,0,,Translated
+303,,　……あぁ……生者ノ魂が同時に,　増エたのヲ感じタから……イるよ、何人か。, ,,It is. Numerous corporeal entities joined us in,"these closed spaces, all at the same time.",,,...... 그래...... 산 자의 혼이 동시에,늘어난 것을 느꼈으니...... 몇 명 있어,,,　……啊……因為感覺到生者的靈魂同時,　增加了……有哦，好幾個人。,,0,163,5,1,0,0,0,0,0,,Translated
+304,,　……先生を含めて……９人クらいだ。, , ,,Counting you...I sensed the arrival of nine people.,,,,...... 선생님을 포함해서...... 9명 정도야.,,,,　……包含老師在內……　大約９人左右。, ,,0,164,5,1,0,0,0,0,0,,Translated
+305,結衣,（う…… ぐっ、 痛い……！,　右腕が、折れてる……）, ,Ms. Shishido,(Oof... Ooooh...,My right arm...is definitely broken...),,유이,"(으...... 윽, 아파......!",오른팔이 부러졌어......),,結衣,（嗚……　咳，好痛……！,　右手臂……骨折了……）,,1,53,27,1,0,0,0,0,0,,Translated
+306,結衣,（それに、この血……）, , ,Ms. Shishido,(And...all this blood...),,,유이,"(그리고, 이 피......)",,,結衣,（而且，這些血……）, ,,1,54,27,1,0,0,0,0,0,,Translated
+307,結衣,（棚に入っていた刃物が、,　背中や腰に刺さってたんだ……）, ,Ms. Shishido,(All those cutting implements on the shelf must have,done a number on my back...),,유이,(수납장에 들어 있던 날붙이가,등과 허리를 찔렀어),,結衣,（櫃子裡的那些刀具，,　刺進了背部和腰部……）,,1,55,27,1,0,0,0,0,0,,Translated
+308,結衣,（どのくらい気を失って、いたのかしら……）, , ,Ms. Shishido,(I wonder how long...I was out for...),,,유이,(얼마나 정신을 잃은 거지......),,,結衣,（我到底……昏過去多久了……）, ,,1,56,27,1,0,0,0,0,0,,Translated
+309,結衣,（篠崎さん達が心配だわ、戻らなくちゃ）, , ,Ms. Shishido,(Shinozaki and Kishinuma must be worried. I need,to get back to the classroom...),,유이,"(시노자키 일행이 걱정이야, 돌아가야 해)",,,結衣,（篠崎同學他們一定很擔心，,　得回去才行）,,1,57,27,1,0,0,0,0,0,,Translated
+310,,　……ドケだと……？　畜生……,　この、生者ガ…… , ,,Step aside?! ...Why don't you fuck off...,you damned corporeal...,,,...... 비키라고......? 젠장......,이 살아있는 것이......,,,　……讓開……？　混帳……,　這該死的活人……,,0,134,5,1,0,0,0,0,0,,Translated
+311,結衣,……じ、地震！？, , ,Ms. Shishido,*gasp* ...An...earthquake?!,,,유이,"...... 지, 지진!?",,,結衣,……地、地震！？, ,,1,16,27,1,0,0,0,0,0,,Translated
+312,結衣,！　きゃ……！, , ,Ms. Shishido,Eek!,,,유이,!  꺄...!,,,結衣,！　呀……！, ,,1,17,27,2,1,0,0,0,0,,Translated
+313,,　窓の外は真っ暗で、何も見えません……, , ,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,窗外一片漆黑，什麼也看不見……, ,,0,0,0,0,0,0,0,0,0,,Translated
+314,結衣,う！　……あぁっ……, , ,Ms. Shishido,Ulgh! ...Urk...,,,유이,으!  ...... 아아......,,,結衣,呃！　……啊啊……, ,,1,18,27,1,0,0,0,0,0,,Translated
+315,,　……教師なんて、世の中で一番,　信用出来なイ生き物だ。, ,,"In all the world, the most vile, untrustworthy",individuals of them all...are you schoolteachers.,,,...... 교사는 세상에서 가장,믿을 수 없는 생물이야.,,,　……教師是這世上最不值得信任的生物。, ,,0,135,5,1,0,0,0,0,0,,Translated
+316,,　……お前ラは自分の保身しか頭にナイ。, , ,,All you care about is your own well-being!,,,,...... 너희들은 자신의 몸을 지키는 데만 급급해.,,,,　……你們腦子裡只有保全自己。, ,,0,136,5,1,0,0,0,0,0,,Translated
+317,,　……生徒の心配よリ、責任を取らされる,　自分の事ガ心配なだけダ！, ,,You're not worried about your students. You're just,worried about being held responsible if something,should happen to them!,,"...... 학생을 걱정하기보다, 책임을 지게 될",자기 자신이 더 걱정일 뿐이라고!,,,　……比起擔心學生，更擔心自己,　會被追究責任吧！,,0,137,5,1,0,0,0,0,0,,Translated
+318,結衣,く……苦し……痛…ぃ……, , ,Ms. Shishido,Ulgh... This really...really hurts...,,,유이,괴...... 괴로워...... 아... 파......,,,結衣,咳……好難受……痛……, ,,1,19,27,1,0,0,0,0,0,,Translated
+319,,　……そんな奴しか、イなイんダ。,　教師なんテ連中は。,　……もう、騙さレないぞ。,,You're all the same. Every last one of you!,...And I won't be taken in by your lies anymore!,,,...... 그런 녀석밖에 없어.,교사란 녀석들은.,...... 더는 안 속는다.,,　……這種傢伙，到處都是。,　教師這種人。,　……我不會再上當了。,0,138,5,1,0,0,0,0,0,,Translated
+320,結衣,（……騙…され……？）, , ,Ms. Shishido,(Taken in...?),,,유이,(...... 속... 아......?),,,結衣,（……上…當……？）, ,,1,20,27,1,0,0,0,0,0,,Translated
+321,,　……生徒間の虐待を知っても、,　面倒だからと近寄らず！,　学校の体裁や偏差値の為なら、,,"When you see a problem among your kids, you just",keep your distance...because you sure wouldn't want,"to get involved! Have to keep up appearances, right?",,...... 학생간의 학대를 알고도,귀찮다고 가만히 있고!,학교의 체재와 수준을 위해서라면,,　……明明知道學生之間有霸凌，,　卻因為麻煩而視而不見！,　為了學校的面子和升學率，,0,139,5,1,0,0,0,0,0,,Translated
+322,,　……『問題児』として処理した生徒は、,　簡単に退学にシて切り捨てル！, ,,You just pick out the 'problem children' and chip,away at them little by little until they either,drop out or get expelled!,,...... 『문제아』로 찍힌 학생은,쉽사리 퇴학시킨 다음 버려 버리고!,,,　……把被貼上「問題兒童」標籤的學生，,　輕易地退學處理掉！,,0,140,5,1,0,0,0,0,0,,Translated
+323,,　……『叱る』ンじゃなく、,　『怒る』！, ,,You're not disciplining them...you're just raging,at them!,,,...... 『혼』은 안 내고,『화』를 낸다고!,,,　……不是『訓斥』，而是『發怒』！, ,,0,141,5,1,0,0,0,0,0,,Translated
+324,結衣,……違…ぅ……, , ,Ms. Shishido,...That's...not...,,,유이,...... 아... 냐......,,,結衣,……不…是……, ,,1,21,27,1,0,0,0,0,0,,Translated
+325,,　……生徒の為に、なんて考える,　奇特な奴は、一人もイやしなイ！, ,,I've never met a teacher who actually cared about,her students. Not once!,,,...... 학생을 위해 뭐든 생각해주는,기특한 녀석은 하나도 없어!,,,　……為了學生著想，這種,　好事之徒一個都沒有！,,0,142,5,1,0,0,0,0,0,,Translated
+326,結衣,……誤…　解……, , ,Ms. Shishido,...You... You're...wrong...,,,유이,...... 오... 해......,,,結衣,……誤…會……, ,,1,22,27,1,0,0,0,0,0,,Translated
+327,結衣,……イアッ！　あうぅぅッ……, , ,Ms. Shishido,Aaaaaaagh!! ...Ooh...,,,유이,...... 으악! 아으으으......,,,結衣,……啊啊！　啊嗚嗚……, ,,1,23,27,1,0,0,0,0,0,,Translated
+328,,　……どうせアンタの生徒たちだって、,　その内、餓死スルか、悲観して自殺スルか……, ,,All of your students are destined to starve to death,in these godforsaken halls...if they don't succumb,to depression and kill themselves first!,,...... 어차피 네 학생들은,"머지 않아 아사하거나, 비관하며 자살하거나......",,,　……反正你的學生們，,　遲早不是餓死，就是悲觀自殺……,,0,143,5,1,0,0,0,0,0,,Translated
+329,,　……僕ノような、ここで死んだ霊魂に,　嬲(なぶ)り殺されるシか、道はなイんだ。, ,,There's no other possible outcome. They'll all die,"meaningless deaths, just like I did!",,,...... 나처럼 여기에서 죽은 영혼에게,"희롱을 당하다 죽는 것밖에, 길이 없어.",,,　……除了像我這樣死在這裡的靈魂,　被折磨致死之外，別無出路。,,0,144,5,1,0,0,0,0,0,,Translated
+330,,　……死ぬ時だって、アンタの事なんて,　思い出しモ、しないだろうね！, ,,And they sure won't be thinking about YOU when they,take their final breaths!,,,...... 죽을 땐 너 같은 건,생각도 안 할걸!,,,　……死的時候，也不會想起,　你這種人吧！,,0,145,5,1,0,0,0,0,0,,Translated
+331,結衣,痛……ぃぃ……うぅっ,げふっ、……ぇっ, ,Ms. Shishido,EEP! ...Oolgh...oof...unnnnnnggh...,,,유이,아...... 파아...... 으윽,콜록...... 윽,,結衣,痛……好痛……嗚嗚,咳咳、……咳,,1,24,27,1,0,0,0,0,0,,Translated
+332,,　……何か言ってミなよ。,　遺言ヲ。, ,,"Any last words, bitch?",,,,...... 뭐라고 말 좀 해 봐.,유언이라도.,,,　……有什麼遺言要說嗎？, ,,0,146,5,1,0,0,0,0,0,,Translated
+333,,　……アンタの生徒達を、殺す時に伝えてアゲルから。, , ,,I'll tell them to your students as I end their,miserable lives.,,,...... 네 학생들을 죽일 때 전해줄 테니까.,,,,　……我會在你死的時候轉告你的學生們。, ,,0,147,5,1,0,0,0,0,0,,Translated
+334,結衣,……う……ぐ……,……た、, ,Ms. Shishido,Oolh...oong...oomph...,,,유이,...... 으...... 으으......,...... 사,,結衣,……嗚……咕……,……拜、,,1,25,27,1,0,0,0,0,0,,Translated
+335,結衣,……たす…けて……, , ,Ms. Shishido,...Spare...m...,,,유이,...... 살려... 줘......,,,結衣,……救…救我……, ,,1,26,27,1,0,0,0,0,0,,Translated
+336,,　……！　,　キャハ！　キャハハハ！, ,,Heh... Haha! HAHAHAHAHA!!,,,,......!,캬하!  캬하하하!,,,　……！　,　喀哈！　喀哈哈哈！,,0,148,5,1,0,0,0,0,0,,Translated
+337,, ,　……ハァ？, ,,Come again?,,,,...... 뭐어?,,,, ,　……蛤？, ,0,149,5,1,0,0,0,0,0,,Translated
+338,結衣,みんなを……助けて……, , ,Ms. Shishido,...Spare...my...students...,,,유이,모두를...... 살려줘......,,,結衣,請你……救救大家……, ,,1,27,27,1,0,0,0,0,0,,Translated
+339,,　……何ダって？, , ,,What was that?!,,,,...... 뭐라고?,,,,　……說什麼？, ,,0,150,5,1,0,0,0,0,0,,Translated
+340,結衣,あの子達は……助けて！　お願い！, , ,Ms. Shishido,Please! I don't care what happens to me...,"Just please, spare their lives!",,유이,그 아이들을...... 살려줘! 부탁이야!,,,結衣,那些孩子們……請救救他們！求求你！, ,,1,28,27,1,0,0,0,0,0,,Translated
+341,,　……。,　親でもなイくせニ、まだ,　心配したフリ？,,They're not your children. You're not their mother.,Are you really still pretending to care about them?,,,......,"부모도 아닌 주제에, 아직도",걱정하는 척을?,,　……。,　明明不是父母，還在裝,　擔心他們？,0,151,5,1,0,0,0,0,0,,Translated
+342,,　……ウソつきめ……　知っテるかい？,　ここで死ぬと、死ヌ瞬間の激痛が永遠に,　続クんだ。,,Filthy liar... Did you know? When you die in this,"accursed place, you experience the pain you felt at",the moment of your death for all eternity!,,...... 거짓말쟁이...... 알고 있냐?,"여기에서 죽으면, 죽은 순간의 아픔이 영원히",계속돼.,,　……說謊的傢伙……你知道嗎？,　在這裡死掉的話，死亡瞬間的劇痛會永遠,　持續下去。,0,152,5,1,0,0,0,0,0,,Translated
+343,,　……潰されて死ぬ……,　想像を絶する痛みと……苦しみだろうね。,　それがずぅ～っと、永遠に続くんだぞ。,,And I'm going to crush you to dust. The pain must be,unbearable...unimaginable...and you're going to feel,"that pain every moment of every day, forevermore...",,...... 찌부러져 죽는다......,상상을 뛰어넘는 아픔과...... 괴로움.,"그게 줄~곧, 영원히 이어지는 거야.",,　……被壓扁而死……,　那是難以想像的痛苦和折磨……,　會永～遠、永遠持續下去。,0,153,5,1,0,0,0,0,0,,Translated
+344,結衣,う……う……, , ,Ms. Shishido,*wheeze* *pant*,,,유이,으...... 으......,,,結衣,嗚……嗚……, ,,1,29,27,1,0,0,0,0,0,,Translated
+345,,　……『自分を』助ケテと言えよ、正直に。,　正直なら、助けてやるよ。, ,,"Ask me to spare YOU. It's what you really want,",isn't it? Be honest with me...and I'll consider,sparing your life.,,"...... 『자신을』구해달라고 말해, 솔직하게.",그러면 살려줄 테니까.,,,　……說『救救我』啊，老實點。,　如果你老實，我就放過你。, ,0,154,5,1,0,0,0,0,0,,Translated
+346,結衣,……, , ,Ms. Shishido,...,,,유이,......,,,結衣,……, ,,1,30,27,1,0,0,0,0,0,,Translated
+347,,みんなを,自分を,,,Spare my students,Spare me,,,모두를,자신을,,,救大家,救自己,,0,255,255,255,255,255,255,255,255,,Translated
+348,結衣,あの子達は酷い目に遭わせないで！, , ,Ms. Shishido,"Don't you harm a hair on their heads, you hear me?!",,,유이,그 아이들은 해치지 말아줘!,,,結衣,不要傷害那些孩子！, ,,1,31,27,1,0,0,0,0,0,,Translated
+349,結衣,……私だって……助かりたいわよ……,でも……, ,Ms. Shishido,Of course...I want you...to spare my life...but...,,,유이,...... 나도...... 살고 싶어......,하지만......,,結衣,……我也想……活下去……,但是……,,1,32,27,1,0,0,0,0,0,,Translated
+350,結衣,あの子達の身代わりになれるものなら……,なるわ……！, ,Ms. Shishido,...if I can die in their places...then I'll do it...,gladly!,,유이,그 아이들 대신 죽을 수만 있다면......,죽겠어......!,,結衣,如果我能代替那些孩子死的話……,我願意……！,,1,33,27,1,0,0,0,0,0,,Translated
+351,,　……チ……　強情だな大人は。, , ,,Tch. You are one stubborn little bitch.,,,,...... 칫...... 어른은 고집만 세다니까.,,,,　……嘖……大人真是固執。, ,,0,155,5,1,0,0,0,0,0,,Translated
+352,結衣,！　う……ぶッ！, , ,Ms. Shishido,Hng...oolph! ...Mrrrnnngg...,,,유이,!  으...... 욱!,,,結衣,！　嗚……噗！, ,,1,34,27,1,0,0,0,0,0,,Translated
+353,結衣,……うぅッ……, , ,Ms. Shishido,*rasp*,,,유이,...... 우욱......,,,結衣,……嗚嗚……, ,,1,35,27,1,0,0,0,0,0,,Translated
+354,結衣,（痛い……あばら骨が……,　折れてるかも……）, ,Ms. Shishido,(This is excruciating... I think...my rib cage is,broken...),,유이,(아파...... 늑골이......,부러졌을지도......),,結衣,（好痛……肋骨……,　可能斷了……）,,1,36,27,1,0,0,0,0,0,,Translated
+355,結衣,（何かが……凄い力で、,　上から押さえつけてる……）, ,Ms. Shishido,(It feels like...someone's pushing this cabinet down,on top of me...with superhuman force...),,유이,(뭔가가...... 강한 힘으로,위에서 누르고 있어......),,結衣,（有什麼東西……用很強大的力量，,　從上方壓迫著……）,,1,37,27,1,0,0,0,0,0,,Translated
+356,結衣,（意識が……,　……遠く…なってきた……）, ,Ms. Shishido,(I'm...losing... ...consciousness...),,,유이,(의식이......,...... 멀어... 진다......),,結衣,（意識……,　……越來越遠了……）,,1,38,27,1,0,0,0,0,0,,Translated
+357,,　……ハハ、苦しいかい？,　そのまま潰れて死んだら、, ,,"Hahaha! Does it hurt? Aww, poor baby!",,,,"...... 하하, 괴롭냐?",그대로 찌부러져 죽으면,,,　……哈哈，很難受吧？,　就這樣被壓扁死掉的話，, ,0,156,5,1,0,0,0,0,0,,Translated
+358,,　……轢き蛙みたいな格好だね。, , ,,Your corpse will look just like a dead frog on the,side of the road!,,,...... 차에 치인 개구리 같은 모습이겠군.,,,,　……會像被輾過的青蛙一樣呢。, ,,0,157,5,1,0,0,0,0,0,,Translated
+359,結衣,（み、みんな……）, , ,Ms. Shishido,(Every...body...),,,유이,"(다, 다들......)",,,結衣,（大、大家……）, ,,1,39,27,1,0,0,0,0,0,,Translated
+360,結衣,（生き延び…て……）, , ,Ms. Shishido,(Live...),,,유이,(살아야... 해......),,,結衣,（要活下去……）, ,,1,40,27,1,0,0,0,0,0,,Translated
+361,結衣,（大好きよ……）, , ,Ms. Shishido,(I love...you all...),,,유이,(사랑한다......),,,結衣,（最喜歡你們了……）, ,,1,41,27,1,0,0,0,0,0,,Translated
+362,,その頃……, , ,,Meanwhile...,,,,그때......,,,,那時候……, ,,0,0,0,0,0,0,0,0,0,,Translated
+363,,　……棚の中には包丁や手術ナイフ、,　彫刻刀などの刃物類が, ,,The shelves are filled with just about every variety,"of cutting implement -- kitchen knives, surgical","tools, chisels, etc. All appear unusually sharp.",,...... 수납장 안에는 식칼과 수술 나이프,조각칼 등의 날붙이가,,,　……櫃子裡塞滿了菜刀、手術刀、,　雕刻刀等各種刀具，, ,0,0,0,0,0,0,0,0,0,,Translated
+364,,　ギッチリと大量に詰められており、,　相当な重量を思わせます。 , ,,"With so many metal tools in one place, this cabinet",must be exceptionally heavy...,,,대량으로 가득 들어가 있어,상당한 중량이 느껴집니다.,,,　塞得滿滿的，,　可以想見相當沉重……, ,0,0,0,0,0,0,0,0,0,,Translated
+365,結衣,痛い！　…うぅ。, , ,Ms. Shishido,OW! ...Ooh...,,,유이,아야! ... 으으,,,結衣,好痛！…嗚。, ,,1,44,27,1,0,0,0,0,0,,Translated
+366,結衣,っ…　ふぅ…,　　ハァッ、ハァッ, ,Ms. Shishido,*exhale*,*pant* *pant*,,유이,윽... 후우...,"  하악, 하악",,結衣,……呼…,　　哈啊、哈啊,,1,45,27,1,0,0,0,0,0,,Translated
+367,,……先生……本気で生徒の事を,　心配シてイるのカい？, ,,"So you're...really, truly concerned about the safety","of your students, are you?",,,...... 선생...... 진심으로 학생을,걱정하는 거야?,,,　……老師……　你是真心在擔心學生嗎？, ,,0,158,5,1,0,0,0,0,0,,Translated
+368,結衣,……当たり前でしょう。, , ,Ms. Shishido,Of course I am!,,,유이,...... 당연하지,,,結衣,……當然的吧。, ,,1,46,27,1,0,0,0,0,0,,Translated
+369,,……たかが他人の教師だろ？,　親でもないくせに。, ,,"But you're just their instructor, no? You have no",familial bond with any of them. You're not their,mother.,,...... 고작 타인의 교사면서?,부모도 아닌 주제에......,,,　……你只是個外人老師吧？,　又不是父母。,,0,159,5,1,0,0,0,0,0,,Translated
+370,結衣,親みたいなものよ！, , ,Ms. Shishido,But they're my children!,,,유이,부모나 마찬가지야!,,,結衣,就像父母一樣啊！, ,,1,47,27,1,0,0,0,0,0,,Translated
+371,,……！, , ,,...!,,,,......!,,,,　……！, ,,0,160,5,1,0,0,0,0,0,,Translated
+372,結衣,私も、如月学園のほかの先生方も, , ,Ms. Shishido,I think I speak for every single one of us at,Kisaragi Academy...,,유이,"나도, 키사라기 학원의 선생님들도",,,結衣,我和如月學園的其他老師們，, ,,1,48,27,1,0,0,0,0,0,,Translated
+373,結衣,みんなのご両親にも負けないくらい、,あの子達を愛してるわ。, ,Ms. Shishido,...when I say that we love our children... We care,about them just as their parents do.,,유이,모두 부모님에게 지지 않을 정도로,그 아이들을 사랑해,,結衣,都對那些孩子們有著不輸給他們父母的愛。, ,,1,49,27,1,0,0,0,0,0,,Translated
+374,,……, , ,,...,,,,.........,,,,　………。, ,,0,161,5,1,0,0,0,0,0,,Translated
+375,,…うっ…く…　うググ, , ,,...Oo...kh...ulghh...,,,,...... 윽...... 크...... 으으으,,,,…嗚…咳…　嗚咕咕, ,,0,162,5,1,0,0,0,0,0,,Translated
+376,結衣,それよりも、答えて！　私の生徒たちが他にも, , ,Ms. Shishido,"Now, answer me this! Your little rant earlier",suggested that more of my students are here than,the two I came with and the one I heard...,유이,"그것보다, 대답해! 내 학생들이",,,結衣,比起那個，回答我！我的學生們，還有其他, ,,1,51,27,1,0,0,0,0,0,,Translated
+377,結衣,ここに連れて来られているのは、,本当なのね？, ,Ms. Shishido,Is it true? Were the others brought here as well?,,,유이,여기에 왔다는 건,정말이지?,,結衣,被帶到這裡來的是真的嗎？, ,,1,52,27,1,0,0,0,0,0,,Translated
+378,,……あぁ……生者ノ魂が同時に,　増エたのヲ感じタから……,　イるよ、何人か。,,It is. Numerous corporeal entities joined us in,"these closed spaces, all at the same time.",,,...... 그래...... 산 자의 혼이 동시에,늘어난 것을 느꼈으니...... ,몇 명 있어.,,　……啊……因為感覺到生者的靈魂同時,　增加了……,　有哦，好幾個人。,0,163,5,1,0,0,0,0,0,,Translated
+379,,……先生を含めて……,　９人クらいだ。, ,,Counting you...I sensed the arrival of nine people.,,,,...... 선생을 포함해서......,9명 정도야.,,,　……包含老師在內……,　大約９人左右。,,0,164,5,1,0,0,0,0,0,,Translated
+380,結衣,（う… ぐっ、 痛い……！,　右腕が、折れてる……）, ,Ms. Shishido,(Oof... Ooooh...,My right arm...is definitely broken...),,유이,"(으...... 윽, 아파......!",오른팔이 부러졌어......),,結衣,（嗚……　咳，好痛……！,　右手臂……骨折了……）,,1,53,27,1,0,0,0,0,0,,Translated
+381,結衣,（それに、この血……）, , ,Ms. Shishido,(And...all this blood...),,,유이,"(그리고, 이 피......)",,,結衣,（而且，這些血……）, ,,1,54,27,1,0,0,0,0,0,,Translated
+382,結衣,（棚に入っていた刃物が、,　背中や腰に刺さってたんだ）, ,Ms. Shishido,(All those cutting implements on the shelf must have,done a number on my back...),,유이,(수납장에 들어 있던 날붙이가,등과 허리를 찔렀어),,結衣,（櫃子裡的那些刀具，,　刺進了背部和腰部……）,,1,55,27,1,0,0,0,0,0,,Translated
+383,結衣,（どのくらい気を失って,　いたのかしら……）, ,Ms. Shishido,(I wonder how long...I was out for...),,,유이,(얼마나 정신을,잃은 거지......),,結衣,（我到底……昏過去多久了……）, ,,1,56,27,1,0,0,0,0,0,,Translated
+384,結衣,（篠崎さん達が心配だわ、,　戻らなくちゃ）, ,Ms. Shishido,(Shinozaki and Kishinuma must be worried. I need,to get back to the classroom...),,유이,(시노자키 일행이 걱정이야,돌아가야 해),,結衣,（篠崎同學他們一定很擔心，,　得回去才行）,,1,57,27,1,0,0,0,0,0,,Translated
+385,,　月　日　　日番　東雲／管乃, , ,,    -  -,                    [Day duty: Shinonome／Kanno],,,  월  일      당번  시노노메/칸노,,,,　月　日　　值日　東雲／管乃, ,,0,0,0,0,0,0,0,0,0,,Translated
+386,,　和＊８年昭和　５９が月９,　８日ち　番日：３７５６,４　,,19_3 1984 is temper Sebt,    on the   8&10 da  y  y,                            1533U,,  9*8년1  에  ***서  월9,  8일  1    번당:,444,,和＊８年昭和　５９が月９,　８日ち　番日：３７５６,４,0,0,0,0,0,0,0,0,0,,Translated
+387,良樹,……なんだこりゃ……, , ,Yoshiki,...Wh-what the hell...?,,,요시키,...... 뭐야 이건......,,,良樹,……這是什麼……, ,,1,5,23,1,0,0,0,0,0,,Translated
+388,,　机の上に、血のついた鉄の釘抜きが,　置いてあります。,　取りますか？,,"A rusted, blood-soaked nail puller is sitting on top",of the desk. Take it?,,,책상 위에 피묻은 철제 못뽑이가,놓여 있습니다.,가져가겠습니까?,,桌子上放著一把沾血的鐵製拔釘器。,　要拿走嗎？,,0,0,0,0,0,0,0,0,0,,Translated
+389,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+390,,　鉄の釘抜き　を取りました。, ,,,Acquired [Nail Puller].,,,,철제 못뽑이를 얻었습니다.,,,,拿到了【鐵製拔釘器】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+391,良樹,う……　こっち、向くなよ……？, , ,Yoshiki,Urk... He's looking right at me...,,,요시키,으...... 이쪽 보면 안 된다......?,,,良樹,嗚……別看這邊……？, ,,1,35,23,1,0,0,0,0,0,,Translated
+392,あゆみ,目、合わせちゃ駄目よ……, , ,Ayumi,Don't let your gaze meet his!,,,아유미,눈을 맞추면 안 돼......,,,あゆみ,不能對上視線……, ,,1,113,0,1,0,0,0,0,0,,Translated
+393,良樹,な、何だ！？, , ,Yoshiki,Wh-What the...?!,,,요시키,"뭐, 뭐야!?",,,良樹,什、什麼！？, ,,1,25,23,1,0,0,0,0,0,,Translated
+394,,　パワーストーン　が砕け散りました。, , ,,The Power Stone in Yoshiki's pocket suddenly and,spontaneously shattered.,,,파워 스톤이 깨졌습니다.,,,,【能量石】碎裂四散。, ,,0,0,0,0,0,0,0,0,0,,Translated
+395,良樹,（何か今……結衣センセーの,　声が聞こえたような……）, ,Yoshiki,(I think...I just heard Ms. Yui's voice...),,,요시키,(왠지 방금...... 유이 선생님,목소리가 들린 것 같은데......),,良樹,（剛才好像……聽到了結衣老師的,　聲音……）,,1,26,23,1,0,0,0,0,0,,Translated
+396,良樹,（守って……くれたのか？,　ひょっとして……）, ,Yoshiki,"('Did I save you?', she said. But...it couldn't",be...could it...?),,요시키,(지켜...... 준 건가?,혹시나......),,良樹,（守護了……我嗎？,　難道說……）,,1,27,23,1,0,0,0,0,0,,Translated
+397,＊,……ひ……っひょ゛に゛,ぎ……て, ,*,Chhlme...wifff...mhee...,,,＊,...... 따...... 따라,와......,,＊,……跟……跟　來……, ,,1,61,14,1,1,0,0,0,0,,Translated
+398,良樹,う……　こっち、向くなよ……？, , ,Yoshiki,Urk... He's looking right at me...,,,요시키,으...... 이쪽 보면 안 된다......?,,,良樹,嗚……別看這邊……？, ,,1,35,23,1,0,0,0,0,0,,Translated
+399,あゆみ,目、合わせちゃ駄目よ……, , ,Ayumi,Don't let your gaze meet his!,,,아유미,눈을 맞추면 안 돼......,,,あゆみ,不能對上視線……, ,,1,113,0,1,0,0,0,0,0,,Translated
+400,良樹,な、なんだこの部屋……教室の形してねぇな……, , ,Yoshiki,Wh-What the hell kind of room is this?!,It's not like any classroom I've ever seen...,,요시키,"뭐, 뭐야 이 방...... 교실이 아닌데......",,,良樹,什、什麼房間……不像教室啊……, ,,1,1,23,1,0,0,0,0,0,,Translated
+401,良樹,おい、篠崎……, , ,Yoshiki,Hey...Shinozaki...?,,,요시키,"야, 시노자키......",,,良樹,喂，篠崎……, ,,1,2,23,1,0,0,0,0,0,,Translated
+402,あゆみ,頭が……割れそう……！, , ,Ayumi,My head...is splitting...,,,아유미,머리가...... 깨질 것 같아......!,,,あゆみ,頭……快要裂開了……！, ,,1,108,0,1,0,0,0,0,0,,Translated
+403,良樹,……マジか……　おい大丈夫かよ……, , ,Yoshiki,Are you... Are you okay?!,,,요시키,...... 뭐야...... 너 괜찮냐......,,,良樹,……真的假的……喂你還好嗎……, ,,1,3,23,1,0,0,0,0,0,,Translated
+404,あゆみ,ここ……　駄目……, , ,Ayumi,We shouldn't...be here...,,,아유미,여긴...... 안 돼......,,,あゆみ,這裡……不行……, ,,1,109,0,1,0,0,0,0,0,,Translated
+405,あゆみ,ここ、ホントに……,駄目……, ,Ayumi,We really...shouldn't be here...,,,아유미,"여긴, 정말......",안 돼......,,あゆみ,這裡真的……,不行……,,1,110,0,1,0,0,0,0,0,,Translated
+406,良樹,でも、奥になんかあるぞ……, , ,Yoshiki,"It looks like there's something in here, though, in",the back...,,요시키,그런데 안에 뭔가 있는데......,,,良樹,可是裡面好像有什麼……, ,,1,4,23,1,0,0,0,0,0,,Translated
+407,,　透明な細い糸が張ってある、滑車の付いた装置があります。, , ,,It appears to be a control mechanism for some sort,"of elaborate pulley system, rigged up with a network","of fine, virtually transparent threads.",,"투명하고 가는 실이 쳐져 있는, 도르래 장치가 있습니다.",,,,有裝著透明細線的滑輪裝置。, ,,0,0,0,0,0,0,0,0,0,,Translated
+408,,　レバーを動かしますか？, , ,,There's a lever jutting out from one side.,Pull it?,,,레버를 움직이겠습니까?,,,,要操作拉桿嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+409,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+410,,　透明な細い糸が張ってある、滑車の付いた装置があります。, ,,,It appears to be a control mechanism for some sort,"of elaborate pulley system, rigged up with a network","of fine, virtually transparent threads.",,"투명하고 가는 실이 쳐져 있는, 도르래 장치가 있습니다.",,,,有裝著透明細線的滑輪裝置。, ,,0,0,0,0,0,0,0,0,0,,Translated
+411,,　レバーを動かしますか？, ,,,There's a lever jutting out from one side.,Pull it?,,,레버를 움직이겠습니까?,,,,要操作拉桿嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+412,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+413,,　ガコッ！, ,,,*kathunk*,,,,철컥!,,,,喀！, ,,0,0,0,0,0,0,0,0,0,,Translated
+414,あゆみ,岸沼くーん！　……どこにいるのー？, , ,Ayumi,Kishinuma? Where are you?!,,,아유미,키시누마 군~!  어디 있어~?,,,あゆみ,岸沼同學～！……你在哪裡～？, ,,1,120,0,1,0,0,0,0,0,,Translated
+415,あゆみ,ひとりに……,……しないでよー！, ,Ayumi,Don't leave me all by myself!,,,아유미,혼자......,...... 두지 마~!,,あゆみ,不要……,……丟下我一個人～！,,1,121,0,1,0,0,0,0,0,,Translated
+416,,　キリ…キリキリキリ……, ,,,*clkclkclkclk*,,,,끼익... 끼익끼익끼익......,,,,喀啦…喀啦喀啦喀啦……, ,,0,0,0,0,0,0,0,0,0,,Translated
+417,あゆみ,……？, , ,Ayumi,...?,,,아유미,......?,,,あゆみ,……？, ,,1,122,0,1,0,0,0,0,0,,Translated
+418,,          ,……ズル…ッ, ,, ,*shnick*,,,...... 주륵...,,,,          ,……滑…,,0,0,0,0,0,0,0,0,0,,Translated
+419,,　レバーは固定され、動かなくなりました……, , ,,The lever seems stuck. It won't budge.,,,,레버는 고정되어 움직이지 않게 되었습니다......,,,,拉桿被固定住，動不了了……, ,,0,0,0,0,0,0,0,0,0,,Translated
+420,良樹,な、何だ！？, , ,Yoshiki,Wh-What the...?!,,,요시키,"뭐, 뭐야!?",,,良樹,什、什麼！？, ,,1,25,23,1,0,0,0,0,0,,Translated
+421,,　パワーストーン　が砕け散りました。, , ,,The Power Stone in Yoshiki's pocket suddenly and,spontaneously shattered.,,,파워 스톤이 깨졌습니다.,,,,【能量石】碎裂四散。, ,,0,0,0,0,0,0,0,0,0,,Translated
+422,良樹,（何か今……結衣センセーの,　声が聞こえたような……）, ,Yoshiki,(I think...I just heard Ms. Yui's voice...),,,요시키,(왠지 방금...... 유이 선생님,목소리가 들린 것 같은데......),,良樹,（剛才好像……聽到了結衣老師的,　聲音……）,,1,26,23,1,0,0,0,0,0,,Translated
+423,良樹,（守って……くれたのか？,　ひょっとして……）, ,Yoshiki,"('Did I save you?', she said. But...it couldn't",be...could it...?),,요시키,(지켜...... 준 건가?,혹시나......),,良樹,（守護了……我嗎？,　難道說……）,,1,27,23,1,0,0,0,0,0,,Translated
+424,良樹,！, , ,Yoshiki,...!,,,요시키,!,,,良樹,！, ,,1,9,23,1,0,0,0,0,0,,Translated
+425,良樹,く……目がはなせねぇ。何だこいつの……目, , ,Yoshiki,Dammit... I looked...and now I can't look away!,What the hell is up with his eyes?!,,요시키,크...... 눈을 뗄 수가 없네. 뭐야 이 녀석의...... 눈은,,,良樹,咳……無法移開視線。這傢伙的眼睛……, ,,1,10,23,1,0,0,0,0,0,,Translated
+426,＊,……ひ……っひょ゛に゛,ぎ……て, ,*,Chhlme...wifff...mhee...,,,＊,...... 따...... 따라,와......,,＊,……跟……跟　來……, ,,1,60,14,1,1,0,0,0,0,,Translated
+427,良樹,うわッ！　な、なんだコイツ。, , ,Yoshiki,Ack! Wh-What the hell?!,,,요시키,"우왓! 뭐, 뭐야 이 자식.",,,良樹,哇！這、這傢伙是什麼。, ,,1,6,23,1,0,0,0,0,0,,Translated
+428,あゆみ,駄目ッ！！, , ,Ayumi,STAY BACK!,,,아유미,안 돼!!,,,あゆみ,不行！！, ,,1,111,0,1,0,0,0,0,0,,Translated
+429,良樹,うぇァ！？, , ,Yoshiki,Gyeh!,,,요시키,우아아!?,,,良樹,哇啊！？, ,,1,7,23,1,0,0,0,0,0,,Translated
+430,良樹,……お、おどかすなオマエ。, , ,Yoshiki,D-Don't scare me like that! Geez!,,,요시키,"...... 노, 놀래키지 마.",,,良樹,……別、別嚇人啊。, ,,1,8,23,1,0,0,0,0,0,,Translated
+431,あゆみ,駄目……絶対、目、あわしちゃ駄目！, , ,Ayumi,"You absolutely, positively must NOT look into his","eyes, okay?!",,아유미,"안 돼...... 절대로, 눈을 맞추면 안 돼!",,,あゆみ,不行……絕對不能對上視線！, ,,1,112,0,1,0,0,0,0,0,,Translated
+432,,　中には薬剤のビンなどが、整然と並んでいます。, , ,,Vast quantities of medicines and tonics are lined up,on each of the shelves.,,,안에는 약품병 같은 것들이 늘어서 있습니다.,,,,裡面整齊地排放著藥品瓶等物品。, ,,0,0,0,0,0,0,0,0,0,,Translated
+433,,　棚の中に血のついた鋏（はさみ）が,　置かれています……, ,,"There's a pair of scissors on one of the shelves,",both its blades covered liberally in blood.,,,수납장 안에 피묻은 가위가,놓여 있습니다.,,,櫃子裡放著一把沾血的剪刀……, ,,0,0,0,0,0,0,0,0,0,,Translated
+434,,　机の上には、日記帳と写真立てが置いてあります。, , ,,There's an open journal and a framed picture on the,desk.,,,책상 위에는 일기장과 사진이 놓여 있습니다.,,,,桌子上放著日記本和相框。, ,,0,0,0,0,0,0,0,0,0,,Translated
+435,,　日記帳は、机にピタリと張り付いており、,　手にする事が出来ません。, ,,"The journal seems almost decorative, as if it were",a plastic model built into the desk. No part of it,can be moved even the slightest bit.,,일기장은 책상에 딱 붙어서,손에 들 수 없습니다.,,,日記本緊緊貼在桌上，,無法拿起來。,,0,0,0,0,0,0,0,0,0,,Translated
+436,,　机の上には、日記帳と写真立てが置いてあります。, , ,,There's an open journal and a framed picture on the,desk.,,,책상 위에는 일기장과 사진이 놓여 있습니다.,,,,桌子上放著日記本和相框。, ,,0,0,0,0,0,0,0,0,0,,Translated
+437,,　日記帳は、机にピタリと張り付いており、,　手にする事が出来ません。, ,,"The journal seems almost decorative, as if it were",a plastic model built into the desk. No part of it,can be moved even the slightest bit.,,일기장은 책상에 딱 붙어서,손에 들 수 없습니다.,,,日記本緊緊貼在桌上，,無法拿起來。,,0,0,0,0,0,0,0,0,0,,Translated
+438,,　蛇口をひねっても、キィ、キィと乾いた,　金属音がするだけで、水が出ません。, ,,"The handle turns with a loud squeak, but not a drop",of water comes out.,,,"수도꼭지를 돌려도 끼익, 끼익","메마른 금속음만이 들릴 뿐, 물은 나오지 않습니다.",,,轉動水龍頭也只發出乾澀的金屬聲，,沒有水流出來。,,0,0,0,0,0,0,0,0,0,,Translated
+439,良樹,！, , ,Yoshiki,...!,,,요시키,!,,,良樹,！, ,,1,141,23,1,0,0,0,0,0,,Translated
+440,,　ｷｬﾊﾊ…,　　ｷｬｱﾊﾊ…, ,,Haha...haha...,   Heehee...haha...,,,꺄하하...,  꺄하하...,,,喀哈哈…,　　喀啊啊哈…,,0,2,21,1,0,0,0,0,0,,Translated
+441,繭,……そう～。 私もね、学校大好きなんだよ。,ウフフ。, ,Mayu,...That's right. It's the same for me! I love my,school. Eheheh.,,마유,"...... 그래~ 나도 말야, 학교가 정말 좋아.",우후후.,,繭,……是啊。我也很喜歡學校哦。,唔呼呼。,,1,255,7,1,0,0,0,0,0,,Translated
+442,あゆみ,鈴本さん！　駄目！, , ,Ayumi,Suzumoto! Get away!,,,아유미,스즈모토! 안 돼!,,,あゆみ,鈴本同學！不行！, ,,1,199,0,1,0,0,0,0,0,,Translated
+443,良樹,離れろ！　早く！, , ,Yoshiki,"You need to run, quickly!",,,요시키,떨어져! 어서!,,,良樹,快離開！快點！, ,,1,142,23,1,0,0,0,0,0,,Translated
+444,繭,……先生も大好きだし……キミタチと一緒だね。, , ,Mayu,And my homeroom teacher's the best! But I guess you,"feel the same way about yours too, huh?",,마유,선생님도 좋아하고...... 너희들이랑 같네.,,,繭,……也很喜歡老師……和你們一樣呢。, ,,1,0,8,1,0,0,0,0,0,,Translated
+445,,　……ｷｬｱｧﾊﾊﾊ！,　　……ｷﾋｯﾊﾊﾊｱﾊ！, ,,Hyahahaha...haha...,      Heh...keeheehee...,,,...... 꺄아아하하하!,...... 꺄햐하하하아하!,,,　……喀啊啊哈哈哈！,　　……喀嘻嘻哈哈哈！,,0,36,22,1,0,0,0,0,0,,Translated
+446,良樹,鈴本！　おい！　しっかりしろ！, , ,Yoshiki,Suzumoto! Hey! Snap out of it!,,,요시키,스즈모토! 야! 정신 차려!,,,良樹,鈴本！喂！清醒點！, ,,1,143,23,1,0,0,0,0,0,,Translated
+447,あゆみ,鈴本さん、わかる？, , ,Ayumi,"Suzumoto, it's us, okay?",,,아유미,"스즈모토, 알아보겠어?",,,あゆみ,鈴本同學，認得我們嗎？, ,,1,200,0,1,0,0,0,0,0,,Translated
+448,繭,篠崎さん……岸沼君……,ヒック……ヒック, ,Mayu,Shinozaki... Kishinuma... *sob* *sob*,,,마유,시노자키...... 키시누마 군......,흑...... 흑,,繭,篠崎同學……岸沼同學……,嗚……嗚,,1,1,8,1,0,0,0,0,0,,Translated
+449,あゆみ,立って……さぁ、こっちへ来て？, , ,Ayumi,"Can you stand? Come on, we're right here...",,,아유미,"일어서...... 자, 이쪽으로 와.",,,あゆみ,站得起來嗎……來，到這邊來？, ,,1,201,0,1,0,0,0,0,0,,Translated
+450,繭,……大丈夫だよ、本当はこの子達は、悪くないよ。, , ,Mayu,"No, I'm okay. Believe it or not, these really aren't",bad kids.,,마유,"괜찮아, 여기 있는 아이들은 나쁘지 않아.",,,繭,……沒事的，這些孩子其實並不壞。, ,,1,2,8,1,0,0,0,0,0,,Translated
+451,良樹,……？, , ,Yoshiki,Huh?,,,요시키,......?,,,良樹,……？, ,,1,144,23,1,0,0,0,0,0,,Translated
+452,繭,かわいそうな子達なの……見て、これ……, , ,Mayu,They've just been through some horrible experiences.,"Here, read this, and you'll see what I mean.",,마유,"불쌍한 아이들이야...... 봐, 이거......",,,繭,是可憐的孩子們……你看，這個……, ,,1,3,8,1,0,0,0,0,0,,Translated
+453,,■天神町奉知新聞■,　児童４名　連続誘拐事件・続報, ,,[Heavenly Post],'Four Children Abducted - Followup Report',,,■ 텐진 지역 신문 ■,아동 4명  연속 유괴 사건  속보,,,■天神町奉知新聞■,　兒童４名　連續綁架事件・續報,,0,0,0,0,0,0,0,0,0,,Translated
+454,,　……児童達の死因は、やはり,　現場で逮捕された教員の手に握られていた……, ,,"The brutal, shocking deaths of the recent kidnapped",grade-schoolers have now been traced back to the,hands of the instructor found in the room with them.,,...... 역시 아동들의 사인은,현장에서 체포된 교원의 손에 쥐어져 있었다......,,,　……兒童們的死因，果然是,　在現場被捕的教師手中所握著的……,,0,0,0,0,0,0,0,0,0,,Translated
+455,,　……大きな裁ち切り鋏(ばさみ)により、,　舌を切り取られた事による,　失血・または窒息死と判明。,,The scissors he held are confirmed to have been used,"to cut out the victims' tongues, ultimately leading",to death through excessive bleeding or choking.,,...... 큰 절단 가위로,혀를 잘라,"실혈, 질식사한 것으로 판명",,　……用大型裁縫剪刀剪下舌頭，,　導致失血或窒息死亡。,,0,0,0,0,0,0,0,0,0,,Translated
+456,,　……被害児童のうち一人は,　殺害後に、首を切り落とされる等の,　残忍極まりない遺体損壊を受けていた。,,One of the victims even had the majority of her,head slowly and methodically removed. This cranial,mass was found on the floor next to her body.,,...... 피해 아동 중 한 명은,살해 후에 머리가 잘리는 등,잔인하기 그지없는 손상을 입었다.,,　……其中一名受害兒童,　在死後還被砍下頭顱等,　慘不忍睹的遺體破壞。,0,0,0,0,0,0,0,0,0,,Translated
+457,,　……被害にあった児童は、写真の四名。,　そのうちの一人は、, ,,The Heavenly Host Elementary students pictured here,are the four who were found in that basement room.,,,...... 피해를 받은 아동은 사진에 나온 4명.,그 중 한 명은,,,　　……受害的四名兒童如照片所示。,　其中一人，,,0,0,0,0,0,0,0,0,0,,Translated
+458,,　……捜査員が現場に乗り込んだ時に　**　,　**た為、****血*, ,,"Of these children, one was __________________ when",investigators arrived at the scene of the crime.,She was _______________ blood _________________,,...... 수사원이 현장에 들어갔을 때 **,"*** 해서, ***** 피 **",,,　……搜查員進入現場時　**,　**因為，****血*,,0,0,0,0,0,0,0,0,0,,Translated
+459,,　そこから先は、新聞が破られており、,　読む事が出来ません。, ,,(The newspaper is torn at this point. The bottom,half of the article is missing.),,,그 다음은 신문이 찢어져서,읽을 수 없습니다.,,,　從那裡開始報紙被撕破，,無法閱讀。,,0,0,0,0,0,0,0,0,0,,Translated
+460,あゆみ,……！, , ,Ayumi,...!,,,아유미,......!,,,あゆみ,……！, ,,1,202,0,1,0,0,0,0,0,,Translated
+461,良樹,……この幽霊……新聞の写真と……,同じ顔、同じ服装だ……, ,Yoshiki,These ghosts...have the same faces and uniforms...,as the children in these photographs...,,요시키,...... 이 유령...... 신문에 나온 사진이랑......,"같은 얼굴, 같은 옷이야......",,良樹,……這個幽靈……和報紙上的照片……,同樣的臉、同樣的衣服……,,1,145,23,1,0,0,0,0,0,,Translated
+462,あゆみ,さっき一階で追いかけて来た男の子の霊も、,この写真の子だわ。, ,Ayumi,The ghost that was chasing us on the first floor,"earlier...is one of them, too...",,아유미,좀 전에 1층에서 따라오던 남자아이 유령도,이 사진에 나온 애였어.,,あゆみ,剛才在一樓追我們的男孩幽靈，,也是這照片裡的孩子。,,1,203,0,1,0,0,0,0,0,,Translated
+463,繭,この子達を放っておけないよ……, , ,Mayu,I can't just ignore these poor souls.,,,마유,이 애들을 놔두고 갈 수는 없어......,,,繭,我放不下這些孩子……, ,,1,4,8,1,0,0,0,0,0,,Translated
+464,繭,……私、ここにいる……,シク　シク……, ,Mayu,I'm...going to stay with them... *sob*,,,마유,"난, 여기 있을래......",흑  흑......,,繭,……我要待在這裡……,嗚　嗚……,,1,5,8,1,0,0,0,0,0,,Translated
+465,良樹,駄目だ……鈴本。ここ出ようぜ、なぁ。, , ,Yoshiki,"I don't think that's a good idea, Suzumoto.",You really need to get out of this room.,,요시키,"안 돼...... 스즈모토. 여길 나가자, 알았지.",,,良樹,不行……鈴本。我們出去吧。, ,,1,146,23,1,0,0,0,0,0,,Translated
+466,繭,……。,シク　シク　シク……, ,Mayu,*shiver* *whimper*,,,마유,......,흑  흑  흑......,,繭,……。,嗚　嗚　嗚……,,1,6,8,1,0,0,0,0,0,,Translated
+467,あゆみ,鈴本さん、駄目。それ以上、情をかけちゃ。, , ,Ayumi,"Suzumoto, you have to stop this! Don't let your",emotions get the better of you!,,아유미,"스즈모토, 안 돼. 더 이상 정을 붙이면.",,,あゆみ,鈴本同學，不行。不能再投入更多感情了。, ,,1,204,0,1,0,0,0,0,0,,Translated
+468,あゆみ,！　駄目！　駄目よ！！, , ,Ayumi,...No! Stop!!,,,아유미,! 안 돼!  안 된다고!!,,,あゆみ,！　不行！不行！！, ,,1,205,0,1,0,0,0,0,0,,Translated
+469,良樹,おいおい……！　どうなってんだ。, , ,Yoshiki,"H-Hey, what's going on...?",,,요시키,야 너......! 어떻게 된 거야.,,,良樹,喂喂……！怎麼回事。, ,,1,147,23,1,0,0,0,0,0,,Translated
+470,あゆみ,きゃうッ！, , ,Ayumi,Eeek!!,,,아유미,꺄욱!,,,あゆみ,呀！, ,,1,206,0,1,0,0,0,0,0,,Translated
+471,良樹,篠崎！, , ,Yoshiki,Shinozaki!,,,요시키,시노자키!,,,良樹,篠崎！, ,,1,148,23,1,0,0,0,0,0,,Translated
+472,良樹,くッ……こいつら、何しやがった。, , ,Yoshiki,"Dammit, what the hell did they do?!",,,요시키,"큭...... 이 자식들, 무슨 짓이야.",,,良樹,嘖……這些傢伙做了什麼。, ,,1,149,23,1,0,0,0,0,0,,Translated
+473,＊,おねえﾞひゃん　あひょ　びょう, , ,*,Cohme ahh puuayy!,,,＊,언니이  노올자,,,＊,姐姐　快點, ,,1,37,22,1,0,0,0,0,0,,Translated
+474,,パアァァァァン！！, , ,,Bwaaaaan!!,,,,퍼어어어어엉!!,,,,砰────！！, ,,0,0,0,0,0,0,0,0,0,,Translated
+475,,　人体解剖図が壁に貼ってあります……, , ,,There's an anatomical diagram of the human body,tacked to the wall.,,,벽에 인체해부도가 붙어 있습니다......,,,,牆上貼著人體解剖圖……, ,,0,0,0,0,0,0,0,0,0,,Translated
+476,,　今にもこぼれ落ちそうな臓器の絵、,　ひとつひとつから、血のような赤い染みが,　浮き出しています。,,"Looking closely, each individual organ seems to be","bloodstained and swollen, as if it could burst",forth with a spray of gore at any moment.,,당장이라도 쏟아져 내릴 것만 같은 장기 그림,그 장기 하나하나에 묻어 있는 피와 같은 붉은 자국이,더욱 진하게 보입니다.,,每一幅快要滴下來的臟器圖畫上，,都浮現出血紅色的污漬。, ,0,0,0,0,0,0,0,0,0,,Translated
+477,良樹・あゆみ,鈴本！,　鈴本さん！, ,Yoshiki & Ayumi,Suzumoto! Suzumoto!!,,,요시키·아유미,스즈모토!,스즈모토!,,良樹・あゆみ,鈴本！,　鈴本同學！,,1,210,23,1,0,0,0,0,0,,Translated
+478,あゆみ,おねがい！　目を開けて！, , ,Ayumi,Open your eyes! Please!,,,아유미,부탁이야! 눈을 떠!,,,あゆみ,求求你！睜開眼睛！, ,,1,247,0,1,0,0,0,0,0,,Translated
+479,良樹,お前ら！　もう、いい加減にしてくれ！, , ,Yoshiki,Haven't you ghosts done enough already?!,,,요시키,너희들! 적당히 좀 해라!,,,良樹,你們！差不多該適可而止了！, ,,1,211,23,1,0,0,0,0,0,,Translated
+480,良樹,お前らの事件については……よく知らねーけど、, , ,Yoshiki,I don't know about everything that happened to,you...,,요시키,너희들이 당한 사건은...... 잘 모르지만,,,良樹,你們的事件……雖然不太清楚，, ,,1,212,23,1,0,0,0,0,0,,Translated
+481,良樹,気の毒だったとは思うよ！　だけどな！, , ,Yoshiki,"...and yeah, I get that it was really horrible...",,,요시키,참 안됐다고 생각해! 하지만 말야!,,,良樹,我也覺得你們很可憐！但是！, ,,1,213,23,1,0,0,0,0,0,,Translated
+482,良樹,だからって、誰彼構わず呪い、撒き散らした所で, , ,Yoshiki,...but you're cursing and killing innocent people,who had nothing to do with any of it!,,요시키,"그렇다고 아무나 붙잡고 저주하고, 가지고 놀면",,,良樹,也不能因為這樣就隨便詛咒別人，, ,,1,214,23,1,0,0,0,0,0,,Translated
+483,良樹,何になるって言うんだ！　コラァァ！, , ,Yoshiki,What the hell is that supposed to accomplish? Huh?!,,,요시키,뭐가 된다는 거야!  이 자식들아!,,,良樹,這能改變什麼！混帳！, ,,1,215,23,1,0,0,0,0,0,,Translated
+484,＊,カアァァーッ！！, , ,*,Kaaaahhh!!,,,＊,카아아아악~!!,,,＊,嘎啊啊──！！, ,,1,38,22,1,1,0,0,0,0,,Translated
+485,あゆみ,駄目よ！　怒らせちゃ、話が出来ない。, , ,Ayumi,"Stop! If you make them mad, they'll shut us out!",,,아유미,안 돼! 화나게 만들면 얘길 할 수 없어.,,,あゆみ,不行！惹他們生氣的話就無法溝通了。, ,,1,248,0,1,0,0,0,0,0,,Translated
+486,あゆみ,あなた達、これを……これを聞いて！, , ,Ayumi,"...Come on, you two... I have something you need to","hear, okay? Just listen!",,아유미,"얘들아, 이걸...... 이걸 들어봐!",,,あゆみ,你們……聽我說！, ,,1,249,0,1,0,0,0,0,0,,Translated
+487,,　文化人形の【懺悔の心】を聞かせました。, , ,,"Ayumi held up the antique doll, and let the children",listen to the penitent spirit sealed within.,,,문화인형의 【참회의 마음】을 들려주었습니다.,,,,讓文化人偶聽到了【懺悔之心】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+488,＊,………。, , ,*,...,,,＊,.........,,,＊,………。, ,,1,39,22,1,0,0,0,0,0,,Translated
+489,＊,おﾞかぁ……　ふぁん。, , ,*,Maa...eee...,,,＊,엄...... 마아.,,,＊,媽……　媽。, ,,1,40,22,1,0,0,0,0,0,,Translated
+490,＊,おかぁﾞふぁぁぁん……！,グスン、グスン, ,*,MAAAAAH MEEEE!! *sob* *sob*,,,＊,엄마아아아아......!,"훌쩍, 훌쩍",,＊,媽媽啊啊……！,吸、吸,,1,41,22,1,0,0,0,0,0,,Translated
+491,あゆみ,気持ちを安らかにして……,もう苦しまなくても、良いのよ？, ,Ayumi,"You can rest peacefully now, okay? You don't have to",keep suffering.,,아유미,마음을 진정시켜 봐......,이제 더는 괴로워하지 않아도 돼.,,あゆみ,讓心情平靜下來……,已經不用再痛苦了哦？,,1,250,0,1,0,0,0,0,0,,Translated
+492,あゆみ,悲しい出来事はもう、終わったわ。大好きな……, , ,Ayumi,The horrible things that happened to you are all in,the past. Your loved ones...,,아유미,슬픈 사건은 이제 끝났어. 좋아하는......,,,あゆみ,悲傷的事情已經結束了。最喜歡的……, ,,1,251,0,1,0,0,0,0,0,,Translated
+493,あゆみ,大好きな、ご両親の元へ旅立ちなさい……！, , ,Ayumi,Your parents are waiting for you. Go to them now!,,,아유미,사랑하는 부모님에게 돌아가렴......!,,,あゆみ,回到最喜歡的父母身邊去吧……！, ,,1,252,0,1,0,0,0,0,0,,Translated
+494,あゆみ,……ね？　いい子だから……, , ,Ayumi,...Please? I know you can do it...,,,아유미,...... 알았지? 너희들은 착하니까......,,,あゆみ,……好嗎？你們是好孩子……, ,,1,253,0,1,0,0,0,0,0,,Translated
+495,あゆみ,その子を……鈴本さんを、放してあげて。, , ,Ayumi,Let go of that girl. Let go of Suzumoto.,,,아유미,"그 애를...... 스즈모토를, 놔줘.",,,あゆみ,把那孩子……鈴本同學，放開她。, ,,1,254,0,1,0,0,0,0,0,,Translated
+496,あゆみ,！　駄目！　やめて！, , ,Ayumi,...?! No... Stop!,,,아유미,! 안 돼! 그만둬!,,,あゆみ,！　不行！住手！, ,,1,255,0,1,0,0,0,0,0,,Translated
+497,繭,……ひぃ……！？,いや！　いやぁぁぁ！！, ,Mayu,Eee...?!,No... NOOOOOOOO!!!,,마유,히이......!?,싫어! 싫어어어어!!,,繭,……咿……！？,不要！不要啊啊啊！！,,1,8,8,1,1,0,0,0,0,,Translated
+498,,　文化人形を叩きつけて、棄てました。, , ,,Ayumi threw the antique doll to the ground in a,fit of panic and frustration.,,,문화인형을 내팽개쳤습니다.,,,,摔掉了文化人偶。, ,,0,0,0,0,0,0,0,0,0,,Translated
+499,あゆみ,うううぅーっ！, , ,Ayumi,Aaaaaaannnnhh!!,,,아유미,으으으윽~!,,,あゆみ,嗚嗚嗚──！, ,,1,0,1,1,0,0,0,0,0,,Translated
+500,良樹,嘘、だろ……？, , ,Yoshiki,...Is she... No...,,,요시키,"거짓말, 이지......?",,,良樹,騙人的吧……？, ,,1,216,23,1,0,0,0,0,0,,Translated
+501,,　古いストーブがあります。, , ,,It's an old-fashioned space heater.,,,,낡은 난로가 있습니다.,,,,有座舊暖爐。, ,,0,0,0,1,0,0,0,0,0,,Translated
+502,,　中に灰が大量に溜まっていて、,　火は点きそうにありません……, ,,"Unfortunately, it's so full of ash that it'll",probably never light again.,,,안에 대량의 재가 쌓여 있어서,불을 붙일 수 없습니다.,,,裡面堆滿了大量的灰燼，,似乎無法點火……,,0,0,0,1,0,0,0,0,0,,Translated
+503,,　古いストーブがあります。, , ,,It's an old-fashioned space heater.,,,,낡은 난로가 있습니다.,,,,有座舊暖爐。, ,,0,0,0,1,0,0,0,0,0,,Translated
+504,,　中に灰が大量に溜まっていて、,　火は点きそうにありません……, ,,"Unfortunately, it's so full of ash that it'll",probably never light again.,,,안에 대량의 재가 쌓여 있어서,불을 붙일 수 없습니다.,,,裡面堆滿了大量的灰燼，,似乎無法點火……,,0,0,0,1,0,0,0,0,0,,Translated
+505,,　白い棚の中には、アルコールなどの,　薬品が並んでいます。, ,,Vast quantities of medicine and tonics are lined up,on each of the shelves.,,,하얀 수납장 안에는 알코올 같은,약품이 진열되어 있습니다,,,白色櫃子裡排放著酒精等藥品。, ,,0,0,0,0,0,0,0,0,0,,Translated
+506,,【したの ぬきかた２】,　ジョキリと切り取った温かい舌は,　誰のものか　わからなくならないように,,[How To Remove A Tongue - 2],It can be a real challenge to keep straight just,"which warm, severed tongue belongs to which patient.",,【혀를 뽑는 방법 2】,쑥 뽑아낸 따끈한 혀는,누구 것인지 알 수 있도록,,【舌頭的取出方法２】,　剪下來的溫熱舌頭，,　要標記好以免搞混是誰的。,0,0,0,0,0,0,0,0,0,,Translated
+507,,　めじるしをつけておきましょう, , ,,"As such, it is highly recommended that the tongues",be tagged or marked once detached. Their owners will,"be in no state to identify them, after all!",,표시를 해 두도록 합시다,,,,　請做好記號。, ,,0,0,0,0,0,0,0,0,0,,Translated
+508,,　患者の舌の根がちぢんで,　いきができなくなって　あばれはじめたら, ,,"Best to work quickly, too, before things get hectic.",The patients' bare tongue-stumps will suffer post-,"partum swelling, resulting in a slow suffocation.",,환자의 혀뿌리가 쪼그라들어,숨을 쉬지 못해 날뛰기 시작하면,,,　當患者的舌根萎縮,　無法呼吸開始掙扎時，, ,0,0,0,0,0,0,0,0,0,,Translated
+509,,　かわいそうなので,　ひとおもいに, ,,You may wish to put the patients down once the,"inevitable squirming begins. It's kinder that way,",and will free you to tag your trophies in peace.,,불쌍하니,단숨에,,,　因為可憐，,　就一口氣, ,0,0,0,0,0,0,0,0,0,,Translated
+510,,　宙に浮いた繭は、うつろな目で,　床を見据えています……, ,,"Mayu is floating in the air, staring down at the",floor with blank eyes...,,,"공중에 뜬 마유는, 멍한 눈으로",바닥을 바라보고 있습니다......,,,浮在空中的繭，眼神空洞地,望著地板……, ,0,0,0,0,0,0,0,0,0,,Translated
+511,＊,おねえﾞひゃん　あひょ　びょう, , ,*,Cohme ahh puuayy!,,,＊,언니이  노올자,,,＊,姐姐　快點, ,,1,37,22,1,0,0,0,0,0,,Translated
+512,＊,ゴボボボボ……,（ピュッ、ピュッ）, ,*,Grllllllg...,,,＊,꼬로로로록......,"(주륵, 주륵)",,＊,咕嚕嚕嚕嚕……,（滴答、滴答）,,1,3,21,1,0,0,0,0,0,,Translated
+513,良樹,ぐ……っ, , ,Yoshiki,Ulg...,,,요시키,윽......,,,良樹,咕……, ,,1,150,23,1,0,0,0,0,0,,Translated
+514,あゆみ,待ってよ！, , ,Ayumi,Don't leave me!,,,아유미,기다려!,,,あゆみ,等一下！, ,,1,140,0,1,0,0,0,0,0,,Translated
+515,良樹,篠崎……。, , ,Yoshiki,Shinozaki...,,,요시키,시노자키......,,,良樹,篠崎……。, ,,1,120,23,1,0,0,0,0,0,,Translated
+516,良樹,……おかしくなりそうだ……, , ,Yoshiki,I feel like I'm losing my mind...,,,요시키,미칠 것 같아......,,,良樹,……快要瘋了……, ,,1,121,23,1,0,0,0,0,0,,Translated
+517,良樹,……何でこんな事になっちまったんだよ……, , ,Yoshiki,Why is this happening to us...?,,,요시키,왜 이렇게 된 거야......,,,良樹,……為什麼會變成這樣……, ,,1,122,23,1,0,0,0,0,0,,Translated
+518,良樹,（そういや、あの時の涙の礼……,　まだ言ってないな……）, ,Yoshiki,(I never actually thanked her for what she did,that day...for crying on my behalf...),,요시키,"(그러고 보니, 그때 그 눈물에 대한 인사......",아직 안 했었지......),,良樹,（說起來，那時候眼淚的回禮……,　還沒說呢……）,,1,109,23,1,0,0,0,0,0,,Translated
+519,良樹,（そうだよ、此処に閉じ込められた事が,　判った時……）, ,Yoshiki,"(And...I swore to myself, as soon as I realized",we were trapped here...),,요시키,"(그래, 여기에 갇혔다는 걸",알게 되었을 때......),,良樹,（對了，當知道被困在這裡的時候……）, ,,1,110,23,1,0,0,0,0,0,,Translated
+520,良樹,（何があっても、アイツ護るって,　決めたじゃねえか）, ,Yoshiki,"(...that I'd protect her, no matter what happens.)",,,요시키,(무슨 일이 있어도 이 녀석을 지켜내자고,결심했잖아),,良樹,（不是決定了不管發生什麼都要保護她嗎）, ,,1,111,23,1,0,0,0,0,0,,Translated
+521,良樹,（俺の“何があっても”が今、試されてんだよ……）, , ,Yoshiki,(This must be a test...to see if I really meant,that 'no matter what happens' part!),,요시키,(바로 지금 “그걸” 시험받고 있는 거야......),,,良樹,（現在正是考驗我「不管發生什麼」的時候……）, ,,1,112,23,1,0,0,0,0,0,,Translated
+522,あゆみ,どうしてこんな事をするの！！　あー？！, , ,Ayumi,Why the hell are you doing this?! Answer me!,,,아유미,왜 이런 짓을 하는 거야!! 어~?!,,,あゆみ,為什麼要做這種事！！啊─？！, ,,1,175,0,1,1,0,0,0,0,,Translated
+523,良樹,篠崎……。, , ,Yoshiki,Shinozaki...,,,요시키,시노자키......,,,良樹,篠崎……。, ,,1,127,23,1,0,0,0,0,0,,Translated
+524,良樹,……頼む、戻って来てくれ、篠崎……, , ,Yoshiki,Please...come back to me...Shinozaki...,,,요시키,"부탁이야, 돌아와 줘, 시노자키......",,,良樹,……拜託你，回來吧，篠崎……, ,,1,128,23,1,0,0,0,0,0,,Translated
+525,良樹,クラスの奴ら見つけて、全員でここを出るんだろ。, , ,Yoshiki,We're going to find all our classmates and get out of,"this horrible place, okay?",,요시키,친구들을 찾고 여길 나가기로 했잖아.,,,良樹,找到班上的同學，大家一起離開這裡吧。, ,,1,129,23,1,0,0,0,0,0,,Translated
+526,良樹,お前がそんなんじゃ……　意味ねぇんだよ！, , ,Yoshiki,There's no reason...no reason for you to stay like,this!,,요시키,네가 그러면...... 의미가 없다고!,,,良樹,你要是那樣的話……就沒意義了！, ,,1,130,23,1,0,0,0,0,0,,Translated
+527,あゆみ,ア……ハ……, , ,Ayumi,Urrrng...,,,아유미,아...... 하......,,,あゆみ,啊……哈……, ,,1,181,0,1,0,0,0,0,0,,Translated
+528,あゆみ,……アっ…　　た, , ,Ayumi,So...,,,아유미,...... 따...       뜻,,,あゆみ,……暖…, ,,1,182,0,1,0,0,0,0,0,,Translated
+529,あゆみ,……か…　　　い……, , ,Ayumi,...warm...,,,아유미,...... 하...      다......,,,あゆみ,……啊…, ,,1,183,0,1,0,0,0,0,0,,Translated
+530,あゆみ,……岸沼君……？,あれ……？　私……, ,Ayumi,Kishinuma...?,Where... What...?,,아유미,...... 키시누마 군......?,어라......? 나......,,あゆみ,……岸沼同學……？,咦……？我……,,1,184,0,1,0,0,0,0,0,,Translated
+531,良樹,篠崎！　お前, , ,Yoshiki,Shinozaki! You're...!,,,요시키,시노자키! 너,,,良樹,篠崎！你, ,,1,131,23,1,0,0,0,0,0,,Translated
+532,あゆみ,きゃあーーあ！！！！, , ,Ayumi,Eeeeeeek!!,,,아유미,꺄아아~~!!!!,,,あゆみ,呀啊啊──！！！！, ,,1,185,0,1,1,0,0,0,0,,Translated
+533,良樹,痛てッ！　……お前、 戻ったのか？, , ,Yoshiki,Owww!!,...Is it you? Are you back?!,,요시키,"아얏! 너, 돌아온 거야?",,,良樹,好痛！……你，回來了嗎？, ,,1,132,23,1,0,0,0,0,0,,Translated
+534,あゆみ,え？　え？　……何？, , ,Ayumi,Huh?,Wh-What...do you...?,,아유미,어? 어? ...... 뭐야?,,,あゆみ,欸？欸？……什麼？, ,,1,186,0,1,0,0,0,0,0,,Translated
+535,良樹,篠崎……, , ,Yoshiki,Shinozaki...,,,요시키,시노자키......,,,良樹,篠崎……, ,,1,120,23,1,0,0,0,0,0,,Translated
+536,良樹,……おかしくなりそうだ……, , ,Yoshiki,I feel like I'm losing my mind...,,,요시키,미칠 것 같아......,,,良樹,……快要瘋了……, ,,1,121,23,1,0,0,0,0,0,,Translated
+537,良樹,……何でこんな事になっちまったんだよ……, , ,Yoshiki,Why is this happening to us...?,,,요시키,왜 이렇게 된 거야......,,,良樹,……為什麼會變成這樣……, ,,1,122,23,1,0,0,0,0,0,,Translated
+538,あゆみ,……？, , ,Ayumi,...?,,,아유미,......?,,,あゆみ,……？, ,,1,138,0,1,0,0,0,0,0,,Translated
+539,あゆみ,こ…これ……何……？, , ,Ayumi,Wh-What's...this...?,,,아유미,이... 이건...... 뭐지......?,,,あゆみ,這…這是……什麼……？, ,,1,139,0,1,0,0,0,0,0,,Translated
+540,良樹,なんだ……これ……　何の染みだ……？, , ,Yoshiki,"Hmm... Seems stained, but with what?",,,요시키,뭐야...... 이건...... 뭔 자국이야......?,,,良樹,什麼……這個……是什麼污漬……？, ,,1,71,23,1,0,0,0,0,0,,Translated
+541,良樹,人の……カタチにも、見えるな……, , ,Yoshiki,Almost looks like...a person...,,,요시키,왠지...... 사람 모습처럼 보이는데......,,,良樹,看起來……像是人的形狀……, ,,1,72,23,1,0,0,0,0,0,,Translated
+542,あゆみ,ここで……誰か死んでる。,……声が……聞こえる……！, ,Ayumi,Somebody... Somebody died here...,I can hear her voice...,,아유미,여기에서...... 누군가 죽은 거야.,...... 목소리가...... 들려......!,,あゆみ,這裡……有人死了。,……聽得見……聲音……！,,1,141,0,1,0,0,0,0,0,,Translated
+543,あゆみ,……いや……、やだ……,そんな……！, ,Ayumi,"No... No, please...",Don't...!,,아유미,...... 아...... 싫어......,그럴 수가......!,,あゆみ,……不要……、不要……,怎麼會……！,,1,142,0,1,0,0,0,0,0,,Translated
+544,良樹,おい、どうし……, , ,Yoshiki,Wh-What's wro--,,,요시키,"야, 무슨......",,,良樹,喂，怎麼……, ,,1,0,0,1,0,0,1,6,0,,Translated
+545,あゆみ,いやぁぁぁ！,……ハァッハァッ、ハァッ, ,Ayumi,AAAAAAGGGGHHH!!,*pant* *wheeze* *gasp*,,아유미,꺄아아아아!,"...... 하악 하악, 하악",,あゆみ,啊啊啊！,……哈啊哈啊、哈啊,,1,255,29,1,0,0,0,0,0,,Translated
+546,,ギ……ギ　ギギギギ……, , ,,*creeeeeeeeeak*,,,,기...... 기  기기기기......,,,,嘎……嘎　嘎嘎嘎嘎……, ,,0,0,0,1,0,0,0,0,0,,Translated
+547,良樹,……お……　おい……, , ,Yoshiki,Wh-Whoa...,,,요시키,...... 어...... 너......,,,良樹,……喂……喂……, ,,1,74,23,1,0,0,0,0,0,,Translated
+548,あゆみ,ハァー！　ヒァー！　ヒュー！,ゲフッ、カフッ！, ,Ayumi,*pant* *gasp* *wheeze* *sputter*,,,아유미,하아~! 히아~! 휴~!,"어억, 커헉!",,あゆみ,哈啊！　咿啊！　呼！,呃咳、咳咳！,,1,143,0,1,0,0,0,0,0,,Translated
+549,＊,世以子おおおおおぉー！！, , ,*,SEEEIIIKKKOOOOO!!,,,＊,세이코오오오오오오~!!,,,＊,世以子啊啊啊啊啊──！！, ,,1,0,0,1,0,0,0,3,0,,Translated
+550,あゆみ,いやあぁぁぁー！！, , ,Ayumi,NOOOOOOOOOOO!!,,,아유미,꺄아아아아아~!!,,,あゆみ,啊啊啊啊──！！, ,,1,0,30,1,0,0,0,0,0,,Translated
+551,良樹,篠崎！！, , ,Yoshiki,Shinozaki!,,,요시키,시노자키!!,,,良樹,篠崎！！, ,,1,75,23,1,0,0,0,0,0,,Translated
+552,良樹,なんなんだよ、くそッ！, , ,Yoshiki,Dammit all! What the hell is going on around here?!,,,요시키,"대체 뭐야, 젠장!",,,良樹,到底是怎麼回事，混帳！, ,,1,76,23,1,0,0,0,0,0,,Translated
+553,あゆみ,……こんな匂い、するんだ……, , ,Ayumi,...Sure has an...interesting smell...,,,아유미,...... 이런 냄새가 나는구나......,,,あゆみ,……原來是這種味道啊……, ,,1,134,0,1,0,0,0,0,0,,Translated
+554,あゆみ,男の子のトイレなんて、初めて入った……, , ,Ayumi,It feels weird...being in the boys' room...,,,아유미,남자 화장실은 처음 들어와 봤어......,,,あゆみ,第一次進男廁……, ,,1,133,0,1,0,0,0,0,0,,Translated
+555,良樹,………。,,,Yoshiki,...,,,요시키,.........,,,良樹,………。,,,1,0,0,0,0,0,0,0,0,,Translated
+556,,・　・　・　・　・, , ,,...,,,,  ·     ·     ·     ·     ·,,,,  ·     ·     ·     ·     ·,,,0,0,0,0,0,0,0,0,0,,Translated
+557,良樹,（……スッゲー視線が気になるんだけど）, , ,Yoshiki,(I get the distinct impression that somebody's,watching me...),,요시키,(...... 시선이 무지 신경 쓰이는데),,,良樹,（……視線讓人超級在意）, ,,1,66,23,1,0,0,0,0,0,,Translated
+558,良樹,さすがに無理だわ……, , ,Yoshiki,...Probably just my imagination...,,,요시키,역시 무리야......,,,良樹,果然不行……, ,,1,67,23,1,0,0,0,0,0,,Translated
+559,良樹,（……スッゲー視線が気になるんだけど）, , ,Yoshiki,(I get the distinct impression that somebody's,watching me...),,요시키,(...... 시선이 무지 신경 쓰이는데),,,良樹,（……視線讓人超級在意）, ,,1,66,23,1,0,0,0,0,0,,Translated
+560,良樹,さすがに無理だわ……, , ,Yoshiki,...Probably just my imagination...,,,요시키,역시 무리야......,,,良樹,果然不行……, ,,1,67,23,1,0,0,0,0,0,,Translated
+561,,　……鏡の中に、蒼白な自分の顔が映っています……, , ,,Yoshiki's pallid face stares back at him from the,mirror.,,,...... 거울 안에 창백한 자신의 얼굴이 비춰집니다......,,,,　……鏡子裡映著自己蒼白的臉……, ,,0,0,0,0,0,0,0,0,0,,Translated
+562,良樹,俺……こんな顔してたっけ……, , ,Yoshiki,Is this...really what I look like?,,,요시키,나...... 이런 얼굴이었나......,,,良樹,我……是這種表情嗎……, ,,1,64,23,1,0,0,0,0,0,,Translated
+563,,　……自分の隣に、あゆみが映っています……, , ,,"There's Ayumi, standing next to him.",,,,"...... 자신의 옆에, 아유미가 비춰집니다......",,,,　……自己的旁邊映著あゆみ……, ,,0,0,0,0,0,0,0,0,0,,Translated
+564,良樹,……？, , ,Yoshiki,...?,,,요시키,......?,,,良樹,……？, ,,1,62,23,1,0,0,0,0,0,,Translated
+565,,　……よく見ると、あゆみが床を見据えて,　ニィーッ…と笑っています。, ,,She seems to be staring down at the floor and grinning,wildly.,,,...... 잘 보니 아유미가 바닥을 바라보며,히죽... 웃고 있습니다.,,,　……仔細一看，あゆみ正盯著地板,　咧嘴…笑著。, ,0,0,0,0,0,0,0,0,0,,Translated
+566,あゆみ,……なに？, , ,Ayumi,...What is it?,,,아유미,...... 왜?,,,あゆみ,……怎麼了？, ,,1,135,0,1,0,0,0,0,0,,Translated
+567,良樹,いや……なんでもない。,（……気のせいか……）, ,Yoshiki,Uhh... Nothing...,(Maybe I'm just seeing things...),,요시키,아니...... 아무것도 아냐.,(...... 기분 탓인가......),,良樹,不……沒什麼。,（……是錯覺嗎……）,,1,63,23,1,0,0,0,0,0,,Translated
+568,,　……鏡が小刻みに振動して、カタカタと,　音をたてています。, ,,The mirror is slightly vibrating against the back wall,"with each subtle movement you make, clattering as it",does so.,,..... 거울이 작게 진동하며,덜컥덜컥 소리를 내고 있습니다.,,,　……鏡子微微震動，發出喀喀的聲響。, ,,0,0,0,0,0,0,0,0,0,,Translated
+569,,ああぁああけるるなあああ！！！, , ,,SHUT THE GODDAMNED DOOR!!,,,,여어어어얼지이이이마아아아!!!,,,,不　　　准　　　開　　　門啊啊啊！！！, ,,0,249,13,1,0,0,0,0,0,,Translated
+570,良樹,……っ, , ,Yoshiki,...,,,요시키,...... 윽,,,良樹,……, ,,1,68,23,1,0,0,0,0,0,,Translated
+571,良樹,な、なぁ、今……変な声聞こえたか？, , ,Yoshiki,H-Hey... Did you just hear that crazy voice?,,,요시키,"저, 저기, 방금...... 이상한 목소리 못 들었어?",,,良樹,喂、喂……剛才聽到奇怪的聲音了嗎？, ,,1,69,23,1,0,0,0,0,0,,Translated
+572,あゆみ,聞こえてないけど……ここ、なにかいる。, , ,Ayumi,I didn't hear anything...but we're definitely not,alone in here...,,아유미,"못 들었는데...... 여기, 뭔가 있어.",,,あゆみ,沒聽到……但這裡有什麼東西。, ,,1,136,0,1,0,0,0,0,0,,Translated
+573,あゆみ,……はやく、出よう。, , ,Ayumi,We should leave this room right now...,,,아유미,...... 얼른 나가자.,,,あゆみ,……快點出去吧。, ,,1,137,0,1,0,0,0,0,0,,Translated
+574,良樹,お、おう……, , ,Yoshiki,O-Okay...,,,요시키,"그, 그래......",,,良樹,喔、喔……, ,,1,70,23,1,0,0,0,0,0,,Translated
+575,,　床に、人型のようなシミがあります……, , ,,There's a dark stain on the floor in the shape of a,person's body.,,,바닥에 사람 모양 자국이 있습니다......,,,,地上有個人形的污漬……, ,,0,0,0,0,0,0,0,0,0,,Translated
+576,良樹,（誰かいるみたいで気持ち悪いな……）, , ,Yoshiki,(It almost feels like there's someone here...,It's really giving me the creeps...),,요시키,(누가 있는 것 같아서 기분 나쁜데......),,,良樹,（好像有人似的真不舒服……）, ,,1,118,23,1,0,0,0,0,0,,Translated
+577,良樹,（うッ…なんだこれ……,　個室の中が真っ黒に汚れてる）, ,Yoshiki,(Wh-What the hell? The stall is pitch black inside...),,,요시키,(윽... 뭐야 이건......,화장실 칸 안에 새까만 게 묻어 있어),,良樹,（呃…這是什麼……,　隔間裡面一片漆黑）, ,1,119,23,1,0,0,0,0,0,,Translated
+578,,　床に書き置きがあります。,　字が乱れて所々読めません……, ,,There's a hastily-written note on the ground. Its,"writer seemed to have struggled with it, as the",lettering is inconsistent and difficult to read.,,바닥에 글씨가 보입니다.,글씨가 삐뚤어져서 전부 읽을 수는 없습니다......,,,地上有留言。,　字跡潦草，有些地方無法閱讀……,,0,0,0,0,0,0,0,0,0,,Translated
+579,,　……ね……え……さ……ま……,　……ど……う……し……て……, ,,"WH y ,    s i   st  e R   .. ?",,,,...... 언...... 니......,...... 어...... 째...... 서......,,,　……姊……妹……,　……為……什……麼……,,0,0,0,0,0,0,0,0,0,,Translated
+580,,　……イ…タ…ィ……,　イﾞ…ダ…ィ…　ｸﾞｸﾞゥゥゥ……, ,,it  h    u rts  ..  ..    it    hu  RT S,,,,...... 아... 파......,아... 파... 으으으으으......,,,　……好…痛……,　好…痛…　嗚嗚嗚……,,0,0,0,0,0,0,0,0,0,,Translated
+581,,　……死ンデモ……痛ミガ……,　続ク……ナンテ……　グギギギィ, ,,aFTER    i   di e    the ,   p  ai n    WI lL      conti nue,FoR eve r..,,...... 죽었는데도...... 아픔이......,계속...... 되다니...... 그기기기이,,,　……死了也……痛苦……,　……會繼續……　嗚嘰嘰嘰,,0,0,0,0,0,0,0,0,0,,Translated
+582,,　イヤアアア！, , ,,NOO  oo oo ! !,,,,꺄아아아아!,,,,不要啊啊啊！, ,,0,0,0,0,0,0,0,0,0,,Translated
+583,,　イヤアア！　イヤアア！,　イヤアアアア！　イヤアア！, ,,"NO, no, No, nOOO O !",,,,싫어어! 싫어어!,꺄아아아아! 꺄아아!,,,不要啊啊！不要啊啊！,　不要啊啊啊啊！不要啊啊！,,0,0,0,0,0,0,0,0,0,,Translated
+584,,　……ねえさま……　の　うそつき……, , ,,Sis... You lied to me...,,,,...... 언니...... 는 거짓말쟁이......,,,,　……姊姊……　是騙子……, ,,0,169,5,1,0,0,0,0,0,,Translated
+585,,　……私を　置イて行クのデスね……, , ,,"You're going to leave me behind, aren't you?",,,,...... 날 두고 가 버리다니......,,,,　……要丟下我一個人走了呢……, ,,0,170,5,1,0,0,0,0,0,,Translated
+586,, ,　…… ﾕ ﾙ ｻ ﾅ ｲ, ,, ,I   w i l l   n e v e r   f o r g i v e   y o u .,,,...... 용서 못해,,,, ,　……　絕　不　原　諒,,0,171,5,1,0,0,0,0,0,,Translated
+587,,　首のない、古い【文化人形】が置かれています……, , ,,There's an old-fashioned festival doll lying on the,ground here. It seems to be missing its head.,,,"머리가 없는, 낡은 【문화인형】이 놓여 있습니다......",,,,有一尊沒有頭的舊【文化人偶】……, ,,0,0,0,0,0,0,0,0,0,,Translated
+588,,　手にとってみますか？, , ,,Pick it up?,,,,손으로 집어보겠습니까?,,,,要拿起來看看嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+589,,取る,やめる,,,Yes,No,,,가져간다,그만둔다,,,拿走,算了,,0,255,255,255,255,255,255,255,255,,Translated
+590,,　人形の体から、何者かの思念が伝わって来ます。, , ,,"Thoughts begin to echo in your mind, seemingly from","the doll. Somehow or another, it's found a way to",communicate its sole desire.,,인형의 몸으로부터 누군가의 사념이 전해져 옵니다.,,,,人偶的身體傳來某人的意念。, ,,0,0,0,0,0,0,0,0,0,,Translated
+591,良樹,！？　何だ、……この声？, , ,Yoshiki,Wh-What the?! I hear a voice!,,,요시키,"!? 뭐야, 이 목소리?",,,良樹,！？　什麼，……這個聲音？, ,,1,206,23,1,0,0,0,0,0,,Translated
+592,あゆみ,……（クビを…　…カエシテ）……？, , ,Ayumi,(Give me back...my head?),,,아유미,...... (머리를... 돌려줘) ......?,,,あゆみ,……（把頭…　…還給我）……？, ,,1,243,0,1,0,0,0,0,0,,Translated
+593,,　文化人形（体）　を取りました。, , ,,Acquired [Antique Doll (Body)].,,,,문화인형 (몸체) 를 얻었습니다.,,,,拿到了【文化人偶（身體）】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+594,,　……首と胴の繋がった文化人形が、,　何か、しゃべっています。, ,,"As the head and body of the antique doll are joined,",it begins speaking more clearly and directly.,,,...... 머리와 몸이 이어진 문화인형이,뭔가 말하고 있습니다.,,,……頭和身體接合的文化人偶,　正在說著什麼。, ,0,0,0,0,0,0,0,0,0,,Translated
+595,,　……子供の様な高い声で、ボソボソと繰り返し、,　喋っているようです。, ,,"With a high-pitched voice like that of a child, it","slowly repeats several phrases in a cold, methodical",and almost robotic monotone.,,"...... 어린아이 같은 높은 목소리로, 소곤소곤",같은 말을 반복하고 있습니다.,,,　……用像孩子一樣高亢的聲音，,　喃喃地重複說著。, ,0,0,0,0,0,0,0,0,0,,Translated
+596,,コ・ド・モ　アンナニ,コロス・ナンテ・, ,,to  have  killed  children  so  brutally,,,,아·이·를  그렇게,죽이·다니·,,,殺·了·孩·子　居·然·那·麼·,殘·忍·,,0,20,5,1,1,0,0,0,0,,Translated
+597,,ワ・タ・シ・ハ・ショ・ウ・キ・デハ,ナ・カッタ, ,,i  was  not  in  my  right  mind,,,,내·가·제·정·신·이·,아·니·었·어,,,我·當·時·是·失·去·理·智·的, ,,0,21,5,1,1,0,0,0,0,,Translated
+598,,シ・ナ・セ・タク　ナ・カッタ・,  ワタシ・モ・　コ・ワ・カッ　タ, ,,i  did  not  want  them  to  die,i  was  scared  too,,,죽·이·고·싶·지·않·았·어·,나·도·무·서·웠·어,,,我·並·不·想·殺·他·們·,我·也·很·害·怕·,,0,22,5,1,1,0,0,0,0,,Translated
+599,,ゴ・メ・ン・ナ・　サ・イ,　ゴ・メ・　ン・ナ・サ・イ,　　ゴ・　メ・ン・ナ・サ・イ,,i  am  so  sorry,i  am  so  sorry,so  very  sorry,,미·안·해,  미·안·해,    미·안·해,,對·不·起,　對·不·起,　　對·不·起,0,23,5,1,1,0,0,0,0,,Translated
+600,,ワ・タ・シ・ハ・　ホントウ・　ハ・,イイヒト, ,,i  am  actually  a,good  person,,,나·는·실·은·좋은·,사람,,,我·其·實·是·個·好·人·, ,,0,24,5,1,1,0,0,0,0,,Translated
+601,,ゴ・メ・ン・ナ・　サ・イ,　ゴ・メ・　ン・ナ・サ・イ,　　ゴ・　メ・ン・ナ・サ・イ,,i  am  so  sorry,i  am  so  sorry,so  very  sorry,,미·안·해,  미·안·해,    미·안·해,,對·不·起,　對·不·起,　　對·不·起,0,23,5,1,1,0,0,0,0,,Translated
+602,良樹,なんだこの人形……殺人犯の持ち物か……？, , ,Yoshiki,Did this doll...belong to the murderer...?,,,요시키,뭐야 이 인형...... 살인범 건가......?,,,良樹,這人偶是什麼……殺人犯的遺物嗎……？, ,,1,208,23,1,0,0,0,0,0,,Translated
+603,あゆみ,……ふざけないでって、感じだよね……, , ,Ayumi,"Doesn't it kind of piss you off? Like, it's just","playing around, and saying what we want to hear...",,아유미,...... 집어치워 버리고 싶네......,,,あゆみ,……簡直像是在開玩笑……, ,,1,244,0,1,0,0,0,0,0,,Translated
+604,,ゴ・メ・ン・ナ・　サ・イ,　ゴ・メ・　ン・ナ・サ・イ,　　ゴ・　メ・ン・ナ・サ・イ,,i  am  so  sorry,i  am  so  sorry,so  very  sorry,,미·안·해,  미·안·해,    미·안·해,,對·不·起,　對·不·起,　　對·不·起,0,23,5,1,1,0,0,0,0,,Translated
+605,あゆみ,……こんな人形！, , ,Ayumi,We don't need this thing!,,,아유미,...... 이딴 인형!,,,あゆみ,……這種人偶！, ,,1,245,0,1,0,0,0,0,0,,Translated
+606,良樹,待てよ！　なあ、それ、犯人の懺悔にならねぇか？, , ,Yoshiki,Wait! Don't you think...it might count as repentance,from the murderer?,,요시키,"잠깐만! 저기, 그거, 범인의 참회가 되지 않을까?",,,良樹,等等！喂，那可以當作犯人的懺悔嗎？, ,,1,209,23,1,0,0,0,0,0,,Translated
+607,,　懺悔の心　を取りました。, , ,,Acquired [Penitent Spirit].,,,,참회의 마음을 얻었습니다.,,,,拿到了【懺悔之心】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+608,あゆみ,許せない……絶対……　こんな大人……, , ,Ayumi,I'll never forgive him...no matter what he says...,,,아유미,용서 못해...... 절대로...... 이딴 어른......,,,あゆみ,不可原諒……絕對……這種大人……, ,,1,246,0,1,0,0,0,0,0,,Translated
+609,,　散乱した髪の毛の長さから、,　女生徒の死体のようです……, ,,Based on the long strands of hair scattered all,"around, these are likely the remains of a female",student.,,어지러진 머리칼의 길이를 보아,여학생의 사체인 것 같습니다......,,,從散落的頭髮長度來看，,似乎是女學生的屍體……, ,0,0,0,0,0,0,0,0,0,,Translated
+610,,　ﾆｸｲ……,　　ﾈｪｻﾏ……, ,,"I hate you, sister...",,,,미워......,  언니......,,,好恨……,　　姊姊……,,0,172,5,1,0,0,0,0,0,,Translated
+611,,　ｲ　ﾀ　ｲ　ﾖｳ ……, , ,,I t   h u r t s . . .,,,,아  파  ......,,,,好　痛　啊……, ,,0,173,5,1,0,0,0,0,0,,Translated
+612,,【用務員室】,　扉は鍵がかかっていて、開ける事が出来ません。, ,,[Custodian's Closet],The door is locked.,,,【수위실】,문이 잠겨 있어서 열 수 없습니다.,,,【校工室】,　門鎖著，無法打開。,,0,0,0,0,0,0,0,0,0,,Translated
+613,,　……部屋の中から、つけっ放しにされた,　ＴＶのノイズ音が聞こえます……, ,,"There's an erratic noise, like that of TV static,",coming from within.,,,방 안에 틀어 둔,TV의 소음이 들려옵니다......,,,　……房間裡傳來電視沒關的雜訊聲……, ,,0,0,0,0,0,0,0,0,0,,Translated
+614,良樹・あゆみ,うおっ！！,　きゃー！ , ,Yoshiki & Ayumi,Waaagh!,EEEEEK!,,요시키·아유미,우옷!!,꺄~!,,良樹・あゆみ,哇！！,　呀～！,,1,249,22,1,0,0,0,0,0,,Translated
+615,良樹,ほ、骨だ……人の……, , ,Yoshiki,These are...human bones...,,,요시키,"뼈, 뼈다...... 사람의......",,,良樹,骨、骨頭……人的……, ,,1,250,22,1,0,0,0,0,0,,Translated
+616,あゆみ,もういやぁ……,ハァーッハァーッ, ,Ayumi,"Oh, God, no... *gasp* *wheeze*",,,아유미,이젠 싫어......,하악~ 하악~,,あゆみ,已經受不了了……,哈啊～哈啊～,,1,99,0,1,0,0,0,0,0,,Translated
+617,あゆみ,ゲホゲホグフ, , ,Ayumi,*cough* *cough*,,,아유미,콜록 콜록,,,あゆみ,咳、咳咳, ,,1,100,0,1,0,0,0,0,0,,Translated
+618,良樹,だ……大丈夫かよ、篠崎……, , ,Yoshiki,"A-Are you okay, Shinozaki?",,,요시키,"괘... 괜찮냐, 시노자키......",,,良樹,沒、沒事吧，篠崎……, ,,1,251,22,1,0,0,0,0,0,,Translated
+619,あゆみ,すぐ……治まるから……, , ,Ayumi,I'll be...fine...,,,아유미,금방...... 괜찮아질 거야......,,,あゆみ,馬上……就會好起來的……, ,,1,101,0,1,0,0,0,0,0,,Translated
+620,あゆみ,ただの……過呼吸……,ハァー、ハァー……, ,Ayumi,I'm just...hyperventilating...a little... *wheeze*,,,아유미,단순한...... 과호흡......,하아~ 하아~,,あゆみ,只是……過度換氣……,哈啊～、哈啊～……,,1,102,0,1,0,0,0,0,0,,Translated
+621,あゆみ,けふ…っ　けふっ, , ,Ayumi,*cough* *cough*,,,아유미,쿨럭...  쿨럭,,,あゆみ,咳…　咳, ,,1,103,0,1,0,0,0,0,0,,Translated
+622,あゆみ,はやく、…先生を捜そう。,……ケフっ。, ,Ayumi,Come on... We have to find Ms. Yui.,,,아유미,어서... 선생님을 찾아보자.,...... 쿨럭.,,あゆみ,快點……去找老師吧。,……咳咳。,,1,104,0,1,0,0,0,0,0,,Translated
+623,良樹,お、おう。, , ,Yoshiki,Y-Yeah.,,,요시키,"어, 응.",,,良樹,喔、喔。, ,,1,252,22,1,0,0,0,0,0,,Translated
+624,良樹,（哲志はどこにいるんだ……,　アイツがいれば、）, ,Yoshiki,(Where the hell is Satoshi...?),,,요시키,(사토시는 어디에 있는 거야......,그 녀석이 있었다면),,良樹,（哲志在哪裡……,　那傢伙在的話，）, ,1,253,22,1,0,0,0,0,0,,Translated
+625,良樹,（もう少し篠崎も、心が休まるんだろうに……）, , ,Yoshiki,"(If he were here, I bet Shinozaki would be a whole lot",calmer...),,요시키,(시노자키도 마음이 좀 놓일 텐데......),,,良樹,（篠崎也能稍微安心一些吧……）, ,,1,254,22,1,0,0,0,0,0,,Translated
+626,あゆみ,何やってるのよ、早く行こうよ。, , ,Ayumi,What are you standing around for?! Let's get out of,here!,,아유미,"뭐하는 거야, 얼른 가자.",,,あゆみ,你在做什麼，快走吧。, ,,1,105,0,1,0,0,0,0,0,,Translated
+627,良樹,わ、わかってるよ。, , ,Yoshiki,"A-All right, already!",,,요시키,"아, 알았어.",,,良樹,知、知道了。, ,,1,255,22,1,0,0,0,0,0,,Translated
+628,良樹,ど、どうしたんだよ。, , ,Yoshiki,Wh-What is it...?,,,요시키,"어, 왜 그래?",,,良樹,怎、怎麼了。, ,,1,28,23,1,0,0,0,0,0,,Translated
+629,あゆみ,…………, , ,Ayumi,...,,,아유미,............,,,あゆみ,…………, ,,1,0,0,1,0,0,0,0,0,,Translated
+630,あゆみ,う゛う゛う゛う゛う゛ぅ,う゛う゛ぅぅ……, ,Ayumi,Oooouuuuuuuuugggghhhh...,,,아유미,우  우  우  우  우  우,우  우  우우......,,あゆみ,嗚嗚嗚嗚嗚,嗚嗚嗚……,,1,115,0,1,0,0,0,0,0,,Translated
+631,良樹,？！, , ,Yoshiki,?!,,,요시키,?!,,,良樹,？！, ,,1,29,23,1,0,0,0,0,0,,Translated
+632,良樹,おい！　篠崎！　どこ行くんだよ, , ,Yoshiki,Hey! Shinozaki!,Where are you going?!,,요시키,야! 시노자키! 어디 가는 거야,,,良樹,喂！篠崎！你去哪裡, ,,1,30,23,1,0,0,0,0,0,,Translated
+633,良樹,どうしちまったんだよ……, , ,Yoshiki,...What the hell was that all about...?,,,요시키,어떻게 된 거냐고......,,,良樹,到底是怎麼了……, ,,1,31,23,1,0,0,0,0,0,,Translated
+634,良樹,こ……　し…篠崎！？　うああ！　何で！, , ,Yoshiki,Is that...Sh...Shinozaki?!,Oaaaagghh!! Wh-Why?!,,요시키,저건...... 시... 시노자키!? 우아아! 어째서!,,,良樹,那……篠…篠崎！？哇啊！為什麼！, ,,1,36,23,1,0,0,0,0,0,,Translated
+635,良樹,うそだあああぁぁぁぁ！！！！！！！, , ,Yoshiki,Noooooo!,,,요시키,거짓마아아아아아아알!!!!!!!,,,良樹,騙人的吧啊啊啊啊啊！！！！！！！, ,,1,37,23,1,0,0,0,0,0,,Translated
+636,良樹,ううううそだああぁぁ……, , ,Yoshiki,No... No... NOOOOOOOOOO!!,,,요시키,거짓마아아아아알......,,,良樹,騙人的吧啊啊啊……, ,,1,38,23,1,0,0,0,0,0,,Translated
+637,良樹,ヒィィアアアア,うそだああぁぁ……, ,Yoshiki,EEEAAAAAAAAGGGGGGGHHHH!!,NOOOOOOOOO!!,,요시키,으아아아아아아,거짓말이야아아......,,良樹,咿啊啊啊啊,騙人的吧啊啊……,,1,39,23,1,0,0,0,0,0,,Translated
+638,良樹,もぅ……　嫌だ……, , ,Yoshiki,Please...,Just end this...,,요시키,이젠...... 싫어......,,,良樹,已經……受夠了……, ,,1,40,23,1,0,0,0,0,0,,Translated
+639,良樹,なんだよ……　何なんだよ……！, , ,Yoshiki,Why is this happening?,What's the point of it all?!,,요시키,뭐야...... 뭐냐고......!,,,良樹,什麼啊……到底是怎麼回事……！, ,,1,41,23,1,0,0,0,0,0,,Translated
+640,良樹,なんでこんな目に、遭わなきゃいけねぇんだ！, , ,Yoshiki,Why the hell do we have to be put through all this?!,,,요시키,왜 이런 꼴을 당해야 하는데!,,,良樹,為什麼非得遭遇這種事！, ,,1,42,23,1,0,0,0,0,0,,Translated
+641,良樹,なんでお前の死に顔なんか、見なきゃいけねぇんだよ！, , ,Yoshiki,Why... Why did you have to die?!,,,요시키,왜 너의 죽은 얼굴을 봐야만 하냐고!,,,良樹,為什麼非得看你的死相！, ,,1,43,23,1,0,0,0,0,0,,Translated
+642,良樹,ふざけんなよ！！　うゥ……篠崎ぃ……, , ,Yoshiki,Is this someone's idea of a joke?!,...Ouuuaaaaagggh... Shinozaki...,,요시키,장난치지 마!! 으으...... 시노자키......,,,良樹,開什麼玩笑！！　嗚……篠崎……, ,,1,44,23,1,0,0,0,0,0,,Translated
+643,良樹,お前の……そんな姿……見るくらいなら……, , ,Yoshiki,Why do I...have to see you like this...?,,,요시키,너의...... 그런 모습을...... 볼 바에야......,,,良樹,與其……看你那副模樣……, ,,1,45,23,1,0,0,0,0,0,,Translated
+644,良樹,俺が代わりに……死ねば良かったんだ……ッ！, , ,Yoshiki,Why couldn't it...have been me instead?!,,,요시키,내가 대신...... 죽는 게 나은데......!,,,良樹,還不如……讓我代替你去死……！, ,,1,46,23,1,1,0,0,0,0,,Translated
+645,良樹,……ッ……！, , ,Yoshiki,Glgh...,,,요시키,윽......!,,,良樹,……！, ,,1,47,23,1,0,0,0,0,0,,Translated
+646,,          ,　……ズルリ, ,, ,*shnick*,,,  ...... 주륵,,,,          ,　……唰,,0,0,0,0,0,0,0,0,0,,Translated
+647,良樹,ごぼッ……　グブッ, , ,Yoshiki,*gurgle* *retch*,,,요시키,쿠헉......  크윽,,,良樹,咕噗……　咕嗚, ,,1,48,23,1,0,0,0,0,0,,Translated
+648,良樹,（く……そォ……！）, , ,Yoshiki,(God...dammit...),,,요시키,(젠...... 장......!),,,良樹,（混……帳……！）, ,,1,49,23,1,0,0,0,0,0,,Translated
+649,良樹,……かッ……, , ,Yoshiki,*splutter*,,,요시키,컥......,,,良樹,……咳……, ,,1,50,23,1,0,0,0,0,0,,Translated
+650,,　何とかして渡れそうな気もしますが……, , ,,"The gap seems narrow enough to be crossable, but not",without some assistance.,,,어떻게든 지나갈 수는 있을 것 같지만......,,,,感覺好像勉強可以過去……, ,,0,0,0,0,0,0,0,0,0,,Translated
+651,良樹,……なんだ？　玄関に入れねぇ……, , ,Yoshiki,What the...?! I can't get in!,,,요시키,...... 뭐야?  현관을 못 지나가겠어......,,,良樹,……什麼？進不了玄關……, ,,1,34,23,1,0,0,0,0,0,,Translated
+652,良樹,……なんだ？　玄関に入れねぇ……, , ,Yoshiki,What the...?! I can't get in!,,,요시키,...... 뭐야?  현관을 못 지나가겠어......,,,良樹,……什麼？進不了玄關……, ,,1,34,23,1,0,0,0,0,0,,Translated
+653,良樹,……なんだ？　玄関に入れねぇ……, , ,Yoshiki,What the...?! I can't get in!,,,요시키,...... 뭐야?  현관을 못 지나가겠어......,,,良樹,……什麼？進不了玄關……, ,,1,34,23,1,0,0,0,0,0,,Translated
+654,,　こころを正気に保て,　生きている仲間は, ,,Living friends who are able to retain their sanity and,reason...,,,마음을 굳게 먹어라,살아남은 동료는,,,保持清醒的頭腦,還活著的同伴是, ,0,0,0,0,0,0,0,0,0,,Translated
+655,,　最後の希望の灯火だ, , ,,...will be your final ray of hope...,,,,마지막 희망의 등불이다,,,,最後的希望之光, ,,0,0,0,0,0,0,0,0,0,,Translated
+656,良樹,な、何だ！？, , ,Yoshiki,Wh-What the...?!,,,요시키,"뭐, 뭐야!?",,,良樹,什、什麼！？, ,,1,25,23,1,0,0,0,0,0,,Translated
+657,,　パワーストーン　が砕け散りました。, , ,,The Power Stone in Yoshiki's pocket suddenly and,spontaneously shattered.,,,파워 스톤이 깨졌습니다.,,,,【能量石】碎裂四散。, ,,0,0,0,0,0,0,0,0,0,,Translated
+658,良樹,（何か今……結衣センセーの,　声が聞こえたような……）, ,Yoshiki,(I think...I just heard Ms. Yui's voice...),,,요시키,(왠지 방금...... 유이 선생님,목소리가 들린 것 같은데......),,良樹,（剛才好像……聽到了結衣老師的,　聲音……）,,1,26,23,1,0,0,0,0,0,,Translated
+659,良樹,（守って……くれたのか？,　ひょっとして……）, ,Yoshiki,"('Did I save you?', she said. But...it couldn't",be...could it...?),,요시키,(지켜...... 준 건가?,혹시나......),,良樹,（守護了……我嗎？,　難道說……）,,1,27,23,1,0,0,0,0,0,,Translated
+660,＊,……ひ……っひょ゛に゛,ぎ……て, ,*,Chhlme...wifff...mhee...,,,＊,...... 따...... 따라,와......,,＊,……跟……跟　來……, ,,1,61,14,1,0,0,0,0,0,,Translated
+661,,　大きさから判断すると中高生の遺体のようです。,　……よく見ると名札があります。, ,,"Judging by size, these appear to be the remains",of a junior or senior high school student. Closer,inspection reveals a school ID name tag.,,크기로 짐작건대 중고등학생의 유해 같습니다.,잘 보니 명찰이 있습니다.,,,從大小判斷，似乎是中學生的遺體……,　仔細看有名牌。,,0,0,0,0,0,0,0,0,0,,Translated
+662,,　キ……ザ……ミ, , ,,Ki...za...mi...,,,,키...... 자...... 미,,,,　木……村……, ,,0,19,14,1,1,0,0,0,0,,Translated
+663,良樹,……？　なんだ、今の……, , ,Yoshiki,...? Did you just hear...?,,,요시키,"......? 뭐야, 방금......",,,良樹,……？剛才那是……, ,,1,60,23,1,0,0,0,0,0,,Translated
+664,あゆみ,はやく……行こう。, , ,Ayumi,We have...to get away from here.,,,아유미,얼른...... 가자.,,,あゆみ,快點……走吧。, ,,1,132,0,1,0,0,0,0,0,,Translated
+665,良樹,お、おう……, , ,Yoshiki,O-Okay...,,,요시키,"어, 응......",,,良樹,喔、喔……, ,,1,61,23,1,0,0,0,0,0,,Translated
+666,,扉は開きません。, , ,,It won't open.,,,,문이 열리지 않습니다.,,,,門打不開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+667,,扉は模型のようにガチリと固定されており、,開ける事が出来ません。, ,,The door seems affixed to the wall like a model.,It can't be opened.,,,문은 모형처럼 딱 고정되어,열 수 없습니다.,,,門像模型一樣固定住，無法打開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+668,,扉は開きません。, , ,,It won't open.,,,,문이 열리지 않습니다.,,,,門打不開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+669,,　大きさから判断すると中高生の遺体のようです。,　……よく見ると名札があります。, ,,"Judging by size, these appear to be the remains",of a junior or senior high school student. Closer,inspection reveals a school ID name tag.,,크기로 짐작건대 중고등학생의 유해 같습니다.,잘 보니 명찰이 있습니다.,,,從大小判斷，似乎是中學生的遺體……,　仔細看有名牌。,,0,0,0,0,0,0,0,0,0,,Translated
+670,,　キ……ザ……ミ, , ,,Ki...za...mi...,,,,키...... 자...... 미,,,,　木……村……, ,,0,19,14,1,0,0,0,0,0,,Translated
+671,良樹,……？　なんだ、今の……, , ,Yoshiki,...? Did you just hear...?,,,요시키,"......? 뭐야, 방금......",,,良樹,……？剛才那是……, ,,1,60,23,1,0,0,0,0,0,,Translated
+672,あゆみ,はやく……行こう。, , ,Ayumi,We have...to get away from here.,,,아유미,얼른...... 가자.,,,あゆみ,快點……走吧。, ,,1,132,0,1,0,0,0,0,0,,Translated
+673,良樹,お、おう……, , ,Yoshiki,O-Okay...,,,요시키,"어, 응......",,,良樹,喔、喔……, ,,1,61,23,1,0,0,0,0,0,,Translated
+674,,　大きさから判断すると中高生の遺体のようです。,　……よく見ると名札があります。, ,,"Judging by size, these appear to be the remains",of a junior or senior high school student. Closer,inspection reveals a school ID name tag.,,크기로 짐작건대 중고등학생의 유해 같습니다.,잘 보니 명찰이 있습니다.,,,從大小判斷，似乎是中學生的遺體……,　仔細看有名牌。,,0,0,0,0,0,0,0,0,0,,Translated
+675,,　キ……ザ……ミ, , ,,Ki...za...mi...,,,,키...... 자...... 미,,,,　木……村……, ,,0,19,14,1,0,0,0,0,0,,Translated
+676,良樹,……？　なんだ、今の……, , ,Yoshiki,...? Did you just hear...?,,,요시키,"......? 뭐야, 방금......",,,良樹,……？剛才那是……, ,,1,60,23,1,0,0,0,0,0,,Translated
+677,あゆみ,はやく……行こう。, , ,Ayumi,We have...to get away from here.,,,아유미,얼른...... 가자.,,,あゆみ,快點……走吧。, ,,1,132,0,1,0,0,0,0,0,,Translated
+678,良樹,お、おう……, , ,Yoshiki,O-Okay...,,,요시키,"어, 응......",,,良樹,喔、喔……, ,,1,61,23,1,0,0,0,0,0,,Translated
+679,,　大きさから判断すると中高生の遺体のようです。,　……よく見ると名札があります。, ,,"Judging by size, these appear to be the remains",of a junior or senior high school student. Closer,inspection reveals a school ID name tag.,,크기로 짐작건대 중고등학생의 유해 같습니다.,잘 보니 명찰이 있습니다.,,,從大小判斷，似乎是中學生的遺體……,　仔細看有名牌。,,0,0,0,0,0,0,0,0,0,,Translated
+680,,【用務員室】,　扉は鍵がかかっていて、開ける事が出来ません。, ,,[Custodian's Closet],The door is locked.,,,【수위실】,문이 잠겨 있어서 열 수 없습니다.,,,【校工室】,　門鎖著，無法打開。,,0,0,0,0,0,0,0,0,0,,Translated
+681,,　……部屋の中から、つけっ放しにされた,　ＴＶのノイズ音が聞こえます……, ,,"There's an erratic noise, like that of TV static,",coming from within.,,,...... 방 안에 틀어 둔,TV의 소음이 들려옵니다......,,,　……房間裡傳來電視沒關的雜訊聲……, ,,0,0,0,0,0,0,0,0,0,,Translated
+682,,【地下室】,　扉は釘で打ちつけてあり、,　開きそうにありません。,,[basement],"The door has been nailed shut, ",and is unlikely to be opened.,,【지하】 , 문은 못으로 박고 있고 , 엽니 것 같지는 않습니다.,,【地下室】,　門被釘子釘住了，,　打不開。,0,0,0,1,0,0,0,0,0,,Translated
+683,,“何人も立ち入りを禁ず”,　　　　　【天神小学校校長：柳堀隆峰】 , ,,“Do not allow any person to enter.”," [Takamine Yanagibori, ",Principal of Tenjin Elementary School]. ,,“누구든지 출입을 금한다”,【텐진 초등학교 교장】 ,,,“禁止任何人進入”,　　　　　【天神小學校校長：柳堀隆峰】, ,0,0,0,1,0,0,0,0,0,,Translated
+684,良樹,うぁっ！, , ,Yoshiki,Gyeh!,,,요시키,우왓!,,,良樹,哇！, ,,1,56,23,1,0,0,0,0,0,,Translated
+685,あゆみ,きゃっ！, , ,Ayumi,Eek!,,,아유미,꺅!,,,あゆみ,呀！, ,,1,127,0,1,0,0,0,0,0,,Translated
+686,あゆみ,きゃっ！, , ,Ayumi,Eek!,,,아유미,꺅!,,,あゆみ,呀！, ,,1,127,0,1,0,0,0,0,0,,Translated
+687,,　崩壊した精神の残り滓……呪われた,　文（ふみ）は、正しい順番で読み進めなければ,　その姿を現さない,,The cursed writings left behind by those who lost,all reason must be read in the proper order. If one,"part is skipped, the next will never appear.",,붕괴한 정신의 남은 찌꺼기...... 저주받은,문장은 올바른 순서대로 읽지 않으면,그 모습을 드러내지 않는다,,崩壞精神的殘渣……被詛咒的,文字必須按正確順序閱讀，,否則不會顯現其形態。,0,0,0,0,0,0,0,0,0,,Translated
+688,,　願わくば、貴方の精神が,　健やかでありますように, ,,"If you insist upon reading such dangerous words,","too, I pray you have a strong will and a sturdy",mind...,,바라건대 당신의 정신이,온전하길,,,願你的精神,能夠保持健全。, ,0,0,0,0,0,0,0,0,0,,Translated
+689,,　犠牲者の手記（１／５）, , ,,[Victim's Memoirs],(1／5),,,희생자의 수기 (1/5),,,,犧牲者的手記（１／５）, ,,0,0,0,0,0,0,0,0,0,,Translated
+690,,　ぼくは今日ともだちを,　たべた, ,,I ate my friend today.,,,,나는 오늘 친구를,먹었다,,,我今天吃了朋友。, ,,0,0,0,0,0,0,0,0,0,,Translated
+691,,　お腹が空いたんだから,　仕方がない, ,,What else was I supposed to do?,I was starving.,,,배가 고파서,견딜 수가 없다,,,因為肚子餓了，,沒辦法。, ,0,0,0,0,0,0,0,0,0,,Translated
+692,,　こうなった以上は,　どちらかでもいきのびて, ,,We both were. And there's no food here.,"So we decided, together, that one of us should try",to live just a little bit longer.,,이렇게 된 이상,누구든 살아남아서,,,既然變成這樣，,至少要讓其中一個活下去，, ,0,0,0,0,0,0,0,0,0,,Translated
+693,,　ぼくらの帰りを待つ,　人たちに報告をしたほうが,　いい,,"If I ever get home, I'm supposed to tell all the",people waiting for us what happened.,,,우리가 돌아오길 기다리는,사람들에게 보고를 하는 게,낫다,,向等待我們回去的人,報告比較好。, ,0,0,0,0,0,0,0,0,0,,Translated
+694,,　僕らはジャンケンで、,　負けた方が 相手を食べる,　ことにきめた,,We left it all up to a game of paper-scissors-rock.,Loser eats winner.,,,우린 가위바위보를 해서,진 쪽이 상대를,먹기로 했다,,我們用猜拳決定，,輸的人吃對方。, ,0,0,0,0,0,0,0,0,0,,Translated
+695,,　僕はまけてしまった, , ,,And I lost.,,,,난 지고 말았다,,,,我輸了。, ,,0,0,0,0,0,0,0,0,0,,Translated
+696,,　血でのどの渇きを潤わせる,　肉で命をながらえる, ,,"I felt her blood going down my throat, quenching my",thirst. And her meat was supple and satisfying.,,,피로 목의 갈증을 채운다,고기로 목숨을 연명한다,,,用血滋潤喉嚨的乾渴，,用肉延續生命。, ,0,0,0,0,0,0,0,0,0,,Translated
+697,,　この血も肉も,　さっきまで話してたあいつ,　の,,But that blood and that meat was once my friend.,"Up until just a few hours before, I'd been talking",with her.,,이 피도 고기도,조금 전까지 말을 하던,그 녀석의,,這些血和肉，,是剛才還在說話的那傢伙,的,0,0,0,0,0,0,0,0,0,,Translated
+698,,　命を繋いでいた,　中身なんだと思ったら, ,,"As I feasted, I just kept thinking, this food used","to be a person. Before I tore it apart, it all",worked together to sustain a life.,,목숨을 부지하던,내장이라고 생각하면,,,一想到那是曾經維繫生命的,內臟，, ,0,0,0,0,0,0,0,0,0,,Translated
+699,,　どうしようもなく涙が,　とまらない, ,,"And every time I thought about that, I just started",crying...and I couldn't stop.,,,하염없이 눈물이,나온다,,,眼淚就止不住地,流了下來。, ,0,0,0,0,0,0,0,0,0,,Translated
+700,,　死んでも一緒にいたいから,　俺はあいつの目玉を持って,　ゆく事にした,,I wanted some part of her to be with me even after,"she died, so I decided to keep one of her eyeballs.",,,죽어도 함께 있고 싶어서,난 그 녀석의 눈알을 가지고,가기로 했다,,因為死也想在一起，,我決定帶走那傢伙的眼球。, ,0,0,0,0,0,0,0,0,0,,Translated
+701,,　正気を保っていられる　　,　ように、ぼくは出来るだけ,　手記を残そうと思う,,"And I thought maybe I should write all of this down,",to help preserve some small portion of my sanity.,,,제정신을 유지할 수 있도록,나는 가능한 한,수기를 남기고자 한다,,為了保持清醒，,我決定盡可能,留下手記。,0,0,0,0,0,0,0,0,0,,Translated
+702,,　中学生くらいの大きさの、人の亡骸があります。, , ,,"There are decaying skeletal remains here, about the",size of a middle school student.,,,중학생 정도 되는 사람의 유해가 있습니다.,,,,有一具大約中學生大小的人類遺骸。, ,,0,0,0,0,0,0,0,0,0,,Translated
+703,,　白骨化する途中段階のようで、,　強烈な腐臭を放っています……, ,,They're in the process of slowly drying and,"whitening, creating an almost overpowering",stench throughout the hallway.,,백골화되는 중인 듯,강렬한 썩은 내를 풍기고 있습니다......,,,似乎正在白骨化，,散發出強烈的腐臭味……, ,0,0,0,0,0,0,0,0,0,,Translated
+704,,　服は着せられておらず、性別は判別できません。, , ,,Any clothing the deceased had been wearing is long,"gone, so there are no means of readily identifying",gender on sight.,,옷을 입지 않아 성별을 판별할 수 없습니다.,,,,沒有穿衣服，無法辨別性別。, ,,0,0,0,0,0,0,0,0,0,,Translated
+705,,　よく見ると名札があります……, , ,,"Fortunately, there's a student ID name tag next to",the body.,,,잘 보니 명찰이 있습니다.,,,,仔細一看有名牌……, ,,0,0,0,0,0,0,0,0,0,,Translated
+706,,扉は模型のようにガチリと固定されており、,開ける事が出来ません。, ,,The door seems affixed to the wall like a model.,It can't be opened.,,,문은 모형처럼 딱 고정되어,열 수 없습니다.,,,門像模型一樣固定住，無法打開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+707,,　古びたバケツの中には、得体の知れない,　黄色い液体が入っています……, ,,"There's a strange, yellow fluid congealing inside",the rusted bucket.,,,낡은 양동이 안에는 정체 모를,노란 액체가 들어 있습니다......,,,破舊的水桶裡裝著來路不明的黃色液體……, ,,0,0,0,0,0,0,0,0,0,,Translated
+708,,　犠牲者の手記（５／５）, ,,,[Victim's Memoirs],(5／5),,,희생자의 수기 (5/5),,,,犧牲者的手記（５／５）, ,,0,0,0,0,0,0,0,0,0,,Translated
+709,,読む,読まない,,,Read it,Don't read it,,,읽는다,읽지 않는다,,,讀,不讀,,0,255,255,255,255,255,255,255,255,,Translated
+710,良樹,な、何だ！？, , ,Yoshiki,Wh-What the...?!,,,요시키,"뭐, 뭐야!?",,,良樹,什、什麼！？, ,,1,184,23,1,0,0,0,0,0,,Translated
+711,,　パワーストーン　が砕け散りました。, , ,,The Power Stone in Yoshiki's pocket suddenly and,spontaneously shattered.,,,파워 스톤이 깨졌습니다.,,,,【能量石】碎裂四散。, ,,0,0,0,0,0,0,0,0,0,,Translated
+712,良樹,（何か今……結衣センセーの,　声が聞こえたような……）, ,Yoshiki,(I think...I just heard Ms. Yui's voice...),,,요시키,(왠지 방금...... 유이 선생님,목소리가 들린 것 같은데......),,良樹,（剛才好像……聽到了結衣老師的,　聲音……）,,1,185,23,1,0,0,0,0,0,,Translated
+713,良樹,（……読むな、ってことか？ ,　ひょっとして……。）, ,Yoshiki,"('Don't read it,' she said. But...it couldn't",be...could it...?),,요시키,"(...... 읽지 마, 란 건가?",혹시나......),,良樹,（……是叫你不要讀嗎？,　難道說……。）,,1,186,23,1,0,0,0,0,0,,Translated
+714,,　……これを読んでいる人がいれば, , ,,if you are reading this,,,,...... 이걸 읽고 있는 사람이 있다면,,,,　……如果有人正在讀這個, ,,0,0,0,0,0,0,0,0,0,,Translated
+715,,　……忠告しておこう, , ,,allow me to forewarn you,,,,...... 충고하지,,,,　……就讓我警告你吧, ,,0,0,0,0,0,0,0,0,0,,Translated
+716,,　……救いなど来ない, , ,,there is no hope of rescue,,,,...... 구원은 오지 않아,,,,　……不會有救援到來, ,,0,0,0,0,0,0,0,0,0,,Translated
+717,,　……何も与えられはしない, , ,,there is nothing to be gained,,,,...... 아무것도 주어지지 않아,,,,　……不會獲得任何東西, ,,0,0,0,0,0,0,0,0,0,,Translated
+718,,　……無限に続く無為,　永久に続く拷問, ,,endless wandering and endless torture,,,,...... 무한히 이어지는 무위,영원히 이어지는 고문,,,　……無限的徒勞,　永遠的拷問, ,0,0,0,0,0,0,0,0,0,,Translated
+719,,　……ここの正体はそんな所だ, , ,,is the nature of this place,,,,...... 여기 정체는 그런 곳이야,,,,　……這就是這裡的真面目, ,,0,0,0,0,0,0,0,0,0,,Translated
+720,,　……空腹と渇きが,　抑えられなくなった,　俺は,,i succumbed to my hunger and thirst,,,,...... 공복과 갈증을,참을 수 없게 된,나는,,　……再也無法忍受飢餓和乾渴,　的我，, ,0,0,0,0,0,0,0,0,0,,Translated
+721,,　……またアイツの遺体に,　むしゃぶりついた, ,,began nibbling on that corpse again,,,,...... 또 그 녀석의 유해를,물어 뜯었다,,,　……又撲向那傢伙的遺體, ,,0,0,0,0,0,0,0,0,0,,Translated
+722,,　……舌の感覚など,　とっくにない, ,,"there is no flavor, no sensation",,,,...... 혀의 감각은,이미 없다,,,　……舌頭的感覺早已消失, ,,0,0,0,0,0,0,0,0,0,,Translated
+723,,　……ただ肉と水分を胃に,　詰め込んでいるだけ, ,,just meat and fluid to sate my empty belly,,,,...... 그저 고기와 수분을 위에,밀어 넣고 있을 뿐,,,　……只是在把肉和水,　塞進胃裡, ,0,0,0,0,0,0,0,0,0,,Translated
+724,,　……二度とお前の体を,　刻まないと誓ったのに, ,,i promised i would not desecrate your body any more,        but i broke that promise,,,...... 두 번 다시 네 몸을,자르지 않겠다고 맹세했는데,,,　……明明發誓不再切割你的身體了, ,,0,0,0,0,0,0,0,0,0,,Translated
+725,,　……許してくれ, , ,,please,,,,...... 용서해 줘,,,,　……原諒我, ,,0,0,0,0,0,0,0,0,0,,Translated
+726,,　……許してくれよな, , ,,forgive me,,,,...... 용서해 줄 거지,,,,　……原諒我吧, ,,0,0,0,0,0,0,0,0,0,,Translated
+727,,　―　篠崎, , ,,Shinozaki.,,,,  ―  시노자키,,,,　―　篠崎, ,,0,148,23,1,0,0,0,0,0,,Translated
+728,良樹,……！？　う……うわあぁ！！, , ,Yoshiki,...Wh... No...,Hrnngh?!,,요시키,......!? 우...... 우와아아!!,,,良樹,……！？　嗚……哇啊！！, ,,1,187,23,1,0,0,0,0,0,,Translated
+729,良樹,何だよ、こ……！（モゴッ）, , ,Yoshiki,What did... *choke* *sputter*,,,요시키,"뭐야, 이......! (모글)",,,良樹,什麼啊，這……！（唔）, ,,1,188,23,1,0,0,0,0,0,,Translated
+730,良樹,うあッ　ペッ、ペッ！, , ,Yoshiki,*gag* *spit*,,,요시키,"우악, 퉤, 퉤!",,,良樹,哇　呸、呸！, ,,1,189,23,1,0,0,0,0,0,,Translated
+731,良樹,な、何だよ……！　何、口に入れて……, , ,Yoshiki,What the hell...was in my mouth...?,,,요시키,"뭐, 뭐야......! 뭘 입에 넣는......",,,良樹,什、什麼啊……！什麼東西放進嘴裡……, ,,1,190,23,1,0,0,0,0,0,,Translated
+732,良樹,！？　……血の味……ってお前……　あぁ！？, , ,Yoshiki,...Tastes like...blood...,But... AHHH?!,,요시키,!? 피 맛...... 아니 너...... 아아!?,,,良樹,！？　……血腥味……你這傢伙……　啊！？, ,,1,191,23,1,0,0,0,0,0,,Translated
+733,良樹,う！　……ァ　これ……, , ,Yoshiki,...No... It can't be...,,,요시키,으! ...... 아  이건......,,,良樹,呃！　……啊　這是……, ,,1,192,23,1,0,0,0,0,0,,Translated
+734,良樹,篠崎！　……篠崎……？, , ,Yoshiki,Shinozaki! Shinozaki...!,,,요시키,시노자키! ...... 시노자키......?,,,良樹,篠崎！……篠崎……？, ,,1,193,23,1,0,0,0,0,0,,Translated
+735,良樹,こ……篠崎じゃねぇか……！,うあぁ！！　なんで！？, ,Yoshiki,This is...definitely her...but WHY?!,,,요시키,이...... 시노자키 아냐......!,우아아!! 어째서!?,,良樹,這……是篠崎……！,哇啊！！為什麼！？,,1,194,23,1,0,0,0,0,0,,Translated
+736,良樹,誰がこんな事！　うあ……ああぁ！, , ,Yoshiki,Who the hell did this to you?! Agh!!,,,요시키,누가 이런 짓을! 우아...... 아아아!,,,良樹,誰做的！　嗚……啊啊！, ,,1,195,23,1,0,0,0,0,0,,Translated
+737,良樹,く……！　ううぅ　誰だ……！,許さねぇぞ……！　ゆるさ……, ,Yoshiki,Rgh... Who was it?! ...I'll make them pay...,,,요시키,크......! 으으으  누구야......!,용서 못해......! 용서 못......,,良樹,咳……！　嗚嗚　是誰……！,不可原諒……！不可原……,,1,196,23,1,0,0,0,0,0,,Translated
+738,良樹,……？, , ,Yoshiki,...?,,,요시키,......?,,,良樹,……？, ,,1,197,23,1,0,0,0,0,0,,Translated
+739,良樹,……, , ,Yoshiki,...,,,요시키,......,,,良樹,……, ,,1,198,23,1,0,0,0,0,0,,Translated
+740,,【しのざきのいしょ】, , ,,[Shinozaki's Testament],,,,【시노자키의 유서】,,,,【篠崎的遺書】, ,,0,0,0,0,0,0,0,0,0,,Translated
+741,,　……壁の張り紙を破り取ったと思われる、,　酸化して茶色くなった用紙に……, ,,"It's a yellowed school flyer, presumably taken off",the wall somewhere along the way.,,,......벽에 붙은 종이를 찢은 것으로 여겨지는,산화되어 변색된 용지에......,,,　……一張疑似從牆上撕下、,　氧化變黃的紙上……, ,0,0,0,0,0,0,0,0,0,,Translated
+742,,　ペンを使って、乱れた文字が書き殴ってあります。, , ,,A short message has been hastily scribbled in pen,on the reverse side.,,,펜으로 휘갈겨 쓴 글씨가 적혀 있습니다.,,,,　用筆潦草地寫著凌亂的文字。, ,,0,0,0,0,0,0,0,0,0,,Translated
+743,, ,　……死にたくない　死にたくない, ,, ,I don't want to die... I don't want to die...,,,...... 죽기 싫어   죽고 싶지 않아,,,, ,　……不想死　不想死, ,0,235,0,1,1,0,0,0,0,,Translated
+744,, ,　……殺される　食べられる, ,, ,I'm going to be killed... I'm going to be eaten...,,,...... 살해당할 거야   잡아먹힐 거야,,,, ,　……會被殺　會被吃, ,0,236,0,1,1,0,0,0,0,,Translated
+745,, ,　あいつが追いかけてくる,　もうすぐきっと捕まる,, ,He's chasing me... And I can't keep running...,,,그 자식이 쫓아오고 있어,곧 붙잡힐 거야,,, ,　那傢伙在追我,　很快一定會被抓到,0,237,0,1,1,0,0,0,0,,Translated
+746,, ,　……この遺書を読む人がいたら、, ,, ,If anyone should find this paper...,,,...... 이 유서를 본 사람은,,,, ,　……如果有人讀到這封遺書，, ,0,238,0,1,1,0,0,0,0,,Translated
+747,良樹,ハァッ、 ハァッ……, , ,Yoshiki,*deep breathing*,,,요시키,"하악, 하악......",,,良樹,哈啊、　哈啊……, ,,1,199,23,1,0,0,0,0,0,,Translated
+748,, ,　……あいつを、裁いて下さい,  ,, ,...I urge you... Bring him to justice...,,,...... 그 자식을 꼭 처단해주세요,,,, ,　……請制裁那傢伙,  ,0,239,0,1,1,0,0,0,0,,Translated
+749,良樹,っハァーッ、 ハァーッ……, , ,Yoshiki,*gasp* *whimper*,,,요시키,하아악~ 하아악~,,,良樹,哈啊──、　哈啊──……, ,,1,200,23,1,0,0,0,0,0,,Translated
+750,, ,　……私を殺して食べたのは, ,, ,The one who killed me for sustenance...,,,...... 저를 죽이고 잡아먹은 사람은,,,, ,　……殺了我吃掉我的人, ,0,240,0,1,1,0,0,0,0,,Translated
+751,良樹,ハァーッ！　 ハァーッ！,（ガタガタガタ）, ,Yoshiki,*whimper* *gasp* *chatter*,,,요시키,하악~! 하악~!,(덜덜덜),,良樹,哈啊──！　哈啊──！,（喀喀喀喀）,,1,201,23,1,0,0,0,0,0,,Translated
+752,, ,　……クラスメートの……, ,, ,...My classmate...,,,...... 같은 반의......,,,, ,　……是同班同學的……, ,0,0,0,1,0,0,0,6,0,,Translated
+753,, ,　岸沼です, ,, ,...Kishinuma...,,,키시누마입니다,,,, ,　岸沼, ,0,0,0,1,0,0,0,0,0,,Translated
+754,良樹,……くああああぁぁぁ！！！, , ,Yoshiki,...Ulp...,YEEEEEEAAAARRRRRGGGGHH!!,,요시키,...... 크아아아아아아!!!,,,良樹,……啊啊啊啊啊！！！, ,,1,202,23,1,0,0,0,0,0,,Translated
+755,良樹,ああああぁぁぁーー！！, , ,Yoshiki,AAAAAAAAAAAAAGGGGHHH!!,,,요시키,아아아아아아아~~!!,,,良樹,啊啊啊啊──！！, ,,1,203,23,1,0,0,0,0,0,,Translated
+756,良樹,あァァああぁぁーー！！, , ,Yoshiki,Aaaaaaooooooooouuuuuuuggghhh...,,,요시키,아아아아아아아~~!!,,,良樹,啊啊啊啊──！！, ,,1,204,23,1,0,0,0,0,0,,Translated
+757,,　……ムシャリ。, , ,,*crunch* *nibble*,,,,...... 덥석.,,,,　……喀嚓。, ,,0,0,0,1,0,0,0,0,0,,Translated
+758,,　モグモグ……　プキュッ、バクッ, , ,,*craaaack* *splutter*,,,,우물우물......    꿀꺽,,,,咀嚼咀嚼……　噗滋、大口咬下, ,,0,0,0,0,0,0,0,0,0,,Translated
+759,良樹,あぁあぁあぁあぁ～, , ,Yoshiki,Aaahh...aaaahh...oooaaaahh...oooaaaaauuugghh...,,,요시키,아아아아아아아아~,,,良樹,啊啊啊啊啊～, ,,1,205,23,1,0,0,0,0,0,,Translated
+760,,【２のＡ】,　扉は模型のようにガチリと固定されており、,　開ける事が出来ません。,,[Classroom 2-A],The door seems affixed to the wall like a model.,It can't be opened.,,【2-A】,문은 모형처럼 딱 고정되어,열 수 없습니다.,,【２年Ａ班】,　門像模型一樣固定住，無法打開。,,0,0,0,0,0,0,0,0,0,,Translated
+761,,　はやまるな！,　お父さん、お母さんの顔を思い出してみよう, ,,Don't do anything you'll regret! Think of your,mother and your father. Remember their faces.,,,서두르지 마!,"아빠, 엄마의 얼굴을 생각해 보자",,,　別急！,　想想爸爸和媽媽的臉吧。,,0,0,0,0,0,0,0,0,0,,Translated
+762,,　大事にしよう,　一個しかないいのち, ,,You have only one life to live. Make it count.,,,,소중히 하자,하나밖에 없는 목숨,,,　要珍惜,　只有一條的生命。,,0,0,0,0,0,0,0,0,0,,Translated
+763,,　ただひとつの　いのち, , ,,Do not waste the precious gift of existence.,,,,단 하나의 목숨,,,,　獨一無二的　生命。, ,,0,0,0,0,0,0,0,0,0,,Translated
+764,あゆみ,なんでこんな張り紙があるのよ……, , ,Ayumi,Why would they need a flyer for this...?,,,아유미,왜 이런 종이가 붙어 있는 거야......,,,あゆみ,為什麼會有這種標語……, ,,1,83,0,1,0,0,0,0,0,,Translated
+765,良樹,冗談じゃねー……　誰が自殺なんかするかよ。, , ,Yoshiki,"Yeah, seriously. Who's gonna kill themselves in",here?! I'd rather find my way OUT!,,요시키,농담은 무슨......  누가 자살을 한다고.,,,良樹,開什麼玩笑……誰會在這裡自殺啊。, ,,1,234,22,1,0,0,0,0,0,,Translated
+766,,　はやまるな！,　お父さん、お母さんの顔を思い出してみよう, ,,Don't do anything you'll regret! Think of your,mother and your father. Remember their faces.,,,서두르지 마!,"아빠, 엄마의 얼굴을 생각해 보자",,,　別急！,　想想爸爸和媽媽的臉吧。,,0,0,0,0,0,0,0,0,0,,Translated
+767,,　大事にしよう,　一個しかないいのち, ,,You have only one life to live. Make it count.,,,,소중히 하자,하나밖에 없는 목숨,,,　要珍惜,　只有一條的生命。,,0,0,0,0,0,0,0,0,0,,Translated
+768,,　ただひとつの　いのち, , ,,Do not waste the precious gift of existence.,,,,단 하나의 목숨,,,,　獨一無二的　生命。, ,,0,0,0,0,0,0,0,0,0,,Translated
+769,良樹,なんだ？　休むか？, , ,Yoshiki,What's wrong? You need to stop for a minute?,,,요시키,뭐야? 쉬려고?,,,良樹,怎麼了？要休息嗎？, ,,1,58,23,1,0,0,0,0,0,,Translated
+770,あゆみ,ううん。……ここにも、ロウソク……置いとくの。, , ,Ayumi,No... I just thought this seemed like a good spot,for another candle.,,아유미,아니. 여기에도 양초를...... 두려고.,,,あゆみ,不。……這裡也，放根蠟燭……, ,,1,129,0,1,0,0,0,0,0,,Translated
+771,あゆみ,いいでしょ？, , ,Ayumi,"No objections, I assume?",,,아유미,괜찮지?,,,あゆみ,可以吧？, ,,1,130,0,1,0,0,0,0,0,,Translated
+772,良樹,ああ……。, , ,Yoshiki,Go ahead.,,,요시키,어......,,,良樹,嗯……。, ,,1,59,23,1,0,0,0,0,0,,Translated
+773,あゆみ,……。, , ,Ayumi,...,,,아유미,......,,,あゆみ,……。, ,,1,131,0,1,0,0,0,0,0,,Translated
+774,,【２のＡ】,　扉は模型のようにガチリと固定されており、,　開ける事が出来ません。,,[Classroom 2-A],The door seems affixed to the wall like a model.,It can't be opened.,,【2-A】,문은 모형처럼 딱 고정되어,열 수 없습니다.,,【２年Ａ班】,　門像模型一樣固定住，無法打開。,,0,0,0,0,0,0,0,0,0,,Translated
+775,あゆみ,（ガチガチガチ……）,　寒気が……取れない……, ,Ayumi,*chatter*,I'm so cold... I feel like I'm freezing...,,아유미,(덜덜덜......),한기가...... 가시질 않아......,,あゆみ,（喀喀喀喀……）,　寒意……止不住……,,1,207,0,1,0,0,0,0,0,,Translated
+776,良樹,触ることが出来ないんじゃ、,引っぱり出す事も出来ねぇ。, ,Yoshiki,"We can't even touch her, much less get her down...",,,요시키,만질 수 없으면,꺼내는 것도 불가능해.,,良樹,碰不到的話，,也沒辦法拉她下來。,,1,151,23,1,0,0,0,0,0,,Translated
+777,良樹,……どうすりゃいいんだ。, , ,Yoshiki,So what the hell DO we do...?,,,요시키,어쩌면 좋냐.,,,良樹,……該怎麼辦才好。, ,,1,152,23,1,0,0,0,0,0,,Translated
+778,あゆみ,なんとか……なんとかしなきゃ。, , ,Ayumi,I don't know...but we have to do something...,We have to!,,아유미,어떻게든...... 어떻게든 해야 하는데.,,,あゆみ,得想辦法……得想辦法才行。, ,,1,208,0,1,0,0,0,0,0,,Translated
+779,良樹,ってお前、鼻血出てるぞ。, , ,Yoshiki,Wh-Whoa... Your nose is bleeding.,,,요시키,"야 너, 코피 나.",,,良樹,你流鼻血了。, ,,1,153,23,1,0,0,0,0,0,,Translated
+780,あゆみ,！ （カァッ）, , ,Ayumi,What?!,,,아유미,! (화악),,,あゆみ,！（臉紅）, ,,1,209,0,1,0,0,0,0,0,,Translated
+781,あゆみ,い、言わないでよ。はっきり、そういうのは。, , ,Ayumi,D-Don't tell me that! Geez...and you're so blunt,"about it, too...",,아유미,"마, 말하지 마. 그렇게, 대놓고.",,,あゆみ,別、別說出來啊。這麼直接。, ,,1,210,0,1,0,0,0,0,0,,Translated
+782,,ゴシゴシ……　,　（チーン！　ブーッ！）, ,,*sniffle* *honk*,,,,부비적부비적......,(흐응~! 페엥~!),,,擦擦……　,（哼～！　噗～！）,,0,211,0,1,0,0,0,0,0,,Translated
+783,良樹,何だよ、教えずに放っとく方がヒデェじゃんかよ。, , ,Yoshiki,"Uhh, would you prefer I didn't say anything, and",just let it drip?,,요시키,"뭐야, 말 안 하고 가만있는 게 이상한 거지.",,,良樹,什麼啊，不說任它流不是更糟嗎。, ,,1,154,23,1,0,0,0,0,0,,Translated
+784,＊,こんにちは。, , ,*,Hello.,,,＊,안녕하세요.,,,＊,你好。, ,,1,252,8,1,0,0,0,0,0,,Translated
+785,あゆみ,？, , ,Ayumi,...?,,,아유미,?,,,あゆみ,？, ,,1,212,0,1,0,0,0,0,0,,Translated
+786,良樹,！？　う……何だ、こいつ。,目が死んだ魚みてぇだ。, ,Yoshiki,?!,Sh-She's got eyes like a dead fish...,,요시키,"!? 으...... 뭐야, 이 자식은.",눈이 죽은 생선 같아.,,良樹,！？　嗚……什麼啊這傢伙。,眼睛像死魚一樣。,,1,155,23,1,0,0,0,0,0,,Translated
+787,＊,あなた方は、此処に閉じ込められたばかり,なのですね。, ,*,"You've only just arrived at this school, have you",not?,,＊,당신은 여기에 온 지 얼마,안 됐군요.,,＊,你們才剛被困在這裡吧。, ,,1,253,8,1,0,0,0,0,0,,Translated
+788,良樹,そうだけど……アンタもか？,見た事ない制服だけど。, ,Yoshiki,That's right. Were you brought here against your,"will, too? I can't say I recognize your uniform...",,요시키,그런데...... 너도 그래?,본 적이 없는 교복인데.,,良樹,是啊……你也是嗎？,沒看過的制服呢。,,1,156,23,1,0,0,0,0,0,,Translated
+789,＊,……私は、とっくにここで死んでいます。, , ,*,"Actually, I died here quite a while ago.",,,＊,...... 저는 이미 죽었습니다.,,,＊,……我早就死在這裡了。, ,,1,254,8,1,0,0,0,0,0,,Translated
+790,＊,大事な人を捜しに……此処へ来ました。, , ,*,I came in search of someone very important to,"me, you see...",,＊,소중한 사람을 찾아...... 여기에 왔습니다.,,,＊,我是來找重要的人的……, ,,1,255,8,1,0,0,0,0,0,,Translated
+791,あゆみ,……あのっ。, , ,Ayumi,Umm...,,,아유미,...... 저기.,,,あゆみ,……那個。, ,,1,213,0,1,0,0,0,0,0,,Translated
+792,あゆみ,……あなたは、もしかして,七星（ナホ）さん……？, ,Ayumi,"...your name wouldn't happen to be Naho, would it?",,,아유미,...... 당신은 혹시,나호 씨......?,,あゆみ,……你難道是，七星小姐……？, ,,1,214,0,1,0,0,0,0,0,,Translated
+793,＊,……はい。, , ,*,...It is.,,,＊,...... 네.,,,＊,……是的。, ,,1,0,9,1,0,0,0,0,0,,Translated
+794,良樹,……誰だ、一体……？, , ,Yoshiki,Who's that?,,,요시키,"...... 누구야, 대체......?",,,良樹,……到底是誰……？, ,,1,157,23,1,0,0,0,0,0,,Translated
+795,あゆみ,女子高生霊能師の、冴之木七星, （サエノキ　ナホ）さん。, ,Ayumi,"High school paranormalist, Naho Saenoki.",,,아유미,여고생 영능사,사에노키 나호 씨.,,あゆみ,女子高中生靈能師，冴之木七星小姐。, ,,1,215,0,1,0,0,0,0,0,,Translated
+796,良樹,……。, , ,Yoshiki,...,,,요시키,......,,,良樹,……。, ,,1,158,23,1,0,0,0,0,0,,Translated
+797,良樹,……あれ？　去年何か賞を取って、,ＴＶ出てた小説家の……？, ,Yoshiki,...I think...she was on TV receiving some kind of,"award last year. She's an author, right?",,요시키,...... 어라? 작년에 무슨 상을 받아서,TV에 나온 소설가......?,,良樹,……咦？去年得獎上電視的小說家……？, ,,1,159,23,1,0,0,0,0,0,,Translated
+798,あゆみ,うん。, , ,Ayumi,Yeah.,,,아유미,응.,,,あゆみ,嗯。, ,,1,216,0,1,0,0,0,0,0,,Translated
+799,あゆみ,霊能相談や心霊情報のＨＰも凄く有名なんだ。, , ,Ayumi,She's also pretty well-known for communing with,"spirits, and has a popular homepage with lots of",information on paranormal studies and occultism.,아유미,영능 상담과 심령 정보 홈페이지로 유명한 사람이야.,,,あゆみ,靈能諮詢和靈異資訊網站也非常有名。, ,,1,217,0,1,0,0,0,0,0,,Translated
+800,あゆみ,……いつも、サイト見てました。七星さん。, , ,Ayumi,"I'm a big fan of yours, Ms. Saenoki. I'm on your",website all the time!,,아유미,사이트 줄곧 봐 왔어요. 나호 씨.,,,あゆみ,……我一直都有看您的網站。七星小姐。, ,,1,218,0,1,0,0,0,0,0,,Translated
+801,七星,ありがとう……,もう、更新なんて出来ませんけれど……, ,Naho,That's very flattering. Though I'm afraid you won't,be seeing any more updates from me...,,나호,고마워요......,이젠 갱신은 불가능하지만......,,七星,謝謝你……,雖然我已經無法更新了……,,1,1,9,1,0,0,0,0,0,,Translated
+802,あゆみ,『幸せのサチコさん』のおまじないが載ってから, , ,Ayumi,Your last posting...was about the 'Sachiko Ever,After' charm.,,아유미,『행복을 부르는 사치코씨』 주술이 올라오고 나서,,,あゆみ,自從『幸運的サチコ小姐』的咒語刊登以來，, ,,1,219,0,1,0,0,0,0,0,,Translated
+803,あゆみ,更新が止まっていたから、心配していたんですけど、, , ,Ayumi,I've been wondering what happened to you since,then.,,아유미,갱신이 멈춰서 걱정했는데,,,あゆみ,更新就停止了，我很擔心，, ,,1,220,0,1,0,0,0,0,0,,Translated
+804,あゆみ,こんな事になっていたなんて……, , ,Ayumi,"I never imagined it was anything like this,",though...,,아유미,이렇게 되어 버리다니......,,,あゆみ,沒想到會變成這樣……, ,,1,221,0,1,0,0,0,0,0,,Translated
+805,七星,……。, , ,Naho,...,,,나호,......,,,七星,……。, ,,1,2,9,1,0,0,0,0,0,,Translated
+806,良樹,……なぁ、ちょっと。, , ,Yoshiki,"Hey, sorry to interrupt...",,,요시키,"...... 저기, 잠깐.",,,良樹,……喂，等一下。, ,,1,160,23,1,0,0,0,0,0,,Translated
+807,良樹,さっき人を捜しに「ここへ来た」って、言ったな。, , ,Yoshiki,...but did you say you 'came' here in search of,someone?,,요시키,좀 전에 사람을 찾아 「여기에 왔다」고 했지.,,,良樹,你剛才說為了找人而「來到這裡」？, ,,1,161,23,1,0,0,0,0,0,,Translated
+808,七星,……はい。, , ,Naho,...Yes.,,,나호,...... 네.,,,七星,……是的。, ,,1,3,9,1,0,0,0,0,0,,Translated
+809,良樹,自分から、来たのか？　ってか、,来る方法があるのか？　此処に……, ,Yoshiki,So you came here of your own volition? On purpose?!,There's...a way to do that?,,요시키,네가 직접 온 거야? 아니,올 방법이 있는 거야? 여기로......,,良樹,是你自己來的？……話說，,有方法可以來這裡嗎……？,,1,162,23,1,0,0,0,0,0,,Translated
+810,七星,……それは……ごめんなさい、言えません。, , ,Naho,That's...not something I can talk about. I'm sorry.,,,나호,"...... 그건...... 죄송합니다, 말 못합니다.",,,七星,……那是……對不起，我不能說。, ,,1,4,9,1,0,0,0,0,0,,Translated
+811,良樹,？, , ,Yoshiki,What...?,,,요시키,?,,,良樹,？, ,,1,163,23,1,0,0,0,0,0,,Translated
+812,七星,……それより、お友達が大変な事に。, , ,Naho,The greater concern right now is your friend.,,,나호,"...... 그것보다, 친구에게 큰일이 났습니다.",,,七星,……比起那個，你的朋友情況危急。, ,,1,5,9,1,0,0,0,0,0,,Translated
+813,あゆみ,！　そうなんです……　どうしたらいいのか……, , ,Ayumi,...! That's right... Do you have any idea what we,can do to save her?!,,아유미,! 맞아요...... 어떻게 하면 좋을지......,,,あゆみ,！　是啊……該怎麼辦才好……, ,,1,222,0,1,0,0,0,0,0,,Translated
+814,七星,私はここで死ぬ前に……, , ,Naho,Before I died here...,,,나호,저는 여기에서 죽기 전에......,,,七星,我在這裡死掉之前……, ,,1,6,9,1,0,0,0,0,0,,Translated
+815,七星,脱出を試みて、この学校を必死に調べました。, , ,Naho,...I searched high and low for any means of escape.,,,나호,"탈출하기 위해, 이 학교를 필사적으로 조사했습니다.",,,七星,試圖逃脫，拼命調查了這所學校。, ,,1,7,9,1,0,0,0,0,0,,Translated
+816,七星,どうやらこの異空間、【天神小学校】を形成しているのは、, , ,Naho,"In the process, I learned that these closed spaces",were given the form of Heavenly Host Elementary,School through the sorrow and agony of its victims.,나호,"아무래도 이 이공간, 【텐진초등학교】를 형성하고 있는 것은",,,七星,看來形成這個異空間【天神小學校】的，, ,,1,8,9,1,0,0,0,0,0,,Translated
+817,七星,私達の時代から【３０年前】に起こった事件……, , ,Naho,Victims of an incident that occurred thirty years,before our time.,,나호,저희들의 시대로부터 【30년 전】에 일어난 사건......,,,七星,是發生在我們時代【３０年前】的事件……, ,,1,9,9,1,0,0,0,0,0,,Translated
+818,七星,『児童４名連続誘拐・殺害事件』で惨殺された,子供達の霊……, ,Naho,"Four children kidnapped, with broken bodies later",found in this very building. Those children are the,ones giving shape to this nexus.,나호,『아동 4명 연속 유괴 및 살해 사건』으로 참살을 당한,어린아이들의 영혼......,,七星,在『兒童四名連續綁架・殺害事件』中慘遭殺害的,孩子們的靈魂……, ,1,10,9,1,0,0,0,0,0,,Translated
+819,良樹,さっきの新聞記事に写真付きで載ってた４人か……, , ,Yoshiki,The four kids pictured in that newspaper article...,,,요시키,좀 전에 신문 기사에 나왔던 그 4명인가......,,,良樹,剛才報紙上附照片的四個人嗎……, ,,1,164,23,1,0,0,0,0,0,,Translated
+820,あゆみ,多分、そうだね。, , ,Ayumi,It...sure seems like it...,,,아유미,"아마, 그럴 거야.",,,あゆみ,大概吧。, ,,1,223,0,1,0,0,0,0,0,,Translated
+821,七星,私は……途中、力尽きて叶いませんでしたが……, , ,Naho,"Unfortunately, this place took its toll on me, and",I died before I was able to make my escape.,,나호,저는...... 도중에 힘이 빠져 이루지 못했지만......,,,七星,我……在中途力竭未能實現……, ,,1,11,9,1,0,0,0,0,0,,Translated
+822,七星,あの子達の霊を安息に弔ってあげれば、或いは、, , ,Naho,But the key seems to lie with those children. If,"they can be put to rest, there just might be a way",out of here.,나호,그 아이들의 영혼을 안식으로 인도할 수만 있다면,,,七星,如果能安撫那些孩子的靈魂，或許，, ,,1,12,9,1,0,0,0,0,0,,Translated
+823,七星,多重次元の異空間も崩壊し……, , ,Naho,"Without all that sorrow and agony to sustain them,",these closed spaces would start to break down...,,나호,다중 차원 이공간이 붕괴하여......,,,七星,多重次元的異空間也會崩壞……, ,,1,13,9,1,0,0,0,0,0,,Translated
+824,七星,私達への無用な虐待もやめて、解放してくれるかも。, , ,Naho,"All this pointless suffering would come to an end,",and we'd be released from this hell.,,나호,"저희에게 가했던 무의미한 학대를 멈추고, 놓아줄지도 모른다고",,,七星,對我們無意義的折磨也會停止，,放我們自由也說不定。, ,1,14,9,1,0,0,0,0,0,,Translated
+825,七星,……そう、思うのです。, , ,Naho,"That's...my theory, anyway.",,,나호,...... 그렇게 생각합니다.,,,七星,……我是這麼想的。, ,,1,15,9,1,0,0,0,0,0,,Translated
+826,良樹,安息に弔うったって……どうすればいいんだ……, , ,Yoshiki,"Yeah, but put them to rest? How the hell do we do",that?!,,요시키,안식으로 인도한다니...... 어떻게 하면 되는데......,,,良樹,安撫他們……要怎麼做……, ,,1,165,23,1,0,0,0,0,0,,Translated
+827,七星,欠かせないのは勿論、殺害犯人の懺悔でしょうね。, , ,Naho,"Give them closure, of course. What they lack is any",remorse or regret from the one who killed them.,,나호,"빠질 수 없는 것은 물론, 살해범의 참회겠지요.",,,七星,必不可少的當然是殺人犯的懺悔吧。, ,,1,16,9,1,0,0,0,0,0,,Translated
+828,あゆみ,殺害犯……も、まさか……, , ,Ayumi,The one who killed them? ...Are you saying...?!,,,아유미,"살해범...... 도, 설마......",,,あゆみ,殺人犯……也、難道……, ,,1,224,0,1,0,0,0,0,0,,Translated
+829,七星,この校舎にいます。, , ,Naho,"The murderer is here in this school, yes.",,,나호,이 교사에 있습니다.,,,七星,就在這棟校舍裡。, ,,1,17,9,1,0,0,0,0,0,,Translated
+830,良樹,……マジかよ……懺悔って、そんな奴相手に、, , ,Yoshiki,...Seriously...?,How are we supposed to get someone like that to,express remorse?,요시키,"진짜냐...... 참회라니, 그런 녀석을 상대로",,,良樹,……真的假的……懺悔，要跟那種傢伙, ,,1,166,23,1,0,0,0,0,0,,Translated
+831,良樹,俺等に何が出来んだよ……, , ,Yoshiki,Where would we even begin?!,,,요시키,우리들이 뭘 할 수 있다는 거야......,,,良樹,我們能做什麼……, ,,1,167,23,1,0,0,0,0,0,,Translated
+832,繭,シク……シク……, , ,Mayu,*sob* *whimper*,,,마유,흑...... 흑......,,,繭,嗚……嗚……, ,,1,7,8,1,0,0,0,0,0,,Translated
+833,七星,急いで保健室の霊二人を何とかしないと、お友達が、, , ,Naho,"You need to do whatever you can, and do it quickly.","If you don't, those two spirits are going to hurt",your friend.,나호,"서둘러 보건실에 있는 두 영혼을 떼어 놓지 않으면, 친구가",,,七星,不快點想辦法處理保健室的兩個靈魂，朋友會, ,,1,18,9,1,0,0,0,0,0,,Translated
+834,あゆみ,！　……わかりました、とにかくそいつを,捜してみます！, ,Ayumi,...We will. We'll think of something. I guess the,first order of business...is actually finding the,killer...,아유미,"! ...... 알겠어요, 일단은 그걸",찾아볼게요!,,あゆみ,！　……我知道了，總之先去找那個,犯人試試！,,1,225,0,1,0,0,0,0,0,,Translated
+835,良樹,……お、おい、待てよ篠崎！, , ,Yoshiki,"H-Hey, Shinozaki, hold up!",,,요시키,"...... 아, 야, 기다려 시노자키!",,,良樹,……等、等一下篠崎！, ,,1,168,23,1,0,0,0,0,0,,Translated
+836,良樹,……作家か霊能師か知らねーけど……,信じてみるよ。, ,Yoshiki,I don't know much about you as an author or a,paranormal researcher...but I'm going to take,you on your word anyway.,요시키,...... 작가인지 영능사인지는 모르겠는데......,믿어 볼게.,,良樹,……我不知道她是作家還是靈能師……,但我相信她。,,1,169,23,1,0,0,0,0,0,,Translated
+837,良樹,今は、何でもありがたい。, , ,Yoshiki,"Right now, I'm just grateful for any lead at all.",So thanks.,,요시키,지금은 뭐든 믿을 수밖에 없어.,,,良樹,現在什麼線索都值得感謝。, ,,1,170,23,1,0,0,0,0,0,,Translated
+838,七星,……。, , ,Naho,...,,,나호,......,,,七星,……。, ,,1,19,9,1,0,0,0,0,0,,Translated
+839,良樹,なんだこりゃ……廊下が抜けてるぞ。,さっきの地震のせいか……？, ,Yoshiki,What the... Looks like a dead end. Did this happen,during that last earthquake...?,,요시키,뭐야 이건...... 복도가 꺼졌어.,좀 전에 그 지진 때문인가......?,,良樹,這是什麼……走廊塌了。,是剛才的地震造成的嗎……？,,1,235,22,1,0,0,0,0,0,,Translated
+840,あゆみ,先生……どこにいるの……？,……心配……, ,Ayumi,Ms. Yui... Where are you...?,I'm really worried...,,아유미,선생님...... 어디 있어......?,걱정이야......,,あゆみ,老師……你在哪裡……？,……好擔心……,,1,84,0,1,0,0,0,0,0,,Translated
+841,,【理科室】,　扉は模型のようにガチリと固定され、,　開ける事が出来ません。,,[Science Lab],The door seems affixed to the wall like a model.,It can't be opened.,,【과학실】,문은 모형처럼 딱 고정되어,열 수 없습니다.,,【理科室】,　門像模型一樣固定住，無法打開。,,0,0,0,0,0,0,0,0,0,,Translated
+842,,　……保健室の中から楽しそうな笑い声、,　話し声が聞こえて来ます……, ,,Giddy conversation and laughter can be heard,wafting out from the infirmary.,,,...... 보건실 안에서 즐겁게 웃는 소리,얘기하는 소리가 들려 옵니다......,,,　……從保健室裡傳來愉快的笑聲和說話聲……, ,,0,0,0,0,0,0,0,0,0,,Translated
+843,,　キャッ　キャッ,　　……そうなの～、アハハ, ,,Eheheh... Really?! Eheheh...,,,,꺅  꺅,  ...... 그래~ 아하하,,,　喀　喀,　　……是這樣嗎～、啊哈哈,,0,0,0,1,0,1,0,25,0,,Translated
+844,,　板切れは床板にしっかりと挟まっており、,　取る事が出来ません。, ,,The loose board has gotten itself wedged in the gap,rather tightly. It won't come out.,,,널빤지는 바닥에 꽉 끼어서,떼어낼 수가 없습니다.,,,木板卡在地板裡，,拿不出來。,,0,0,0,0,0,0,0,0,0,,Translated
+845,良樹,な、何だ！？, , ,Yoshiki,Wh-What the...?!,,,요시키,"뭐, 뭐야!?",,,良樹,什、什麼！？, ,,1,83,23,1,0,0,0,0,0,,Translated
+846,,パワーストーン　が砕け散りました。, , ,,The Power Stone in Yoshiki's pocket suddenly and,spontaneously shattered.,,,파워 스톤이 깨졌습니다.,,,,【能量石】碎裂四散。, ,,0,0,0,0,0,0,0,0,0,,Translated
+847,良樹,（何か今……結衣センセーの声が聞こえたような……）, , ,Yoshiki,(I think...I just heard Ms. Yui's voice...),,,요시키,(왠지 방금...... 유이 선생님 목소리가 들린 것 같은데......),,,良樹,（剛才好像……聽到了結衣老師的聲音……）, ,,1,84,23,1,0,0,0,0,0,,Translated
+848,良樹,（階段に今いくなって事か……？　まさかな……）, , ,Yoshiki,"('Don't leave her side,' she said. Does that",mean...?),,요시키,(지금은 계단에 가지 말라는 건가......? 설마......),,,良樹,（是叫我現在不要下樓梯嗎……？　難道……）, ,,1,85,23,1,0,0,0,0,0,,Translated
+849,良樹,……一応、やめとくか……, , ,Yoshiki,...I think I should stay here for the moment...,,,요시키,...... 일단은 가지 말자......,,,良樹,……總之先別去吧……, ,,1,86,23,1,0,0,0,0,0,,Translated
+850,良樹,ッてぇ……　な、何だぁ？, , ,Yoshiki,Wh...What the...?,,,요시키,"아야...... 뭐, 뭐야?",,,良樹,好痛……　什、什麼？, ,,1,241,22,1,0,0,0,0,0,,Translated
+851,あゆみ,痛ぁい……, , ,Ayumi,Ouuch!!,,,아유미,아파......,,,あゆみ,好痛……, ,,1,90,0,1,0,0,0,0,0,,Translated
+852,,【 厠 】,　女子学生用厠←　→男子学生用厠,　どちらも美しく使用のこと。,,                   [Lavatories],              <-- Girls     Boys -->,          Let's keep our restrooms clean!,,【 화장실 】,여학생용 화장실←  →남학생용 화장실,모두 깨끗하게 사용할 것.,,【 廁所 】,　女學生用廁所←　→男學生用廁所,　請保持清潔使用。,0,0,0,0,0,0,0,0,0,,Translated
+853,注釈,このイベは未使用, ,,注釈,Note: Unused event,,,주석,이 이벤트는 미사용,,,注釈,這個事件未使用, ,,1,0,0,0,0,0,0,0,0,,Translated
+854,あゆみ,……グスッ。 ……うん。, , ,Ayumi,*sniffle* I know...,,,아유미,...... 흑...... 응.,,,あゆみ,……吸。 ……嗯。, ,,1,197,0,0,0,0,0,0,0,,Translated
+855,良樹,……ふぅ。, , ,Yoshiki,*sigh*,,,요시키,...... 후우.,,,良樹,……呼。, ,,1,138,23,0,0,0,0,0,0,,Translated
+856,良樹,……てか、結衣センセー、本当にいないな。, , ,Yoshiki,"...Well, we've searched the whole building. Ms. Yui",really is nowhere to be found...,,요시키,"...... 그나저나 유이 선생님, 진짜 없네.",,,良樹,……話說，結衣老師真的不在啊。, ,,1,139,23,1,0,0,0,0,0,,Translated
+857,あゆみ,一度、戻ってみようか……, , ,Ayumi,Maybe we should...head back to the classroom...?,,,아유미,일단 돌아가볼까......,,,あゆみ,先回去看看吧……, ,,1,198,0,1,0,0,0,0,0,,Translated
+858,良樹,そうするか…,…哲志たちもいないしな。, ,Yoshiki,"Yeah, that's probably best.","...No Satoshi or the others, though, either...",,요시키,그럴까......,... 사토시도 없으니까.,,良樹,就那樣吧……,…哲志他們也不在。, ,1,140,23,1,0,0,0,0,0,,Translated
+859,良樹,……そうか……, , ,Yoshiki,...So what you're saying...,,,요시키,그래......,,,良樹,……是嗎……, ,,1,133,23,1,0,0,0,0,0,,Translated
+860,あゆみ,うん……さっきから目にしてる、,ここで亡くなってる人達は……, ,Ayumi,"Yeah. So far, all the corpses we've found in here...",,,아유미,응...... 좀 전부터 계속 보이는,여기에서 죽은 사람들은......,,あゆみ,嗯……到目前為止看到的，,在這裡死去的人們……, ,1,187,0,1,0,0,0,0,0,,Translated
+861,あゆみ,皆、知らない人達だったけど……, , ,Ayumi,...have been people we've never met before...,,,아유미,다들 모르는 사람들이었는데......,,,あゆみ,都是不認識的人……, ,,1,188,0,1,0,0,0,0,0,,Translated
+862,あゆみ,さっきのはすごく、身近な人の……,断末魔みたいな思念を浴びて……, ,Ayumi,But that stain...was left behind by someone really,close to us...someone whose mind was completely filled,with the pain and agony of death...,아유미,좀 전에 그건 정말 가까운 사람의......,단말마 같은 사념을 느껴서......,,あゆみ,但剛才那個，是非常親近的人的……,臨終遺言般的意念……, ,1,189,0,1,0,0,0,0,0,,Translated
+863,あゆみ,……。, , ,Ayumi,Nngh...,,,아유미,......,,,あゆみ,……。, ,,1,190,0,1,0,0,0,0,0,,Translated
+864,あゆみ,……気付いたら……,岸沼君に、肩抱かれてた。, ,Ayumi,...And the next thing I knew...I was in your arms...,and you were squeezing the life out of me...,,아유미,정신을 차려 보니......,키시누마 군이 어깨를 감싸고 있었어.,,あゆみ,……回過神來……,就被岸沼同學抱住肩膀了。, ,1,191,0,1,0,0,0,0,0,,Translated
+865,良樹,（あんなに拒否んなくてもいいよな……）, , ,Yoshiki,(Couldn't she just say 'hugging'...?),,,요시키,(그렇게 거부할 건 없는데......),,,良樹,（也不用那麼抗拒吧……）, ,,1,134,23,1,0,0,0,0,0,,Translated
+866,良樹,……身近な人、か……,……今回ばかりは、, ,Yoshiki,"Someone close to us, huh... I really hope that",just this once...,,요시키,가까운 사람이라......,이번만은,,良樹,……親近的人，嗎……,……希望這次，, ,1,135,23,1,0,0,0,0,0,,Translated
+867,良樹,外れると、いいな。,勘。, ,Yoshiki,...your intuition is wrong...,,,요시키,빗나갔으면 좋겠다.,너의 감.,,良樹,你的直覺……,是錯的。, ,1,136,23,1,0,0,0,0,0,,Translated
+868,あゆみ,……苦しくて……寒くって……,喉だけ、焼けるように熱くて, ,Ayumi,But I could feel all her pain. I was freezing cold...,"except, my throat was so hot, it felt like it was on",fire...,아유미,괴롭고...... 춥고......,목구멍만이 타들어가듯 뜨겁고,,あゆみ,……痛苦……寒冷……,只有喉嚨像燃燒一樣灼熱, ,1,192,0,1,0,0,0,0,0,,Translated
+869,あゆみ,失禁もしてて……　真っ暗で……, , ,Ayumi,...and then I voided my bowels...and everything went,dark...,,아유미,실금을 하고...... 새까만데......,,,あゆみ,還失禁了……一片漆黑……, ,,1,193,0,1,0,0,0,0,0,,Translated
+870,あゆみ,もがいても、手も足もつかなくて, , ,Ayumi,"No matter how hard I struggled, my arms and my legs",just wouldn't move.,,아유미,아무리 발버둥 쳐도 소용이 없어서,,,あゆみ,無論怎麼掙扎，手腳都不聽使喚, ,,1,194,0,1,0,0,0,0,0,,Translated
+871,あゆみ,たすけて、って声も出なかった。, , ,Ayumi,"I wanted to yell out, 'Help me!'...but I had no voice.",,,아유미,"살려줘, 라고 소리를 지르지도 못했어.",,,あゆみ,連喊救命的聲音都發不出來。, ,,1,195,0,1,0,0,0,0,0,,Translated
+872,あゆみ,怖かったよ、痛かったよ。,……うううぅぅ, ,Ayumi,I was scared...and the pain was so excruciating...,*sob*,,아유미,"무서웠어, 아팠어.",...... 우우우우우,,あゆみ,好可怕、好痛。,……嗚嗚嗚, ,1,196,0,1,0,0,0,0,0,,Translated
+873,良樹,篠崎、しっかりしろ。　お前はちゃんと生きてる。, , ,Yoshiki,"Calm down, Shinozaki. That wasn't you. You're still",alive.,,요시키,"시노자키, 정신 차려. 넌 아직 살아 있어.",,,良樹,篠崎，振作點。你還活得好好的。, ,,1,137,23,1,0,0,0,0,0,,Translated
+874,あゆみ,……グスッ。 ……うん。, , ,Ayumi,*sniffle* I know...,,,아유미,...... 훌쩍...... 응.,,,あゆみ,……吸。 ……嗯。, ,,1,197,0,1,0,0,0,0,0,,Translated
+875,良樹,……ふぅ。, , ,Yoshiki,*sigh*,,,요시키,...... 후우.,,,良樹,……呼。, ,,1,138,23,1,0,0,0,0,0,,Translated
+876,良樹,……てか、結衣センセー、本当にいないな。, , ,Yoshiki,"...Well, we've searched the whole building. Ms. Yui",really is nowhere to be found...,,요시키,"...... 그나저나 유이 선생님, 진짜 없네.",,,良樹,……話說，結衣老師真的不在啊。, ,,1,139,23,1,0,0,0,0,0,,Translated
+877,あゆみ,一度、戻ってみようか。, , ,Ayumi,Maybe we should...head back to the classroom...?,,,아유미,일단 돌아가볼까,,,あゆみ,先回去看看吧。, ,,1,198,0,1,0,0,0,0,0,,Translated
+878,良樹,そうするか……,……哲志たちも居ないしな。, ,Yoshiki,"Yeah, that's probably best.","...No Satoshi or the others, though, either...",,요시키,그럴까......,사토시도 없으니까.,,良樹,就那樣吧……,……哲志他們也不在。, ,1,140,23,1,0,0,0,0,0,,Translated
+879,良樹,大丈夫かよ、篠崎……, , ,Yoshiki,"Are you all right, Shinozaki?",,,요시키,"괜찮냐, 시노자키......",,,良樹,沒事吧，篠崎……, ,,1,77,23,1,0,0,0,0,0,,Translated
+880,あゆみ,うﾞぅﾞうﾞぅﾞうﾞぅ,ぅﾞうﾞぅﾞうﾞぅ……, ,Ayumi,Oooooaaaaaaaaagggggghhhh...,,,아유미,우  우  우  우  우  우,우  우  우  우  우......,,あゆみ,嗚嗚嗚嗚,嗚嗚嗚嗚……, ,1,144,0,1,1,0,0,0,0,,Translated
+881,あゆみ,もっと連れて来い！　私の為に何でもしてくれる！, , ,Ayumi,Bring me more! You'll do whatever I ask of you!,,,아유미,좀 더 데려와!  날 위해 뭐든 해준다!,,,あゆみ,再多帶點來！為了我什麼都願意做！, ,,1,145,0,1,1,0,0,0,0,,Translated
+882,あゆみ,悪気がなくても、あなたは生き埋めが記すのですか！, , ,Ayumi,I don't care if you're innocent! You're listed as,"'buried alive,' aren't you?!",,아유미,"악의가 없어도, 당신은 생매장을 기록하는 겁니까!",,,あゆみ,就算沒有惡意，你也要記錄活埋嗎！, ,,1,146,0,1,1,0,0,0,0,,Translated
+883,あゆみ,私のものなんだから！！,あなたなんかに渡さない！, ,Ayumi,They're mine! I'm sure as hell not sharing with the,likes of you!,,아유미,내 거니까!!,너한테는 안 줄 거야!,,あゆみ,因為是我的東西！！不會交給你的！, ,,1,147,0,1,1,0,0,0,0,,Translated
+884,あゆみ,掃除が大変だ……,恥　ず　かしいと思いなさいよ！, ,Ayumi,"Cleanup is a real pain in the ass, too, you know.",Have  some  PITY!!,,아유미,청소하기 힘들겠네......,부  끄  러운 줄 알아!,,あゆみ,打掃很麻煩呢……,給　我　害　羞　一　點！,,1,148,0,1,1,0,0,0,0,,Translated
+885,あゆみ,なに？, , ,Ayumi,What's up?,,,아유미,왜?,,,あゆみ,什麼？, ,,1,150,0,1,0,0,0,0,0,,Translated
+886,良樹,…………。, , ,Yoshiki,...,,,요시키,............,,,良樹,…………。, ,,1,78,23,1,0,0,0,0,0,,Translated
+887,,しっかりしてくれ篠崎,いい加減にしろ！,,,"Fight it, Shinozaki!",Cut the crap!,,,정신 차려 시노자키,적당히 해라!,,,振作點篠崎,適可而止！,,0,255,255,255,255,255,255,255,255,,Translated
+888,あゆみ,……,ぅﾞうﾞぅﾞうﾞぅ……, ,Ayumi,OooooaaAAAAaaagggggghhh...,,,아유미,......,우  우  우  우  우......,,あゆみ,……,嗚嗚嗚嗚……, ,1,151,0,1,0,0,0,0,0,,Translated
+889,あゆみ,うﾞぅﾞうﾞぅﾞうﾞぅ,ぅﾞうﾞぅﾞうﾞぅ……, ,Ayumi,Ooooooooooooooollllggghh...,,,아유미,우  우  우  우  우  우,우  우  우  우  우......,,あゆみ,嗚嗚嗚嗚,嗚嗚嗚嗚……, ,1,152,0,1,0,0,0,0,0,,Translated
+890,あゆみ,……あなた誰？, , ,Ayumi,...Who...are you?,,,아유미,...... 넌 누구야?,,,あゆみ,……你是誰？, ,,1,153,0,1,0,0,0,0,0,,Translated
+891,良樹,っく！　痛ぇ……　お前……！, , ,Yoshiki,Oolph! The hell...?,That really hurt!,,요시키,큭! 아파...... 너......!,,,良樹,咳！好痛……你……！, ,,1,79,23,1,0,0,0,0,0,,Translated
+892,あゆみ,……信じてたのに！, , ,Ayumi,I believed in you!,,,아유미,...... 믿었는데!,,,あゆみ,……明明相信你的！, ,,1,154,0,1,0,0,0,0,0,,Translated
+893,あゆみ,……どうしてみんな、私の意見を聞いてくれないの！, , ,Ayumi,Why doesn't anybody listen to me?!,,,아유미,...... 왜 다들 내 의견을 안 들어 주는 거야!,,,あゆみ,……為什麼大家都不聽我的意見！, ,,1,155,0,1,0,0,0,0,0,,Translated
+894,良樹,何だよ……っ, , ,Yoshiki,What the hell are you talking about?,,,요시키,뭐야......,,,良樹,什麼啊……, ,,1,80,23,1,0,0,0,0,0,,Translated
+895,良樹,ナニ言ってっか、わかんねーよ！！, , ,Yoshiki,I don't understand a single word you're saying!,,,요시키,뭔 말인지 모르겠다고~!!,,,良樹,聽不懂你在說什麼！！, ,,1,81,23,1,0,0,0,0,0,,Translated
+896,あゆみ,ああははははははは！！, , ,Ayumi,AHAHAHAHAHAHA AAAHAHAHAHA!,,,아유미,아아하하하하하하하!!,,,あゆみ,啊哈哈哈哈哈哈哈！！, ,,1,156,0,1,1,0,0,0,0,,Translated
+897,良樹,……くそ……っ！, , ,Yoshiki,...God...dammit...,,,요시키,...... 젠장......!,,,良樹,……混帳……！, ,,1,82,23,1,0,0,0,0,0,,Translated
+898,,　あゆみは満面の笑みで,　こちらの顔を凝視しています……, ,,"Ayumi is staring at you as if transfixed, with an",unnaturally wide smile stretched across her face.,,,아유미는 만면에 미소를 머금고,이쪽 얼굴을 응시하고 있습니다......,,,あゆみ滿面笑容地凝視著這邊……, ,,0,0,0,1,0,0,0,0,0,,Translated
+899,,　……可哀想に……　あの娘の正気は,　もう、戻って来ないよ……, ,,That poor girl...,"She's lost her mind, and she'll never get it back...",,,...... 불쌍하게도...... 이제 저 애는,제정신이 돌아오지 않겠어......,,,　……真可憐……　那孩子已經,　不會恢復正常了……, ,0,0,0,0,0,0,0,0,0,,Translated
+900,,　……とても恐ろしい、思念を,　脳に焼き付けられたんだね……, ,,Possession is a frightful thing. To have your,thoughts pushed deep down into the pit of your,"soul, and someone else's take their place...",,...... 너무나 무서운 사념이,뇌에 새겨졌나 보구나......,,,　……被非常可怕的意念,　烙在了腦海裡呢……, ,0,0,0,0,0,0,0,0,0,,Translated
+901,,　犠牲者の手記（４／５）, , ,,[Victim's Memoirs],(4／5),,,희생자의 수기 (4/5),,,,犧牲者的手記（４／５）, ,,0,0,0,0,0,0,0,0,0,,Translated
+902,,　……しゅきをのこすぼくのて,　はちにまみれているきがす,　るでもそれはおれのもうそ,,I am writing these memoris wit hsticky hansd but its,not me that is stiky but somethng else I hope you re,not mad about this maybe you will think im a horribl,,...... 수기를 남기는 나의 손,은 피에 물든 것 같,지만 그건 나의 망상,,　……留下手記的我的手,　似乎沾滿了血,　但那只是我的幻覺,0,0,0,0,0,0,0,0,0,,Translated
+903,,　おまえたちがぼくをおそう,　からおなかがまたすいて,　きた,,e person but i got hungry again really hungry like i,was about to DIE so i    ,   I  did something I shouldn't have done.,,너희들이 날 덮치,니까 배가 고파,졌어,,　因為你們襲擊我,　肚子又餓了,　起來了,0,0,0,0,0,0,0,0,0,,Translated
+904,,　こんな事ではいけない,　気をしっかりと持たなくて,　は、アイツに申し訳が,,"I promised myself I would stay sane, and promised","myself I wouldn't do what I did, and I am so, so","sorry, really, really sorry, really sorry but there",,이러고 있을 때가 아냐,마음을 다잡지 않으면,그 녀석에게 면목이,,　不能這樣下去,　必須振作精神,　不然對那傢伙過意不去,0,0,0,0,0,0,0,0,0,,Translated
+905,,　立たない　血塗れの手で,　俺は、握りつぶした物を,　そっと飲み込んだ,,"is no excuse for what I did.   With my bloody hands,","I took the thing that I've been squishing, and I put","it in my mouth, and I     swallowed   it.    Iateit.",,없어  나는 피투성이,손으로 쥐어 짜낸 그것을,살며시 목으로 넘겼다,,　用沾滿血的手,　我將握碎的東西,　輕輕地吞了下去,0,0,0,0,0,0,0,0,0,,Translated
+906,良樹,な、何だ！？, , ,Yoshiki,Wh-What the...?!,,,요시키,"뭐, 뭐야!?",,,良樹,什、什麼！？, ,,1,83,23,1,0,0,0,0,0,,Translated
+907,,パワーストーン　が砕け散りました。, , ,,The Power Stone in Yoshiki's pocket suddenly and,spontaneously shattered.,,,파워 스톤이 깨졌습니다.,,,,【能量石】碎裂四散。, ,,0,0,0,0,0,0,0,0,0,,Translated
+908,良樹,（何か今……結衣センセーの声が聞こえたような……）, , ,Yoshiki,(I think...I just heard Ms. Yui's voice...),,,요시키,(왠지 방금...... 유이 선생님 목소리가 들린 것 같은데......),,,良樹,（剛才好像……聽到了結衣老師的聲音……）, ,,1,84,23,1,0,0,0,0,0,,Translated
+909,良樹,（階段に今いくなって事か……？　まさかな……）, , ,Yoshiki,"('Don't leave her side,' she said. Does that",mean...?),,요시키,(지금은 계단에 가지 말라는 건가......? 설마......),,,良樹,（是叫我現在不要下樓梯嗎……？　難道……）, ,,1,85,23,1,0,0,0,0,0,,Translated
+910,良樹,……一応、やめとくか……, , ,Yoshiki,...I think I should stay here for the moment...,,,요시키,...... 일단은 가지 말자......,,,良樹,……總之先別去吧……, ,,1,86,23,1,0,0,0,0,0,,Translated
+911,,　遺骸に付いている名札を集め＊＊＊＊、,　遺留品として　後に＊　＊収＊＊＊。,　　　　　【天神小学校 用務員】,,If you acquire any name tags from the corpses in,"this school, please bring them to me. I'll add",them to my collection.        -Custodian,,유해에 달려 있는 명찰을 모아 ****,유류품으로서 나중에 *  *수***,　　　　　【텐진초등학교 수위】,,收集遺體上的名牌＊＊＊＊，,作為遺留物 後＊ ＊收＊＊＊。,　　　　　【天神小學校 校工】,0,0,0,0,0,0,0,0,0,,Translated
+912,,　棚の中に、子供の描いたような絵が,　飾られています。, ,,"A crude picture, seemingly drawn by a child, adorns",one of the shelves.,,,수납장에 어린아이가 그린 것 같은 그림이,장식되어 있습니다.,,,櫃子裡裝飾著像是孩子畫的畫。, ,,0,0,0,0,0,0,0,0,0,,Translated
+913,,　４人の子供が、ひとりの大人を取り囲み、,　笑顔で刺し殺しています。, ,,"Four smiling children are surrounding an adult, and",merrily stabbing him to death.,,,4명의 아이들이 한 어른을 둘러싸고,미소를 지으며 찔러대고 있습니다.,,,四個孩子圍著一個大人，,笑著把他刺死。, ,0,0,0,0,0,0,0,0,0,,Translated
+914,良樹,……気味の悪い絵だな……, , ,Yoshiki,...How...unsettling...,,,요시키,...... 기분 나쁜 그림이군......,,,良樹,……令人不舒服的畫啊……, ,,1,242,22,1,0,0,0,0,0,,Translated
+915,,　害虫の死骸が整然と並べられています。, , ,,Rows of dead bugs are neatly arranged on each shelf.,,,,해충 사체가 가지런히 늘어서 있습니다.,,,,害蟲的屍體整齊地排列著。, ,,0,0,0,1,0,0,0,0,0,,Translated
+916,結衣,？　これは……鍵ね。, , ,Ms. Shishido,"Hmm? It's...a key, isn't it...",,,유이,?  이건...... 열쇠구나.,,,結衣,？這是……鑰匙呢。, ,,1,5,27,1,0,0,0,0,0,,Translated
+917,,　「３のＡ」と書かれた鍵があります。,　……取りますか？, ,,A label on the key reads '3-A.',Take it?,,,「3-A」라고 적힌 열쇠가 있습니다.,...... 가져가겠습니까?,,,有一把寫著「３年Ａ班」的鑰匙。,　……要拿走嗎？,,0,0,0,1,0,0,0,0,0,,Translated
+918,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+919,,　３のＡの鍵　を取りました。, , ,,Acquired [Classroom 3-A Key].,,,,3-A 열쇠를 얻었습니다.,,,,拿到了【３年Ａ班的鑰匙】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+920,,　大きさから判断すると中高生の遺体のようです……,　よく見ると名札があります。,,,"Judging by size, these appear to be the remains",of a junior or senior high school student. Closer,inspection reveals a school ID name tag.,,크기로 보아 중고등학생의 유해인 모양입니다......,잘 보니 명찰이 있습니다.,,,從大小判斷，似乎是中學生的遺體……,　仔細看有名牌。,,0,0,0,0,0,0,0,0,0,,Translated
+921,,　キ……ザ……ミ, , ,,Ki...za...mi...,,,,키...... 자...... 미,,,,　木……村……, ,,0,154,7,1,1,0,0,0,0,,Translated
+922,良樹,……？　今……声が聞こえたか？, , ,Yoshiki,...? Did you hear a voice just now...?,,,요시키,......? 방금...... 목소리가 들린 것 같은데?,,,良樹,……？剛才……聽到聲音了嗎？, ,,1,0,23,1,0,0,0,0,0,,Translated
+923,あゆみ,聞こえた……,どうしたんだろう この人……, ,Ayumi,"Yeah, I heard it. I wonder what happened to him...",,,아유미,들렸어......,어떻게 된 거지  이 사람......,,あゆみ,聽到了……,這個人是怎麼回事……,,1,106,0,1,0,0,0,0,0,,Translated
+924,あゆみ,命を落とす時、,……凄く驚いてる感じがする……, ,Ayumi,I get the feeling he was surprised. I think he died,"quickly, and suddenly...",,아유미,목숨을 잃었을 때,...... 매우 놀란 것 같아......,,あゆみ,死去的時候，,……感覺非常驚訝……,,1,107,0,1,0,0,0,0,0,,Translated
+925,,　大きさから判断すると中高生の遺体のようです……,　よく見ると名札があります。, ,,"Judging by size, these appear to be the remains",of a junior or senior high school student. Closer,inspection reveals a school ID name tag.,,크기로 보아 중고등학생의 유해인 모양입니다......,잘 보니 명찰이 있습니다.,,,從大小判斷，似乎是中學生的遺體……,　仔細看有名牌。,,0,0,0,0,0,0,0,0,0,,Translated
+926,,白檀高等学校,２年４組　片山良介, ,,Byakudan Senior High School,"Class 2-4, [Ryosuke Katayama]",,,뱌쿠단 고등학교,2학년 4반  카타야마 료스케,,,白檀高等學校,２年４組　片山良介,,0,0,0,0,0,0,0,0,0,,Translated
+927,,　キ……ザ……ミ, , ,,Ki...za...mi...,,,,키...... 자...... 미,,,,　木……村……, ,,0,154,7,1,1,0,0,0,0,,Translated
+928,良樹,……？, , ,Yoshiki,...?,,,요시키,......?,,,良樹,……？, ,,1,0,0,0,0,0,0,0,0,,Translated
+929,あゆみ,う、うん、平気……　もどしてないよ。, , ,Ayumi,"Y-Yeah, I'm okay... I thought I was going to throw",up. But I didn't.,,아유미,"으, 응, 괜찮아...... 토 안 했어.",,,あゆみ,嗯、嗯，沒事……沒有吐。, ,,1,227,0,1,0,0,0,0,0,,Translated
+930,良樹,（平気にふるまってるけど……), , ,Yoshiki,"(She's acting normally, but I don't know...)",,,요시키,(괜찮은 척 하지만......),,,良樹,（雖然裝作若無其事……）, ,,1,172,23,1,0,0,0,0,0,,Translated
+931,良樹,（プレッシャーでボロボロじゃねえか……篠崎）, , ,Yoshiki,(I think she's starting to snap under the pressure.,Shinozaki...),,요시키,(큰 부담 때문에 꼴이 말이 아냐...... 시노자키),,,良樹,（壓力已經讓她快要崩潰了……篠崎）, ,,1,173,23,1,0,0,0,0,0,,Translated
+932,良樹,（はやく出してやらねぇと……,　コイツもヤバいぞ……出口……出口はねぇのか）, ,Yoshiki,"(She needs to get out of this school, or she could",be in real trouble. Dammit... Why is there no,exit?!),요시키,(얼른 나가지 않으면......,이 녀석도 위험해져...... 출구...... 출구는 없는 건가),,良樹,（得早點帶她出去才行……,　這傢伙也不妙了……出口……沒有出口嗎）, ,1,174,23,1,0,0,0,0,0,,Translated
+933,良樹,篠崎……。,……あのまま放っとくのはヤバいか……, ,Yoshiki,Shinozaki...,I shouldn't just walk away from her like this...,,요시키,시노자키......,...... 저대로 두면 위험한데......,,良樹,篠崎……。,……就那樣放著不管不妙吧……,,1,87,23,1,0,0,0,0,0,,Translated
+934,良樹,……でも、怖えぇよ……, , ,Yoshiki,...But man...I'm really scared of her right now...,,,요시키,...... 그런데 무섭다......,,,良樹,……可是，好可怕……, ,,1,88,23,1,0,0,0,0,0,,Translated
+935,良樹,……何であんなになっちまったんだよ……, , ,Yoshiki,I wonder what did this to her...?,,,요시키,...... 왜 저렇게 된 거야......,,,良樹,……為什麼會變成那樣……, ,,1,89,23,1,0,0,0,0,0,,Translated
+936,良樹,……。, , ,Yoshiki,...,,,요시키,......,,,良樹,……。, ,,1,90,23,1,0,0,0,0,0,,Translated
+937,良樹,（そういや、あの時の涙の礼……,　まだ言ってないな……）, ,Yoshiki,(I never actually thanked her for what she did,that day...for crying on my behalf...),,요시키,"(그러고 보니, 그때 그 눈물에 대한 인사......",아직 안 했었지......),,良樹,（說起來，那時候眼淚的回禮……,　還沒說呢……）,,1,123,23,1,0,0,0,0,0,,Translated
+938,良樹,（そうだよ、此処に閉じ込められた事が判った時……）, , ,Yoshiki,"(And...I swore to myself, as soon as I realized",we were trapped here...),,요시키,"(그래, 여기에 갇혔다는 걸 알게 되었을 때......)",,,良樹,（對了，當知道被困在這裡的時候……）, ,,1,124,23,1,0,0,0,0,0,,Translated
+939,良樹,（何があっても、アイツを護るって決めたじゃねえか）, , ,Yoshiki,"(...that I'd protect her, no matter what happens.)",,,요시키,(무슨 일이 있어도 이 녀석을 지켜내자고 결심했잖아),,,良樹,（不是決定了不管發生什麼都要保護她嗎）, ,,1,125,23,1,0,0,0,0,0,,Translated
+940,良樹,（俺の“何があっても”が今、試されてんだよ……）, , ,Yoshiki,(This must be a test...to see if I really meant,that 'no matter what happens' part!),,요시키,(바로 지금 “그걸” 시험받고 있는 거야......),,,良樹,（現在正是考驗我「不管發生什麼」的時候……）, ,,1,126,23,1,0,0,0,0,0,,Translated
+941,あゆみ,どうしてこんな事をするの！！　あー？！, , ,Ayumi,Why the hell are you doing this?! Answer me!,,,아유미,왜 이런 짓을 하는 거야!! 어~?!,,,あゆみ,為什麼要做這種事！！啊─？！, ,,1,180,0,1,1,0,0,0,0,,Translated
+942,良樹,篠……, , ,Yoshiki,Shino--,,,요시키,시노......,,,良樹,篠……, ,,1,113,23,1,0,0,0,0,0,,Translated
+943,良樹,（マジかよ……！）, , ,Yoshiki,(You've gotta be kidding me...!),,,요시키,(정말이냐......!),,,良樹,（真的假的……！）, ,,1,114,23,1,0,0,0,0,0,,Translated
+944,良樹,っ……カ　……グ…ァ…,ゴボ　（ガクガクガク）, ,Yoshiki,*gag* *gurgle* *splutter* *spew*,,,요시키,윽...... 칵...... 그으... 아...,주륵  (바들바들),,良樹,咳……嘎　……咕…,咕噗　（喀喀喀喀）,,1,115,23,1,0,0,0,0,0,,Translated
+945,良樹,シ……ノ　グ…ウウゥゥ　,ゴボッ、ガブッ, ,Yoshiki,*crackle* *cough* *spit* *hack* *retch*,,,요시키,시..... 노  그... 으으으으,"으윽, 커헉",,良樹,篠……　咕…嗚嗚嗚　,咕噗、嘎噗,,1,116,23,1,0,0,0,0,0,,Translated
+946,良樹,…ッガァァ…　（ガクガクガク）, , ,Yoshiki,*gasp* *choke*,,,요시키,... 아아아...  (바들바들),,,良樹,…嘎啊…　（喀喀喀喀）, ,,1,117,23,1,0,0,0,0,0,,Translated
+947,,　首の骨は折れ、,　折れた肋骨が肺に刺さり……, ,,In addition to multiple broken bones all throughout,"his head and neck, Yoshiki's rib cage shattered on",impact and pierced his lungs.,,목뼈는 꺾이고,부러진 늑골이 폐를 찔러......,,,頸骨斷裂，,斷掉的肋骨刺進肺部……, ,0,0,0,0,0,0,0,0,0,,Translated
+948,,　痙攣しながら、,　ゆっくりと暗くなってゆく視界に、,　最後に映ったのは,,As he convulsed and writhed in an ever-growing puddle,"of his own blood and internal fluids, his vision",hastily grew dark. The last thing he saw...,,경련하며,차츰 어두워져 가는 시야에,마지막으로 비친 것은,,在痙攣中，,逐漸變暗的視野裡,　最後映出的是,0,0,0,0,0,0,0,0,0,,Translated
+949,,　目をカッと見開き、満面の笑みで,　壁を見つめてユラユラ立ちつくす、, ,,"...was a figure with wide, empty eyes and an unnatural","smile stretched across the length of its face, rocking",slowly back and forth in admiration of its handiwork.,,"눈을 크게 뜨고, 만면에 미소로",벽을 바라보며 흔들흔들 서 있는,,,　睜大眼睛、滿面笑容地,　盯著牆壁搖搖晃晃站著的，, ,0,0,0,0,0,0,0,0,0,,Translated
+950,,　あゆみの姿だった。, , ,,Ayumi was clearly very pleased with herself...,,,,아유미의 모습이었다.,,,,あゆみ的身影。, ,,0,0,0,0,0,0,0,0,0,,Translated
+951,,　ちぎられた古い【文化人形】の,　頭が置かれています……, ,,There's a severed head of an old-fashioned festival,doll lying on the ground here.,,,낡고 망가진 【문화인형】의,머리가 놓여 있습니다......,,,有一尊被撕裂的舊【文化人偶】的頭部……, ,,0,0,0,0,0,0,0,0,0,,Translated
+952,,　手に取ってみますか？, , ,,Pick it up?,,,,손에 쥐어보겠습니까?,,,,要拿起來看看嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+953,,取る,やめる,,,Yes,No,,,가져간다,그만둔다,,,拿走,算了,,0,255,255,255,255,255,255,255,255,,Translated
+954,,　人形の体から、何者かの思念が伝わって来ます。, , ,,"Thoughts begin to echo in your mind, seemingly from","the doll. Somehow or another, it's found a way to",communicate its sole desire.,,인형의 몸으로부터 누군가의 사념이 전해져 옵니다.,,,,人偶的身體傳來某人的意念。, ,,0,0,0,0,0,0,0,0,0,,Translated
+955,良樹,！？　何だ、……この声, , ,Yoshiki,Wh-What the?! I hear a voice!,,,요시키,"!? 뭐야, 이 목소리?",,,良樹,！？　什麼，……這個聲音？, ,,1,207,23,1,0,0,0,0,0,,Translated
+956,あゆみ,……（カラダを…　…モドシテ）……？, , ,Ayumi,(Return...my body?),,,아유미,...... (몸을... 돌려줘) ......?,,,あゆみ,……（把身體…　…還給我）……？, ,,1,242,0,1,0,0,0,0,0,,Translated
+957,,　文化人形（頭）　を取りました。, , ,,Acquired [Antique Doll (Head)].,,,,문화인형 (머리) 를 얻었습니다.,,,,拿到了【文化人偶（頭部）】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+958,,　……首と胴の繋がった文化人形が、,　何か、しゃべっています。, ,,"As the head and body of the antique doll are joined,",it begins speaking more clearly and directly.,,,...... 머리와 몸이 이어진 문화인형이,뭔가 말하고 있습니다.,,,……頭和身體接合的文化人偶,　正在說著什麼。, ,0,0,0,0,0,0,0,0,0,,Translated
+959,,　……子供の様な高い声で、,　ボソボソと繰り返し、喋っているようです。, ,,"With a high-pitched voice like that of a child, it","slowly repeats several phrases in a cold, methodical",and almost robotic monotone.,,...... 어린아이 같은 높은 목소리로,소곤소곤 같은 말을 반복하고 있습니다.,,,　……用像孩子一樣高亢的聲音，,　喃喃地重複說著。, ,0,0,0,0,0,0,0,0,0,,Translated
+960,,コ・ド・モ　アンナニ,コロス・ナンテ・, ,,to  have  killed  children  so  brutally,,,,아·이·를  그렇게,죽이·다니·,,,殺·了·孩·子　居·然·那·麼·,殘·忍·,,0,20,5,1,1,0,0,0,0,,Translated
+961,,ワ・タ・シ・ハ・ショ・ウ・キ・デハ,ナ・カッタ, ,,i  was  not  in  my  right  mind,,,,내·가·제·정·신·이·,아·니·었·어,,,我·當·時·是·失·去·理·智·的, ,,0,21,5,1,1,0,0,0,0,,Translated
+962,,シ・ナ・セ・タク　ナ・カッタ・,  ワタシ・モ・　コ・ワ・カッ　タ, ,,i  did  not  want  them  to  die,i  was  scared  too,,,죽·이·고·싶·지·않·았·어·,나·도·무·서·웠·어,,,我·並·不·想·殺·他·們·,我·也·很·害·怕·,,0,22,5,1,1,0,0,0,0,,Translated
+963,,ゴ・メ・ン・ナ・　サ・イ,　ゴ・メ・　ン・ナ・サ・イ,　　ゴ・　メ・ン・ナ・サ・イ,,i  am  so  sorry,i  am  so  sorry,so  very  sorry,,미·안·해,  미·안·해,    미·안·해,,對·不·起,　對·不·起,　　對·不·起,0,23,5,1,1,0,0,0,0,,Translated
+964,,ワ・タ・シ・ハ・　ホントウ・　ハ・,イイヒト, ,,i  am  actually  a,good  person,,,나·는·실·은·좋은·,사람,,,我·其·實·是·個·好·人·, ,,0,24,5,1,1,0,0,0,0,,Translated
+965,,ゴ・メ・ン・ナ・　サ・イ,　ゴ・メ・　ン・ナ・サ・イ,　　ゴ・　メ・ン・ナ・サ・イ,,i  am  so  sorry,i  am  so  sorry,so  very  sorry,,미·안·해,  미·안·해,    미·안·해,,對·不·起,　對·不·起,　　對·不·起,0,23,5,1,1,0,0,0,0,,Translated
+966,良樹,なんだこの人形……　殺人犯の持ち物か……？, , ,Yoshiki,Did this doll...belong to the murderer...?,,,요시키,뭐야 이 인형...... 살인범 건가......?,,,良樹,這人偶是什麼……殺人犯的遺物嗎……？, ,,1,208,23,1,0,0,0,0,0,,Translated
+967,あゆみ,……ふざけないでって、感じだよね……, , ,Ayumi,"Doesn't it kind of piss you off? Like, it's just","playing around, and saying what we want to hear...",,아유미,...... 집어치워 버리고 싶네......,,,あゆみ,……簡直像是在開玩笑……, ,,1,244,0,1,0,0,0,0,0,,Translated
+968,,ゴ・メ・ン・ナ・　サ・イ,　ゴ・メ・　ン・ナ・サ・イ,　　ゴ・　メ・ン・ナ・サ・イ,,i  am  so  sorry,i  am  so  sorry,so  very  sorry,,미·안·해,  미·안·해,    미·안·해,,對·不·起,　對·不·起,　　對·不·起,0,23,5,1,1,0,0,0,0,,Translated
+969,あゆみ,……こんな人形！, , ,Ayumi,We don't need this thing!,,,아유미,...... 이딴 인형!,,,あゆみ,……這種人偶！, ,,1,245,0,1,0,0,0,0,0,,Translated
+970,良樹,待てよ！,なあ、それ、犯人の懺悔にならねぇか？, ,Yoshiki,Wait! Don't you think...it might count as repentance,from the murderer?,,요시키,잠깐만!,"저기, 그거, 범인의 참회가 되지 않을까?",,良樹,等等！喂，那可以當作犯人的懺悔嗎？, ,,1,209,23,1,0,0,0,0,0,,Translated
+971,,懺悔の心　を取りました。, , ,,Acquired [Penitent Spirit].,,,,참회의 마음을 얻었습니다.,,,,拿到了【懺悔之心】。, ,,0,0,0,0,0,0,0,0,0,,Translated
+972,あゆみ,許せない……絶対……こんな大人……, , ,Ayumi,I'll never forgive him...no matter what he says...,,,아유미,용서 못해...... 절대로...... 이딴 어른......,,,あゆみ,不可原諒……絕對……這種大人……, ,,1,246,0,1,0,0,0,0,0,,Translated
+973,,【３階　教師の立ち入りを禁ず】, , ,,[No teachers allowed on the third floor.],,,,【3층  교사의 입장을 금한다】,,,,【３樓　禁止教師進入】, ,,0,0,0,1,0,0,0,0,0,,Translated
+974,良樹,どうしたんだよ？, , ,Yoshiki,What's up?,,,요시키,왜 그래?,,,良樹,怎麼了？, ,,1,243,22,1,0,0,0,0,0,,Translated
+975,あゆみ,いい事、思いついたの。, , ,Ayumi,I just had a brainstorm.,,,아유미,좋은 생각이 났어.,,,あゆみ,想到一個好主意。, ,,1,91,0,1,0,0,0,0,0,,Translated
+976,あゆみ,あのね、委員長・篠崎さんの,こわいロウソクといえば、, ,Ayumi,Class rep Shinozaki's famous scary-time candles...,,,아유미,"그게 말야, 반장 시노자키의",무서운 양초라고 하면,,あゆみ,那個啊，說到班長篠崎同學的,可怕蠟燭的話，, ,1,92,0,1,0,0,0,0,0,,Translated
+977,あゆみ,２－９で知らない人はいないでしょ？, , ,Ayumi,There's not a student in 2-9 who isn't intimately,"familiar with them, right?",,아유미,2-9 에서 모르는 사람이 없잖아?,,,あゆみ,２－９沒有人不知道吧？, ,,1,93,0,1,0,0,0,0,0,,Translated
+978,良樹,１０クラス全部で有名だよ。,「怪談委員長」って。, ,Yoshiki,You kidding? There's not a student in our GRADE who,hasn't seen them at least once. People call you the,horror rep of Kisaragi for a reason!,요시키,열 반 전부 유명하지.,「괴담 반장」으로.,,良樹,全部十個班都知道哦。,「鬼故事班長」嘛。,,1,244,22,1,0,0,0,0,0,,Translated
+979,あゆみ,だから、この校舎のあちこちに, , ,Ayumi,So how about...,,,아유미,그러니까 이 교사 여기저기에,,,あゆみ,所以，在這校舍的各處, ,,1,94,0,1,0,0,0,0,0,,Translated
+980,あゆみ,……こうやってロウソクを置いておけば、, , ,Ayumi,"...we light some candles like this, all throughout",the school building?,,아유미,...... 이렇게 양초를 놔 두면,,,あゆみ,……像這樣放上蠟燭的話，, ,,1,95,0,1,0,0,0,0,0,,Translated
+981,あゆみ,持田君達が見つけてくれたら、目印になるかも。,, ,Ayumi,They'll be like signal flares for Mochida and the,others.,,아유미,"모치다 군이 이걸 보면, 길잡이가 될 거야.",,,あゆみ,持田同學他們看到的話，也許能當作記號。, ,,1,96,0,1,0,0,0,0,0,,Translated
+982,あゆみ,私や宍戸先生、岸沼君も,この校舎の中に、一緒にいるってこと。, ,Ayumi,Let them know that you and me and Ms. Shishido are,"all here with them, safe and sound.",,아유미,"나와 시시도 선생님, 키시누마 군도",이 교사 안에 있는 게 되는 거지.,,あゆみ,表示我和宍戶老師、岸沼同學,也在這校舍裡。,,1,97,0,1,0,0,0,0,0,,Translated
+983,良樹,そ、そうだな。, , ,Yoshiki,"Y-Yeah, I guess...",,,요시키,"그, 그렇군.",,,良樹,說、說得也是。, ,,1,245,22,1,0,0,0,0,0,,Translated
+984,良樹,……。,（それ、お前の存在証明にしかならねぇけど）, ,Yoshiki,...,(Seems more like she's just trying to reassure,HERSELF that she's okay...),요시키,......,"(그건, 네 존재를 증명하는 것밖에 되지 않겠지만)",,良樹,……。,（那只不過是在證明你的存在而已）,,1,246,22,1,0,0,0,0,0,,Translated
+985,良樹,（……ま いいか）, , ,Yoshiki,"(...but, if it makes her feel better...)",,,요시키,(...... 뭐 됐다),,,良樹,（……算了　也好）, ,,1,247,22,1,0,0,0,0,0,,Translated
+986,良樹,いこうぜ。, , ,Yoshiki,"Come on, let's go.",,,요시키,가자.,,,良樹,走吧。, ,,1,248,22,1,0,0,0,0,0,,Translated
+987,あゆみ,うん……！, , ,Ayumi,Okay!,,,아유미,응......!,,,あゆみ,嗯……！, ,,1,98,0,1,0,0,0,0,0,,Translated
+988,あゆみ,んぶっ……うえっ, , ,Ayumi,Nlg... *gag*,,,아유미,우욱...... 우웩,,,あゆみ,唔噗……嘔, ,,1,226,0,1,0,0,0,0,0,,Translated
+989,良樹,お、おい大丈夫か？, , ,Yoshiki,"H-Hey, you all right?",,,요시키,"어, 야 괜찮아?",,,良樹,喂、喂沒事吧？, ,,1,171,23,1,0,0,0,0,0,,Translated
+990,あゆみ,んぶっ……うえっ, , ,Ayumi,Nlg... *gag*,,,아유미,우욱...... 우웩,,,あゆみ,唔噗……嘔, ,,1,226,0,1,0,0,0,0,0,,Translated
+991,良樹,お、おい大丈夫か？, , ,Yoshiki,"H-Hey, you all right?",,,요시키,"어, 야 괜찮아?",,,良樹,喂、喂沒事吧？, ,,1,171,23,1,0,0,0,0,0,,Translated
+992,,　透明な細い糸が張ってある、,　滑車の付いた装置があります。, ,,It appears to be a control mechanism for some sort,"of elaborate pulley system, rigged up with a network","of fine, virtually transparent threads.",,투명하고 가는 실이 쳐져 있는,도르래가 달린 장치가 있습니다.,,,有裝著透明細線的滑輪裝置。, ,,0,0,0,0,0,0,0,0,0,,Translated
+993,,　レバーを動かしますか？, , ,,There's a lever jutting out from one side.,Pull it?,,,레버를 움직이겠습니까?,,,,要操作拉桿嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+994,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+995,,　レバーは固定され、動かなくなりました……, , ,,The lever seems stuck. It won't budge.,,,,레버는 고정되어 움직이지 않게 되었습니다......,,,,拉桿被固定住，動不了了……, ,,0,0,0,0,0,0,0,0,0,,Translated
+996,,　犠牲者の手記（３／５）, , ,,[Victim's Memoirs],(3／5),,,희생자의 수기 (3/5),,,,犧牲者的手記（３／５）, ,,0,0,0,0,0,0,0,0,0,,Translated
+997,,　……アイツと一緒に,　脱出する為、この校舎を,　探索しているが……,,I've been searching every last corner of this school,"building, trying to find a way of escaping with her.",,,...... 그 녀석과 함께,"탈출하기 위해, 이 교사를",탐색 중인데......,,　……為了和那傢伙一起逃出去,　探索這校舍，,　但……,0,0,0,0,0,0,0,0,0,,Translated
+998,,　駄目だ。,　もがけばもがくほど、,　酷い事ばかり起こる……,,But it's not happening. No matter how much we,"struggle, only further misery awaits us.",,,틀렸다.,발버둥을 치면 칠수록,좋지 않은 일만 일어난다......,,　不行。,　越是掙扎，,　只會發生更糟的事情……,0,0,0,0,0,0,0,0,0,,Translated
+999,,　耐え難い喉の渇きと,　胃が縮んで潰れてしまいそうな,　この空腹は,,I'm so unbearably thirsty...so hungry that it feels,like my stomach is eating itself...,,,견디기 힘든 갈증과,위가 쪼그라드는 것 같은,이 공복감은,,　難以忍受的口渴,　和胃像要縮成一團的,　飢餓感，,0,0,0,0,0,0,0,0,0,,Translated
+1000,,　一刻ごとに膨れ上がり、,　俺の前に　黒く重くのしかかってくる……, ,,"And every moment, it gets worse. It's like a big,",black mass in front of me that's slowly closing,in. I can't keep ignoring it.,,점점 부풀어 올라,내 앞에 검고 무겁게 닥쳐 온다......,,,　每時每刻都在膨脹，,　沉重地壓在我面前……, ,0,0,0,0,0,0,0,0,0,,Translated
+1001,,　手のひらの、アイツの,　眼球と話をする事で俺は,　正気を保っている。,,"I've started talking to the eyeball in my hand,",to help stay focused and maintain my sanity.,,,손바닥에 있는 그 녀석의,안구와 얘길 하며,제정신을 지키고 있다.,,　和掌心裡那傢伙的眼球說話,　是我保持清醒的方式。, ,0,0,0,0,0,0,0,0,0,,Translated
+1002,,　そんなに俺を見るなよ　,　オマエの遺書は、, ,,Stop looking at me like that!,"I swear, I'll find us a way out of here!",,,날 그렇게 보지 마,네 유서는,,,　別那樣看我,　你的遺書，, ,0,0,0,0,0,0,0,0,0,,Translated
+1003,,　脱出したら必ず,　家族に届けてやるから, ,,I have to make sure I tell your family what you did,for me...,,,탈출하면 반드시,가족에게 전해줄 테니까,,,　逃出去後一定會,　交給你的家人的, ,0,0,0,0,0,0,0,0,0,,Translated
+1004,,　壁に張り紙があります……,　よく見ると、紙に涙の様な跡が,　点々と付いています。,,There's a piece of scrap paper pinned to the wall.,"You notice dark spots dotting the page, and realize",they're tear stains.,,벽에 종이가 붙어 있습니다......,잘 보니 종이에 눈물 같은 자국이,여기저기 묻어 있습니다.,,牆上貼著一張紙……,　仔細一看，紙上有點點,　淚痕。,0,0,0,0,0,0,0,0,0,,Translated
+1005,,　……知ろうと欲しない者には,　到底、状況の打開など不可能だ……, ,,...Those who choose to ignore the darkness that,dwells in the hearts of man may be stuck forever,in a loop...,,...... 알려고 하지 않는 자는,도저히 상황을 해결할 수 없다......,,,　……不想去了解的人，,　是絕對無法打開局面的……, ,0,0,0,0,0,0,0,0,0,,Translated
+1006,,　……しかし、この世には,　知ってはならない真実も,　また存在する……,,"...For in this world, there are some truths that","simply must be known, no matter how disturbing...",,,...... 그러나 이 세상에는,알아서는 안 되는 진실도,존재한다......,,　……然而，這個世界上,　也有不該知道的,　真相……,0,0,0,0,0,0,0,0,0,,Translated
+1007,,　読んでいる君の精神を,　深刻に破壊する、, ,,"But curiosity can be deadly, and other truths are",best left untold.,,,읽는 사람의 정신을,심각하게 파괴하는,,,　會嚴重破壞閱讀者精神的，, ,,0,0,0,0,0,0,0,0,0,,Translated
+1008,,　呪われた,　ダイイングメッセージの存在, ,,"Beware the messages of the dead, for there be curses",among them. Curses that can crush even the strongest,"wills, demolishing all semblance of reason.",,저주받은,다잉 메시지의 존재,,,　被詛咒的臨終遺言的存在, ,,0,0,0,0,0,0,0,0,0,,Translated
+1009,,　君の心を守りたければ……,　【犠牲者の手記】は, ,,"If you wish to protect your sanity, take heed.",Do not let your curiosity get the better of you.,,,네 마음을 지키고 싶다면......,【희생자의 수기】는,,,　如果想保護自己的心靈……,　【犧牲者的手記】, ,0,0,0,0,0,0,0,0,0,,Translated
+1010,,　絶対に、最後まで,　読んではいけない, ,,Do not read the Victim's Memoirs to their,conclusion.,,,절대로 끝까지,봐서는 안 돼,,,　絕對不能讀到,　最後。,,0,0,0,0,0,0,0,0,0,,Translated
+1011,,　玄関扉は、ピタリと空間に固定され開きません。, , ,,The front entranceway might as well be painted on.,"It's neither opening, nor giving any hints that it",will ever open.,,현관문은 공간에 딱 고정되어 열리지 않습니다.,,,,玄關門像固定在空間裡一樣打不開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+1012,,　玄関扉は、ピタリと空間に固定され開きません。, , ,,The front entranceway might as well be painted on.,"It's neither opening, nor giving any hints that it",will ever open.,,현관문은 공간에 딱 고정되어 열리지 않습니다.,,,,玄關門像固定在空間裡一樣打不開。, ,,0,0,0,0,0,0,0,0,0,,Translated
+1013,良樹,くそッ、やっぱり開かないか……, , ,Yoshiki,Dammit! I knew it couldn't be this easy!,,,요시키,"젠장, 역시 안 열리는군......",,,良樹,可惡，果然打不開嗎……, ,,1,175,23,1,0,0,0,0,0,,Translated
+1014,あゆみ,……。, , ,Ayumi,...,,,아유미,......,,,あゆみ,……。, ,,1,228,0,1,0,0,0,0,0,,Translated
+1015,良樹,なんで開かねぇんだよ！, , ,Yoshiki,Why won't you open?!,,,요시키,왜 안 열리는 거야!,,,良樹,為什麼打不開！, ,,1,176,23,1,0,0,0,0,0,,Translated
+1016,良樹,出せよ、ふざけんなよ！, , ,Yoshiki,"Let us out, you worthless piece of--",,,요시키,장난치지 말고 열어!,,,良樹,讓我們出去，開什麼玩笑！, ,,1,177,23,1,0,0,0,0,0,,Translated
+1017,あゆみ,……うるさいな！　もぅ！, , ,Ayumi,--God you're annoying! Just shut up!,,,아유미,...... 시끄럽네! 진짜!,,,あゆみ,……吵死了！真是的！, ,,1,229,0,1,0,0,0,0,0,,Translated
+1018,良樹,……っ, , ,Yoshiki,...Uh...,,,요시키,...... 윽,,,良樹,……, ,,1,178,23,1,0,0,0,0,0,,Translated
+1019,あゆみ,たとえ開いても私は行かない。, , ,Ayumi,"Even if it DID open, I'd be staying right where",I am!,,아유미,어차피 열린다고 해도 난 안 가.,,,あゆみ,就算打開了我也不會走。, ,,1,230,0,1,0,0,0,0,0,,Translated
+1020,あゆみ,先生やみんなを置いて、逃げるの？, , ,Ayumi,You think I'm just going to abandon Ms. Yui and all,"our friends, and run away?!",,아유미,선생님이랑 애들만 놔두고 도망치려고?,,,あゆみ,你要丟下老師和大家自己逃跑？, ,,1,231,0,1,0,0,0,0,0,,Translated
+1021,良樹,……なんだよ。　……,…そうじゃねぇよ。, ,Yoshiki,...What's your problem? I never said that...,,,요시키,...... 뭐야.,... 그런 거 아냐.,,良樹,……什麼啊。　……,　不是那樣的。,,1,179,23,1,0,0,0,0,0,,Translated
+1022,あゆみ,臆病者！　卑怯者！　不良！, , ,Ayumi,Wuss! Coward! Delinquent!,,,아유미,이 겁쟁이! 비겁한 사람! 불량배!,,,あゆみ,膽小鬼！卑鄙！不良少年！, ,,1,232,0,1,0,0,0,0,0,,Translated
+1023,良樹,お前こそうるせーよ！！, , ,Yoshiki,Now how about YOU shut the hell up?!,,,요시키,너야말로 시끄럽다고!!,,,良樹,你才給我閉嘴！！, ,,1,180,23,1,0,0,0,0,0,,Translated
+1024,あゆみ,………。, , ,Ayumi,...,,,아유미,.........,,,あゆみ,………。, ,,1,233,0,1,0,0,0,0,0,,Translated
+1025,良樹,……。　チッ、行くぞ。, , ,Yoshiki,...Come on. Let's just go.,,,요시키,"...... 쳇, 가자.",,,良樹,……。　嘖，走了。, ,,1,181,23,1,0,0,0,0,0,,Translated
+1026,あゆみ,……持田君だったら良かったのに。, , ,Ayumi,...Wish I were with Mochida instead of you...,,,아유미,...... 모치다 군이었으면 좋았을 텐데.,,,あゆみ,……要是持田同學就好了。, ,,1,234,0,1,0,0,0,0,0,,Translated
+1027,良樹,！, , ,Yoshiki,...!,,,요시키,!,,,良樹,！, ,,1,182,23,1,0,0,0,0,0,,Translated
+1028,良樹,………ッ。, , ,Yoshiki,...Rrng...,,,요시키,......... 윽.,,,良樹,………。, ,,1,183,23,1,0,0,0,0,0,,Translated
+1029,良樹,さっきの幽霊……か？　教室出て来てるぞ！, , ,Yoshiki,It's that ghost from before!,...It left the classroom!,,요시키,좀 전에 그거...... 유령이야? 교실을 나왔어!,,,良樹,剛才那個幽靈……？從教室裡出來了！, ,,1,57,23,1,0,0,0,0,0,,Translated
+1030,あゆみ,はぁッ、はぁッ、絶対……触られちゃ駄目よ……！, , ,Ayumi,*pant* *wheeze* Don't... *pant*,Don't let it touch you!,,아유미,"하아, 하아, 절대로...... 닿으면 안 돼......!",,,あゆみ,哈啊、哈啊，絕對……不能被碰到……！, ,,1,128,0,1,0,0,0,0,0,,Translated
+1031,,　お前の後ろは、ほんものか？, , ,,"Each time you turn around, stop for a moment and",ask yourself: is the world behind your back still,there?,,"네 뒤는, 진짜냐?",,,,　你身後是真實的嗎？, ,,0,0,0,0,0,0,0,0,0,,Translated
+1032,,　犠牲者の手記（２／５）, , ,,[Victim's Memoirs],(2／5),,,희생자의 수기 (2/5),,,,犧牲者的手記（２／５）, ,,0,0,0,0,0,0,0,0,0,,Translated
+1033,,　俺のてのひらに, , ,,"I hold, in the palm of my hand...",,,,내 손으로,,,,　在我的掌心裡，, ,,0,0,0,0,0,0,0,0,0,,Translated
+1034,,　生きていたあいつの、,　生きていたあいつカラダの,　一部分　握られている,,...a piece of a person's body. A piece of a person,who was living and breathing only a short while ago.,,,살아있던 그 녀석의,살아있던 그 녀석 몸의,일부분을 쥐고 있다,,　握著活著的她，,　活著的她身體的,　一部分,0,0,0,0,0,0,0,0,0,,Translated
+1035,,　アイツの頭についてた,　器官を持ち歩いて,　いるんだね,,This body part used to be attached to her head. And,"now, I'm walking around the school with it.",,,그 녀석의 머리에 달려 있던,기관을 가지고,다닌다,,　帶著那傢伙頭上,　附著的器官,　走來走去,0,0,0,0,0,0,0,0,0,,Translated
+1036,,　眼球ってこんなに,　重かったんだ, ,,I had no idea eyeballs were so heavy.,,,,안구는 이렇게나,무거웠구나,,,　眼球原來這麼重啊。, ,,0,0,0,0,0,0,0,0,0,,Translated
+1037,,　僕はその硬質感を確かめるように、,　何度もにぎったり,　弱めたりしたのである,,"And I just keep squishing it in the palm of my hand,","as if I'm testing its firmness. Squeeze, and","release... Squeeze, and release...",,나는 그 질감을 확인하기 위해,몇 번이고 쥐었다,폈다 했다,,　我像是在確認那硬質感般，,　反覆地握緊、,　放鬆。,0,0,0,0,0,0,0,0,0,,Translated
+1038,良樹,おい、篠崎……お前何やって……, , ,Yoshiki,"Shinozaki, there you are! What are you do--",,,요시키,"야, 시노자키...... 너 뭘 하고......",,,良樹,喂，篠崎……你在做什麼……, ,,1,32,23,1,0,0,0,0,0,,Translated
+1039,あゆみ,誰もそんなことを言っていない！！！！,　　　　　　　　　　　　　 , ,Ayumi,NO ONE IS SAYING THAT!!,,,아유미,아무도 그런 말 안 했어!!!!,,,あゆみ,沒有人說過那種話！！！！, ,,1,116,0,1,1,0,0,0,0,,Translated
+1040,あゆみ,今日は娘の誕生日なので……,７つになったお祝いに、, ,Ayumi,Today is my daughter's birthday. She's turning,seven. We're going out together to celebrate.,,아유미,오늘은 딸의 생일이라......,7살이 된 기념으로,,あゆみ,今天是女兒的生日……,為了慶祝她七歲，, ,1,117,0,1,1,0,0,0,0,,Translated
+1041,あゆみ,お前の！！　汚い！！　あぁー！？, , ,Ayumi,WHAT ARE YOU DOING?! THAT'S DISGUSTING! AAAAAHH!!,,,아유미,너!! 더러워!! 아아~!?,,,あゆみ,你這傢伙！！　好髒！！　啊─！？, ,,1,118,0,1,1,0,0,0,0,,Translated
+1042,あゆみ,どうして一緒にこっちを,見るんだァ！！！！！, ,Ayumi,WHY ARE YOU BOTH LOOKING AT ME LIKE THAT?!,,,아유미,왜 다들 이쪽을,보는 거야아!!!!!,,あゆみ,為什麼都一起看著這邊！！！！！, ,,1,119,0,1,1,0,0,0,0,,Translated
+1043,良樹,………っ, , ,Yoshiki,...,,,요시키,......... 윽,,,良樹,………, ,,1,33,23,1,0,0,0,0,0,,Translated
+1044,良樹,……し、篠崎……,おい……, ,Yoshiki,Sh-Shinozaki... Hey...,,,요시키,"...... 시, 시노자키......",야......,,良樹,……篠、篠崎……,喂……,,1,51,23,1,0,0,0,0,0,,Translated
+1045,あゆみ,あれ……岸沼くん。, , ,Ayumi,Hmm? Kishinuma!,,,아유미,어라...... 키시누마 군.,,,あゆみ,咦……岸沼同學。, ,,1,123,0,1,0,0,0,0,0,,Translated
+1046,あゆみ,どうしたの？, , ,Ayumi,What's wrong?,,,아유미,왜 그래?,,,あゆみ,怎麼了？, ,,1,124,0,1,0,0,0,0,0,,Translated
+1047,良樹,いや……なんかオマエ、変な事……喋ってたぞ。, , ,Yoshiki,Uhh... You were saying some pretty weird stuff just,now...,,요시키,아니...... 네가 뭔가 이상한...... 말을 해서.,,,良樹,不……你剛才說了奇怪的話……, ,,1,52,23,1,0,0,0,0,0,,Translated
+1048,あゆみ,……？, , ,Ayumi,...?,,,아유미,......?,,,あゆみ,……？, ,,1,125,0,1,0,0,0,0,0,,Translated
+1049,良樹,（……憶えてないのか……？）, , ,Yoshiki,(Was she not aware...?),,,요시키,(기억 못 하나......?),,,良樹,（……不記得了嗎……？）, ,,1,53,23,1,0,0,0,0,0,,Translated
+1050,良樹,（この状況でのプレッシャーのせいか……,　マジで神経が、まいってるな、篠崎……）, ,Yoshiki,(Must be the pressure. Her nerves are probably shot,all to hell by now...),,요시키,(이 상황 때문인가......,"진짜 정신이 나갔군, 시노자키......)",,良樹,（是這情況下的壓力造成的嗎……,　精神真的出問題了啊，篠崎……）,,1,54,23,1,0,0,0,0,0,,Translated
+1051,良樹,あ、いや気のせいかも、俺の。,……気にすんなよ。, ,Yoshiki,"Uh, never mind. Probably just my imagination.",Don't worry about it.,,요시키,"아, 아니 기분 탓이야.",...... 신경 쓰지 마.,,良樹,啊，不也許是我的錯覺。,……別在意。,,1,55,23,1,0,0,0,0,0,,Translated
+1052,あゆみ,………, , ,Ayumi,...?,,,아유미,.........,,,あゆみ,………, ,,1,126,0,1,0,0,0,0,0,,Translated
+1053,良樹,篠崎……篠崎は何処だ……, , ,Yoshiki,Shinozaki... Where are you...?,,,요시키,시노자키...... 시노자키는 어디 있냐......,,,良樹,篠崎……篠崎在哪裡……, ,,1,217,23,1,0,0,0,0,0,,Translated
+1054,,ズルッ……, , ,,*shloop*,,,,질질......,,,,啪嗒……, ,,0,0,0,0,0,0,0,0,0,,Translated
+1055,,ズルッ……, , ,,*shloop*,,,,질질......,,,,啪嗒……, ,,0,0,0,0,0,0,0,0,0,,Translated
+1056,,ズルッ……, , ,,*shloop*,,,,질질......,,,,啪嗒……, ,,0,0,0,0,0,0,0,0,0,,Translated
+1057,良樹,（いや、こっちじゃない……）, , ,Yoshiki,"(No, not over here...)",,,요시키,"(아니, 이쪽이 아냐......)",,,良樹,（不，不是這邊……）, ,,1,0,0,1,0,0,0,0,0,,Translated
+1058,良樹,（いや、こっちじゃない……）, , ,Yoshiki,"(No, not over here...)",,,요시키,"(아니, 이쪽이 아냐......)",,,良樹,（不，不是這邊……）, ,,1,0,0,1,0,0,0,0,0,,Translated
+1059,良樹,（いや、こっちじゃない……）, , ,Yoshiki,"(No, not over here...)",,,요시키,"(아니, 이쪽이 아냐......)",,,良樹,（不，不是這邊……）, ,,1,0,0,1,0,0,0,0,0,,Translated
+1060,良樹,ッア！！　……ェァ！？, , ,Yoshiki,U-Ulgh!!,,,요시키,으아!! ...... 아!?,,,良樹,呃！！　……啊！？, ,,1,219,23,1,0,0,0,0,0,,Translated
+1061,良樹,な……なんだよ……コレ？, , ,Yoshiki,Wh-What...the hell...?!,,,요시키,뭐...... 뭐야...... 이건?,,,良樹,什……什麼啊……這個？, ,,1,220,23,1,0,0,0,0,0,,Translated
+1062,あゆみ,（ガタガタ……ガタガタガタ）, , ,Ayumi,*shiver* *tremble*,,,아유미,(덜덜...... 덜덜덜),,,あゆみ,（喀喀喀喀……喀喀喀）, ,,1,1,1,1,0,0,0,0,0,,Translated
+1063,良樹,まさか……これ,鈴……, ,Yoshiki,This isn't... It couldn't be...,Suzu--,,요시키,설마...... 이거,스즈......,,良樹,難道……這個，鈴……, ,,1,0,0,1,0,0,1,18,0,,Translated
+1064,あゆみ,あああああああーー！！, , ,Ayumi,AAAAAAAAAAAAAHHHH!!,,,아유미,아아아아아아아~~!!,,,あゆみ,啊啊啊啊啊啊──！！, ,,1,0,0,0,0,1,0,0,0,,Translated
+1065,良樹,……篠崎！,見るな、ここを離れるぞ！, ,Yoshiki,Shinozaki! Don't look!,"Come on, let's get away from here!",,요시키,...... 시노자키!,"보지 마, 가자!",,良樹,……篠崎！,別看，離開這裡！,,1,222,23,1,0,0,0,0,0,,Translated
+1066,あゆみ,もういやあああぁぁぁ！！！, , ,Ayumi,I CAN'T TAKE THIS ANYMORE!!,,,아유미,이젠 싫어어어어어어!!!,,,あゆみ,已經受夠了啊啊啊！！！, ,,1,2,1,1,1,0,0,0,0,,Translated
+1067,良樹,……篠崎ーッ！, , ,Yoshiki,SHINOZAKI!!,,,요시키,...... 시노자키~!,,,良樹,……篠崎──！, ,,1,223,23,1,0,0,0,0,0,,Translated
+1068,良樹,マジで…… 頭、ヘンになりそうだ……, , ,Yoshiki,I'm... I'm really starting to lose it...,,,요시키,진짜...... 미칠 것 같네......,,,良樹,真的……快要瘋了……, ,,1,224,23,1,0,0,0,0,0,,Translated
+1069,良樹,篠, , ,Yoshiki,Shino--,,,요시키,시노,,,良樹,篠, ,,1,225,23,1,0,0,0,0,0,,Translated
+1070,,【理科室】,　扉は模型のようにガチリと固定され、,　開ける事が出来ません。,,[Science Lab],The door seems affixed to the wall like a model.,It can't be opened.,,【과학실】,문은 모형처럼 딱 고정되어,열 수 없습니다.,,【理科室】,　門像模型一樣固定住，無法打開。,,0,0,0,0,0,0,0,0,0,,Translated
+1071,,９月１８日　　日番　吉沢／梓 , , ,,09-18,                    [Day duty: Yoshizawa／Azusa],,,9월 18일      당번  요시자와/아즈사,,,,九月十八日　　值日　吉沢／梓 , ,,0,0,0,0,0,0,0,0,0,,Translated
+1072,結衣,（はっ…………あれ……？）, , ,Ms. Shishido,(Wh...What...?),,,유이,(핫............ 어라......?),,,結衣,（啊…………咦……？）, ,,1,42,27,1,0,0,0,0,0,,Translated
+1073,結衣,（棚が、軽くなってる……？）, , ,Ms. Shishido,(The shelf feels like it's...gotten lighter...),,,유이,"(수납장이, 가벼워졌네......?)",,,結衣,（櫃子……變輕了……？）, ,,1,43,27,1,0,0,0,0,0,,Translated
+1074,結衣,痛い！　……うぅ, , ,Ms. Shishido,OW! ...Ooh...,,,유이,아얏! ...... 으으,,,結衣,好痛！……嗚, ,,1,44,27,1,0,0,0,0,0,,Translated
+1075,結衣,っ……　ふぅ……,ハァッ、ハァッ, ,Ms. Shishido,*exhale*,*pant* *pant*,,유이,윽...... 후우......,"하아, 하아",,結衣,……呼……,哈啊、哈啊,,1,45,27,1,0,0,0,0,0,,Translated
+1076,,　……先生……,　本気で生徒の事を、心配シてイるのカい？, ,,"So you're...really, truly concerned about the safety","of your students, are you?",,,...... 선생......,진심으로 학생을 걱정하는 거야?,,,　……老師……,　你是真心在擔心學生嗎？,,0,158,5,1,0,0,0,0,0,,Translated
+1077,結衣,……当たり前でしょう, , ,Ms. Shishido,Of course I am!,,,유이,...... 당연하지,,,結衣,……當然的吧, ,,1,46,27,1,0,0,0,0,0,,Translated
+1078,,　……たかが他人の、教師だろ？,　親でも無いくせに……, ,,"But you're just their instructor, no? You have no",familial bond with any of them. You're not their,mother.,,...... 고작 타인의 교사면서?,부모도 아닌 주제에......,,,　……你只是個外人老師吧？,　又不是父母。,,0,159,5,1,0,0,0,0,0,,Translated
+1079,結衣,親みたいなものよ！, , ,Ms. Shishido,But they're my children!,,,유이,부모나 마찬가지야!,,,結衣,就像父母一樣啊！, ,,1,47,27,1,0,0,0,0,0,,Translated
+1080,,　……！, , ,,...!,,,,......!,,,,　……！, ,,0,160,5,1,0,0,0,0,0,,Translated
+1081,結衣,私も、如月学園のほかの,先生方も, ,Ms. Shishido,I think I speak for every single one of us at,Kisaragi Academy...,,유이,나도 키사라기 학원의,선생님들도,,結衣,我和如月學園的,其他老師們, ,1,48,27,1,0,0,0,0,0,,Translated
+1082,結衣,みんなのご両親にも負けないくらい、,あの子達を愛してるわ, ,Ms. Shishido,...when I say that we love our children... We care,about them just as their parents do.,,유이,모두 부모님에게 지지 않을 정도로,그 아이들을 사랑해,,結衣,都對那些孩子們有著不輸給他們父母的愛, ,,1,49,27,1,0,0,0,0,0,,Translated
+1083,,　………。, , ,,...,,,,.........,,,,　………。, ,,0,161,5,1,0,0,0,0,0,,Translated
+1084,結衣,馬鹿にしないで、教師を, , ,Ms. Shishido,Never underestimate a teacher.,,,유이,"바보 취급하지 마, 교사를",,,結衣,不要小看教師, ,,1,50,27,1,0,0,0,0,0,,Translated
+1085,,　……うっ……く……　うググ, , ,,...Oo...kh...ulghh...,,,,...... 윽...... 크...... 으으으,,,,　……嗚……咳……　嗚咕咕, ,,0,162,5,1,0,0,0,0,0,,Translated
+1086,結衣,それよりも、答えて！　私の生徒たちが他にも, , ,Ms. Shishido,"Now, answer me this! Your little rant earlier",suggested that more of my students are here than,the two I came with and the one I heard...,유이,"그것보다, 대답해! 내 학생들이",,,結衣,比起那個，回答我！我的學生們，還有其他, ,,1,51,27,1,0,0,0,0,0,,Translated
+1087,結衣,ここに連れて来られているのは、本当なのね？, , ,Ms. Shishido,Is it true? Were the others brought here as well?,,,유이,"여기에 왔다는 건, 정말이지?",,,結衣,被帶到這裡來的是真的嗎？, ,,1,52,27,1,0,0,0,0,0,,Translated
+1088,,　……あぁ……生者ノ魂が同時に増エたのヲ,　感じタから……イるよ、何人か, ,,It is. Numerous corporeal entities joined us in,"these closed spaces, all at the same time.",,,...... 그래...... 산 자의 혼이 동시에 늘어난 것을,느꼈으니...... 몇 명 있어,,,　……啊……因為感覺到生者的靈魂同時增加了,　……有哦，好幾個人。,,0,163,5,1,0,0,0,0,0,,Translated
+1089,,　……先生を含めて……,　９人クらいだ。, ,,Counting you...I sensed the arrival of nine people.,,,,...... 선생을 포함해서......,9명 정도야.,,,　……包含老師在內……,　大約９人左右。,,0,164,5,1,0,0,0,0,0,,Translated
+1090,結衣,（う…… ぐっ、痛い……！　右腕が、折れてる……）, , ,Ms. Shishido,(Oof... Ooooh...,My right arm...is definitely broken...),,유이,"(으...... 윽, 아파......! 오른팔이 부러졌어......)",,,結衣,（嗚……　咳，好痛……！　右手臂……骨折了……）, ,,1,53,27,1,0,0,0,0,0,,Translated
+1091,結衣,（それに、この血……）, , ,Ms. Shishido,(And...all this blood...),,,유이,"(그리고, 이 피......)",,,結衣,（而且，這些血……）, ,,1,54,27,1,0,0,0,0,0,,Translated
+1092,結衣,（棚に入っていた刃物が、背中や腰に刺さってたんだ）, , ,Ms. Shishido,(All those cutting implements on the shelf must have,done a number on my back...),,유이,(수납장에 들어 있던 날붙이가 등과 허리를 찔렀어),,,結衣,（櫃子裡的那些刀具刺進了背部和腰部……）, ,,1,55,27,1,0,0,0,0,0,,Translated
+1093,結衣,（どのくらい気を失っていたのかしら……）, , ,Ms. Shishido,(I wonder how long...I was out for...),,,유이,(얼마나 정신을 잃은 거지......),,,結衣,（我到底……昏過去多久了……）, ,,1,56,27,1,0,0,0,0,0,,Translated
+1094,結衣,（篠崎さん達が心配だわ、戻らなくちゃ）, , ,Ms. Shishido,(Shinozaki and Kishinuma must be worried. I need,to get back to the classroom...),,유이,"(시노자키 일행이 걱정이야, 돌아가야 해)",,,結衣,（篠崎同學他們一定很擔心，得回去才行）, ,,1,57,27,1,0,0,0,0,0,,Translated
+1095,結衣,きゃっ！, , ,Ms. Shishido,Eek!,,,유이,꺅!,,,結衣,呀！, ,,1,15,27,1,0,0,0,0,0,,Translated
+1096,,……ドケだと……？　畜生……,　この、生者ガ……, ,,Step aside?! ...Why don't you fuck off...,you damned corporeal...,,,...... 비키라고......? 젠장......,이 살아있는 것이......,,,　……讓開……？　混帳……,　這該死的活人……,,0,134,5,1,0,0,0,0,0,,Translated
+1097,,……ゴゴゴゴゴゴッ……, , ,,*rumble* *rumble*,,,,고고고고고고......,,,,　……轟隆轟隆轟隆……, ,,0,0,0,0,0,0,0,0,0,,Translated
+1098,結衣,……じ、地震！？, , ,Ms. Shishido,*gasp* ...An...earthquake?!,,,유이,"...... 지, 지진!?",,,結衣,……地、地震！？, ,,1,16,27,1,0,0,0,0,0,,Translated
+1099,, ,ガシャーン！　パリーン！, ,,*rattle* *rattle*,*kablam*,,,쨍그랑!  와장창!,,,, ,鏗啷！　嘩啦！,,0,0,0,0,0,0,0,0,0,,Translated
+1100,結衣,！　きゃ……！, , ,Ms. Shishido,Eek!,,,유이,!  꺄......!,,,結衣,！　呀……！, ,,1,17,27,1,0,0,0,0,0,,Translated

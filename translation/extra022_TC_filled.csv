@@ -1,0 +1,291 @@
+﻿Index,JP_Name,JP_Page1,JP_Page2,JP_Page3,EN2_Name,EN2_Page1,EN2_Page2,EN2_Page3,KO_Name,KO_Page1,KO_Page2,KO_Page3,TC_Name,TC_Page1,TC_Page2,TC_Page3,NameFlag,VoiceNo_low,VoiceNo_high,Timing,VoiceAutoPage,TextSpeed,Button,AutoPage,ExtVoice,Translator_Notes,Status
+0,田久地,と、扉ってこれ？！,幻影って……どう見ても本物に見えるけど……！,,Taguchi,I-Is this the door? I dunno about this...,It looks pretty solid to me!,,타구치,"이, 이게 문인가?!",환영이라니...... 아무리 봐도 진짜로 보이는데.....!,,田久地,這、這就是門嗎？！,幻影……怎麼看都像真的啊……！,,1,0,0,0,0,0,0,0,0,,Translated
+1,,頭から飛び込む,やめる,,,Charge into it,Back away,,,머리를 들이민다,그만둔다,,,用頭撞進去,放棄,,0,255,255,255,255,255,255,255,255,,Translated
+2,田久地,うわ！,,,Taguchi,Geh!,,,타구치,우와!,,,田久地,哇！,,,1,0,0,0,0,0,0,0,0,,Translated
+3,田久地,と、扉ってこれ？！,幻影って……どう見ても本物に見えるけど……！,,Taguchi,I-Is this the door? I dunno about this...,It looks pretty solid to me!,,타구치,"이, 이게 문인가?!",환영이라니...... 아무리 봐도 진짜로 보이는데.....!,,田久地,這、這就是門嗎？！,幻影……怎麼看都像真的啊……！,,1,0,0,0,0,0,0,0,0,,Translated
+4,,頭から飛び込む,やめる,,,Charge into it,Back away,,,머리를 들이민다,그만둔다,,,用頭撞進去,放棄,,0,255,255,255,255,255,255,255,255,,Translated
+5,田久地,ッが！,,,Taguchi,Whoa!,,,타구치,악!!,,,田久地,呃！,,,1,0,0,0,0,0,0,0,0,,Translated
+6,,撮っても　撮っても　お前のしにがお,ゆがんでく　くずれてく　ちぎれてく,お前のしにがお,,Keep on recording and recording,After you die your face will warp and crumble,and be torn apart    on camera,,아무리 찍어도 네 죽은 얼굴,일그러진 뭉개진 찢어진,네 죽은 얼굴,,不管怎麼拍　不管怎麼拍　你的死相,扭曲　崩壞　撕裂,你的死相,0,0,0,0,0,0,0,0,0,,Translated
+7,,内への扉は　悪意ある幻影だ,心を強く持ち　頭から飛び込め,,,The door leading inside is a malicious illusion.,Take heart and you can charge right through it.,,,안에 있는 문은  악의가 깃든 환영이다,마음을 굳게 먹고  머리를 들이밀어라,,,通往內部的門是　充滿惡意的幻影,堅定內心　用頭撞進去,,0,0,0,0,0,0,0,0,0,,Translated
+8,田久地,ひィッ！　……ひいいぃぃぃーーーッ！,,,Taguchi,No... NOOOOO!!,,,타구치,히익!  ...... 히이이이이익~~~!,,,田久地,咿！　……咿～～～～！,,,1,0,0,0,0,0,0,0,0,,Translated
+9,霊,かえひて……エエエェェェェェェェェ！！,,,Spirit,Gihh it baack!!,,,유령,돌려줘...... 어어어어어어어어어어어!!,,,幽靈,還給我……啊啊啊啊啊啊！！,,,1,0,0,0,0,0,0,0,0,,Translated
+10,霊,ひた！,,,Spirit,Gohhya!,,,유령,혀!,,,幽靈,舌！,,,1,0,0,0,0,0,0,0,0,,Translated
+11,田久地,グァ！！　……アアァッッ,,,Taguchi,Ghh! GHHAAH!!,,,타구치,구아!!  ...... 아아아악,,,田久地,呃啊！！　……啊啊,,,1,0,0,0,0,0,0,0,0,,Translated
+12,霊,め！！！,,,Spirit,Eye!,,,유령,눈!!!,,,幽靈,眼！！！,,,1,0,0,0,0,0,0,0,0,,Translated
+13,田久地,ッ！！！　……ギアアァーーーーーーーッッ！！,,,Taguchi,...! GhhhaaaaaaAAAAAAAAAAGGGGHHH!!,,,타구치,윽!!!  ...... 그아아아악~~~~~~~!!,,,田久地,！！！　……嘎啊啊啊啊啊啊～～！！,,,1,0,0,0,0,0,0,0,0,,Translated
+14,霊,ガアアウウウウゥゥゥゥ……！！！,,,Spirit,Graaaaaaaaaahhhhhhh...!,,,유령,가아아우우우우우우우우......!!!,,,幽靈,嘎啊啊嗚嗚嗚嗚嗚……！！！,,,1,0,0,0,0,0,0,0,0,,Translated
+15,田久地,助へてェェェェ！！！,,,Taguchi,HEEEEEELP MEEEEEE...!!,,,타구치,살려줘어어어어!!!,,,田久地,救救救救我～～～！！！,,,1,0,0,0,0,0,0,0,0,,Translated
+16,霊,ウウウウウウゥゥゥゥゥゥゥ……！！,,,Spirit,Uuuullllllgggghhh...,,,유령,우우우우우우우우우우우우우......!!,,,幽靈,嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚……！！,,,1,0,0,0,0,0,0,0,0,,Translated
+17,田久地,"……ゴポ
+文字表示:",,,Taguchi,...*splut*,,,타구치,,,,田久地,……咕嚕,,,1,0,0,0,0,0,0,0,0,,Translated
+18,霊,これ、ちがう……,,,Spirit,Doehhn't fit...,,,유령,"이건, 아냐......",,,幽靈,這個、不對……,,,1,0,0,0,0,0,0,0,0,,Translated
+19,田久地,ぉ……ォ……,,,Taguchi,Ghh..hhhh...,,,타구치,오...... 오......,,,田久地,喔……喔……,,,1,0,0,0,0,0,0,0,0,,Translated
+20,田久地,うわぁ！,,,Taguchi,Aaagh!,,,타구치,우와아!,,,田久地,哇啊！,,,1,0,0,0,0,0,0,0,0,,Translated
+21,田久地,ひいぃッ……！,,,Taguchi,GEEEAAAHH!!,,,타구치,히이익......!,,,田久地,咿～～！,,,1,0,0,0,0,0,0,0,0,,Translated
+22,,　何者かが扉を押さえているようで、,　開ける事が出来ません。,,,It seems almost like someone on the other side is,"holding the door shut. No matter what, it just",won't open.,,누군가가 문을 밀고 있는 것처럼,열리지 않습니다.,,,　好像有人從另一邊壓住門，無法打開。,,,0,0,0,0,0,0,0,0,0,,Translated
+23,子供の幽霊,『きゃは……　きゃっきゃっ……』, , ,Child Spirit,Heehee... Heeheehee...,,,어린 유령,『꺄하......  꺅꺅......』,,,小孩幽靈,『呀哈……　呀呀……』,,,1,46,32,1,0,0,0,0,0,,Translated
+24,子供の幽霊,『きゃは……　きゃっきゃっ……』, , ,Child Spirit,Heehee... Heeheehee...,,,어린 유령,『꺄하......  꺅꺅......』,,,小孩幽靈,『呀哈……　呀呀……』,,,1,46,32,1,0,0,0,0,0,,Translated
+25,,　奥に扉がありますが、ガチリと,　空間に固定されていて開きません……,,,"There's a door behind the cabinet, but it seems to","exist purely for show, as it's affixed to the wall",like a model. There's no way to open it.,,안에 문이 있지만,공간에 딱 고정되어 열리지 않습니다......,,,　裡面有門，但像模型一樣被固定在空中，無法打開……,,,0,0,0,0,0,0,0,0,0,,Translated
+26,,　役に立ちそうなものはありません……,,,,There's nothing particularly useful in here.,,,,도움이 될 만한 것은 없습니다......,,,,　沒有看起來有用的東西……,,,0,0,0,0,0,0,0,0,0,,Translated
+27,子供の幽霊,『きゃは……　きゃっきゃっ……』, , ,Child Spirit,Heehee... Heeheehee...,,,어린 유령,『꺄하......  꺅꺅......』,,,小孩幽靈,『呀哈……　呀呀……』,,,1,46,32,1,0,0,0,0,0,,Translated
+28,,　窓の外は真っ暗で、何も見えません……,,,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,　窗外一片漆黑，什麼也看不見……,,,0,0,0,0,0,0,0,0,0,,Translated
+29,,　窓の外は真っ暗で、何も見えません……,,,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,　窗外一片漆黑，什麼也看不見……,,,0,0,0,0,0,0,0,0,0,,Translated
+30,,　窓の外は真っ暗で、何も見えません……,,,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,　窗外一片漆黑，什麼也看不見……,,,0,0,0,0,0,0,0,0,0,,Translated
+31,,　窓の外は真っ暗で、何も見えません……,,,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,　窗外一片漆黑，什麼也看不見……,,,0,0,0,0,0,0,0,0,0,,Translated
+32,,　窓の外は真っ暗で、何も見えません……,,,,"From the windows, only a deep, immutable darkness",can be seen.,,,창밖은 새까매서 아무것도 보이지 않습니다......,,,,　窗外一片漆黑，什麼也看不見……,,,0,0,0,0,0,0,0,0,0,,Translated
+33,子供の幽霊,『きゃは……　きゃっきゃっ……』, , ,Child Spirit,Heehee... Heeheehee...,,,어린 유령,『꺄하......  꺅꺅......』,,,小孩幽靈,『呀哈……　呀呀……』,,,1,46,32,1,0,0,0,0,0,,Translated
+34,良樹,なんだこいつら、邪魔しやがって！！, , ,Yoshiki,The hell's with these kids?! They won't get out of,our way!,,요시키,"뭐야 이 자식들, 방해나 하고!!",,,良樹,這些小鬼是怎樣，淨會礙事！！,,,1,80,31,1,0,0,0,0,0,,Translated
+35,大川,このままじゃ、外に出れないよ。, , ,Ohkawa,I don't think we can get out this way as long as,they're around.,,오오카와,이래서는 못 나가겠어.,,,大川,這樣下去，沒辦法到外面去啊。,,,1,36,33,1,0,0,0,0,0,,Translated
+36,良樹,こいつらをどこかに引き付けておけると,いいんだが……, ,Yoshiki,"Maybe we can...I dunno, lure them away with",something?,,요시키,이 자식들을 유인했으면,좋겠는데.....,,良樹,要是能把這些傢伙引到什麼地方去就好了……,,,1,84,36,1,0,0,0,0,0,,Translated
+37,良樹,お前、なんか持ってねーか？,子供が喜びそうなもんとかよ……, ,Yoshiki,You got anything on you that little kids might be,into? Anything at all?,,요시키,"너, 뭐 좋은 거 없냐?",어린애가 좋아할 만한 거......,,良樹,你有沒有什麼東西？小孩會喜歡的那種……,,,1,110,36,1,0,0,0,0,0,,Translated
+38,,　何か思いついたのか、大川は制服のポケットを,　ゴソゴソと探った。,,,"This seemed to trigger an 'aha' moment for Ohkawa,",who began digging around inside his pocket with,purpose.,,"뭔가 생각난 듯, 오오카와는 교복 주머니를",뒤적였다.,,,　大川似乎想到了什麼，開始翻找制服口袋。,,,0,0,0,0,0,0,0,0,0,,Translated
+39,大川,……こ、これは！？, , ,Ohkawa,H-How about this?,,,오오카와,"...... 이, 이건!?",,,大川,……這、這個！？,,,1,37,33,1,0,0,0,0,0,,Translated
+40,良樹,……これはウサギか？, , ,Yoshiki,A...bunny rabbit?,,,요시키,...... 이건 토끼냐?,,,良樹,……這是兔子嗎？,,,1,82,31,1,0,0,0,0,0,,Translated
+41,大川,ウサギじゃない。『魔破少女パンツァール』の,『サンクタムくん』のラバーストラップ。,そんなことも知らないの？,Ohkawa,It's not a bunny rabbit! It's a rubber strap of,Sanctum from the 'Mach Girl Panzer' series!,How can you possibly not know that?!,오오카와,토끼가 아냐. 『마법소녀 판처』에 나오는,『생텀 군』 러버 스트랩.,그런 것도 몰라?,大川,不是兔子。是『魔破少女潘策』的,『聖所君』的橡膠吊飾。,連這都不知道？,1,38,33,1,0,0,0,0,0,,Translated
+42,良樹,知るかよ。ホントにそれ子供向けか？, , ,Yoshiki,"Why WOULD I know that?! That show's for kids,",isn't it?,,요시키,내가 알겠냐. 이거 정말 어린애용 맞아?,,,良樹,我哪知道啊。那真的是給小孩看的嗎？,,,1,83,31,1,0,0,0,0,0,,Translated
+43,大川,大人も子供も楽しめるのが最高のエンタメさ！,可愛いだろ？, ,Ohkawa,Everyone knows the best entertainment is just as,"enjoyable for adults as it is for children! Plus,","the little guy's awfully cute, don't you think?",오오카와,어른도 아이들도 즐길 수 있는 최고의 작품이야!,귀엽지?,,大川,大人小孩都能享受的才是最好的娛樂！,很可愛吧？,,1,39,33,1,0,0,0,0,0,,Translated
+44,,サンクタムくんを置きますか？, ,,,Place Sanctum as a lure?,,,,생텀 군을 놓아두겠습니까?,,,,要放置聖所君嗎？,,,0,0,0,0,0,0,0,0,0,,Translated
+45,,はい,いいえ,,,Yes,No,,,네,아니오,,,是,否,,0,255,255,255,255,255,255,255,255,,Translated
+46,大川,ど、どうかな……？, , ,Ohkawa,"...All right, let's see what happens...",,,오오카와,"어, 어때......?",,,大川,怎、怎麼樣……？,,,1,40,33,1,0,0,0,0,0,,Translated
+47,,　青い人魂たちが,　ラバーストラップに近寄っていく。,,,The blue spirits began to gather around the rubber,strap.,,,파란 도깨비불이,러버 스트랩에 다가간다.,,,　藍色鬼火們開始靠近橡膠吊飾。,,,0,0,0,0,0,0,0,0,0,,Translated
+48,良樹,……おお、効いてんな。,……ははっ、幽霊っていってもやっぱガキだな。, ,Yoshiki,"Well, what do you know? They may be dead, but",they're still kids where it counts.,,요시키,"...... 오오, 먹히는데.","...... 하핫, 유령이라고 해도 역시 어리구만.",,良樹,……喔喔，有效耶。,……哈哈，就算是幽靈，果然還是小鬼頭啊。,,1,84,31,1,0,0,0,0,0,,Translated
+49,良樹,……？, , ,Yoshiki,...?,,,요시키,......?,,,良樹,……？,,,1,85,31,1,0,0,0,0,0,,Translated
+50,良樹・大川,！？, , ,Yoshiki & Ohkawa,?!,,,요시키·오오카와,!?,,,良樹・大川,!？,,,1,0,0,0,0,0,0,0,0,,Translated
+51,良樹・大川,うっ、うわああああああああ――――！！, , ,Yoshiki & Ohkawa,A-AAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH!!,,,요시키·오오카와,"윽, 우와아아아아아아아아~~~~!!",,,良樹・大川,嗚、哇啊啊啊啊啊啊――――！！,,,1,0,0,0,0,0,0,0,0,,Translated
+52,良樹,なんか怪しいぞ。,俺はコンビニのバイトをしてるが、子供用の,お菓子コーナーにそのキャラの商品はなかった。,Yoshiki,I don't think that's gonna do the trick. I work,"at a convenience store, and I've never seen any",merchandise from this show in the kids' corner.,요시키,왠지 수상한데.,난 편의점 알바를 하고 있는데,어린이용 과자 코너에 그 캐릭 상품은 없었어.,良樹,總覺得有點可疑。,我在便利商店打工，但兒童點心區沒有那個角色的商品。,,1,88,31,1,0,0,0,0,0,,Translated
+53,良樹,むしろ大人が買ってく、,くじのほうで見たことある気がする。, ,Yoshiki,"If I'm not mistaken, this kinda stuff is always","up front as part of the lottery drawings, where",it's mostly purchased by older men.,요시키,오히려 어른이 사는,뽑기 같은 거에서 본 것 같아.,,良樹,反而感覺是在大人會買的,抽獎之類的地方看過。,,1,89,31,1,0,0,0,0,0,,Translated
+54,大川,あぁー、それ俺も買ったよ！,ラストワン賞がサンクタムくんの髪飾りさ！, ,Ohkawa,"Yeah, that's where I got all my Panzer stuff from.",The Sanctum hair ornament is pretty much the,consolation prize of the batch.,오오카와,아아~ 그거 나도 사는데!,라스트 원 상이 생텀 군의 머리장식이야!,,大川,啊啊～那個我也買過！,最後一獎是聖所君的髮飾！,,1,43,33,1,0,0,0,0,0,,Translated
+55,良樹,じゃ、子供にゃポンコツじゃねぇか！, , ,Yoshiki,"So it's junk, then, even to little kids, and you're",just trying to unload it here!,,요시키,그럼 어린이한테는 잡동사니잖아!,,,良樹,那對小孩來說不就是廢物嗎！,,,1,90,31,1,0,0,0,0,0,,Translated
+56,大川,あっ……！, , ,Ohkawa,Ack!,,,오오카와,앗......!,,,大川,啊……！,,,1,44,33,1,0,0,0,0,0,,Translated
+57,,　大川のポケットから、ゲーム機が飛び出した。,,,,"Almost as if in reaction to my statement, the",handheld gaming system flew from Ohkawa's pocket.,,,오오카와의 주머니에서 게임기가 튀어나왔다.,,,,　大川的口袋裡，飛出了遊戲機。,,,0,0,0,0,0,0,0,0,0,,Translated
+58,大川,俺のゲーム！, , ,Ohkawa,Crap! Hope it's okay...,,,오오카와,내 게임기!,,,大川,我的遊戲！,,,1,45,33,1,0,0,0,0,0,,Translated
+59,良樹,馬鹿、あれ大事なやつだろ！,なんでしっかり持ってねーんだ！, ,Yoshiki,"Dude, if that thing is so valuable to you, you need",to be way more careful with it. You can't just,pocket it loose like that!,요시키,"바보, 그거 소중한 거잖아!",왜 제대로 간수 안 한 거야!,,良樹,笨蛋，那不是很重要的東西嗎！,為什麼不好好拿著！,,1,91,31,1,0,0,0,0,0,,Translated
+60,大川,持ってたさ！,でも気がついたら床の上を滑っていったんだ。,まるで、意志でもあるみたいに……,Ohkawa,I didn't! It was deep in there! The thing just came,"out on its own, like it wanted to be on the ground!",,오오카와,가지고 있었어!,그런데 저절로 바닥 위를 미끄러져 갔어.,마치 의지를 가지고 있는 것처럼......,大川,我有拿好啊！,但回過神來它就在地板上滑動了。,就像有自己的意志一樣……,1,46,33,1,0,0,0,0,0,,Translated
+61,,青い人魂たちがゲーム機に近寄っていく。,,,,The blue spirits immediately began to draw near the,"game system, obviously intrigued.",,,파란 도깨비불이 게임기에 다가간다.,,,,　藍色鬼火們開始靠近遊戲機。,,,0,0,0,0,0,0,0,0,0,,Translated
+62,良樹,もしかしたら……？, , ,Yoshiki,Wow. Guess we found our lure.,,,요시키,관심을 끈 건가......?,,,良樹,難道說……？,,,1,92,31,1,0,0,0,0,0,,Translated
+63,良樹,チッ！　やっぱ、駄目か！！, , ,Yoshiki,Dammit! Spoke too soon...,,,요시키,쳇! 틀렸나!!,,,良樹,嘖！　果然，不行嗎！！,,,1,93,31,1,0,0,0,0,0,,Translated
+64,大川,え……？, , ,Ohkawa,Huh...?,,,오오카와,어......?,,,大川,咦……？,,,1,47,33,1,0,0,0,0,0,,Translated
+65,子供の霊,『……うわあ……すげぇ……』, , ,Child Spirit,Woooow... Look at that!,,,어린 유령,『...... 우와아...... 장난 아니다......』,,,小孩幽靈,『……哇啊……好厲害……』,,,1,44,32,1,0,0,0,0,0,,Translated
+66,子供の霊,『なにこれ……』, , ,Child Spirit,What is it?,,,어린 유령,『뭐야 이거......』,,,小孩幽靈,『這是什麼……』,,,1,47,32,1,0,0,0,0,0,,Translated
+67,,　再びゲーム機が勝手にプレイを始め、,　その高度なテクニックに,　子供の幽霊たちは画面に見入っていた。,,"The system began to play of its own accord, show-",casing some high-end decision-making far beyond the,scope of mere casuals. The children were intrigued.,,다시금 게임기가 멋대로 작동을 시작했고,어린 유령들은 화면에 비춰지는,고도의 테크닉을 바라보고 있었다.,,　遊戲機再次自己開始運作，,小孩幽靈們被畫面上,高超的技巧吸引住了。,0,0,0,0,0,0,0,0,0,,Translated
+68,子供の霊,『キャハハハッ、面白―い！』, , ,Child Spirit,Heeheehee! This looks like fun!,,,어린 유령,"『꺄하하핫, 재밌다~!』",,,小孩幽靈,『呀哈哈，好有趣―！』,,,1,48,32,1,0,0,0,0,0,,Translated
+69,子供の霊,『もっと、もっと！』, , ,Child Spirit,More! Show us more!,,,어린 유령,"『좀 더, 좀 더!』",,,小孩幽靈,『再多一點、再多一點！』,,,1,49,32,1,0,0,0,0,0,,Translated
+70,大川,また動いてる……。良介、良介が動かしてるのか！？, , ,Ohkawa,"Somebody's totally playing it. Ryosuke? Ryosuke,",is that you?!,,오오카와,"잘 돌아가네...... 료스케, 료스케가 하는 건가!?",,,大川,又動了……。良介、是良介在操作嗎！？,,,1,48,33,1,0,0,0,0,0,,Translated
+71,良樹,ありがてぇ！　この隙に逃げようぜ！, , ,Yoshiki,"If it is, we owe him one. Come on! Let's take this",opportunity and get the hell out of here!,,요시키,좋았어!  이 틈에 도망치자!,,,良樹,太好了！　趁現在快逃吧！,,,1,94,31,1,0,0,0,0,0,,Translated
+72,大川,だ、だけど！, , ,Ohkawa,B-But...!,,,오오카와,"그, 그치만!",,,大川,可、可是！,,,1,49,33,1,0,0,0,0,0,,Translated
+73,良樹,あれが大事だって、その気持ちはわかるが……,良介ってのが守ってくれてるんなら、, ,Yoshiki,"Look, I know it's important to you and I understand,",but...Ryosuke is protecting us. He's giving us,what we need most right now: cover.,요시키,나도 저게 소중한 거라는 건 잘 알지만......,료스케가 지켜주고 있는 거라면,,良樹,我知道那個對你很重要……,但如果良介在保護我們的話，,,1,85,36,1,0,0,0,0,0,,Translated
+74,良樹,今はその想いに,応えなきゃいけねーんじゃねぇのか？, ,Yoshiki,"We have to make sure his efforts aren't wasted,",right?,,요시키,지금은 그 마음에,응해줘야 하는 거 아냐?,,良樹,現在不就應該回應他的心意嗎？,,,1,111,36,1,0,0,0,0,0,,Translated
+75,大川,くっ…, , ,Ohkawa,...,,,오오카와,큭...,,,大川,可惡…,,,1,50,33,1,0,0,0,0,0,,Translated
+76,良樹,ふう、お前のダチに助けられたな。, , ,Yoshiki,Phew. Your friend really saved our asses.,,,요시키,"후우, 네 친구 덕분에 살았어.",,,良樹,呼，被你朋友救了啊。,,,1,96,31,1,0,0,0,0,0,,Translated
+77,大川,うん……, , ,Ohkawa,Yeah...,,,오오카와,응......,,,大川,嗯……,,,1,51,33,1,0,0,0,0,0,,Translated
+78,大川,うっ、ううっ……りょ……すけ……良介ぇ, , ,Ohkawa,...*sniffle*... Ry-Ryo...suke... Ryosuke...!,,,오오카와,"윽, 으윽...... 료...... 스케...... 료스케에",,,大川,嗚、嗚嗚……良……助……良介啊,,,1,52,33,1,0,0,0,0,0,,Translated
+79,良樹,泣くなって……, , ,Yoshiki,Come on. Don't cry.,,,요시키,울지 마......,,,良樹,別哭了……,,,1,97,31,1,0,0,0,0,0,,Translated
+80,大川,だって、だって……ひっく……, , ,Ohkawa,But... But...! *sob*,,,오오카와,"그치만, 그게...... 흑......",,,大川,可是、可是……吸泣……,,,1,53,33,1,0,0,0,0,0,,Translated
+81,良樹,まあ、ハッキリしてよかったじゃねぇか。,その良介ってヤツはお前の傍にいた。, ,Yoshiki,Think of it this way: now you know for sure,that Ryosuke was by your side that whole time.,,요시키,"뭐, 확실하게 알아서 잘 됐네 뭐.",그 료스케란 녀석은 네 곁에 있었어.,,良樹,總之，這樣不是搞清楚了嗎。,那個叫良介的傢伙一直在你身邊。,,1,98,31,1,0,0,0,0,0,,Translated
+82,良樹,ゲームは置いてきたが、,たぶんこれからもお前のこと、,影から助けてくれるんじゃないか？,Yoshiki,"And even though you left your game system behind,",I'm sure he'll continue to protect you from the,shadows in other ways.,요시키,게임기는 뺏겼지만,앞으로도 널,곁에서 도와주지 않을까?,良樹,雖然遊戲機留在了那裡，,但今後他也會從暗中,繼續幫助你吧？,1,99,31,1,0,0,0,0,0,,Translated
+83,良樹,いいヤツだな……, , ,Yoshiki,Because he's clearly...a really good friend...,,,요시키,좋은 녀석이야......,,,良樹,真是個好傢伙啊……,,,1,100,31,1,0,0,0,0,0,,Translated
+84,大川,うん……うん……, , ,Ohkawa,"Yeah... Yeah, you're right!",,,오오카와,응...... 응......,,,大川,嗯……嗯……,,,1,54,33,1,0,0,0,0,0,,Translated
+85,良樹,じゃあ、そいつのためにも何が何でも,生き残らなきゃな！, ,Yoshiki,"Good. So we have to survive in here, okay?",One way or another. For his sake.,,요시키,그럼 그 녀석을 위해서라도,꼭 살아서 돌아가자!,,良樹,那麼，為了他也要無論如何,活下去！,,1,101,31,1,0,0,0,0,0,,Translated
+86,大川,うん！, , ,Ohkawa,Okay!,,,오오카와,응!,,,大川,嗯！,,,1,55,33,1,0,0,0,0,0,,Translated
+87,良樹,やべっ、もう来やがった！　逃げるぞ！！, , ,Yoshiki,"Crap, they're back. We gotta run! Come on!",,,요시키,"이런, 벌써 따라왔네!  도망치자!!",,,良樹,糟了，他們已經來了！　快逃！！,,,1,102,31,1,0,0,0,0,0,,Translated
+88,子供の幽霊,『きゃは……　きゃっきゃっ……』, , ,Child Spirit,Heehee... Heeheehee...,,,어린 유령,『꺄하......  꺅꺅......』,,,小孩幽靈,『呀哈……　呀呀……』,,,1,46,32,1,0,0,0,0,0,,Translated
+89,子供の幽霊,『きゃは……　きゃっきゃっ……』, , ,Child Spirit,Heehee... Heeheehee...,,,어린 유령,『꺄하......  꺅꺅......』,,,小孩幽靈,『呀哈……　呀呀……』,,,1,46,32,1,0,0,0,0,0,,Translated
+90,,　いつまで　にげきれるかな,　いつまで　いっしょにいられるかな,　いつまで　しなずにいきのこれるかな,,How much longer     can you run,How much longer     can you stay together,How much longer     can you outwit death,,언제까지 도망칠 수 있을까,언제까지 함께 있을 수 있을까,언제까지 죽지 않고 살아남을 수 있을까,,還能逃多久,還能在一起多久,還能不死地存活多久,0,0,0,0,0,0,0,0,0,,Translated
+91,大川,岸沼君、一度二手に分かれよう。, , ,Ohkawa,"Kishinuma, I think we should split up.",,,오오카와,"키시누마 군, 일단 여기에서 헤어지자.",,,大川,岸沼同學，我們先分頭行動吧。,,,1,56,33,1,0,0,0,0,0,,Translated
+92,良樹,！？　でもよ……, , ,Yoshiki,What? Why?!,,,요시키,!?  하지만......,,,良樹,!？　可是……,,,1,105,31,1,0,0,0,0,0,,Translated
+93,大川,このまま逃げてもいつかは捕まるよ。,相手をかく乱して隙をつく……,ゲームではよくある攻撃パターンだ。,Ohkawa,"If we just keep running together like this, they're",going to catch us sooner or later. We'll make one,"tiny mistake, and that'll be the end of us!",오오카와,이대로 도망쳐봤자 언젠가 붙잡힐 거야.,상대를 교란시켜 허를 찌른다......,게임에서 많이 쓰는 공격 패턴이지.,大川,繼續這樣逃下去總有一天會被抓住的。,擾亂對手，製造破綻……,這是遊戲中常見的攻擊模式。,1,57,33,1,0,0,0,0,0,,Translated
+94,大川,大丈夫。俺、意外に足速いんだよ。,……岸沼君、約束して。絶対生き残ろう。, ,Ohkawa,Happens all the time in games. But I'm fast! I'll,be able to outrun them for sure. I just want you to,"promise me that you'll keep on going too, okay?",오오카와,괜찮아. 난 의외로 발이 빠르거든.,"...... 키시누마 군, 약속해 줘. 꼭 살아남자.",,大川,沒事的。我意外地跑得很快。,……岸沼同學，約好了。一定要活下來。,,1,58,33,1,0,0,0,0,0,,Translated
+95,良樹,おう。お前、大分復活したな。, , ,Yoshiki,"Of course! Man, you sure did bounce back quick.",,,요시키,"그래. 너, 거의 부활했구나.",,,良樹,嗯。你，恢復了不少嘛。,,,1,106,31,1,0,0,0,0,0,,Translated
+96,大川,……はは。君のおかげさ。, , ,Ohkawa,"Haha. It's all thanks to you, buddy.",,,오오카와,"...... 하하, 네 덕분이야.",,,大川,……哈哈。多虧了你。,,,1,59,33,1,0,0,0,0,0,,Translated
+97,良樹,おし、行けッ！, , ,Yoshiki,"Don't get all sentimental on me, now. Get outta","here, before they catch up to us!",,요시키,"좋아, 가라!",,,良樹,好，快走！,,,1,107,31,1,0,0,0,0,0,,Translated
+98,大川,……うん。またね！, , ,Ohkawa,Okay. See you again real soon!,,,오오카와,"...... 응, 또 봐!",,,大川,……嗯。再見了！,,,1,60,33,1,0,0,0,0,0,,Translated
+99,良樹,……いっちまいやがった。,あいつ、本当に足速いんだな……, ,Yoshiki,Damn. Already gone. He wasn't kidding -- he is,fast!,,요시키,...... 가 버렸군.,"저 녀석, 정말 발이 빠른걸......",,良樹,……跑掉了啊。,那傢伙，真的跑得很快……,,1,108,31,1,0,0,0,0,0,,Translated
+100,良樹,っ！？　またお前か……！, , ,Yoshiki,Gah! You again?!,,,요시키,윽!? 또 너냐......!,,,良樹,！？　又是你……！,,,1,109,31,1,0,0,0,0,0,,Translated
+101,良樹,ガッ！　く、くそ……！, , ,Yoshiki,...! D-Damn...,,,요시키,"악!  제, 젠장......!",,,良樹,呃！　可、可惡……！,,,1,110,31,1,0,0,0,0,0,,Translated
+102,サチコ,どこに行ってイタ。,,,Sachiko,And just where were you?,,,사치코,어디 갔었어.,,,サチコ,你去哪了。,,,1,0,0,0,0,0,0,0,0,,Translated
+103,ヨシカズ,！！　ウ……ウウ……アアアウ……,,,Yoshikazu,...! O-Ooooooooaaaahhhh...,,,요시카즈,!!  우...... 우우...... 아아아우......,,,ヨシカズ,！！　嗚……嗚嗚……啊啊啊嗚……,,,1,0,0,0,0,0,0,0,0,,Translated
+104,サチコ,ワタシが呼んだら、スグニ来なきゃダメでショ？,,,Sachiko,"When I call, you have to come right away.",Understand?,,사치코,내가 부르면 얼른 와야 할 거 아냐?,,,サチコ,我喊你的時候，不是應該馬上過來嗎？,,,1,0,0,0,0,0,0,0,0,,Translated
+105,ヨシカズ,ウ……ウウウッ,,,Yoshikazu,O-Oooaaagh...,,,요시카즈,우...... 우우우,,,ヨシカズ,嗚……嗚嗚,,,1,0,0,0,0,0,0,0,0,,Translated
+106,サチコ,ウルサイ！,木偶の坊のくせニ言いワケをするナ！,その舌、ヒキぬいてヤロウカ！！,Sachiko,Don't you talk back to me! I don't want to hear,any excuses from a blockhead like you. You want me,to rip out that tongue of yours?!,사치코,시끄러!,멍청이 주제에 변명하지 마!,"그 혀, 뽑아줄까!!",サチコ,吵死了！,區區一個木偶還敢狡辯！,要我把你的舌頭拔出來嗎！！,1,0,0,0,0,0,0,0,0,,Translated
+107,ヨシカズ,ウゥッ！　ウアゥ……,,,Yoshikazu,Aaagh! Oooahh...,,,요시카즈,우우!  우아우......,,,ヨシカズ,嗚！　嗚啊……,,,1,0,0,0,0,0,0,0,0,,Translated
+108,サチコ,クスッ、クスクスクス……そうダ、ソレデいい。,サア、おいデ？,,Sachiko,*giggle* *gigglegiggle*,"That's a good boy. Now, follow me.",,사치코,"쿡, 쿡쿡쿡...... 그래, 그럼 됐어.","자아, 이리 와.",,サチコ,嘻、嘻嘻嘻……這樣就對了。,來，過來吧？,,1,0,0,0,0,0,0,0,0,,Translated
+109,ヨシカズ,ウ、ウウ……グアウ,,,Yoshikazu,O-Oaah... Ghh.,,,요시카즈,"우, 우우...... 그아우",,,ヨシカズ,嗚、嗚嗚……嘎嗚,,,1,0,0,0,0,0,0,0,0,,Translated
+110,良樹,う……, , ,Yoshiki,Ghh!,,,요시키,으......,,,良樹,嗚……,,,1,111,31,1,0,0,0,0,0,,Translated
+111,良樹,ここ……どこだ？　俺は……いっ！　……っ！！, , ,Yoshiki,Oooooonng... Wh-Where...am I...?,,,요시키,여긴...... 어디지?  난...... 아!  ...... 윽!!,,,良樹,這裡……是哪裡？　我……啊！　……！！,,,1,112,31,1,0,0,0,0,0,,Translated
+112,良樹,（なんだよこれ、頭がっ……割れそうだ！！）,,,Yoshiki,"Aaoohh, God, my head...is pounding...",,,요시키,"(뭐야 이건, 머리가...... 깨질 것 같아!!)",,,良樹,（搞什麼啊，頭……快要裂開了！！）,,,1,0,0,0,0,0,0,0,0,,Translated
+113,良樹,うわ、血出てんじゃねーか……クソッ！,ったく、何がどうなってやがるんだ？, ,Yoshiki,"And...fuck, I'm bleeding.",Dammit! What even happened?!,,요시키,"우와, 피가 나오잖아...... 젠장!","아오, 뭐가 어떻게 돼 가는 거야?",,良樹,哇，流血了……可惡！,真是的，到底是怎麼回事？,,1,113,31,1,0,0,0,0,0,,Translated
+114,良樹,確か、薄暗い部屋に監禁されて……,ハンマーを持ったヤツに殺されそうになって、,それから……,Yoshiki,I remember I was trapped in some dimly lit room...,with a hammer-wielding maniac about to kill me...,and then...,요시키,아마 어두운 방에 갇혀서......,해머를 든 녀석에게 죽을 뻔하고,그리고......,良樹,記得我被關在昏暗的房間裡……,差點被一個拿鐵鎚的傢伙殺掉，然後……,,1,114,31,1,0,0,0,0,0,,Translated
+115,良樹,それから……駄目だ。やっぱ思い出せねぇ……, , ,Yoshiki,"...and...then...gah, I don't know! I can't remember",a damned thing!,,요시키,그 다음에...... 이런. 역시 생각 안 나......,,,良樹,然後……不行。果然還是想不起來……,,,1,114,36,1,0,0,0,0,0,,Translated
+116,良樹,（けど、何だ？　誰かの顔がなんとなく……,　こいつに、助けられたのか……？）, ,Yoshiki,(Though I feel like there was...someone else with,me. I think he...might've saved me.),,요시키,(그런데 뭐지? 누군가의 얼굴이......,이 녀석이 구해준 건가......?),,良樹,（不過，是什麼呢？總覺得有誰的臉……,　是那傢伙，救了我嗎……？）,,1,115,36,1,0,0,0,0,0,,Translated
+117,良樹,――っ！　ううっ……頭いてぇ……,どれくらい、気を失ってたんだ？,早く篠崎のヤツを見つけてやらねぇと。,Yoshiki,"...! Goddamn, my head hurts. How long was I out for,",anyway? I need to find Shinozaki on the double!,,요시키,윽! 으으...... 머리 아파......,얼마나 정신을 잃은 거야?,어서 시노자키를 찾아내야 해.,良樹,――！　嗚嗚……頭好痛……,我昏過去多久了？,得快點找到篠崎那傢伙才行。,1,116,31,1,0,0,0,0,0,,Translated
+118,良樹,待ってろよ……篠崎！, , ,Yoshiki,"Wait for me, Shinozaki! I'm coming!",,,요시키,기다려...... 시노자키!,,,良樹,等著我……篠崎！,,,1,117,31,1,0,0,0,0,0,,Translated
+119,良樹,突破するのは難しいな。,戻るしかなさそうだ。, ,Yoshiki,(Don't think we'll be able to break through too,easily. We'll need to find another way around.),,요시키,돌파하기는 어렵겠는걸.,돌아가는 수밖에 없겠어.,,良樹,要突破似乎很困難。,看來只能折返了。,,1,103,31,1,0,0,0,0,0,,Translated
+120,良樹,ガキの幽霊がいるかもしれねぇ、,今はまだ入らない方がいい。, ,Yoshiki,(Those kid spirits will be hanging around here for,"a while yet, most likely. Probably best to keep away",from here for the time being.),요시키,꼬맹이 유령이 있을지도 몰라,아직은 안 들어가는 게 좋을 거야.,,良樹,那裡可能還有小孩幽靈，,現在最好還是不要進去。,,1,104,31,1,0,0,0,0,0,,Translated
+121,良樹,ハァーッ！　ハァーッ！, , ,Yoshiki,*gasp* *wheeze*,,,요시키,허억~!  허억~!,,,良樹,哈啊～！　哈啊～！,,,1,9,31,1,0,0,0,0,0,,Translated
+122,ヨシカズ,ウ……ウゥ、ウ……, , ,Yoshikazu,O-Oaaaaggh...,,,요시카즈,"우...... 우우, 우......",,,ヨシカズ,嗚……嗚嗚、嗚……,,,1,120,36,1,0,0,0,0,0,,Translated
+123,良樹,ハァーッ！　ハァーッ！, , ,Yoshiki,Haaaa... Haaaaaah...!,,,요시키,허억~!  허억~!,,,良樹,哈啊～！　哈啊～！,,,1,10,31,1,0,0,0,0,0,,Translated
+124,,　謎の黒い男の亡霊が,　ハンマーを振り上げたまま、見下ろしている。,,,The mysterious blackened zombie-like figure was,"staring down at me, hammer raised above his head,",poised to strike me down at any moment.,,의문의 검은 남자 망령이,"해머를 든 채, 내려다보고 있다.",,,　謎樣黑色男子的亡靈，,高舉著鐵鎚，俯視著。,,0,0,0,0,0,0,0,0,0,,Translated
+125,,　虚（うつほ）の目……頬に残る流血の跡が、,　その不気味さを増していた。,,,His eyes were hollow and his cheeks were stained,"with bloody tear tracks, adding exponentially to",his already menacing appearance.,,멍한 눈...... 볼에 남은 핏자국이,무서움을 더하고 있다.,,,　空洞的雙眼……臉頰上殘留的血跡，,更增添了那份詭異。,,0,0,0,0,0,0,0,0,0,,Translated
+126,良樹,（やべぇ……このままだと、やられる！）,,,Yoshiki,(Crap. There's no way I'm going to survive this...),,,요시키,(이런...... 이대로 가면 당하겠어!),,,良樹,（糟了……這樣下去，會被幹掉的！）,,,1,0,0,0,0,0,0,0,0,,Translated
+127,,　必死に足を動かそうとするが、,　神経が切れてしまったように力が入らない。,,,"I tried desperately to move my legs, but they just",wouldn't respond. It was as if the nerves had been,cut. I wasn't going anywhere.,,필사적으로 발을 움직여보지만,신경이 끊긴 듯 힘이 안 들어간다.,,,　拼命想移動雙腳，,卻像神經被切斷一樣使不上力。,,0,0,0,0,0,0,0,0,0,,Translated
+128,,　殴られたせいなのか、,　それとも死への恐怖がそうさせるのか……,,,I didn't know if it was because of the strike I'd,"taken, or because I knew I was going to die...",,,충격을 받은 탓인지,아니면 죽음에 대한 공포 탓인지......,,,　是因為被毆打的緣故，,還是因為對死亡的恐懼……,,0,0,0,0,0,0,0,0,0,,Translated
+129,,　小刻みに震える足に呼応するように、,　歯がカチカチと鳴っていた。,,,...but I couldn't stop my legs from shaking or my,"teeth from chattering, no matter what I did. It's",like I'd lost all control over my body.,,가늘게 떨리는 발에 호응하듯,이가 딱딱 소리를 내고 있었다.,,,　像是呼應微微顫抖的雙腳般，,牙齒喀喀作響。,,0,0,0,0,0,0,0,0,0,,Translated
+130,良樹,（ッ！　……ッ！　……クソッ！,　なんで動かねぇんだよ！！　動けよ――！）,,Yoshiki,"(...! D-Dammit, move! Move! MOVE!!)",,,요시키,(윽!  ...... 윽!  ...... 젠장!,왜 안 움직이는 거야!!  움직여~~!),,良樹,（！　……！　……可惡！,　為什麼動不了！！　動啊――！）,,1,0,0,0,0,0,0,0,0,,Translated
+131,ヨシカズ,ア、ア……ゥアアア, , ,Yoshikazu,O-Oaaa-aaaaaaagh...,,,요시카즈,"아, 아...... 우아아아",,,ヨシカズ,啊、啊……嗚啊啊,,,1,121,36,1,0,0,0,0,0,,Translated
+132,良樹,！？, , ,Yoshiki,?!,,,요시키,!?,,,良樹,!？,,,1,11,31,1,0,0,0,0,0,,Translated
+133,ヨシカズ,ブシュルルルル……, , ,Yoshikazu,Phhhhhhhhaah...,,,요시카즈,부슈르르르르......,,,ヨシカズ,噗嚕嚕嚕嚕……,,,1,122,36,1,0,0,0,0,0,,Translated
+134,良樹,……？, , ,Yoshiki,...?,,,요시키,......?,,,良樹,……？,,,1,12,31,1,0,0,0,0,0,,Translated
+135,良樹,（な、んだ……？　こいつ……,　人の恐怖心を煽って、遊んでやがるのか！？）,,Yoshiki,(The hell? This guy get off on people's fear or,something?!),,요시키,"(뭐, 지......?  이 자식......","공포심을 부추기고, 노는 건가!?)",,良樹,（什、麼……？　這傢伙……,　是在煽動人的恐懼，在玩嗎！？）,,1,0,0,0,0,0,0,0,0,,Translated
+136,良樹,くっそ……ふざけやがって――――！, , ,Yoshiki,God...dammit... Stop messing with me!,,,요시키,망할...... 까불고 있어~~~~!,,,良樹,可惡……別開玩笑了――――！,,,1,13,31,1,0,0,0,0,0,,Translated
+137,ヨシカズ,ウ？　ア……ウゥ, , ,Yoshikazu,Oaagh? A-Aaahh...,,,요시카즈,우?  아...... 우우,,,ヨシカズ,嗚？　啊……嗚嗚,,,1,123,36,1,0,0,0,0,0,,Translated
+138,良樹,っ！　なんなんだよテメェ！,なぶり殺しにでもするつもりか！, ,Yoshiki,...! Fuck's wrong with you? You gonna torture me,"before you kill me?! Show off, like a big man?!",,요시키,윽!  뭐야 이 자식!,괴롭히다 죽일 셈이냐!,,良樹,！　你到底是怎樣！,是想慢慢折磨死我嗎！,,1,14,31,1,0,0,0,0,0,,Translated
+139,ヨシカズ,ウウゥ……アゥ、グアウ？, , ,Yoshikazu,Oaaaagh...aaaagh... Aaagh?,,,요시카즈,"우우우...... 아우, 그아우?",,,ヨシカズ,嗚嗚……啊嗚、嘎嗚？,,,1,124,36,1,0,0,0,0,0,,Translated
+140,良樹,クッ……いい加減にしやがれ、このっ！, , ,Yoshiki,Just...stop already! God!,,,요시키,"큭...... 적당히 좀 해라, 이 자식아!",,,良樹,可……適可而止吧，你這傢伙！,,,1,15,31,1,0,0,0,0,0,,Translated
+141,良樹,！！, , ,Yoshiki,!!,,,요시키,!!,,,良樹,！！,,,1,16,31,1,0,0,0,0,0,,Translated
+142,良樹,（畜生、ふざけやがって……！,　俺は、こんな殺され方をされるために,　生きてきたわけじゃねぇ！）,Yoshiki,(The hell is he doing?! I didn't live through all,the crap I've been through just to die in fear in,some dungeon!),요시키,"(젠장, 까불기는......!)",난 이렇게 죽으려고,살아온 게 아냐!),良樹,（畜生，開什麼玩笑……！,　我可不是為了被這樣殺死,　才活到現在的！）,1,0,0,0,0,0,0,0,0,,Translated
+143,良樹,っ……動けよ……足！, , ,Yoshiki,GOD...DAMMIT...LEGS...JUST...MOOOOOVE!!,,,요시키,윽...... 움직여라...... 내 다리!,,,良樹,……動啊……腳！,,,1,17,31,1,0,0,0,0,0,,Translated
+144,ヨシカズ,ウゥ……？, , ,Yoshikazu,Oooaah...?,,,요시카즈,우우......?,,,ヨシカズ,嗚嗚……？,,,1,125,36,1,0,0,0,0,0,,Translated
+145,良樹,動け……動け、動け、動け、動け、,動けぇ――――！, ,Yoshiki,"MOVE! MOVE, MOVE, MOVEMOVEMOVE!!",,,요시키,"움직여...... 움직여, 움직여, 움직여, 움직여",움직여~~~~!,,良樹,動啊……動啊、動啊、動啊、動啊、,動啊――――！,,1,18,31,1,0,0,0,0,0,,Translated
+146,,　ビクン！,　固まっていた足の筋肉が、,　弾けるように動いたその時……,,"Suddenly, the muscles that had frozen up on me",sprang to life in one glorious explosion of,movement. And in that moment...,,꿈쩍!,굳어 있던 다리 근육이,튕기듯 움직이던 그때......,,　噗通！,　僵住的腿部肌肉，,　像彈開般動起來的那一瞬間……,0,0,0,0,0,0,0,0,0,,Translated
+147,良樹,？！, , ,Yoshiki,?!,,,요시키,?!,,,良樹,？！,,,1,19,31,1,0,0,0,0,0,,Translated
+148,ヨシカズ,ウゥ……グアウ？, , ,Yoshikazu,Ooah...goooaaahh?,,,요시카즈,우우...... 그아우?,,,ヨシカズ,嗚嗚……嘎嗚？,,,1,126,36,1,0,0,0,0,0,,Translated
+149,良樹,……っ、ぷはぁっ……！, , ,Yoshiki,...Ghaah!,,,요시키,"...... 윽, 푸하앗......!",,,良樹,……、噗哈……！,,,1,20,31,1,0,0,0,0,0,,Translated
+150,良樹,ゼェ、ゼェ、ゼェ……,（とりあえず、助かったのか……？）, ,Yoshiki,*pant* *pant* *pant*,"(Well, I guess this means I live to see another","day, at least...)",요시키,"허억, 허억, 허억......","(일단, 산 건가......?)",,良樹,嘶、嘶、嘶……,（總之，算是得救了嗎……？）,,1,21,31,1,0,0,0,0,0,,Translated
+151,＊,立って！, , ,*,Get up!,,,＊,일어나!,,,＊,站起來！,,,1,228,32,1,0,0,0,0,0,,Translated
+152,良樹,っ！？, , ,Yoshiki,...?!,,,요시키,윽!?,,,良樹,！？,,,1,22,31,1,0,0,0,0,0,,Translated
+153,良樹,お、お前……誰だよ？, , ,Yoshiki,Wh-Who...are you?,,,요시키,"너, 넌...... 누구야?",,,良樹,你、你是誰啊？,,,1,23,31,1,0,0,0,0,0,,Translated
+154,＊,そんなの後でいいから、早く！　立てる？, , ,*,Never mind that. We have to get out of here!,Can you stand?,,＊,"그건 나중에 하고, 얼른!  설 수 있겠어?",,,＊,那之後再說，快點！　站得起來嗎？,,,1,229,32,1,0,0,0,0,0,,Translated
+155,良樹,お、おう……足、動くわ……！, , ,Yoshiki,"Y-Yeah... Surprisingly, I can!",,,요시키,"어, 응...... 다리, 움직인다......!",,,良樹,喔、嗯……腳，能動……！,,,1,24,31,1,0,0,0,0,0,,Translated
+156,＊,――急がないと、あいつがまた戻ってくるよ。,黙って俺について来て！, ,*,"Well, then let's go, before he comes back.",Follow me! And try not to make too much noise.,,＊,서두르지 않으면 또 올 거야.,잠자코 날 따라와!,,＊,――不快點的話，那傢伙又會回來。,別出聲，跟我來！,,1,230,32,1,0,0,0,0,0,,Translated
+157,良樹,わかった！, , ,Yoshiki,Got it.,,,요시키,알았어!,,,良樹,知道了！,,,1,25,31,1,0,0,0,0,0,,Translated
+158,良樹,（それからどこをどう進んだか分からない）,,,Yoshiki,(I had no idea where this kid was taking me. It was,"all a blur of narrow passageways, and I was just","blindly following them to...safety, I guess?)",요시키,(그 후로 어딜 얼마나 갔는지는 모른다),,,良樹,（之後完全不知道是怎麼走的）,,,1,0,0,0,0,0,0,0,0,,Translated
+159,良樹,（そいつに言われるまま、,　薄暗い通路をひたすら走り続けた）,,Yoshiki,"(We just kept on running, through one dimly lit",corridor after another. There was no real sense of,"direction, nor even of the distance we'd covered.)",요시키,(그 녀석 말대로,그저 어두운 통로를 달리고 있었다),,良樹,（照著那傢伙說的，,　只是一直在昏暗的通道裡奔跑）,,1,0,0,0,0,0,0,0,0,,Translated
+160,良樹・＊,ハアッ、ハアッ、ハアッ、ハアッ。, , ,Yoshiki & Boy,*pant* *pant*,  *pant* *pant*,,요시키·＊,"허억, 허억, 허억, 허억.",,,良樹・＊,哈啊、哈啊、哈啊、哈啊。,,,1,0,0,0,0,0,0,0,0,,Translated
+161,＊,そこの教室に隠れよう！, , ,*,We'll hide in that classroom!,,,＊,저기 교실 안에 숨자!,,,＊,躲到那間教室裡吧！,,,1,232,32,1,0,0,0,0,0,,Translated
+162,良樹,おう……！, , ,Yoshiki,Right!,,,요시키,그래......!,,,良樹,喔……！,,,1,27,31,1,0,0,0,0,0,,Translated
+163,＊,ここまで来れば……っ……たぶん、大丈夫……, , ,*,...I think...we went far enough...to lose him.,,,＊,"여기까지 오면...... 윽...... 아마, 괜찮을 거야......",,,＊,跑到這裡的話……應該、沒事了……,,,1,233,32,1,0,0,0,0,0,,Translated
+164,良樹,……ハア、死ぬかと思ったぜ。,誰だか知らねーが、助かった。サンキューな。, ,Yoshiki,Man. I really thought I was gonna die back there.,"Don't know who you are, but you saved my life.",Thanks a bunch.,요시키,"...... 하아, 죽는 줄 알았네.","누군지는 모르겠지만, 살았어. 땡큐.",,良樹,……哈啊，還以為要死了。,雖然不知道你是誰，但得救了。謝啦。,,1,28,31,1,0,0,0,0,0,,Translated
+165,＊,あ……いや、どういたしまして。,本当に、間に合ってよかった……, ,*,"Oh... No, think nothing of it. It's just good",fortune that I got there when I did.,,＊,"아...... 아니, 뭘.",정말 제때에 와서 다행이야......,,＊,啊……不，哪裡。,真的，能及時趕到太好了……,,1,234,32,1,0,0,0,0,0,,Translated
+166,良樹,外で、何か割れる音がした。,あのバケモノの気を逸らしてくれたの……,あれ、お前か？,Yoshiki,"I heard something crash outside, and that did",a great job of distracting that...creature?,...Was that your doing?,요시키,밖에서 뭔가 깨지는 소리가 나던데.,그 괴물의 주의를 끈 건......,"혹시, 너였냐?",良樹,外面傳來什麼東西破裂的聲音。,那分散了那個怪物的注意力……,那是你做的嗎？,1,29,31,1,0,0,0,0,0,,Translated
+167,＊,うん, , ,*,Yeah.,,,＊,응,,,＊,嗯,,,1,235,32,1,0,0,0,0,0,,Translated
+168,良樹,はは、おかげで命拾いしたぜ。,俺は如月学園って学校の二年、岸沼だ。, ,Yoshiki,"Haha. Well, that's why I'm standing here now, safe",and sound. The name's Kishinuma. I'm an eleventh-,grader at a school called Kisaragi Academy.,요시키,"하하, 덕분에 목숨을 건졌어.","난 키사라기 학원 2학년, 키시누마야.",,良樹,哈哈，多虧了你我撿回一條命。,我是如月學園的二年級，岸沼。,,1,30,31,1,0,0,0,0,0,,Translated
+169,＊,あ、ああ……,俺は、白檀高等学校二年の大川智寛。,よろしく、岸沼君。,*,O-Oh. I'm Tomohiro Ohkawa. I'm an eleventh-grader,"too, at Byakudan Senior High School. It's nice to","meet you, Kishinuma.",＊,"아, 응......",난 뱌쿠단 고등학교 2학년 오오카와 토모히로.,"잘 부탁해, 키시누마 군.",＊,啊、嗯……,我是白檀高中二年級的大川智寛。,請多指教，岸沼同學。,1,236,32,1,0,0,0,0,0,,Translated
+170,良樹,おう。, , ,Yoshiki,Likewise.,,,요시키,그래.,,,良樹,喔。,,,1,31,31,1,0,0,0,0,0,,Translated
+171,大川,…………, , ,Ohkawa,...,,,오오카와,............,,,大川,…………,,,1,237,32,1,0,0,0,0,0,,Translated
+172,良樹,ん？　お前……, , ,Yoshiki,Hmm? Are you...?,,,요시키,응? 너......,,,良樹,嗯？　你……,,,1,32,31,1,0,0,0,0,0,,Translated
+173,大川,えっ！？　な、なに！？, , ,Ohkawa,Huh? A-Am I what?!,,,오오카와,"어!?  뭐, 뭐야!?",,,大川,咦！？　什、什麼！？,,,1,238,32,1,0,0,0,0,0,,Translated
+174,良樹,なんで目合わせねーんだ？, , ,Yoshiki,Why are you avoiding looking at me?,,,요시키,왜 눈을 안 맞추는 건데?,,,良樹,為什麼不敢看我？,,,1,33,31,1,0,0,0,0,0,,Translated
+175,大川,あー……ごめん。いや、その……,なんていうか……, ,Ohkawa,Oh... Uh... Sorry. It's just that...well...,,,오오카와,"아~ ...... 미안. 아니, 그게......",뭐라고 해야 하나......,,大川,啊～……抱歉。不，那個……,怎麼說呢……,,1,239,32,1,0,0,0,0,0,,Translated
+176,良樹,なんだよ？, , ,Yoshiki,It's okay. Just say it.,,,요시키,뭔데?,,,良樹,怎麼了？,,,1,34,31,1,0,0,0,0,0,,Translated
+177,大川,うん、うちの学校に島田ってヤツがいてさ。,岸沼君……少し雰囲気が似てるんだよね。, ,Ohkawa,...All right. There's a classmate of mine named,"Shimada, and you...kind of have the same vibe",as him.,오오카와,"응, 우리 학교에 시마다란 녀석이 있는데 말야.",키시누마 군이랑...... 분위기가 약간 비슷해.,,大川,嗯，我們學校有個叫島田的傢伙。,岸沼同學……感覺氣質有點像他。,,1,240,32,1,0,0,0,0,0,,Translated
+178,良樹,へー……, , ,Yoshiki,I do?,,,요시키,헤~  ......,,,良樹,嘿～……,,,1,35,31,1,0,0,0,0,0,,Translated
+179,大川,き、気分を悪くしないでほしいんだけど……,条件反射というか、なんか癖……みたいな？, ,Ohkawa,Yeah. But I...I don't want you to get the wrong,idea or anything! It's just kind of a conditioned,"reflex for me to avoid his gaze. A habit, I guess.",오오카와,"기, 기분이 상했다면 미안한데.....","조건반사라고나 할까, 어떤 버릇...... 같은?",,大川,希、希望你不要因此不高興……,算是種條件反射吧，某種習慣……？,,1,241,32,1,0,0,0,0,0,,Translated
+180,良樹,……よくわかんねーけど、,人一人助けたんだぜ、お前？,もっと堂々としてろよ。,Yoshiki,"I don't really understand. But, I mean, you just",saved my life! You're pretty much the cock of the,walk right now. So show some confidence!,요시키,...... 잘은 모르겠지만,"사람 하나를 구한 거야, 넌.",좀 더 당당해지라고.,良樹,……雖然不太懂，,但你可是救了一個人耶？,應該更抬頭挺胸一點吧。,1,36,31,1,0,0,0,0,0,,Translated
+181,大川,はは……あ、ごめん。, , ,Ohkawa,Haha. Sorry.,,,오오카와,"하하...... 아, 미안.",,,大川,哈哈……啊，抱歉。,,,1,242,32,1,0,0,0,0,0,,Translated
+182,良樹,おいおい、さっきから謝ってばっかだな。, , ,Yoshiki,"Come on, seriously? All you've done since you",started talking is apologize!,,요시키,"야야, 좀 전부터 사과만 하고 있어.",,,良樹,喂喂，你從剛才就一直在道歉啊。,,,1,37,31,1,0,0,0,0,0,,Translated
+183,大川,あ……あははっ、ほんとだね。,ところで、,なんで岸沼君はあいつに捕まってたの？,Ohkawa,"Oh. Heh. Yeah, I guess I have. I'll have to...","work on that. So, Kishinuma, do you have any idea",why you were captured by that man?,오오카와,"아...... 아하핫, 그래.",그나저나,키시누마 군은 어쩌다 저 녀석에게 붙잡힌 거야?,大川,啊……啊哈哈，真的耶。,對了，,岸沼同學為什麼會被那傢伙抓住？,1,243,32,1,0,0,0,0,0,,Translated
+184,良樹,わかんねー。,後ろからいきなり殴られて、,気が付いたらあそこに……,Yoshiki,"None whatsoever. I was struck from behind, and when","I came to, I was in that room.",,요시키,몰라~,누군가 뒤에서 갑자기 때려서,정신을 차리고 보니 거기에......,良樹,不知道。,突然被從背後毆打，,回過神來就在那裡了……,1,38,31,1,0,0,0,0,0,,Translated
+185,良樹,あの野郎、思いっきり殴りやがって。,あーくそっ……コブできてんじゃねーか。, ,Yoshiki,"It was a hell of a strike, too. I mean...yeah,","dammit, my head is really swollen where he hit.",,요시키,"그 자식, 있는 힘껏 치고 앉았어.",아~ 진짜...... 혹이 생겼잖아.,,良樹,那傢伙，狠狠地打了我一下。,啊～可惡……都腫起來了。,,1,39,31,1,0,0,0,0,0,,Translated
+186,良樹,……守りたいヤツがいるのにあんな終わり方、,死んでも死にきれねーよ。, ,Yoshiki,"There's somebody I want to protect in here, too,","so if I'd met my end like that, I'd've been pissed.",I'd definitely be haunting this place by now.,요시키,...... 지키고 싶은 녀석이 있는데 그런 식으로 죽으면,죽어도 못 죽지.,,良樹,……明明有想保護的人，要是那樣死掉，,死了也死不瞑目啊。,,1,40,31,1,0,0,0,0,0,,Translated
+187,大川,岸沼君……, , ,Ohkawa,Kishinuma...,,,오오카와,키시누마 군......,,,大川,岸沼同學……,,,1,244,32,1,0,0,0,0,0,,Translated
+188,良樹,しっかし、,俺たち以外にまともに話ができる人間がいるとは,思わなかったぜ。,Yoshiki,"Gotta say, though, I'm surprised to find someone",else I can talk to in here other than the people,"I came with. Like, another human being.",요시키,그건 그렇고,우리 말고 제대로 얘길 나눌 수 있는,사람이 있을 줄은 몰랐어.,良樹,不過話說回來，,真沒想到除了我們之外，還有能正常對話的人。,,1,41,31,1,0,0,0,0,0,,Translated
+189,大川,そ、だね……。俺も……痛っ！！, , ,Ohkawa,"Y-Yeah, me t-- Aagh!",,,오오카와,"그, 래...... 나도...... 아얏!!",,,大川,是、啊……。我也是……好痛！！,,,1,245,32,1,0,0,0,0,0,,Translated
+190,良樹,腕、どうかしたのか？, , ,Yoshiki,Something wrong with your arm?,,,요시키,"팔, 다친 거냐?",,,良樹,手腕，怎麼了？,,,1,42,31,1,0,0,0,0,0,,Translated
+191,大川,うん……ちょっと……, , ,Ohkawa,"Yeah, I kind of...",,,오오카와,응...... 조금......,,,大川,嗯……有點……,,,1,246,32,1,0,0,0,0,0,,Translated
+192,＊,『おーい！　誰か――――！！,　誰かいないのかー！？,　いたら返事してくれ――！　おーい！』,*,Heeeeey! Sooooomebooooody! Aaaaanybooooody!,Hellooooooo? Aaaaaanybooooody theeeeere?!,"If you're there, please aaaaansweeeeer! Heeeey!",＊,『야~! 거기~~~~!!,누구 없어~!?,있으면 대답 좀 해 봐~~!  야~!』,＊,『喂～！　有沒有人――――！！,　有沒有人啊～！？,　有人在的話回答我――！　喂～！』,1,0,0,0,0,0,0,0,0,,Translated
+193,大川,！？　今の、健介！？, , ,Ohkawa,...! Was that Kensuke?!,,,오오카와,"!?  방금, 켄스케!?",,,大川,!？　剛才，是健介！？,,,1,247,32,1,0,0,0,0,0,,Translated
+194,良樹,急にどうしたんだよ！, , ,Yoshiki,What's going on?,,,요시키,갑자기 뭐야!,,,良樹,怎麼突然這樣！,,,1,44,31,1,0,0,0,0,0,,Translated
+195,大川,聞こえたんだ！！　健介の声がっ！, , ,Ohkawa,That voice! It was Kensuke's!,,,오오카와,들렸어!!  켄스케 목소리가!,,,大川,我聽到了！！　是健介的聲音！,,,1,248,32,1,0,0,0,0,0,,Translated
+196,良樹,健介……？, , ,Yoshiki,Kensuke?,,,요시키,켄스케......?,,,良樹,健介……？,,,1,45,31,1,0,0,0,0,0,,Translated
+197,大川,うん、同じ高校の……,一緒に飛ばされてきた友達だよ！,上の階だ！,Ohkawa,"Yeah, from my school. He's a friend who was brought",here with me. Upstairs!,,오오카와,"응, 같은 학교의......",같이 온 친구야!,위층이다!,大川,嗯，同校的……,一起被捲進來的好友！,在樓上！,1,249,32,1,0,0,0,0,0,,Translated
+198,黒崎,『おーい！　誰か――――！！,　返事してくれよ――！』,,Kurosaki,Heeeeeeey! Aaaaaaaanbooooody?!,Saaaay soooomethiiiing!,,쿠로사키,『야아~!  누구 없어~~~~!?,대답 좀 해 봐~~!』,,黒崎,『喂～！　有沒有人――――！！,　回答我啊――！』,,1,0,0,0,0,0,0,0,0,,Translated
+199,大川,健介？　ここにいるのか？,ねぇ――！, ,Ohkawa,"Kensuke? Are you here?! Answer me, Kensuke!",,,오오카와,켄스케?  여기 있어?,"대답해 봐, 야~~!",,大川,健介？　你在這裡嗎？,喂――！,,1,250,32,1,0,0,0,0,0,,Translated
+200,黒崎,『おーーーい……！』,,,Kurosaki,Heeeeeeeey!,,,쿠로사키,『야아~~~ ......!』,,,黒崎,『喂～～……！』,,,1,0,0,0,0,0,0,0,0,,Translated
+201,良樹,……どこだ？,声はこんなにハッキリ聞こえてんのに、,どこにもいねぇ。,Yoshiki,"Where is that coming from? It's so loud and clear,",but there's nobody in sight...,,요시키,...... 어디야?,목소리는 잘 들리는데,아무 데도 없네.,良樹,……在哪裡？,聲音明明聽得這麼清楚，,卻哪裡都不在。,1,46,31,1,0,0,0,0,0,,Translated
+202,大川,健介……。健介ぇ――――！！！, , ,Ohkawa,Kensuke... KENSUKE!!,,,오오카와,켄스케...... 켄스케에~~~~!!!,,,大川,健介……。健介啊――――！！！,,,1,251,32,1,0,0,0,0,0,,Translated
+203,良樹,！？　ちょ、お前……！,あんまでかい声出すな。,見つかるだろーがっ！,Yoshiki,"Okay, you need to calm down. If you're too loud,",that...thing is going to find us.,,요시키,"!?  잠깐, 너......!",너무 큰 소리 내지 마.,들킬지도 모르는데!,良樹,!？　等、你……！,別喊那麼大聲。,會被發現的啊！,1,47,31,1,0,0,0,0,0,,Translated
+204,大川,だって、ずっと探してたんだ！,健介、健介――――！！, ,Ohkawa,But I've been looking all over for him.,Kensuke! KEEEENSUKEEEE!!,,오오카와,줄곧 찾아 다녔어!,"켄스케, 켄스케~~~~!!",,大川,可是，我一直都在找他啊！,健介、健介――――！！,,1,252,32,1,0,0,0,0,0,,Translated
+205,黒崎,『美月さぁーん！　袋井ー！　刻命ー！,　みんなどこに行ったんだ――！』,,Kurosaki,Mitsuki! Fukuroi! Kizamiiii! Where did you all go?!,,,쿠로사키,『미츠키~!  후쿠로이~!  키자미~!,다들 어디 간 거야~~!』,,黒崎,『美月～！　袋井～！　刻命～！,　大家去哪了――！』,,1,0,0,0,0,0,0,0,0,,Translated
+206,大川,嘘……なんで聞こえないんだよ。,健介！　俺はここだよ、健介ぇ――――！, ,Ohkawa,This is ridiculous. Why can't he hear me?!,"Kensuke! I'm right here, Kensuke!",,오오카와,거짓말...... 왜 못 듣는 거야.,"켄스케!  난 여기 있어, 켄스케에~~~~!",,大川,騙人……為什麼聽不到。,健介！　我在這裡啊，健介――――！,,1,253,32,1,0,0,0,0,0,,Translated
+207,,　しかし、大川の声は届かない。,　黒崎の声は徐々に遠のいて行った。,,,But it seemed pretty clear that this Kensuke person,couldn't hear him at all. Kensuke's cries gradually,receded into the distance.,,그러나 오오카와의 목소리는 닿지 않는다.,쿠로사키의 목소리는 서서히 멀어져 갔다.,,,　但是，大川的聲音傳達不到。,黒崎的聲音逐漸遠去。,,0,0,0,0,0,0,0,0,0,,Translated
+208,大川,なんで……？　俺、ここにいるのに……,っ、なんで行っちゃうんだよ！！,……ううっ。,Ohkawa,Why? I'm right here... Ghh... Why are you leaving?!,Stooooop!,,오오카와,왜......? 난 여기에 있는데......,"윽, 왜 가 버리는 거야!!",...... 으으.,大川,為什麼……？　我明明在這裡……,為什麼要離開啊！！,……嗚嗚。,1,254,32,1,0,0,0,0,0,,Translated
+209,良樹,……, , ,Yoshiki,...,,,요시키,......,,,良樹,……,,,1,48,31,1,0,0,0,0,0,,Translated
+210,大川,俺は……っ……う、ふうっ……,一人で、逃げたから？　だからなのか！？, ,Ohkawa,Is it because I...*sniffle*...because I ran off,without you? Is that why?!,,오오카와,"내가...... 윽...... 으, 흐윽......","혼자, 도망쳐서?  그런 거야!?",,大川,是因為我……一個人逃走了嗎？　所以才這樣嗎！？,,,1,255,32,1,0,0,0,0,0,,Translated
+211,良樹,どうした？　……お前、何言って……, , ,Yoshiki,"Huh? Wait, what happened?",,,요시키,"왜 그래?  ...... 너, 무슨 말......",,,良樹,怎麼了？　……你在說什麼……,,,1,49,31,1,0,0,0,0,0,,Translated
+212,大川,きっと罰なんだ。,俺だけ逃げて……っ……,みんなを、置いてきたから！,Ohkawa,This is punishment. For deserting my friends.,For running away and leaving them behind.,,오오카와,이건 분명 벌이야.,나만 도망치고......,모두를 놔두고 와서!,大川,這一定是懲罰。,只有我逃走了……,把大家丟下的緣故！,1,0,33,1,0,0,0,0,0,,Translated
+213,良樹,大川……, , ,Yoshiki,Ohkawa...,,,요시키,오오카와......,,,良樹,大川……,,,1,50,31,1,0,0,0,0,0,,Translated
+214,大川,逃げたんだよ……,友達を置いて……自分だけ、逃げたんだよ！, ,Ohkawa,I just...bolted. All by myself. With no regard for,my friends at all!,,오오카와,도망쳤어......,"친구를 놔두고...... 나 혼자, 도망쳤어!",,大川,我逃走了啊……,丟下朋友……只有自己逃走了！,,1,1,33,1,0,0,0,0,0,,Translated
+215,大川,良介や卜部や霧崎を置いて……,あ、ああああぁぁぁぁぁぁぁ！！, ,Ohkawa,"Ryosuke, Urabe, Kirisaki... I just left them all",to die! A-AaaaaaaaaaaAAAAAAAAAAAAHHH!!,,오오카와,"료스케와 우라베, 쿠로사키를 놔두고......","아, 아아아아아아아아아아아!!",,大川,丟下良介、卜部和霧崎……,啊、啊啊啊啊啊啊啊啊！！,,1,2,33,1,0,0,0,0,0,,Translated
+216,良樹,大川！？　落ち着けよ、大川！　大川！,オイ！　……クソッ。, ,Yoshiki,"Ohkawa?! C-Calm down, Ohkawa! Seriously! Hey!",...Dammit all...,,요시키,"오오카와!?  진정해, 오오카와!  오오카와!",야!  ...... 젠장.,,良樹,大川！？　冷靜點，大川！　大川！,喂！　……可惡。,,1,51,31,1,0,0,0,0,0,,Translated
+217,大川,あああああぁぁぁぁ――――！！,ぐ、んううぅ……っ……ん――――！！, ,Ohkawa,AAAAAAAAAGGGGGGHHHHH!! Khh... Ngggghhh...,ghhmmph!,,오오카와,아아아아아아아아아~~~~!!,"으, 으으으...... 윽...... 으~~~~!!",,大川,啊啊啊啊啊啊――――！！,唔、嗚嗚嗚……嗚……嗚――――！！,,1,3,33,1,0,0,0,0,0,,Translated
+218,,　良樹は慌てて大川の口を塞いだ。,,,,"Not sure what else to do, I put my hand over his",mouth to muffle him.,,,요시키는 서둘러 오오카와의 입을 막았다.,,,,　良樹慌忙摀住大川的嘴。,,,0,0,0,0,0,0,0,0,0,,Translated
+219,良樹,バカ野郎！,こんなところで大声出してんじゃねー！,見つかっちまうって言ってんだろ！！,Yoshiki,Dumbass! If you're that loud in a place this,"exposed, that thing's gonna find us for sure!",,요시키,이 바보 자식!,이런 데서 큰소리 내지 말라나까!,들킬지도 모른다고!!,良樹,你這笨蛋！,在這種地方大聲嚷嚷！,不是說會被發現嗎！！,1,52,31,1,0,0,0,0,0,,Translated
+220,大川,！！　っ……っん……。ご……ごめ……っ。, , ,Ohkawa,...! Ghh... S-Sorr--,,,오오카와,!!  윽...... 응...... 미...... 미안......,,,大川,！！　……嗯……。對……對不起……。,,,1,4,33,1,0,0,0,0,0,,Translated
+221,良樹,いや……。とりあえず、大丈夫か？, , ,Yoshiki,It's fine. Are...you all right?,,,요시키,"아니...... 너, 괜찮냐?",,,良樹,不……。總之，沒事吧？,,,1,53,31,1,0,0,0,0,0,,Translated
+222,大川,ん……, , ,Ohkawa,I think so.,,,오오카와,응......,,,大川,嗯……,,,1,5,33,1,0,0,0,0,0,,Translated
+223,大川,置いて行かないって約束したのに……, , ,Ohkawa,I just...promised I'd be there for him.,,,오오카와,놔두고 가지 않겠다고 약속했는데......,,,大川,明明約好了不會丟下他的……,,,1,6,33,1,0,0,0,0,0,,Translated
+224,大川,ずっと一緒だったんだ。,学校でも、遊ぶ時もいつも一緒にいたのに……,良介……ごめんな……ごめんな……っ。,Ohkawa,"The two of us were always together, me and Ryosuke.","At school, in our free time...always. I'm so sorry,",Ryosuke. I'm so sorry...,오오카와,줄곧 혼자였어.,"학교에서도, 놀 때도 언제나 함께였는데......",료스케...... 미안해...... 미안해......,大川,我們一直在一起。,無論在學校還是玩的時候都一直在一起……,良介……對不起……對不起……。,1,7,33,1,0,0,0,0,0,,Translated
+225,良樹,……,,,Yoshiki,...,,,요시키,......,,,良樹,……,,,1,0,0,0,0,0,0,0,0,,Translated
+226,良樹,（ずっと一緒、か……）, , ,Yoshiki,"(Always together, huh?)",,,요시키,"(계속 함께, 라......)",,,良樹,（一直在一起，嗎……）,,,1,54,31,1,0,0,0,0,0,,Translated
+227,良樹,……大川、お前だけじゃねーよ、たぶん。,俺もそうだ。, ,Yoshiki,"It's the same for all of us in here, I think.","I mean, I've been separated from the person I'm","most concerned about, too.",요시키,"...... 오오카와, 너만이 아냐, 아마.",나도 그래.,,良樹,……大川，不只你啊，大概。,我也是這樣。,,1,55,31,1,0,0,0,0,0,,Translated
+228,大川,岸沼君も……？, , ,Ohkawa,You have?,,,오오카와,키시누마 군도......?,,,大川,岸沼同學也是……？,,,1,8,33,1,0,0,0,0,0,,Translated
+229,良樹,ああ。,今この瞬間も……アイツを一人にしちまってる。, ,Yoshiki,Yeah. Every second I'm here is another second,I feel like crap for having left her behind.,,요시키,그래.,지금 이 순간에도...... 그 녀석을 혼자 두고 있어.,,良樹,嗯。,就在此時此刻……我也把那傢伙一個人丟下了。,,1,56,31,1,0,0,0,0,0,,Translated
+230,良樹,……とにかくよ、後ろばっか見ねーで、,これから出来ることだけ考えようぜ。, ,Yoshiki,But it won't do anyone any good to just keep dwell-,ing on the past. You gotta think about what needs to,be done from here on out.,요시키,"...... 어쨌든 말야, 뒤만 보지 말고",앞으로 해야 할 일을 생각하자.,,良樹,……總之，不要一直往後看，,想想接下來能做的事吧。,,1,57,31,1,0,0,0,0,0,,Translated
+231,,　どこからか、機械の音が聞こえる。,,,,A distinctly electronic sound was suddenly audible,from...somewhere.,,,어디에선가 기계음이 들려온다.,,,,　從某處傳來機械的聲音。,,,0,0,0,0,0,0,0,0,0,,Translated
+232,大川,……？, , ,Ohkawa,...?,,,오오카와,......?,,,大川,……？,,,1,9,33,1,0,0,0,0,0,,Translated
+233,良樹,なんだ、この音？, , ,Yoshiki,The heck was that?,,,요시키,"뭐야, 이 소린?",,,良樹,什麼聲音？,,,1,58,31,1,0,0,0,0,0,,Translated
+234,大川,え……あれ、俺！？, , ,Ohkawa,...Wait... Was that me?!,,,오오카와,"어...... 어라, 나!?",,,大川,咦……啊，是我！？,,,1,10,33,1,0,0,0,0,0,,Translated
+235,,　ポケットから取り出された携帯ゲーム機の,　液晶画面が煌々と光っている。,,,He proceeded to pull a handheld gaming system from,"his pocket, which had clearly been powered on,",its LCD fully lit.,,주머니에서 꺼낸 휴대용 게임기,액정화면이 번쩍번쩍 빛나고 있다.,,,　從口袋裡拿出的掌上型遊戲機，,液晶螢幕正亮著光。,,0,0,0,0,0,0,0,0,0,,Translated
+236,大川,電源切ってたはずなのに、どうして……, , ,Ohkawa,I know I turned this off. Why is it...?,,,오오카와,"전원을 껐는데, 어째서......",,,大川,我明明關掉電源了，為什麼……,,,1,11,33,1,0,0,0,0,0,,Translated
+237,,　画面には、ゲームのタイトルが表示されている。,,,,The title screen of a rather pastel-looking game,was proudly displayed on the device.,,,화면에는 게임 타이틀이 나와 있다.,,,,　畫面上顯示著遊戲標題。,,,0,0,0,0,0,0,0,0,0,,Translated
+238,良樹,『ラブ・ミラクル,　～君にきゅんきゅん革命～　＋（プラス）』？,なんだこれ？,Yoshiki,'Love Miracle: Palpitation Revolution Plus'?,The heck is that?!,,요시키,『러브 미라클,~ 당신에게 쿵쿵 혁명 ~  ＋ (플러스)』?,뭐야 이건?,良樹,『戀愛奇蹟,　～為你心動革命～　＋（加強版）』？這是什麼？,,1,59,31,1,0,0,0,0,0,,Translated
+239,大川,え、知らない？,今人気の恋愛シミュレーションゲームだよ。,ＣＭくらい見たことあるんじゃない？,Ohkawa,"Oh, come on, you really don't know about it? It's",the biggest dating sim in the world right now. There,are even commercials for it! You haven't seen them?,오오카와,"어, 몰라?",요즘 인기 있는 연애 시뮬레이션 게임이야.,CM은 본 적 있지 않아?,大川,咦，你不知道？,現在正紅的戀愛模擬遊戲啊。,至少看過廣告吧？,1,12,33,1,0,0,0,0,0,,Translated
+240,良樹,知らねーな。,バイトが忙しくてあんまＴＶ見てねーから。, ,Yoshiki,"Nope. Been so busy with work, I don't get the chance",to watch a lot of TV anymore.,,요시키,난 몰라~,알바하기 바빠서 TV는 별로 안 보거든.,,良樹,不知道啊。,打工太忙了，不太看電視。,,1,60,31,1,0,0,0,0,0,,Translated
+241,大川,嘘……信じられない。, , ,Ohkawa,No way... You can't be serious!,,,오오카와,거짓말..... 믿기지 않아.,,,大川,騙人……不敢相信。,,,1,13,33,1,0,0,0,0,0,,Translated
+242,良樹,うっせー！　つーかそれ電源切っとけよ。,ゲームやってる場合じゃねーだろ。, ,Yoshiki,"I don't give a crap, anyway. Just shut the thing",off. This is no time to be playing games.,,요시키,시끄러~!  일단 그것 좀 꺼라.,게임을 하고 있을 때가 아니잖아.,,良樹,吵死了！　總之把它關掉吧。,現在不是玩遊戲的時候吧。,,1,61,31,1,0,0,0,0,0,,Translated
+243,大川,そうなんだけど……うわっ！,なにこれ、勝手に動いてる！, ,Ohkawa,"Well, yeah, it's not, but still!",...Geeh! What's going on?! It's playing itself!,,오오카와,그건 그런데...... 우왓!,"뭐야 이거, 멋대로 움직여!",,大川,話是這麼說……哇！,這是什麼，自己動起來了！,,1,14,33,1,0,0,0,0,0,,Translated
+244,良樹,なに？！, , ,Yoshiki,Huh?,,,요시키,뭐?!,,,良樹,什麼？！,,,1,62,31,1,0,0,0,0,0,,Translated
+245,大川,こんなことって……ありなのか？,でも、幽霊とか普通にいるところだし、,あってもおかしくないかも。,Ohkawa,How is this...even possible? ...I guess we are in,"a place where ghosts are the norm, so it's not like","it's that shocking, but...it's still weird!",오오카와,뭐 이런 일이...... 다 있지?,"하지만 뭐, 유령도 있는데",이런 게 있어도 이상하지는 않을지도.,大川,怎麼會有這種事……？,不過，這裡連幽靈都有，,發生什麼也不奇怪吧。,1,15,33,1,0,0,0,0,0,,Translated
+246,良樹,勝手に遊び始めるゲーム機か……, , ,Yoshiki,"A game system that plays itself, huh?",,,요시키,멋대로 켜지는 게임기라......,,,良樹,會自己開始玩的遊戲機嗎……,,,1,63,31,1,0,0,0,0,0,,Translated
+247,良樹,篠崎が前に言ってた、『霊障』ってのか？,いや、あー……なんだ、ポル……ポル……, ,Yoshiki,Shinozaki would probably have a lot to say about,"that. Spiritual manipulation, I think she called it.","Or, wait... She used a word that started with a P...",요시키,전에 시노자키가 말했던 『영자장』인가?,"아니, 아~ ...... 뭐였더라, 폴...... 폴......",,良樹,篠崎之前說過的，『靈障』嗎？,不，啊～……什麼來著，波爾……波爾……,,1,64,31,1,0,0,0,0,0,,Translated
+248,大川,ポルターガイスト！, , ,Ohkawa,Poltergeist?,,,오오카와,폴터가이스트!,,,大川,騷靈現象！,,,1,16,33,1,0,0,0,0,0,,Translated
+249,良樹,そう、それだ！, , ,Yoshiki,"Yeah, that's it!",,,요시키,"그래, 그거야!",,,良樹,對，就是那個！,,,1,65,31,1,0,0,0,0,0,,Translated
+250,,　ゲーム画面を見ると、勝手にカーソルが移動して,　ゲームが進められていく。,,,"And that's exactly what it seemed to be, as the game",really was playing itself. The cursor was moving on,"its own, picking choices and progressing the story.",,"게임 화면을 보니, 커서가 멋대로 이동하며",게임을 진행하고 있다.,,,　看著遊戲畫面，游標自行移動，,推進遊戲進度。,,0,0,0,0,0,0,0,0,0,,Translated
+251,大川,これ、良介がクリアしたがってた,タカナミさんのＥＸ（エクストラ）シナリオだよ……, ,Ohkawa,"This is Ms. Takanami's EX scenario, which Ryosuke",was really psyched to play through.,,오오카와,"이거, 료스케가 깨고 싶어 했던",타카나미의 EX(엑스트라) 시나리오야......,,大川,這是良介很想通關的,タカナミ的EX額外劇情啊……,,1,17,33,1,0,0,0,0,0,,Translated
+252,大川,……もう、遊べなく……なっちゃったけど。, , ,Ohkawa,...Though he'll...never have the chance now.,,,오오카와,"...... 이젠, 할 수 없게...... 되었지만.",,,大川,……雖然他已經，再也玩不到了。,,,1,18,33,1,0,0,0,0,0,,Translated
+253,良樹,まさかその良介ってヤツは……, , ,Yoshiki,"Wait, don't tell me this Ryosuke guy...",,,요시키,설마 그 료스케란 녀석은......,,,良樹,難道那個叫良介的傢伙是……,,,1,66,31,1,0,0,0,0,0,,Translated
+254,大川,……うん……生きてない。, , ,Ohkawa,...yeah. He's no longer...with us.,,,오오카와,...... 응...... 죽었어.,,,大川,……嗯……已經不在了。,,,1,19,33,1,0,0,0,0,0,,Translated
+255,良樹,マジか……, , ,Yoshiki,Damn...,,,요시키,그러냐......,,,良樹,真的嗎……,,,1,67,31,1,0,0,0,0,0,,Translated
+256,大川,良介、足に大怪我してて……。血が止まらずに,どんどん冷たくなっていくの、わかったんだ。, ,Ohkawa,His leg got cut clean off...and he was just gushing,blood. And turning colder and colder by the second.,He was so obviously dead...,오오카와,"료스케, 다리를 크게 다치고...... 피가 멈추지 않아서","점점 차가워지는 걸, 알고 있었어.",,大川,良介的腳受了重傷……。血流不止，,我清楚感覺到他的身體越來越冰冷。,,1,20,33,1,0,0,0,0,0,,Translated
+257,大川,本当はわかってたのに認めたくなかった！,だからあいつに言ったんだ……, ,Ohkawa,But I couldn't bring myself to accept it. I didn't,WANT to accept it! And that's why Yuuya did what,he did. I finally get it.,오오카와,알고 있었는데 인정하고 싶지 않았어!,그래서 유야에게 그런 말을 한 거야......,,大川,其實我心裡明白，但不想承認！,所以我對那傢伙說了……,,1,21,33,1,0,0,0,0,0,,Translated
+258,良樹,大川？, , ,Yoshiki,Yuuya?,,,요시키,유야?,,,良樹,大川？,,,1,43,31,1,0,0,0,0,0,,Translated
+259,大川,人殺し！　って、言っちゃったんだ。,冷たくなった良介を、,階段から蹴り落としたから……,Ohkawa,He was a friend of ours. But I called him a...,murderer. Before I ran off.,,오오카와,친구였던 녀석이야.,"난 그 녀석에게, 살인자...... 라고 말했어.",,大川,我說他是殺人犯！,因為他把已經冰冷的良介,從樓梯上踢了下去……,1,22,33,1,0,0,0,0,0,,Translated
+260,大川,くそっ……絶対許さない。, , ,Ohkawa,He kicked Ryosuke down the stairs. But only after,Ryosuke had already gone cold. Only after he'd...,already...,오오카와,차가워진 료스케를,계단에서 걷어차 떨어뜨려서......,,大川,可惡……絕對不會原諒他。,,,1,23,33,1,0,0,0,0,0,,Translated
+261,良樹,なんだそりゃ……,酷ぇ仲間がいたもんだな。, ,Yoshiki,The hell'd he do that for? That's awful!,,,요시키,뭐야 그건...... 너무하는데,,,良樹,那是怎樣……,還真有這麼過分的同伴啊。,,1,68,31,1,0,0,0,0,0,,Translated
+262,大川,もっと生きたかったよな。,もっとゲーム、やりたかったよな……, ,Ohkawa,"Yeah, it is. And I wasn't about to look past it.",How could I possibly let him get away with that?,"I mean, even if Ryosuke was already dead, still...",오오카와,응...... 그래서 용서할 수 없었어.,그런 짓을 한 그 녀석을......,설령 료스케가 죽었다 해도......,大川,他一定還想活更久吧。,一定還想玩更多遊戲吧……,,1,75,36,1,0,0,0,0,0,,Translated
+263,大川,助けてあげられなくてごめん……, , ,Ohkawa,"...I wanted to live out my life with you, man.",I wanted us to play so many more games together.,,오오카와,더 살고 싶었을 거야.,"게임도, 하고 싶었을 거고......",,大川,沒能救你，對不起……,,,1,116,36,1,0,0,0,0,0,,Translated
+264,大川,ごめんよ、良介ぇ……, , ,Ohkawa,I'm so sorry...I couldn't save you...,...Ryosuke... I'm so sorry...,,오오카와,구해 주지 못해서 미안......,"미안해, 료스케......",,大川,對不起啊，良介……,,,1,117,36,1,0,0,0,0,0,,Translated
+265,良樹,…………, , ,Yoshiki,...,,,요시키,............,,,良樹,…………,,,1,0,0,0,0,0,0,0,0,,Translated
+266,良樹,（おかしくなるヤツも出てくるか……,　キツいよな……）, ,Yoshiki,(Guess he's kinda lost it a little. Can't say,"I blame him, though.)",,요시키,(미쳐 버리는 녀석도 생기는 건가......,심한데......),,良樹,（會有發瘋的人出現啊……,　真是難熬啊……）,,1,69,31,1,0,0,0,0,0,,Translated
+267,大川,あれ、タイトル画面に戻ってる……, , ,Ohkawa,...Huh? It's gone back to the title screen.,That's odd.,,오오카와,"어라, 타이틀 화면으로 돌아왔어......",,,大川,咦，回到標題畫面了……,,,1,25,33,1,0,0,0,0,0,,Translated
+268,良樹,……なあ大川。,その良介ってヤツは見えないだけで、,案外お前の傍にいんじゃねーの。,Yoshiki,"Hey, Ohkawa? Have you considered that maybe, even","though you can't see him, Ryosuke is still right by",your side?,요시키,...... 야 오오카와.,그 료스케란 녀석은 안 보이지만,의외로 네 곁에 있는 거 아냐.,良樹,……喂，大川。,那個叫良介的傢伙雖然看不見，,說不定意外地就在你身邊呢。,1,70,31,1,0,0,0,0,0,,Translated
+269,大川,え……アイツが？, , ,Ohkawa,Huh? You think?!,,,오오카와,어...... 그 녀석이?,,,大川,咦……那傢伙嗎？,,,1,26,33,1,0,0,0,0,0,,Translated
+270,良樹,気休めかもしんねーけどよ。,それもそいつがお前に何か伝えたくて、,動かしたとかさ？,Yoshiki,"I dunno, it's just a hunch, and it's probably little","consolation, but...maybe he's controlling that game",system. Maybe he's trying to tell you something.,요시키,그저 위안일지도 모르지만 말야.,그래도 그 녀석이 너에게 뭔가 전하고 싶어서,움직였을지도 모르잖아?,良樹,雖然可能只是安慰你而已。,但也可能是那傢伙想傳達什麼給你，,才讓它動起來的吧？,1,71,31,1,0,0,0,0,0,,Translated
+271,大川,良介……, , ,Ohkawa,Ryosuke...,,,오오카와,료스케......,,,大川,良介……,,,1,27,33,1,0,0,0,0,0,,Translated
+272,良樹,だったらよ、そのゲーム機があればいつでも、,そいつと遊べんじゃねーか？, ,Yoshiki,Which would mean as long as you've got that thing,"with you, you'll be able to play together anytime.",,요시키,그럼 그 게임기가 있으면,언제나 그 녀석이랑 놀 수 있는 거 아냐?,,良樹,如果是這樣，只要有那台遊戲機，,不就能隨時跟他一起玩了嗎？,,1,72,31,1,0,0,0,0,0,,Translated
+273,大川,っ……, , ,Ohkawa,...,,,오오카와,윽......,,,大川,……,,,1,0,0,0,0,0,0,0,0,,Translated
+274,大川,岸沼君！, , ,Ohkawa,Kishinuma!,,,오오카와,키시누마 군!,,,大川,岸沼同學！,,,1,28,33,1,0,0,0,0,0,,Translated
+275,良樹,うおっ！　なんだよ、いきなり抱き付くな！, , ,Yoshiki,"Ack! The hell's your problem, grabbing someone",like that?!,,요시키,"우옷!  뭐야, 갑자기 끌어안지 마!",,,良樹,哇！　幹嘛啊，突然抱上來！,,,1,73,31,1,0,0,0,0,0,,Translated
+276,大川,ありがとう岸沼君！,気休めでもいい、すごく嬉しい……,良介の霊なら、いつでも来い、だよ！,Ohkawa,"I'm hugging you, Kishinuma! I don't care if you're",just placating me or what... Thank you. It makes me,really happy to think that Ryosuke's still with me!,오오카와,고마워 키시누마 군!,"위안이라도 좋아, 정말 기뻐......","료스케의 영혼이라면, 언제든 오라 그래!",大川,謝謝你岸沼同學！,就算是安慰也好，我真的好高興……,如果是良介的靈魂，隨時都來吧！,1,29,33,1,0,0,0,0,0,,Translated
+277,良樹,あ、ああ……, , ,Yoshiki,N-No problem...,,,요시키,"아, 그래......",,,良樹,啊、嗯……,,,1,74,31,1,0,0,0,0,0,,Translated
+278,大川,俺、岸沼君に会えてよかった……, , ,Ohkawa,"I'm so glad I met you, Kishinuma!",,,오오카와,"난, 키시누마 군을 만나서 잘 됐다고 생각해......",,,大川,我，能遇到岸沼同學真是太好了……,,,1,30,33,1,0,0,0,0,0,,Translated
+279,良樹,わ、わかったからくっつくなって！,鼻水つけんな！, ,Yoshiki,"A-All right, already! Just get off of me!",You're snotting me up something fierce!,,요시키,"아, 알았으니까 달라붙지 좀 말라고!",콧물 묻히지 마!,,良樹,好、好了我知道了別黏著我！,別把鼻涕弄到我身上！,,1,75,31,1,0,0,0,0,0,,Translated
+280,大川,グスッ……もう誰かが死ぬの、見たくないよ……, , ,Ohkawa,*sniffle* I don't want to see anybody else die.,,,오오카와,"훌쩍...... 더는 누군가가 죽는 걸, 보고 싶지 않아......",,,大川,吸泣……我不想再看到任何人死去了……,,,1,31,33,1,0,0,0,0,0,,Translated
+281,大川,ねえ岸沼君、絶対生き残ろうね！, , ,Ohkawa,"We should make sure we get out of here alive,",Kishinuma! Promise me we will!,,오오카와,"저기 키시누마 군, 꼭 살아남자!",,,大川,吶岸沼同學，我們一定要活著離開喔！,,,1,32,33,1,0,0,0,0,0,,Translated
+282,良樹,ああ、言われなくてもそのつもりだ。,こんなふざけたところ、とっとと脱出してやる！, ,Yoshiki,"Well, I mean, that's certainly the plan! I want",to get the hell out of this awful place as soon,as humanly possible.,요시키,"그래, 말 안 해도 그럴 생각이다.","이딴 곳, 당장이라도 탈출해 주겠어!",,良樹,嗯，不用你說我也是這麼打算的。,我要盡快逃出這個鬼地方！,,1,76,31,1,0,0,0,0,0,,Translated
+283,良樹,そのためにも、,他のヤツらとも早く合流しないとな。, ,Yoshiki,That's why we gotta keep trying to find other,people in here. Other LIVING people. So we can,all get the hell out together.,요시키,그걸 위해서라도,다른 녀석들과 빨리 합류해야 해.,,良樹,為此，,也得快點和其他的傢伙會合才行。,,1,77,31,1,0,0,0,0,0,,Translated
+284,大川,うん！, , ,Ohkawa,That sounds perfect!,,,오오카와,응!,,,大川,嗯！,,,1,33,33,1,0,0,0,0,0,,Translated
+285,良樹・大川,！？, , ,Yoshiki & Ohkawa,?!,,,요시키·오오카와,!?,,,良樹・大川,!？,,,1,0,0,0,0,0,0,0,0,,Translated
+286,子供の幽霊,『みぃーつけたぁ……』, , ,Child Spirit,Fhooooound hyooooo...,,,어린 유령,『찾~았다......』,,,小孩幽靈,『找～到你了……』,,,1,43,32,1,0,0,0,0,0,,Translated
+287,良樹,クソッ、見つかった！！, , ,Yoshiki,"Dammit, we gotta get moving!",,,요시키,"젠장, 들켰다!",,,良樹,可惡，被發現了！！,,,1,79,31,1,0,0,0,0,0,,Translated
+288,大川,と、とにかく逃げよう！, , ,Ohkawa,C-Come on!,,,오오카와,"이, 일단 도망치자!",,,大川,總、總之快逃吧！,,,1,35,33,1,0,0,0,0,0,,Translated

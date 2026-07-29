@@ -1,0 +1,96 @@
+﻿Index,JP,EN2,KO,TC
+0,なし,なし,,無
+1,別館１階 玄関,Second Wing 1F - Entranceway,별관 1F 현관,別館１樓・玄關
+2,別館１階 東通路,Second Wing 1F - East Hall,별관 1F 동쪽 통로,別館１樓・東側走廊
+3,別館１階 西通路,Second Wing 1F - West Hall,별관 1F 서쪽 통로,別館１樓・西側走廊
+4,別館２階 東通路,Second Wing 2F - East Hall,별관 2F 동쪽 통로,別館２樓・東側走廊
+5,別館２階 西通路,Second Wing 2F - West Hall,별관 2F 서쪽 통로,別館２樓・西側走廊
+6,地下防空壕跡,Abandoned Bomb Shelter,지하 방공호,地下防空壕遺址
+7,解体部屋,Dissection Room,해체실,解剖室
+8,???,???,???,???
+9,殺害現場,Murder Scene,살해현장,殺害現場
+10,本館１階 玄関,Main Building 1F - Entranceway,본관 1F 현관,本館１樓・玄關
+11,本館１階 東通路,Main Building 1F - East Hall,본관 1F 동쪽 통로,本館１樓・東側走廊
+12,本館１階 西通路,Main Building 1F - West Hall,본관 1F 서쪽 통로,本館１樓・西側走廊
+13,本館２階中央通路,Main Building 2F - Center Hall,본관 2F 중앙 통로,本館２樓・中央走廊
+14,本館２階 東通路,Main Building 2F - East Hall,본관 2F 동쪽 통로,本館２樓・東側走廊
+15,本館２階 西通路,Main Building 2F - West Hall,본관 2F 서쪽 통로,本館２樓・西側走廊
+16,本館３階 東通路,Main Building 3F - East Hall,본관 3F 동쪽 통로,本館３樓・東側走廊
+17,本館３階 西通路,Main Building 3F - West Hall,본관 3F 서쪽 통로,本館３樓・西側走廊
+18,１のＡ 教室,Classroom 1-A,1-A 교실,１年Ａ班教室
+19,２のＡ 教室,Classroom 2-A,2-A 교실,２年Ａ班教室
+20,３のＡ 教室,Classroom 3-A,3-A 교실,３年Ａ班教室
+21,５のＡ 教室,Classroom 5-A,5-A 교실,５年Ａ班教室
+22,保健室,Infirmary,보건실,保健室
+23,校長室,Principal's Office,교장실,校長室
+24,更衣室,Locker Room,라커룸,更衣室
+25,自殺のあった音楽室,Music Room - Suicide Site,자살 사건이 있었던 음악실,曾發生自殺事件的音樂室
+26,水圧調整室,Pump Room,수압조정실,水壓調整室
+27,天神小 水練場,Poolside,텐진초 수영장,天神小學校游泳池
+28,理科室,Science Lab,과학실,理科室
+29,職員室,Staff Room,교무실,教職員室
+30,資料室,Reference Room,자료실,資料室
+31,用務員室,Custodian's Closet,수위실,校工室
+32,呪われた図工室,Cursed Art Room,저주받은 도공실,受詛咒的美術教室
+33,別館・男子厠,Second Wing - Boys' Lavatory,별관 남자 화장실,別館・男廁
+34,別館・女子厠,Second Wing - Girls' Lavatory,별관 여자 화장실,別館・女廁
+35,本館・男子厠,Main Building - Boys' Lavatory,본관 남자 화장실,本館・男廁
+36,本館・女子厠,Main Building - Girls' Lavatory,본관 여자 화장실,本館・女廁
+37,00_staff_00a.tga,00_staff_00a.tga,,00_staff_00a.tga
+38,00_staff_00b.tga,00_staff_00b.tga,,00_staff_00b.tga
+39,00_staff_01a.tga,00_staff_01a.tga,,00_staff_01a.tga
+40,00_staff_01b.tga,00_staff_01b.tga,,00_staff_01b.tga
+41,00_staff_02a.tga,00_staff_02a.tga,,00_staff_02a.tga
+42,00_staff_02b.tga,00_staff_02b.tga,,00_staff_02b.tga
+43,00_staff_03a.tga,00_staff_03a.tga,,00_staff_03a.tga
+44,00_staff_03b.tga,00_staff_03b.tga,,00_staff_03b.tga
+45,00_staff_04a.tga,00_staff_04a.tga,,00_staff_04a.tga
+46,00_staff_04b.tga,00_staff_04b.tga,,00_staff_04b.tga
+47,face_waku.tga,face_waku.tga,,face_waku.tga
+48,mission01a.tga,mission01a.tga,,mission01a.tga
+49,<size=840>紳士のハットを発見せよ,<size=840>Find the gentleman's hat,<size=840>신사의 모자를 찾아 보아요,<size=840>找出紳士的帽子
+50,mission02a.tga,mission02a.tga,,mission02a.tga
+51,<size=840>紳士の眼鏡を発見せよ,<size=840>Find the gentleman's glasses,<size=840>신사의 안경을 찾아 보아요,<size=840>找出紳士的眼鏡
+52,TextEFF01.tga,TextEFF01.tga,,TextEFF01.tga
+53,,,,
+54,TextEFFC1_01.tga,"Please, wait...",,請稍候……
+55,TextEFFC1_02.tga,Seiko: My spirit will guide your path!,,世以子：我的靈魂會為你指引道路！
+56,TextEFFC1_03.tga,"Naomi: You're not dead, you know...",,直美：妳又沒有死……
+57,TextEFFC1_04.tga,"Let's all go on a field trip together 
+over summer vacation...",,大家暑假一起去＠校外教學吧……
+58,TextEFFC1_05.tga,"Sachi... 
+Have you come to find me?",,幸子……＠妳是來找我的嗎？
+59,TextEFFC3_01.tga,"Chihaya... Nana... Please be okay... 
+I'm sorry I'm so...useless",,千早……奈奈……妳們一定要平安……＠對不起，我這麼……沒用
+60,TextEFFC3_02.tga,"Kaori... Kaori... 
+I want to see you again...",,香織……香織……＠我好想再見妳一面……
+61,TextEFFC3_03.tga,Let me out!,,放我出去！
+62,TextEFFC3_04.tga,"Koito... Koito! Please, no...!",,小糸……小糸！不要……！
+63,TextEFFC3_05.tga,Gihh it back...,,還給我……
+64,TextEFFC4_01.tga,"- It hurts... 
+- Make it stop... 
+- Oh God, my head!",,－好痛……＠－快停下來……＠－天啊，我的頭！
+65,TextEFFC4_02.tga,Mother...,,媽媽……
+66,TextEFFC4_03.tga,I'll kill you...,,我要殺了你……
+67,TextEFFC4_04.tga,We were killed by an educator...,,我們是被教育工作者殺死的……
+68,TextEFFC4_05.tga,Mochida...!,,持田……！
+69,TextEFFC5_01.tga,"The scho-- The school day is now over. 
+Any students still in the building...
+...may never go home again...",,放、放學時間到了。＠仍留在校內的學生……＠……可能再也回不了家……
+70,TextEFFC5_02.tga,"I'm going to kill you... 
+I'm going to kill you, Yuka! Hey!",,我要殺了妳……＠我要殺了妳，由香！喂！
+71,TextEFFC5_03.tga,Yuukaa...?,,由香……？
+72,TextEFFC5_04.tga,"Be a good girl, Yuka, and come with me...",,乖乖的，由香，跟我來……
+73,TextEFFC5_05.tga,"Come out, come out wherever you are!",,出來吧，出來吧，躲到哪裡去了！
+74,TextEFFC5_06.tga,This way... Hurry!,,往這邊……快點！
+75,TextEFFC5_07.tga,She's the one at fault.,,都是她的錯。
+76,TextEFFC5_08.tga,She clearly overreacted to the situation!,,她當時顯然反應過度了！
+77,TextEFFCE_01.tga,Naomi! Naomi!,,直美！直美！
+78,mission01a.tga,mission01a.tga,,mission01a.tga
+79,"<size=600><align=""center"">Ａｆｔｅｒ　Ｅｆｆｅｃｔ．．．","<size=1200><align=""center"">After Effect...","<size=600><align=""center"">Ａｆｔｅｒ　Ｅｆｆｅｃｔ．．．","<size=600><align=""center"">後遺症……"
+80,"<size=600><align=""center"">ゼラニウム","<size=1200><align=""center"">Geranium","<size=600><align=""center"">제라늄","<size=600><align=""center"">天竺葵"
+81,"","","",
+82,"","","",
+83,"","","",
+84,"","","",
+85,,,,

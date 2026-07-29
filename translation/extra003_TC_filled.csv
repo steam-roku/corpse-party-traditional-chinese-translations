@@ -1,0 +1,65 @@
+﻿Index,JP_Name,JP_Page1,JP_Page2,JP_Page3,EN2_Name,EN2_Page1,EN2_Page2,EN2_Page3,KO_Name,KO_Page1,KO_Page2,KO_Page3,TC_Name,TC_Page1,TC_Page2,TC_Page3,NameFlag,VoiceNo_low,VoiceNo_high,Timing,VoiceAutoPage,TextSpeed,Button,AutoPage,ExtVoice,Translator_Notes,Status
+0,あゆみ,おねえちゃん、いる……？, , ,Ayumi,"Hey, Sis, you there?",,,아유미,"언니, 있어......?",,,あゆみ,姊姊，在嗎……？,,,1,210,4,1,0,0,0,0,0,,Translated
+1,ひのえ,ん、いますよ～。　どうぞ？, , ,Hinoe,"Hmm? Yeah, I'm here. Come on in.",,,히노에,"네, 있어요~ 들어오세요.",,,ひのえ,嗯，我在喔～。怎麼了？,,,1,209,5,1,0,0,0,0,0,,Translated
+2,あゆみ,…………。, , ,Ayumi,...,,,아유미,............,,,あゆみ,…………。,,,1,0,0,1,0,0,0,0,0,,Translated
+3,ひのえ,どうしたのですか？　ちっちゃい肩を,すぼめてしまって。, ,Hinoe,I see you slumping those tiny shoulders of yours.,What's the matter?,,히노에,무슨 일이죠?,작은 어깨를 오므리고,,ひのえ,怎麼啦？縮著小小的肩膀。,,,1,210,5,1,0,0,0,0,0,,Translated
+4,ひのえ,キュートなお顔が泣いてますねぇ？,……おいで？, ,Hinoe,Your cute little face is all stained with tears!,Come on over. Let's hear it.,,히노에,귀여운 얼굴이 울고 있네요?,...... 이리 오세요.,,ひのえ,可愛的小臉在哭呢？,……過來吧？,,1,211,5,1,0,0,0,0,0,,Translated
+5,ひのえ,黙っていたいですか？　話したいですか？, , ,Hinoe,"So, did you just want some quiet affection, or do",you want to talk about it?,,히노에,가만 있고 싶나요? 얘기하고 싶나요?,,,ひのえ,想靜一靜嗎？　還是想說說話？,,,1,212,5,1,0,0,0,0,0,,Translated
+6,あゆみ,……聞いて欲しい……, , ,Ayumi,...I want to ask you something.,,,아유미,...... 얘기하고 싶어......,,,あゆみ,……想跟你聊聊……,,,1,213,4,1,0,0,0,0,0,,Translated
+7,ひのえ,うん、聞かせて下さい？, , ,Hinoe,"Oh? All right, then. Ask away.",,,히노에,"응, 말해 볼래요?",,,ひのえ,嗯，說來聽聽？,,,1,213,5,1,0,0,0,0,0,,Translated
+8,あゆみ,おねえちゃんって、今のお仕事……, , ,Ayumi,It's about your work...,,,아유미,언니는 지금 하는 일......,,,あゆみ,姊姊現在的工作……,,,1,214,4,1,0,0,0,0,0,,Translated
+9,あゆみ,いつ……なりたいって決めたの？, , ,Ayumi,How old were you when you decided this is what you,wanted to do?,,아유미,언제부터...... 하고 싶다고 생각했어?,,,あゆみ,是什麼時候……決定要做的？,,,1,215,4,1,0,0,0,0,0,,Translated
+10,ひのえ,ん～……。そうですねぇ、たしか……, , ,Hinoe,Hmmm... Good question. I guess...,,,히노에,"음~ 글쎄요, 아마......",,,ひのえ,嗯～……。讓我想想，好像是……,,,1,214,5,1,0,0,0,0,0,,Translated
+11,ひのえ,ちょうど、あゆみちゃんと同じくらいの,トキでしたね。, ,Hinoe,"...I was around your age, Ayumi.",,,히노에,"딱, 아유미와 비슷한",나이일 때였죠.,,ひのえ,……正好是跟あゆみ醬差不多的,年紀吧。,,1,215,5,1,0,0,0,0,0,,Translated
+12,あゆみ,迷いはなかった？, , ,Ayumi,Were you...sure that it's what you wanted to do?,,,아유미,망설임은 없었어?,,,あゆみ,沒有猶豫過嗎？,,,1,216,4,1,0,0,0,0,0,,Translated
+13,ひのえ,はい。私は……　大いなる自然の意思に、,ただ身をゆだねているだけですから。, ,Hinoe,I was. Because...I trusted that a higher power was,guiding me.,,히노에,네. 저는...... 그저 위대한 자연의 의사에,몸을 맡길 뿐이니까요.,,ひのえ,沒有。因為我……只是順從著,偉大的自然意志而已。,,1,216,5,1,0,0,0,0,0,,Translated
+14,ひのえ,まぁ、反対は一杯ありましたけれど……。,あゆみちゃんも、見ていたとおりですね。 うふふ♪, ,Hinoe,There were certainly a lot of people opposed to the,"idea...heh, but I guess you knew that already, since",you were there! Heehee...,히노에,"뭐, 반대는 많았지만요......",아유미도 계속 보고 있었죠. 우후후♪,,ひのえ,雖然反對的人很多啦……。,あゆみ醬也親眼看到了吧。　呵呵♪,,1,217,5,1,0,0,0,0,0,,Translated
+15,あゆみ,おねえちゃん、格好いい。, , ,Ayumi,"You're really awesome, you know that, Sis?",,,아유미,"언니, 멋져.",,,あゆみ,姊姊好帥氣。,,,1,217,4,1,0,0,0,0,0,,Translated
+16,あゆみ,私は……自分の力が不安で、自信がなくて……, , ,Ayumi,I...don't have a lot of faith in my own abilities.,,,아유미,"나는...... 내 힘이 불안하고, 자신이 없어서......",,,あゆみ,我……對自己的能力感到不安，沒有自信……,,,1,218,4,1,0,0,0,0,0,,Translated
+17,あゆみ,一歩前に出る事が……　怖くて出来ないの。, , ,Ayumi,No matter what I set out to do...I can never seem to,bring myself to take that first step.,,아유미,한 발짝 내딛는 게...... 무서워서 견딜 수가 없어.,,,あゆみ,踏出一步……　害怕得做不到。,,,1,219,4,1,0,0,0,0,0,,Translated
+18,あゆみ,こわくて、こわくて……, , ,Ayumi,It just...scares me...,,,아유미,"너무, 무서워서......",,,あゆみ,好害怕、好害怕……,,,1,220,4,1,0,0,0,0,0,,Translated
+19,ひのえ,自信……　うん、単純な言葉だけど、,とっても大事なコトですね。, ,Hinoe,"Self-confidence... Such a complex, vital thing, yet",so deceptively simple-sounding.,,히노에,"자신...... 음, 단순한 말이지만",정말 중요한 말이네요.,,ひのえ,自信……　嗯，雖然是簡單的詞語，,但卻是非常重要的事呢。,,1,218,5,1,0,0,0,0,0,,Translated
+20,ひのえ,あゆみちゃんの実力は本物ですよ？,お姉ちゃん、ずっと見て来ました。, ,Hinoe,"I know you have it in you, Ayumi, to do great",things. I've seen your true potential blossoming,for a long time now.,히노에,아유미의 실력은 진짜라고요?,언니는 줄곧 봐왔어요.,,ひのえ,あゆみ醬的實力是真的喔？,姊姊我一直都有在看。,,1,219,5,1,0,0,0,0,0,,Translated
+21,ひのえ,苦労して、苦労して……　一生懸命,積み重ねてきた、今の実力でしょう？, ,Hinoe,"It's a skill you've honed from trial after trial,",hardship after hardship. All of which you've,overcome through sheer force of will.,히노에,"고생하고, 또 고생하며...... 열심히",노력한 끝에 지금의 실력이 된 거잖아요?,,ひのえ,經歷了辛苦、辛苦……　努力,累積而來的，現在的實力對吧？,,1,220,5,1,0,0,0,0,0,,Translated
+22,ひのえ,それなのに、あなた自身があなたを信じて,あげなくてどうしますか？, ,Hinoe,But what good are your accomplishments if you don't,believe in yourself?,,히노에,그런데도 자신이 그것을,믿지 않으면 어떡하나요?,,ひのえ,既然如此，妳自己卻不相信自己,那該怎麼辦呢？,,1,221,5,1,0,0,0,0,0,,Translated
+23,ひのえ,イラストレーターを夢見て、,今まで一生懸命描き続けて来たあゆみちゃん……,頑張ってきたあゆみちゃん。,Hinoe,"You are Ayumi, the budding illustrator -- always","drawing in hopes that one day, your dream can become","a reality. Ayumi, the dedicated...",히노에,일러스트레이터를 꿈꾸며,지금까지 열심히 그림을 그려 온 아유미......,노력해 온 아유미.,ひのえ,夢想成為插畫家，,一直努力畫到現在的あゆみ醬……,努力過來的あゆみ醬。,1,222,5,1,0,0,0,0,0,,Translated
+24,ひのえ,お父様やお母様に『堅実な職業を』と、,何度反対されても……, ,Hinoe,"Ayumi, the rebel...never letting Mom and Dad","convince you to 'choose a more stable occupation,'",no matter how many times they may try.,히노에,아버님과 어머님이 『제대로 된 직업을』이라며,몇 번을 반대해도......,,ひのえ,即使父親和母親多次反對說,『選擇穩定的職業吧』……,,1,223,5,1,0,0,0,0,0,,Translated
+25,ひのえ,夢に向かって……　目をキラキラさせて,進み続けたあゆみちゃん。, ,Hinoe,"Ayumi, the dreamer...continuing to draw beautiful","works of art, with such excitement and fire in those",cute little eyes of yours.,히노에,꿈을 향해...... 눈을 반짝이며,걸어 나가던 아유미.,,ひのえ,朝著夢想……　眼睛閃閃發亮,持續前進的あゆみ醬。,,1,224,5,1,0,0,0,0,0,,Translated
+26,ひのえ,信じてあげなきゃ、かわいそうでしょう？, , ,Hinoe,"If you don't believe in all those fantastic Ayumis,",then who on earth will?,,히노에,그걸 믿지 않으면 불쌍하지 않나요?,,,ひのえ,不去相信她的話，不是很可憐嗎？,,,1,225,5,1,0,0,0,0,0,,Translated
+27,あゆみ,んん……, , ,Ayumi,Mm...,,,아유미,으응......,,,あゆみ,嗯嗯……,,,1,221,4,1,0,0,0,0,0,,Translated
+28,ひのえ,まだ隠れてる子がいますねぇ、,ここに……（くりくり）, ,Hinoe,You know what I think? I think there's still another,Ayumi hiding in there somewhere. An Ayumi with,something bothering her.,히노에,아직 숨어 있는 애가 있네요,여기에...... (꾹꾹),,ひのえ,還有躲起來的孩子呢，,在這裡……（戳戳）,,1,226,5,1,0,0,0,0,0,,Translated
+29,あゆみ,……うん。, , ,Ayumi,...Mmm...,,,아유미,...... 응.,,,あゆみ,……嗯。,,,1,222,4,1,0,0,0,0,0,,Translated
+30,ひのえ,出ておいで？　お話聞かせて？, , ,Hinoe,"You can come out now, troubled one. Let's hear",what's on your mind.,,히노에,나오세요. 얘길 들려주세요.,,,ひのえ,出來吧？　讓我聽聽妳說的話？,,,1,227,5,1,0,0,0,0,0,,Translated
+31,あゆみ,……私より、　　　　　　, , ,Ayumi,There are...,,,아유미,...... 나보다,,,あゆみ,……比我厲害的，　　　　　　,,,1,223,4,1,1,0,0,0,0,,Translated
+32,あゆみ,私より上手いひと、一杯いるもん！,ネットとか見てたら……, ,Ayumi,...There are so many people who are so much,"better than I am! If you look on the net,",they're everywhere...,아유미,나보다 잘하는 사람은 얼마든지 있는걸!,인터넷을 하고 있으면......,,あゆみ,比我厲害的人，到處都是啊！,看看網路的話……,,1,224,4,1,0,0,0,0,0,,Translated
+33,あゆみ,私、どんどん自信なくして……,何千、何万ものヒトがいる中で, ,Ayumi,"Thousands, maybe even tens of thousands of really","good illustrators... It's really disheartening,",you know?,아유미,난 점점 자신이 없어져서......,"몇 천, 몇 만 명이나 되는 사람들 중에",,あゆみ,我越來越沒有自信……,在幾千、幾萬人之中,,1,225,4,1,0,0,0,0,0,,Translated
+34,あゆみ,どれだけの幸運か、力があったら……,そのヒト達の、前に出て行けるの？ って……, ,Ayumi,"It's like, no matter how much skill and luck","I've got, I just keep thinking...they're my",competition...,아유미,"얼마만한 행운이, 힘이 있어야......",그 사람들을 제치고 나아갈 수 있는 거야? 하고......,,あゆみ,要有多大的幸運和實力……,才能站到那些人面前呢？　……,,1,226,4,1,0,0,0,0,0,,Translated
+35,ひのえ,私のお友達に、お仕事で絵を描いている方が,いますが……, ,Hinoe,"I have a friend who draws pictures for a living,",actually.,,히노에,제 친구 중에 직업으로,그림을 그리는 분이 있는데......,,ひのえ,我的朋友當中，有靠畫畫工作的人……,,,1,228,5,1,0,0,0,0,0,,Translated
+36,ひのえ,案外、どういう世界でも『動いた者』が,どんどん夢を掴んでいく……と聞きますよ。, ,Hinoe,And she wouldn't be where she is today if she hadn't,taken some initiative. The only way to get ahead in,life and achieve your dreams...is to take action.,히노에,의외로 어떤 세계든 간에 『움직이는 자』가,더 큰 꿈을 붙잡는다...... 고 들었어요.,,ひのえ,聽說不管在哪個世界，出乎意料地都是『行動的人』,會一步步抓住夢想喔。,,1,229,5,1,0,0,0,0,0,,Translated
+37,あゆみ,……。, , ,Ayumi,...,,,아유미,......,,,あゆみ,……。,,,1,227,4,1,0,0,0,0,0,,Translated
+38,ひのえ,この娘を知っていますか？,今、心霊研究の学会の間でも、作家業界の間でも,有名になりつつある女の子。,Hinoe,Have you ever heard of this author? She's been,"making waves in the field of paranormal research,",and is extremely well-respected for her age.,히노에,이 애를 알고 있나요?,"지금 심령 연구 학회에서도, 작가 업계에서도",유명한 소녀.,ひのえ,妳知道這個女孩嗎？,她現在在靈異研究學會和作家業界，,都越來越有名了。,1,230,5,1,0,0,0,0,0,,Translated
+39,,　ひのえは、一冊の本をあゆみに手渡しました。, , ,,Hinoe handed a book to Ayumi.,,,,히노에는 책 한 권을 아유미에게 건네주었습니다.,,,,　ひのえ遞給あゆみ一本書。,,,0,0,0,1,0,0,0,0,0,,Translated
+40,あゆみ,……？　なんて読むの？,……さえの　……き？, ,Ayumi,Hmm... How do you read the characters in her name?,Saeno...ki?,,아유미,......? 뭐라고 읽는 거야?,...... 사에노 ...... 키?,,あゆみ,……？　怎麼唸？,……さえの　……き？,,1,228,4,1,0,0,0,0,0,,Translated
+41,ひのえ,『さえのき　なほ』さん。凄いスピードで,作品を書き上げて、どんどんどんどん投稿して……, ,Hinoe,Naho Saenoki. She's been putting out book after book,"just like this for quite some time now, making quite",a name for herself in the process.,히노에,『사에노키 나호』 씨. 굉장한 속도로,"작품을 집필하고, 연이은 투고로......",,ひのえ,『冴之木七星』小姐。她以驚人的速度,完成作品，不斷投稿……,,1,231,5,1,0,0,0,0,0,,Translated
+42,ひのえ,メキメキと頭角を現している、次の半期の芥川賞,最有力候補と目されているんだとか。, ,Hinoe,"Not only has she earned the respect of her peers,",but literary circles are saying she's a strong,contender for winning this term's Akutagawa award.,히노에,"눈에 띄게 두각을 드러내고 있는, 차기 아쿠타가와 상",최고 유력 후보라던가 뭐라던가.,,ひのえ,迅速嶄露頭角，據說是下一屆芥川賞,最有力的候選人之一。,,1,232,5,1,0,0,0,0,0,,Translated
+43,あゆみ,すごい……, , ,Ayumi,Wow...,,,아유미,굉장하다......,,,あゆみ,好厲害……,,,1,229,4,1,0,0,0,0,0,,Translated
+44,ひのえ,なんと、あゆみちゃんと同い年なんですよ？, , ,Hinoe,"The most interesting part, though, is that she's","about the same age as you, Ayumi.",,히노에,놀랍게도 아유미와 같은 나이랍니다.,,,ひのえ,而且，她跟あゆみ醬同齡喔？,,,1,233,5,1,0,0,0,0,0,,Translated
+45,あゆみ,う……（きゅーっ）, , ,Ayumi,Mm? Mmm...,,,아유미,으...... (꼬옥~),,,あゆみ,嗚……（抱緊）,,,1,230,4,1,0,0,0,0,0,,Translated
+46,ひのえ,（ニコッ）,　この娘はですね。実は、誰に文法やロジックの,　組み立て方を教わったわけでもなく……,Hinoe,"What's more is, she didn't learn her writing or",problem-solving skills from any teacher.,,히노에,(빙긋),실은 이 애는 말이죠. 누구한테 문법이나,문장 구조를 배운 게 아니라......,ひのえ,（微笑）,　這位小姐啊。其實，她並沒有跟誰學過,　文法和邏輯的建構方式……,1,234,5,1,0,0,0,0,0,,Translated
+47,ひのえ,ただひたすらに、我流で書き続けているそう,なのです！　どうやら、書くことが“楽しくて”,仕方がないみたいですね。,Hinoe,"No, she apparently just kept on writing stories and","essays until she was satisfied. Because for her,","writing is fun, pure and simple!",히노에,"그저 한결같이, 아류로 글을 쓰기만 했다네요!",아무래도 글을 쓰는 게 “즐거워서”,견딜 수가 없었던 모양이에요.,ひのえ,據說只是不斷地，以自己的方式持續寫作！,看來，寫作對她來說「開心」得,不得了呢。,1,235,5,1,0,0,0,0,0,,Translated
+48,あゆみ,楽しい、んだ……, , ,Ayumi,"Fun, huh...",,,아유미,"즐겁, 구나......",,,あゆみ,開心、啊……,,,1,231,4,1,0,0,0,0,0,,Translated
+49,ひのえ,自分を信じて、初心を忘れず。,失敗しても、その時対処すればいい。, ,Hinoe,You need to have faith. Never forget why you got,into illustration in the first place...and if at,"first you don't succeed, try, try again!",히노에,"자신을 믿고, 초심을 잊지 말고.",실패하더라도 그때그때 대처하면 돼요.,,ひのえ,相信自己，莫忘初衷。,就算失敗了，到時再處理就好。,,1,236,5,1,0,0,0,0,0,,Translated
+50,ひのえ,私もいつも、そう自分に言い聞かせているのですよ。,うふふ♪, ,Hinoe,I struggle with this sort of thing all the time.,"But I just keep reminding myself, this is what",I was meant to do. It's what I love. Heheh.,히노에,저도 언제나 그렇게 자신에게 되묻곤 한답니다.,우후후♪,,ひのえ,我也總是這樣告訴自己喔。,呵呵♪,,1,237,5,1,0,0,0,0,0,,Translated
+51,あゆみ,……おねえちゃん！, , ,Ayumi,"Okay, Sis.",,,아유미,...... 언니!,,,あゆみ,……姊姊！,,,1,232,4,1,0,0,0,0,0,,Translated
+52,ひのえ,はい？, , ,Hinoe,Hmm?,,,히노에,네?,,,ひのえ,嗯？,,,1,238,5,1,0,0,0,0,0,,Translated
+53,あゆみ,決めた！　私もっと頑張って、絵描きさんになる！, , ,Ayumi,You win. I'm going to keep at it...until I become,a full-on professional!,,아유미,"결심했어! 나 좀 더 열심히 해서, 원화가가 될 거야!",,,あゆみ,我決定了！　我要更努力，成為畫家！,,,1,233,4,1,0,0,0,0,0,,Translated
+54,ひのえ,うん、うん！, , ,Hinoe,That's the spirit.,,,히노에,"응, 응!",,,ひのえ,嗯、嗯！,,,1,239,5,1,0,0,0,0,0,,Translated
+55,あゆみ,それでね、同い年のこの人……,なほ……？　七星さんの本に、, ,Ayumi,And you know what else? This contemporary of mine...,"Naho, was it? Mark my words...",,아유미,"그리고 말야, 같은 나이인 이 사람......",나호......? 나호 씨 책에,,あゆみ,還有啊，這個跟我同齡的人……,なほ……？　七星小姐的書，,,1,234,4,1,0,0,0,0,0,,Translated
+56,あゆみ,表紙、描かせてもらうんだ！, , ,Ayumi,"One day, I'm going to be the girl they contract to",design the cover for one of her books.,,아유미,표지를 그릴 거야!,,,あゆみ,我要來畫封面！,,,1,235,4,1,0,0,0,0,0,,Translated
+57,ひのえ,わぁ～！　凄い！　素敵ですね。,お姉ちゃんもその本、今から楽しみですよ！, ,Hinoe,"Are you, now? Well, that sounds fantastic! I'll be",awaiting that day with bated breath.,,히노에,와아~! 대단해요! 멋지네요.,언니도 그 책이 벌써부터 기대되는걸요!,,ひのえ,哇～！　好厲害！　真棒。,姊姊我現在就開始期待那本書了！,,1,240,5,1,0,0,0,0,0,,Translated
+58,ひのえ,私の自慢の妹です！　……って、,ウチのお客さんにジマンしちゃいます！, ,Hinoe,"I'll show your book to all my clients, and",say...look at this! My little sister drew it!,Isn't it wonderful?,히노에,저의 자랑스러운 동생입니다! ...... 라고,제 손님에게 자랑해야겠네요!,,ひのえ,我要跟我店裡的客人,炫耀說「這是我自豪的妹妹！」！,,1,241,5,1,0,0,0,0,0,,Translated
+59,あゆみ,応援、してくれる？, , ,Ayumi,So you'll...support me?,,,아유미,"응원, 해줄 거야?",,,あゆみ,你會……支持我嗎？,,,1,236,4,1,0,0,0,0,0,,Translated
+60,ひのえ,はい！, , ,Hinoe,Of course.,,,히노에,네!,,,ひのえ,當然！,,,1,242,5,1,0,0,0,0,0,,Translated
+61,あゆみ,（ぱぁっ）, , ,Ayumi,...,,,아유미,(화악),,,あゆみ,（眼睛一亮）,,,1,0,0,1,0,0,0,0,0,,Translated
+62,あゆみ,おねえちゃん、大好き！！, , ,Ayumi,"I love you so much, Sis!",,,아유미,"언니, 정말 좋아!!",,,あゆみ,姊姊，最喜歡妳了！！,,,1,238,4,1,0,0,0,0,0,,Translated
+63,ひのえ,お姉ちゃん、応援していますよ……,あゆみちゃん。, ,Hinoe,"I'll always be rooting for you, Ayumi...",,,히노에,"언니, 응원하고 있을게요......",아유미.,,ひのえ,姊姊會一直為妳加油的……,あゆみ醬。,,1,244,5,1,0,0,0,0,0,,Translated
